@@ -3,7 +3,7 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-05-06 21:29 IST
+NSE bhavcopy analysis — generated 2026-05-06 22:39 IST
 ============================================================
 
 Pure_on_Volume hits (BUY): 53
