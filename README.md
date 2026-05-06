@@ -2,9 +2,9 @@
 
 Daily NSE bhavcopy analysis — automatically generated from `stocks_in_trend_summary.txt`.
 
-**Live page:** https://rajishnse-alt.github.io/trending_stocks/
+**Live page (Streamlit Cloud):** https://stocks-in-trend.streamlit.app/
 
-The page shows the top 10 BUY (Pure_on_Volume HV-breakouts) and top 10 SELL
+The dashboard shows the top 10 BUY (Pure_on_Volume HV-breakouts) and top 10 SELL
 (HV-distribution) candidates from each trading day's bhavcopy, with:
 
 - Verdict (STRONG BUY / BUY-LEAN / HOLD / SELL-LEAN / STRONG SELL)
@@ -34,8 +34,29 @@ The signals panel adds 52-week position, SMA stack, returns, volatility,
 and delivery-percentage trend on top of the volume breakout to compute a
 final verdict.
 
-## Updating
+## Files in this repo
 
-The page is regenerated each trading day from `stocks_in_trend_summary.txt`
-produced by the `bhavcopy_pipeline.py` job. Replace `index.html` with the
-latest render and `git push` to refresh the live page.
+| File                          | Purpose                                                |
+|-------------------------------|--------------------------------------------------------|
+| `streamlit_app.py`            | Streamlit dashboard — main entry point for the cloud   |
+| `requirements.txt`            | `streamlit` (the only dep)                             |
+| `stocks_in_trend_summary.txt` | Today's report — the data source the app reads         |
+| `index.html`                  | Static fallback page (works on GitHub Pages too)       |
+| `README.md`                   | This file                                              |
+
+## Deploy to Streamlit Cloud (one-time)
+
+1. Push this folder to the GitHub repo (use the `publish_to_github.sh` script).
+2. Go to <https://share.streamlit.io> → sign in with GitHub.
+3. Click **New app** → **Deploy a public app from GitHub**.
+4. Repository: `rajishnse-alt/trending_stocks` · Branch: `main` · Main file: `streamlit_app.py`.
+5. Click **Deploy**. First boot takes ~60 seconds. The URL is
+   `https://<app-name>-<hash>.streamlit.app/` — pin a friendly subdomain in
+   the app's *Settings → General → Custom subdomain* if you like.
+
+## Updating each day
+
+The page is regenerated automatically each trading day from
+`stocks_in_trend_summary.txt` produced by the `bhavcopy_pipeline.py` job.
+Re-run `publish_to_github.sh` after the pipeline finishes — Streamlit Cloud
+notices the new commit and redeploys within ~30 seconds.
