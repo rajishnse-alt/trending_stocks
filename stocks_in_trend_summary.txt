@@ -3,213 +3,233 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-05-06 22:39 IST
+NSE bhavcopy analysis — generated 2026-05-07 20:20 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 53
-Recommendations: 53 BUY  +  19 SELL
+Pure_on_Volume hits (BUY): 65
+Recommendations: 65 BUY  +  18 SELL
 
 Top 10 BUY candidates:
 ------------------------------------------------------------
-  • RAYMONDREL      (Raymond Realty Ltd            )  close ₹569.60  +19.99%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +6)
+  • EMBDL           (Embassy Developments Ltd      )  close ₹69.96  +20.00%  bias STRONG_BUY
+        → BUY-LEAN (tech=STRONG_BUY, signal net +1)
         PROS (signals):
-          - +39% over the last month
-          - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 3.9× the 30d avg
-          - 5-day winning streak
+          - +36% over the last month
           - Volume highest in 3 months (HVQ)
           - Closed near the day's high (CLV +1.00) — buyers absorbed the volume
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹36.3cr daily turnover)
+          - Healthy liquidity (~₹15.0cr daily turnover)
         CONS (signals):
-          - 46% off 52-week high
-          - High volatility (79% annualised)
-        FUNDAMENTALS (screener.in): MCap ₹ 3,794 Cr. | P/E 12.4 | ROCE 30.5 % | ROE 37.7 % | DivYield 0.00 % | BookVal ₹ 235
+          - 45% off 52-week high
+          - -30% over the year
+          - Trading below the 200-day SMA
+          - High volatility (120% annualised)
+        FUNDAMENTALS (screener.in): MCap ₹ 9,781 Cr. | ROCE 3.19 % | ROE 2.53 % | DivYield 0.00 % | BookVal ₹ 73.8
         PROS (screener.in):
-          - Promoter holding has increased by 1.69% over last quarter.
-        https://www.screener.in/company/RAYMONDREL/consolidated/
+          - Company has reduced debt.
+          - Stock is trading at 0.95 times its book value
+          - Company is expected to give good quarter
+        CONS (screener.in):
+          - Company has low interest coverage ratio.
+          - The company has delivered a poor sales growth of -7.79% over past five years.
+          - Company has a low return on equity of -9.83% over last 3 years.
+          - Company might be capitalizing the interest cost
+          - Promoters have pledged 68.2% of their holding.
+          - Earnings include an other income of Rs.370 Cr.
+        https://www.screener.in/company/EMBDL/consolidated/
 
-  • OMAXAUTO        (Omax Autos Ltd                )  close ₹206.05  +10.00%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +7)
+  • APCOTEXIND      (Apcotex Industries Ltd        )  close ₹511.35  +19.99%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +8)
         PROS (signals):
           - Trading near 52-week high (100% of range)
-          - +108% over the last month
-          - +82% over the last 3 months
-          - +147% over the year
+          - +42% over the last month
+          - +39% over the last 3 months
+          - +65% over the year
           - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 5.0× the 30d avg
-          - Volume highest in 3 months (HVQ)
+          - Volume surge — 5d avg is 3.3× the 30d avg
+          - Volume highest in 1 year (HVY)
           - Closed near the day's high (CLV +1.00) — buyers absorbed the volume
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
         CONS (signals):
-          - High volatility (102% annualised)
-          - Delivery % falling — recent 46% vs 30d 56% (-10pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 442 Cr. | ROCE 3.26 % | ROE -2.97 % | DivYield 1.21 % | BookVal ₹ 94.4
-        PROS (screener.in):
-          - Promoter holding has increased by 1.64% over last quarter.
+          - High volatility (71% annualised)
+        FUNDAMENTALS (screener.in): MCap ₹ 2,651 Cr. | P/E 70.7 | ROCE 19.8 % | ROE 24.4 % | DivYield 1.27 % | BookVal ₹ 38.2
         CONS (screener.in):
-          - Company has low interest coverage ratio.
-          - Company has a low return on equity of -0.23% over last 3 years.
-        https://www.screener.in/company/OMAXAUTO/consolidated/
+          - Stock is trading at 13.4 times its book value
+          - Tax rate seems low
+          - Debtor days have increased from 77.5 to 105 days.
+        https://www.screener.in/company/APCOTEXIND/consolidated/
 
-  • YESBANK         (Yes Bank Ltd                  )  close ₹22.13  +8.06%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +6)
+  • MICEL           (MIC Electronics Ltd           )  close ₹52.50  +9.97%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +4)
         PROS (signals):
-          - +24% over the last month
+          - +55% over the last month
           - Trading above the 200-day SMA
+          - Volume surge — 5d avg is 2.3× the 30d avg
           - Volume highest in 3 months (HVQ)
-          - Closed near the day's high (CLV +0.90) — buyers absorbed the volume
+          - Closed near the day's high (CLV +1.00) — buyers absorbed the volume
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹244.1cr daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ 69,377 Cr. | P/E 19.8 | ROCE 5.98 % | ROE 7.10 % | DivYield 0.00 % | BookVal ₹ 16.3
+          - Healthy liquidity (~₹7.5cr daily turnover)
+        CONS (signals):
+          - 37% off 52-week high
+          - High volatility (69% annualised)
+          - Delivery % falling — recent 41% vs 30d 49% (-8pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 1,262 Cr. | ROCE 8.55 % | ROE -5.76 % | DivYield 0.00 % | BookVal ₹ 8.97
         PROS (screener.in):
-          - Company has delivered good profit growth of 24.6% CAGR over last 5 years
+          - Company is expected to give good quarter
         CONS (screener.in):
-          - Though the company is reporting repeated profits, it is not paying out dividend
-          - Company has low interest coverage ratio.
-          - The company has delivered a poor sales growth of 8.55% over past five years.
-          - Company has a low return on equity of 5.34% over last 3 years.
-          - Contingent liabilities of Rs.11,98,820 Cr.
-          - Company might be capitalizing the interest cost
-          - Earnings include an other income of Rs.7,084 Cr.
-        https://www.screener.in/company/YESBANK/consolidated/
+          - Stock is trading at 5.85 times its book value
+          - Promoter holding has decreased over last quarter: -3.82%
+          - Company has a low return on equity of 10.7% over last 3 years.
+          - Company has high debtors of 375 days.
+        https://www.screener.in/company/MICEL/consolidated/
 
-  • EVIETF          (ICICI Prudential Nifty EV & Ne)  close ₹30.84  +1.65%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +5)
+  • NUVAMA          (Nuvama Wealth Management Ltd  )  close ₹1474.50  +4.31%  bias STRONG_BUY
+        → BUY-LEAN (tech=STRONG_BUY, signal net +1)
         PROS (signals):
-          - Upper third of 52-week range (71%)
-          - Trading above the 200-day SMA
+          - +26% over the last month
           - Volume highest in 3 months (HVQ)
           - Closed near the day's high (CLV +0.89) — buyers absorbed the volume
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-        FUNDAMENTALS (screener.in): MCap ₹ Cr. | ROCE % | ROE % | DivYield % | BookVal ₹
-        https://www.screener.in/company/EVIETF/consolidated/
+          - Healthy liquidity (~₹60.6cr daily turnover)
+        CONS (signals):
+          - Trading near 52-week low (5% of range)
+          - 83% off 52-week high
+          - -76% over the year
+          - Trading below the 200-day SMA
+        FUNDAMENTALS (screener.in): MCap ₹ 26,829 Cr. | P/E 26.1 | ROCE 20.4 % | ROE 30.9 % | DivYield 1.96 % | BookVal ₹ 208
+        PROS (screener.in):
+          - Company has delivered good profit growth of 28.6% CAGR over last 5 years
+          - Debtor days have improved from 95.3 to 65.8 days.
+        CONS (screener.in):
+          - Stock is trading at 7.07 times its book value
+          - Promoters have pledged 62.8% of their holding.
+        https://www.screener.in/company/NUVAMA/consolidated/
 
-  • VIYASH          (Viyash Scientific Ltd         )  close ₹219.65  +9.51%  bias STRONG_BUY
+  • E2ERAIL         (E to E Transportation Infrastr)  close ₹315.40  +18.59%  bias STRONG_BUY
         → STRONG BUY (tech=STRONG_BUY, signal net +5)
         PROS (signals):
+          - Trading near 52-week high (98% of range)
+          - +72% over the last month
+          - +39% over the last 3 months
+          - Trading above the 200-day SMA
+          - Volume highest in 3 months (HVQ)
+          - Closed near the day's high (CLV +0.86) — buyers absorbed the volume
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+        CONS (signals):
+          - High volatility (113% annualised)
+          - Delivery % falling — recent 53% vs 30d 65% (-13pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 544 Cr. | P/E 37.9 | ROCE 19.9 % | ROE 15.7 % | DivYield 0.00 % | BookVal ₹
+        CONS (screener.in):
+          - Promoter holding has decreased over last quarter: -12.3%
+          - Promoter holding is low: 32.5%
+          - Company's cost of borrowing seems high
+        https://www.screener.in/company/E2ERAIL/consolidated/
+
+  • KERNEX          (Kernex Microsystems (India) Lt)  close ₹1518.50  +11.25%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +9)
+        PROS (signals):
+          - Trading near 52-week high (99% of range)
+          - +55% over the last month
+          - +104% over the year
+          - Trading above the 200-day SMA
+          - Delivery % rising — recent 52% vs 30d 47% (+5pp accumulation)
+          - Volume highest in 3 months (HVQ)
+          - Closed near the day's high (CLV +0.86) — buyers absorbed the volume
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹27.6cr daily turnover)
+        FUNDAMENTALS (screener.in): MCap ₹ 2,553 Cr. | P/E 48.5 | ROCE 23.8 % | ROE 38.0 % | DivYield 0.00 % | BookVal ₹ 103
+        PROS (screener.in):
+          - Company is expected to give good quarter
+          - Company has delivered good profit growth of 44.0% CAGR over last 5 years
+          - Debtor days have improved from 69.6 to 45.5 days.
+        CONS (screener.in):
+          - Stock is trading at 14.7 times its book value
+          - Promoter holding is low: 28.8%
+          - Company has a low return on equity of 1.37% over last 3 years.
+        https://www.screener.in/company/KERNEX/consolidated/
+
+  • POLYCAB         (Polycab India Ltd             )  close ₹9003.00  +6.98%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +8)
+        PROS (signals):
+          - Trading near 52-week high (99% of range)
+          - +28% over the last month
+          - +65% over the year
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Volume highest in 3 months (HVQ)
+          - Closed near the day's high (CLV +0.84) — buyers absorbed the volume
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹521.4cr daily turnover)
+        FUNDAMENTALS (screener.in): MCap ₹ 1,35,510 Cr. | P/E 50.7 | ROCE 34.3 % | ROE 24.5 % | DivYield 0.39 % | BookVal ₹ 798
+        PROS (screener.in):
+          - Company is almost debt free.
+          - Company is expected to give good quarter
+          - Company has delivered good profit growth of 25.2% CAGR over last 5 years
+          - Company has been maintaining a healthy dividend payout of 25.9%
+          - Company's median sales growth is 20.5% of last 10 years
+        CONS (screener.in):
+          - Stock is trading at 11.3 times its book value
+          - Promoter holding has decreased over last 3 years: -4.70%
+        https://www.screener.in/company/POLYCAB/consolidated/
+
+  • PLATIND         (Platinum Industries Ltd       )  close ₹257.25  +7.96%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +5)
+        PROS (signals):
+          - +27% over the last month
           - Trading above the 200-day SMA
           - Volume highest in 3 months (HVQ)
           - Closed near the day's high (CLV +0.84) — buyers absorbed the volume
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹17.9cr daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ 9,587 Cr. | P/E 75.0 | ROCE 8.47 % | ROE 3.21 % | DivYield 0.00 % | BookVal ₹ 18.6
+        FUNDAMENTALS (screener.in): MCap ₹ 1,417 Cr. | P/E 32.5 | ROCE 18.6 % | ROE 14.0 % | DivYield 0.00 % | BookVal ₹ 74.5
+        PROS (screener.in):
+          - Company is almost debt free.
+          - Company has a good return on equity (ROE) track record: 3 Years ROE 22.0%
+        CONS (screener.in):
+          - Though the company is reporting repeated profits, it is not paying out dividend
+          - Working capital days have increased from 54.4 days to 79.9 days
+        https://www.screener.in/company/PLATIND/consolidated/
+
+  • COASTCORP       (Coastal Corporation Ltd       )  close ₹62.93  +6.64%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +8)
+        PROS (signals):
+          - Trading near 52-week high (98% of range)
+          - +31% over the last month
+          - +31% over the last 3 months
+          - +71% over the year
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Volume highest in 3 months (HVQ)
+          - Closed near the day's high (CLV +0.79) — buyers absorbed the volume
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+        FUNDAMENTALS (screener.in): MCap ₹ 425 Cr. | P/E 27.4 | ROCE 4.61 % | ROE 1.71 % | DivYield 0.35 % | BookVal ₹ 40.5
         PROS (screener.in):
           - Company is expected to give good quarter
+          - Company has been maintaining a healthy dividend payout of 31.6%
         CONS (screener.in):
-          - Stock is trading at 11.8 times its book value
-          - The company has delivered a poor sales growth of 5.64% over past five years.
-          - Company has a low return on equity of -3.30% over last 3 years.
-          - Working capital days have increased from 48.7 days to 70.3 days
-        https://www.screener.in/company/VIYASH/consolidated/
-
-  • PIDILITIND      (Pidilite Industries Ltd       )  close ₹1421.50  +4.20%  bias STRONG_BUY
-        → BUY-LEAN (tech=STRONG_BUY, signal net +0)
-        PROS (signals):
-          - Volume highest in 3 months (HVQ)
-          - Closed near the day's high (CLV +0.83) — buyers absorbed the volume
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹119.4cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (9% of range)
-          - 55% off 52-week high
-          - -53% over the year
-          - Trading below the 200-day SMA
-        FUNDAMENTALS (screener.in): MCap ₹ 1,44,756 Cr. | P/E 62.5 | ROCE 29.8 % | ROE 23.0 % | DivYield 0.70 % | BookVal ₹ 93.9
-        PROS (screener.in):
-          - Company is almost debt free.
-          - Company has been maintaining a healthy dividend payout of 46.6%
-          - Company's working capital requirements have reduced from 25.8 days to 18.7 days
-        CONS (screener.in):
-          - Stock is trading at 15.1 times its book value
-        https://www.screener.in/company/PIDILITIND/consolidated/
-
-  • CAPLIPOINT      (Caplin Point Laboratories Ltd )  close ₹1841.30  +5.73%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +3)
-        PROS (signals):
-          - +18% over the last month
-          - Volume highest in 3 months (HVQ)
-          - Closed near the day's high (CLV +0.82) — buyers absorbed the volume
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹15.4cr daily turnover)
-        CONS (signals):
-          - Trading below the 200-day SMA
-          - Delivery % falling — recent 49% vs 30d 56% (-7pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 13,992 Cr. | P/E 22.8 | ROCE 25.8 % | ROE 22.7 % | DivYield 0.33 % | BookVal ₹ 416
-        PROS (screener.in):
-          - Company has reduced debt.
-          - Company is almost debt free.
-          - Company has delivered good profit growth of 20.5% CAGR over last 5 years
-          - Company's median sales growth is 21.6% of last 10 years
-        https://www.screener.in/company/CAPLIPOINT/consolidated/
-
-  • NORTHARC        (Northern Arc Capital Ltd      )  close ₹286.70  +5.06%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +7)
-        PROS (signals):
-          - Trading near 52-week high (97% of range)
-          - +30% over the last month
-          - Trading above the 200-day SMA
-          - Volume highest in 3 months (HVQ)
-          - Closed near the day's high (CLV +0.81) — buyers absorbed the volume
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹12.6cr daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ 4,638 Cr. | P/E 14.9 | ROCE 9.87 % | ROE 10.8 % | DivYield 0.00 % | BookVal ₹ 227
-        PROS (screener.in):
-          - Company has delivered good profit growth of 26.8% CAGR over last 5 years
-        CONS (screener.in):
-          - Though the company is reporting repeated profits, it is not paying out dividend
           - Company has low interest coverage ratio.
-          - Company has a low return on equity of 12.7% over last 3 years.
-        https://www.screener.in/company/NORTHARC/consolidated/
+          - The company has delivered a poor sales growth of 0.78% over past five years.
+          - Company has a low return on equity of 2.11% over last 3 years.
+          - Company might be capitalizing the interest cost
+          - Earnings include an other income of Rs.17.2 Cr.
+        https://www.screener.in/company/COASTCORP/consolidated/
 
-  • AJANTPHARM      (Ajanta Pharma Ltd             )  close ₹3096.30  +6.86%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +6)
-        PROS (signals):
-          - Trading near 52-week high (85% of range)
-          - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 2.0× the 30d avg
-          - Volume highest in 3 months (HVQ)
-          - Closed near the day's high (CLV +0.80) — buyers absorbed the volume
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹36.8cr daily turnover)
-        CONS (signals):
-          - Delivery % falling — recent 43% vs 30d 53% (-10pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 38,640 Cr. | P/E 40.8 | ROCE 31.2 % | ROE 24.1 % | DivYield 0.90 % | BookVal ₹ 338
-        PROS (screener.in):
-          - Company is almost debt free.
-        CONS (screener.in):
-          - Stock is trading at 9.16 times its book value
-        https://www.screener.in/company/AJANTPHARM/
-
-  • RAYMOND         (Raymond Ltd                   )  close ₹518.65  +17.09%  bias STRONG_BUY
+  • NUVOCO          (Nuvoco Vistas Corporation Ltd )  close ₹336.45  +9.31%  bias STRONG_BUY
         → STRONG BUY (tech=STRONG_BUY, signal net +3)
         PROS (signals):
-          - +48% over the last month
-          - +34% over the last 3 months
-          - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 2.4× the 30d avg
+          - Volume surge — 5d avg is 2.3× the 30d avg
           - Volume highest in 3 months (HVQ)
-          - Closed near the day's high (CLV +0.77) — buyers absorbed the volume
+          - Closed near the day's high (CLV +0.78) — buyers absorbed the volume
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹32.4cr daily turnover)
+          - Healthy liquidity (~₹18.0cr daily turnover)
         CONS (signals):
-          - Lower third of 52-week range (15%)
-          - 68% off 52-week high
-          - -66% over the year
-          - High volatility (73% annualised)
-          - Delivery % falling — recent 29% vs 30d 34% (-5pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 3,453 Cr. | P/E 12.7 | ROCE 3.95 % | ROE 8.30 % | DivYield 0.00 % | BookVal ₹ 427
+          - Lower third of 52-week range (30%)
+          - Trading below the 200-day SMA
+        FUNDAMENTALS (screener.in): MCap ₹ 12,018 Cr. | P/E 30.8 | ROCE 7.07 % | ROE 4.05 % | DivYield 0.00 % | BookVal ₹ 286
         PROS (screener.in):
-          - Company has a good return on equity (ROE) track record: 3 Years ROE 84.4%
-          - Debtor days have improved from 230 to 85.9 days.
-          - Company's working capital requirements have reduced from 291 days to 102 days
+          - Stock is trading at 1.17 times its book value
         CONS (screener.in):
           - Though the company is reporting repeated profits, it is not paying out dividend
-          - The company has delivered a poor sales growth of -8.49% over past five years.
-          - Tax rate seems low
-          - Earnings include an other income of Rs.5,206 Cr.
-        https://www.screener.in/company/RAYMOND/consolidated/
+          - The company has delivered a poor sales growth of 8.65% over past five years.
+          - Company has a low return on equity of 2.02% over last 3 years.
+        https://www.screener.in/company/NUVOCO/consolidated/
 
 Top 10 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
@@ -233,20 +253,6 @@ Top 10 SELL candidates (high-volume distribution):
           - Company has low interest coverage ratio.
         https://www.screener.in/company/BALLARPUR/consolidated/
 
-  • LIQUIDSBI       (SBI Nifty 1D Rate ETF         )  close ₹999.99  -0.00%  bias STRONG_SELL
-        → SELL-LEAN (tech=STRONG_SELL, signal net -1)
-        PROS (signals):
-          - Volume surge — 5d avg is 2.4× the 30d avg
-          - Delivery % rising — recent 88% vs 30d 83% (+5pp accumulation)
-          - Volume highest in 1 year (HVY)
-        CONS (signals):
-          - Trading near 52-week low (0% of range)
-          - Trading below the 200-day SMA
-          - Closed near the day's low (CLV -1.00) — sellers dumped into the volume
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ Cr. | ROCE % | ROE % | DivYield % | BookVal ₹
-        https://www.screener.in/company/LIQUIDSBI/consolidated/
-
   • SHRIRAMCIT      (Shriram City Union Finance Ltd)  close ₹1921.80  -0.01%  bias STRONG_SELL
         → HOLD / MIXED (tech=STRONG_SELL, signal net 3)
         PROS (signals):
@@ -265,30 +271,53 @@ Top 10 SELL candidates (high-volume distribution):
           - Company has a low return on equity of 13.6% over last 3 years.
         https://www.screener.in/company/SHRIRAMCIT/consolidated/
 
-  • EBGNG           (GNG Electronics Ltd           )  close ₹433.90  -3.64%  bias STRONG_SELL
-        → HOLD / MIXED (tech=STRONG_SELL, signal net 3)
+  • VIMTALABS       (VIMTALABS                     )  close ₹506.20  -0.87%  bias STRONG_SELL
+        → STRONG SELL (tech=STRONG_SELL, signal net -2)
         PROS (signals):
-          - Upper third of 52-week range (79%)
-          - +18% over the last month
-          - +70% over the last 3 months
-          - Bullish SMA stack (close > 20 > 50 > 200)
+          - +22% over the last month
+          - Volume surge — 5d avg is 3.1× the 30d avg
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹18.2cr daily turnover)
+          - Healthy liquidity (~₹12.2cr daily turnover)
         CONS (signals):
-          - High volatility (67% annualised)
-          - Closed near the day's low (CLV -0.76) — sellers dumped into the volume
+          - Lower third of 52-week range (18%)
+          - 54% off 52-week high
+          - -50% over the year
+          - Trading below the 200-day SMA
+          - Closed near the day's low (CLV -0.84) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 4,943 Cr. | P/E 37.4 | ROCE 20.3 % | ROE 26.8 % | DivYield 0.00 % | BookVal ₹ 66.5
+
+  • DIACABS         (Diamond Power Infrastructure L)  close ₹169.90  -4.08%  bias STRONG_SELL
+        → STRONG BUY (tech=STRONG_SELL, signal net +6)
+        PROS (signals):
+          - Trading near 52-week high (86% of range)
+          - +32% over the last month
+          - +35% over the last 3 months
+          - +80% over the year
+          - Trading above the 200-day SMA
+          - Volume surge — 5d avg is 2.3× the 30d avg
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹41.0cr daily turnover)
+        CONS (signals):
+          - Closed near the day's low (CLV -0.83) — sellers dumped into the volume
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 8,947 Cr. | P/E 85.0 | ROCE % | ROE % | DivYield 0.00 % | BookVal ₹ -13.6
         PROS (screener.in):
           - Company is expected to give good quarter
-          - Company has delivered good profit growth of 77.5% CAGR over last 5 years
-          - Company has a good return on equity (ROE) track record: 3 Years ROE 30.7%
-        CONS (screener.in):
-          - Though the company is reporting repeated profits, it is not paying out dividend
-          - Tax rate seems low
-          - Debtor days have increased from 31.6 to 39.9 days.
-          - Working capital days have increased from 60.6 days to 112 days
-        https://www.screener.in/company/EBGNG/consolidated/
+          - Company's working capital requirements have reduced from 34.5 days to 10.0 days
+        https://www.screener.in/company/DIACABS/consolidated/
+
+  • MAHSCOOTER      (Maharashtra Scooters Ltd      )  close ₹12817.00  -0.41%  bias STRONG_SELL
+        → STRONG SELL (tech=STRONG_SELL, signal net -2)
+        PROS (signals):
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹5.6cr daily turnover)
+        CONS (signals):
+          - Lower third of 52-week range (29%)
+          - 31% off 52-week high
+          - Trading below the 200-day SMA
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ Cr. | ROCE % | ROE % | DivYield % | BookVal ₹
+        https://www.screener.in/company/MAHSCOOTER/consolidated/
 
   • IDFC            (IDFC Ltd(Merged)              )  close ₹107.97  -1.83%  bias STRONG_SELL
         → HOLD / MIXED (tech=STRONG_SELL, signal net 1)
@@ -334,15 +363,14 @@ Top 10 SELL candidates (high-volume distribution):
         CONS (signals):
           - 6-day losing streak
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 5,04,384 Cr. | P/E 31.1 | ROCE 8.47 % | ROE 12.8 % | DivYield 0.00 % | BookVal ₹ 730
+        FUNDAMENTALS (screener.in): MCap ₹ 5,04,384 Cr. | P/E 19.3 | ROCE 9.21 % | ROE 13.7 % | DivYield 0.00 % | BookVal ₹ 1,098
         PROS (screener.in):
-          - Company has been maintaining a healthy dividend payout of 41.3%
+          - Company has been maintaining a healthy dividend payout of 25.7%
         CONS (screener.in):
-          - Stock is trading at 3.73 times its book value
           - Company has low interest coverage ratio.
-          - The company has delivered a poor sales growth of 8.14% over past five years.
-          - Company has a low return on equity of 12.4% over last 3 years.
-        https://www.screener.in/company/HDFC/
+          - Tax rate seems low
+          - Company has a low return on equity of 13.5% over last 3 years.
+        https://www.screener.in/company/HDFC/consolidated/
 
   • IEL             (Indiabulls Enterprises Ltd(Mer)  close ₹18.99  -5.71%  bias STRONG_SELL
         → HOLD / MIXED (tech=STRONG_SELL, signal net 1)
@@ -364,36 +392,17 @@ Top 10 SELL candidates (high-volume distribution):
           - Promoter holding has decreased over last 3 years: -24.6%
         https://www.screener.in/company/IEL/
 
-  • KSHINTL         (KSH International Ltd         )  close ₹584.10  -5.18%  bias STRONG_SELL
-        → HOLD / MIXED (tech=STRONG_SELL, signal net 2)
+  • WONDERLA        (Wonderla Holidays Ltd         )  close ₹526.55  -0.48%  bias STRONG_SELL
+        → SELL-LEAN (tech=STRONG_SELL, signal net -1)
         PROS (signals):
-          - +30% over the last month
-          - +71% over the last 3 months
-          - Trading above the 200-day SMA
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹22.2cr daily turnover)
+          - Volume surge — 5d avg is 2.7× the 30d avg
+          - Volume highest in 1 year (HVY)
         CONS (signals):
-          - High volatility (68% annualised)
-          - 5-day losing streak
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 3,958 Cr. | P/E 59.2 | ROCE 21.4 % | ROE 25.7 % | DivYield 0.00 % | BookVal ₹ 51.7
-        CONS (screener.in):
-          - Stock is trading at 11.3 times its book value
-          - Though the company is reporting repeated profits, it is not paying out dividend
-        https://www.screener.in/company/KSHINTL/
-
-  • SHILCTECH       (Shilchar Technologies Ltd     )  close ₹4173.00  -13.32%  bias SELL
-        → HOLD / MIXED (tech=SELL, signal net 2)
-        PROS (signals):
-          - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 2.0× the 30d avg
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹18.7cr daily turnover)
-        CONS (signals):
-          - High volatility (72% annualised)
+          - Lower third of 52-week range (28%)
+          - Trading below the 200-day SMA
           - High-volume distribution — HV breakout on a down day
         FUNDAMENTALS (screener.in): MCap ₹ Cr. | ROCE % | ROE % | DivYield % | BookVal ₹
-        https://www.screener.in/company/SHILCTECH/consolidated/
+        https://www.screener.in/company/WONDERLA/consolidated/
 
 
 — BUY/SELL recommendations are based on the Pure_on_Volume screen (HVQ/HVY/HVE volume breakouts + liquidity gate).
