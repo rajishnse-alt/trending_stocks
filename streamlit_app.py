@@ -1,16 +1,11 @@
 """
 Stocks in Trend — Streamlit dashboard.
 
-Reads `stocks_in_trend_summary.txt` (sitting next to this file) and renders
-ALL BUY / SELL candidates as interactive cards.
+Reads `stocks_in_trend_summary.txt` (sitting next to this file) and renders the
+top 10 BUY / top 10 SELL candidates as interactive cards.
 
 Deploy: push this repo to GitHub, then https://share.streamlit.io → "New app"
 → point at repo + branch + main file = `streamlit_app.py`.
-
-Fixes vs original:
-  • Shows ALL candidates (not just top 10) — regex now matches any section size.
-  • Price no longer truncated — replaced st.metric with custom markdown so the
-    full ₹-value always renders regardless of column width.
 """
 
 from __future__ import annotations
@@ -32,79 +27,41 @@ st.set_page_config(
 st.markdown(
     """
     <style>
+      /* Tighten up Streamlit's default vertical rhythm */
       .block-container { padding-top: 2.2rem; padding-bottom: 4rem; max-width: 1280px; }
       h1 { letter-spacing: -0.02em; }
       [data-testid="stMetricValue"] { font-feature-settings: "tnum"; font-weight: 700; }
-
-      /* ── card header ── */
-      .card-header {
-        display: flex;
-        justify-content: space-between;
-        align-items: flex-start;
-        gap: 12px;
-        flex-wrap: nowrap;
-      }
-      .stock-symbol {
-        font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace;
-        font-weight: 700; font-size: 18px; letter-spacing: -0.01em;
-      }
-      .stock-name { color: #94a3b8; font-size: 13px; margin-top: 2px; }
-
-      /* ── price block (replaces st.metric to avoid truncation) ── */
-      .price-block { text-align: right; flex-shrink: 0; min-width: 110px; }
-      .price-value {
-        font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace;
-        font-weight: 700; font-size: 20px; white-space: nowrap;
-        letter-spacing: -0.02em;
-      }
-      .price-label { color: #94a3b8; font-size: 11px; text-transform: uppercase;
-                     letter-spacing: 0.07em; margin-bottom: 2px; }
-      .pct-up   { display:inline-block; padding:2px 9px; border-radius:999px;
-                  font-family:'JetBrains Mono',monospace; font-size:12px; font-weight:700;
-                  color:#15803d; background:rgba(34,197,94,0.12); }
-      .pct-down { display:inline-block; padding:2px 9px; border-radius:999px;
-                  font-family:'JetBrains Mono',monospace; font-size:12px; font-weight:700;
-                  color:#b91c1c; background:rgba(239,68,68,0.12); }
-      .pct-flat { display:inline-block; padding:2px 9px; border-radius:999px;
-                  font-family:'JetBrains Mono',monospace; font-size:12px; font-weight:700;
-                  color:#475569; background:rgba(148,163,184,0.12); }
-
-      /* ── verdict badges ── */
-      .verdict-badge {
-        display:inline-block; padding:3px 10px; border-radius:999px;
-        font-family:'JetBrains Mono', monospace; font-size:11px; font-weight:700;
-        letter-spacing:0.04em; border:1px solid currentColor;
-      }
+      .stock-symbol  { font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-weight: 700; font-size: 18px; letter-spacing: -0.01em; }
+      .stock-name    { color: #94a3b8; font-size: 13px; margin-top: 2px; }
+      .verdict-badge { display:inline-block; padding:3px 10px; border-radius:999px;
+                       font-family:'JetBrains Mono', monospace; font-size:11px; font-weight:700;
+                       letter-spacing:0.04em; border:1px solid currentColor; }
       .v-strong-buy  { color:#15803d; background:rgba(34,197,94,0.10); }
       .v-buy-lean    { color:#15803d; background:rgba(34,197,94,0.06); }
       .v-strong-sell { color:#b91c1c; background:rgba(239,68,68,0.10); }
       .v-sell-lean   { color:#b91c1c; background:rgba(239,68,68,0.06); }
       .v-hold        { color:#a16207; background:rgba(234,179,8,0.10); }
       .v-default     { color:#475569; background:rgba(148,163,184,0.10); }
-      .meta-pill {
-        display:inline-block; padding:3px 10px; border-radius:999px;
-        font-family:'JetBrains Mono', monospace; font-size:11px;
-        background:rgba(148,163,184,0.12); color:#475569; margin-left:6px;
-      }
-      .net-pos  { color:#15803d; font-weight:700; }
-      .net-neg  { color:#b91c1c; font-weight:700; }
-      .net-zero { color:#475569; font-weight:700; }
-
+      .meta-pill     { display:inline-block; padding:3px 10px; border-radius:999px;
+                       font-family:'JetBrains Mono', monospace; font-size:11px;
+                       background:rgba(148,163,184,0.12); color:#475569; margin-left:6px; }
+      .net-pos { color:#15803d; font-weight:700; }
+      .net-neg { color:#b91c1c; font-weight:700; }
+      .net-zero{ color:#475569; font-weight:700; }
       .fund-row {
         font-family: 'JetBrains Mono', monospace; font-size: 12px; color:#475569;
         background: rgba(148,163,184,0.08); padding: 8px 12px; border-radius: 8px;
         margin-top: 6px;
       }
       .fund-row b { color:#0f172a; }
-
-      .group-head-pro { color:#15803d; font-size:11px; font-weight:700;
-                        letter-spacing:.08em; text-transform:uppercase; margin-top:10px; }
-      .group-head-con { color:#b91c1c; font-size:11px; font-weight:700;
-                        letter-spacing:.08em; text-transform:uppercase; margin-top:10px; }
-      .pro-li { background:rgba(34,197,94,0.10); padding:4px 10px; border-radius:6px;
-                margin:4px 0; font-size:13px; }
-      .con-li { background:rgba(239,68,68,0.10); padding:4px 10px; border-radius:6px;
-                margin:4px 0; font-size:13px; }
+      .group-head-pro { color:#15803d; font-size: 11px; font-weight:700; letter-spacing:.08em;
+                        text-transform:uppercase; margin-top:10px; }
+      .group-head-con { color:#b91c1c; font-size: 11px; font-weight:700; letter-spacing:.08em;
+                        text-transform:uppercase; margin-top:10px; }
+      .pro-li { background: rgba(34,197,94,0.10); padding: 4px 10px; border-radius:6px;
+                margin: 4px 0; font-size: 13px; }
+      .con-li { background: rgba(239,68,68,0.10); padding: 4px 10px; border-radius:6px;
+                margin: 4px 0; font-size: 13px; }
     </style>
     """,
     unsafe_allow_html=True,
@@ -115,13 +72,13 @@ st.markdown(
 SUMMARY_PATH = Path(__file__).parent / "stocks_in_trend_summary.txt"
 
 VERDICT_CLASS = {
-    "STRONG BUY":   "v-strong-buy",
-    "BUY-LEAN":     "v-buy-lean",
-    "BUY":          "v-buy-lean",
-    "STRONG SELL":  "v-strong-sell",
-    "SELL-LEAN":    "v-sell-lean",
-    "SELL":         "v-sell-lean",
-    "HOLD / MIXED": "v-hold",
+    "STRONG BUY":  "v-strong-buy",
+    "BUY-LEAN":    "v-buy-lean",
+    "BUY":         "v-buy-lean",
+    "STRONG SELL": "v-strong-sell",
+    "SELL-LEAN":   "v-sell-lean",
+    "SELL":        "v-sell-lean",
+    "HOLD / MIXED":"v-hold",
 }
 
 
@@ -150,23 +107,23 @@ def parse_block(block: str) -> dict | None:
         ]
 
     fund_match = re.search(r"FUNDAMENTALS \(screener\.in\):\s+(.+)", block)
-    url_match  = re.search(r"(https?://www\.screener\.in/\S+)", block)
+    url_match = re.search(r"(https?://www\.screener\.in/\S+)", block)
 
     return {
-        "symbol":        head.group(1),
-        "name":          head.group(2).strip(),
-        "price":         float(head.group(3)),
-        "change_pct":    float(head.group(4)),
-        "bias":          head.group(5),
-        "verdict":       (verdict_match.group(1).strip() if verdict_match else ""),
-        "tech":          (verdict_match.group(2) if verdict_match else ""),
-        "net":           int(verdict_match.group(3)) if verdict_match else 0,
-        "signal_pros":   grab_section("PROS (signals):"),
-        "signal_cons":   grab_section("CONS (signals):"),
-        "screener_pros": grab_section("PROS (screener.in):"),
-        "screener_cons": grab_section("CONS (screener.in):"),
-        "fundamentals":  fund_match.group(1).strip() if fund_match else "",
-        "url":           url_match.group(1) if url_match else "",
+        "symbol":          head.group(1),
+        "name":            head.group(2).strip(),
+        "price":           float(head.group(3)),
+        "change_pct":      float(head.group(4)),
+        "bias":            head.group(5),
+        "verdict":         (verdict_match.group(1).strip() if verdict_match else ""),
+        "tech":            (verdict_match.group(2) if verdict_match else ""),
+        "net":             int(verdict_match.group(3)) if verdict_match else 0,
+        "signal_pros":     grab_section("PROS (signals):"),
+        "signal_cons":     grab_section("CONS (signals):"),
+        "screener_pros":   grab_section("PROS (screener.in):"),
+        "screener_cons":   grab_section("CONS (screener.in):"),
+        "fundamentals":    fund_match.group(1).strip() if fund_match else "",
+        "url":             url_match.group(1) if url_match else "",
     }
 
 
@@ -190,13 +147,12 @@ def parse_summary(text: str) -> dict:
     pov_hits  = re.search(r"Pure_on_Volume hits \(BUY\):\s+(\d+)", text)
     rec       = re.search(r"Recommendations:\s+(\d+)\s+BUY\s+\+\s+(\d+)\s+SELL", text)
 
-    # FIX 1: match ANY "Top N BUY candidates" section (not just "Top 10")
-    buy_sec = re.search(
-        r"Top \d+ BUY candidates:.*?\n-+\n(.*?)(?=Top \d+ SELL candidates|\Z)",
+    buy_sec  = re.search(
+        r"Top 10 BUY candidates:.*?\n-+\n(.*?)(?=Top 10 SELL candidates|\Z)",
         text, flags=re.S,
     )
     sell_sec = re.search(
-        r"Top \d+ SELL candidates.*?\n-+\n(.*?)(?=\n—|\Z)",
+        r"Top 10 SELL candidates.*?\n-+\n(.*?)(?=\n—|\Z)",
         text, flags=re.S,
     )
 
@@ -233,10 +189,10 @@ st.caption(
 )
 
 c1, c2, c3, c4 = st.columns(4)
-c1.metric("BUY recommendations",  data["buy_count"])
+c1.metric("BUY recommendations", data["buy_count"])
 c2.metric("SELL recommendations", data["sell_count"])
-c3.metric("Pure-on-Volume hits",  data["pov_hits"])
-c4.metric("Parsed & showing",     f"{len(data['buys'])} BUY · {len(data['sells'])} SELL")
+c3.metric("Pure-on-Volume hits", data["pov_hits"])
+c4.metric("Showing", f"{len(data['buys']) + len(data['sells'])} stocks")
 
 st.warning(
     "**Disclaimer.** For educational and fundamental analysis only. "
@@ -250,48 +206,43 @@ st.warning(
 def render_signals(items: list[str], kind: str) -> None:
     if not items:
         return
-    cls      = "pro-li"       if kind == "pro" else "con-li"
+    cls = "pro-li" if kind == "pro" else "con-li"
     head_cls = "group-head-pro" if kind == "pro" else "group-head-con"
-    label    = "Pros"         if kind == "pro" else "Cons"
+    label = "Pros" if kind == "pro" else "Cons"
     st.markdown(f'<div class="{head_cls}">{label}</div>', unsafe_allow_html=True)
     html = "".join(f'<div class="{cls}">{it}</div>' for it in items)
     st.markdown(html, unsafe_allow_html=True)
 
 
-def render_card(stock: dict) -> None:
-    pct     = stock["change_pct"]
+def render_card(stock: dict, kind: str) -> None:
+    pct = stock["change_pct"]
     pct_str = f"+{pct:.2f}%" if pct > 0 else f"{pct:.2f}%"
-    pct_cls = "pct-up" if pct > 0 else ("pct-down" if pct < 0 else "pct-flat")
+    pct_color = "normal"
+    if pct > 0: pct_color = "normal"
+    if pct < 0: pct_color = "inverse"
 
-    verdict       = stock["verdict"] or stock["bias"].replace("_", " ")
+    verdict = stock["verdict"] or stock["bias"].replace("_", " ")
     verdict_class = VERDICT_CLASS.get(verdict.upper().strip(), "v-default")
 
-    net      = stock["net"]
-    net_cls  = "net-pos" if net > 0 else ("net-neg" if net < 0 else "net-zero")
-    net_str  = f"+{net}" if net > 0 else f"{net}"
-
-    # FIX 2: custom price block in HTML so it never truncates
-    price_html = f"""
-    <div class="card-header">
-      <div>
-        <div class="stock-symbol">{stock["symbol"]}</div>
-        <div class="stock-name">{stock["name"]}</div>
-      </div>
-      <div class="price-block">
-        <div class="price-label">Close</div>
-        <div class="price-value">₹{stock["price"]:,.2f}</div>
-        <span class="{pct_cls}">{pct_str}</span>
-      </div>
-    </div>
-    """
+    net = stock["net"]
+    net_class = "net-pos" if net > 0 else ("net-neg" if net < 0 else "net-zero")
+    net_str = f"+{net}" if net > 0 else f"{net}"
 
     with st.container(border=True):
-        st.markdown(price_html, unsafe_allow_html=True)
+        h1, h2 = st.columns([3, 1.2])
+        with h1:
+            st.markdown(
+                f'<div class="stock-symbol">{stock["symbol"]}</div>'
+                f'<div class="stock-name">{stock["name"]}</div>',
+                unsafe_allow_html=True,
+            )
+        with h2:
+            st.metric("Close", f"₹{stock['price']:,.2f}", pct_str, delta_color=pct_color)
 
         st.markdown(
             f'<span class="verdict-badge {verdict_class}">{verdict}</span>'
             f'<span class="meta-pill">bias {stock["bias"]}</span>'
-            f'<span class="meta-pill">net <span class="{net_cls}">{net_str}</span></span>',
+            f'<span class="meta-pill">net <span class="{net_class}">{net_str}</span></span>',
             unsafe_allow_html=True,
         )
 
@@ -329,7 +280,7 @@ with buy_tab:
         cols = st.columns(2)
         for i, stock in enumerate(data["buys"]):
             with cols[i % 2]:
-                render_card(stock)
+                render_card(stock, "buy")
 
 with sell_tab:
     if not data["sells"]:
@@ -338,7 +289,7 @@ with sell_tab:
         cols = st.columns(2)
         for i, stock in enumerate(data["sells"]):
             with cols[i % 2]:
-                render_card(stock)
+                render_card(stock, "sell")
 
 with raw_tab:
     st.code(text, language="text")
