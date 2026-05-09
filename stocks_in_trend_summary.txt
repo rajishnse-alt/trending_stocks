@@ -3,7 +3,7 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-05-08 23:47 IST
+NSE bhavcopy analysis — generated 2026-05-09 20:30 IST
 ============================================================
 
 Pure_on_Volume hits (BUY): 60
@@ -53,7 +53,7 @@ Top 10 BUY candidates:
         CONS (signals):
           - High volatility (88% annualised)
           - Delivery % falling — recent 38% vs 30d 45% (-7pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 1,675 Cr. | P/E 28.9 | ROCE 16.3 % | ROE 12.8 % | DivYield 0.00 % | BookVal ₹ 24.6
+        FUNDAMENTALS (screener.in): MCap ₹ 1,683 Cr. | P/E 29.0 | ROCE 16.3 % | ROE 12.8 % | DivYield 0.00 % | BookVal ₹ 24.6
         PROS (screener.in):
           - Company has delivered good profit growth of 26.6% CAGR over last 5 years
           - Debtor days have improved from 70.4 to 47.5 days.
@@ -79,17 +79,11 @@ Top 10 BUY candidates:
         CONS (signals):
           - High volatility (83% annualised)
           - Delivery % falling — recent 50% vs 30d 60% (-10pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 500 Cr. | ROCE -8.12 % | ROE -21.0 % | DivYield 0.00 % | BookVal ₹ 3.51
-        PROS (screener.in):
-          - Company has reduced debt.
-          - Company's working capital requirements have reduced from 43.8 days to 30.9 days
+        FUNDAMENTALS (screener.in): MCap ₹ 498 Cr. | P/E 19.4 | ROCE 26.7 % | ROE 21.7 % | DivYield 0.00 % | BookVal ₹ 14.4
         CONS (screener.in):
-          - Stock is trading at 13.4 times its book value
-          - Company has low interest coverage ratio.
-          - Company has a low return on equity of 3.01% over last 3 years.
-          - Company's cost of borrowing seems high
+          - Though the company is reporting repeated profits, it is not paying out dividend
           - Promoter holding has decreased over last 3 years: -7.35%
-        https://www.screener.in/company/TIGERLOGS/consolidated/
+        https://www.screener.in/company/TIGERLOGS/
 
   • NUVAMA          (Nuvama Wealth Management Ltd  )  close ₹1631.50  +10.65%  bias STRONG_BUY
         → STRONG BUY (tech=STRONG_BUY, signal net +3)
@@ -106,7 +100,7 @@ Top 10 BUY candidates:
           - 81% off 52-week high
           - -72% over the year
           - Trading below the 200-day SMA
-        FUNDAMENTALS (screener.in): MCap ₹ 29,695 Cr. | P/E 28.9 | ROCE 20.4 % | ROE 30.9 % | DivYield 1.77 % | BookVal ₹ 208
+        FUNDAMENTALS (screener.in): MCap ₹ 29,700 Cr. | P/E 28.9 | ROCE 20.4 % | ROE 30.9 % | DivYield 1.77 % | BookVal ₹ 208
         PROS (screener.in):
           - Company has delivered good profit growth of 28.6% CAGR over last 5 years
           - Debtor days have improved from 95.3 to 65.8 days.
@@ -127,14 +121,13 @@ Top 10 BUY candidates:
           - Healthy liquidity (~₹15.6cr daily turnover)
         CONS (signals):
           - Trading below the 200-day SMA
-        FUNDAMENTALS (screener.in): MCap ₹ 3,968 Cr. | ROCE -3.01 % | ROE -28.2 % | DivYield 0.00 % | BookVal ₹ 13.8
+        FUNDAMENTALS (screener.in): MCap ₹ 3,969 Cr. | ROCE 1.57 % | ROE -4.26 % | DivYield 0.00 % | BookVal ₹ 38.3
         CONS (screener.in):
-          - Stock is trading at 4.94 times its book value
           - Company has low interest coverage ratio.
           - Promoter holding is low: 11.3%
-          - Company has a low return on equity of -27.0% over last 3 years.
+          - Company has a low return on equity of -1.68% over last 3 years.
           - Promoter holding has decreased over last 3 years: -29.6%
-        https://www.screener.in/company/RBA/consolidated/
+        https://www.screener.in/company/RBA/
 
   • DABUR           (Dabur India Ltd               )  close ₹487.70  +3.77%  bias STRONG_BUY
         → STRONG BUY (tech=STRONG_BUY, signal net +4)
@@ -148,7 +141,7 @@ Top 10 BUY candidates:
         CONS (signals):
           - Trading below the 200-day SMA
           - Delivery % falling — recent 40% vs 30d 47% (-6pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 86,494 Cr. | P/E 45.4 | ROCE 20.4 % | ROE 17.2 % | DivYield 1.64 % | BookVal ₹ 64.4
+        FUNDAMENTALS (screener.in): MCap ₹ 86,503 Cr. | P/E 45.4 | ROCE 20.4 % | ROE 17.2 % | DivYield 1.64 % | BookVal ₹ 64.4
         PROS (screener.in):
           - Company has been maintaining a healthy dividend payout of 70.1%
         CONS (screener.in):
@@ -193,7 +186,7 @@ Top 10 BUY candidates:
           - Trading below the 200-day SMA
           - High volatility (87% annualised)
           - Delivery % falling — recent 25% vs 30d 35% (-10pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 19,385 Cr. | P/E 25.8 | ROCE 16.2 % | ROE 17.7 % | DivYield 2.01 % | BookVal ₹ 62.0
+        FUNDAMENTALS (screener.in): MCap ₹ 19,391 Cr. | P/E 25.8 | ROCE 16.2 % | ROE 17.7 % | DivYield 2.01 % | BookVal ₹ 62.0
         CONS (screener.in):
           - Company might be capitalizing the interest cost
         https://www.screener.in/company/FSL/consolidated/
@@ -209,15 +202,15 @@ Top 10 BUY candidates:
         CONS (signals):
           - Trading below the 200-day SMA
           - Delivery % falling — recent 45% vs 30d 55% (-10pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 628 Cr. | P/E 18.3 | ROCE 20.6 % | ROE 16.6 % | DivYield 1.81 % | BookVal ₹ 94.0
+        FUNDAMENTALS (screener.in): MCap ₹ 629 Cr. | P/E 13.5 | ROCE 23.0 % | ROE 19.5 % | DivYield 1.81 % | BookVal ₹ 111
         PROS (screener.in):
-          - Company has delivered good profit growth of 22.3% CAGR over last 5 years
-          - Company has been maintaining a healthy dividend payout of 47.6%
-          - Debtor days have improved from 64.2 to 37.5 days.
-          - Company's working capital requirements have reduced from 72.8 days to 29.6 days
+          - Company has delivered good profit growth of 45.0% CAGR over last 5 years
+          - Company has been maintaining a healthy dividend payout of 38.5%
+          - Debtor days have improved from 72.2 to 57.5 days.
+          - Company's working capital requirements have reduced from 81.3 days to 53.9 days
         CONS (screener.in):
           - Promoter holding has decreased over last 3 years: -6.14%
-        https://www.screener.in/company/ONWARDTEC/
+        https://www.screener.in/company/ONWARDTEC/consolidated/
 
   • CERA            (Cera Sanitaryware Ltd         )  close ₹5782.00  +5.97%  bias STRONG_BUY
         → STRONG BUY (tech=STRONG_BUY, signal net +7)
@@ -229,7 +222,7 @@ Top 10 BUY candidates:
           - Volume highest in 3 months (HVQ)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
           - Healthy liquidity (~₹11.6cr daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ 7,444 Cr. | P/E 30.1 | ROCE 22.4 % | ROE 18.2 % | DivYield 1.12 % | BookVal ₹ 1,049
+        FUNDAMENTALS (screener.in): MCap ₹ 7,457 Cr. | P/E 30.2 | ROCE 22.4 % | ROE 18.2 % | DivYield 1.12 % | BookVal ₹ 1,049
         PROS (screener.in):
           - Company is almost debt free.
           - Company has been maintaining a healthy dividend payout of 32.6%
@@ -304,8 +297,17 @@ Top 10 SELL candidates (high-volume distribution):
           - Closed near the day's low (CLV -0.88) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
           - Thin liquidity (~₹4.7L daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ Cr. | ROCE % | ROE % | DivYield % | BookVal ₹
-        https://www.screener.in/company/TARAPUR/consolidated/
+        FUNDAMENTALS (screener.in): MCap ₹ 45.0 Cr. | ROCE -63.2 % | ROE % | DivYield 0.00 % | BookVal ₹ 0.14
+        PROS (screener.in):
+          - Company has reduced debt.
+          - Company is almost debt free.
+        CONS (screener.in):
+          - Stock is trading at 167 times its book value
+          - Company has low interest coverage ratio.
+          - Promoter holding is low: 22.0%
+          - Promoters have pledged 93.3% of their holding.
+          - Promoter holding has decreased over last 3 years: -22.7%
+        https://www.screener.in/company/TARAPUR/
 
   • GLOBUSSPR       (Globus Spirits Ltd            )  close ₹997.10  -11.51%  bias STRONG_SELL
         → SELL-LEAN (tech=STRONG_SELL, signal net 0)
@@ -317,7 +319,7 @@ Top 10 SELL candidates (high-volume distribution):
           - Trading below the 200-day SMA
           - Closed near the day's low (CLV -0.88) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 2,902 Cr. | P/E 31.6 | ROCE 11.4 % | ROE 8.81 % | DivYield 0.28 % | BookVal ₹ 375
+        FUNDAMENTALS (screener.in): MCap ₹ 2,898 Cr. | P/E 31.6 | ROCE 11.4 % | ROE 8.81 % | DivYield 0.28 % | BookVal ₹ 375
         PROS (screener.in):
           - Company has been maintaining a healthy dividend payout of 21.8%
         CONS (screener.in):
@@ -335,18 +337,14 @@ Top 10 SELL candidates (high-volume distribution):
           - Trading below the 200-day SMA
           - Closed near the day's low (CLV -0.88) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 34,211 Cr. | P/E 236 | ROCE 2.17 % | ROE 1.84 % | DivYield 0.49 % | BookVal ₹ 420
+        FUNDAMENTALS (screener.in): MCap ₹ 34,205 Cr. | P/E 29.5 | ROCE 8.03 % | ROE 6.56 % | DivYield 0.49 % | BookVal ₹ 959
         PROS (screener.in):
-          - Company is almost debt free.
-          - Company is expected to give good quarter
-          - Company has been maintaining a healthy dividend payout of 103%
+          - Company has been maintaining a healthy dividend payout of 18.0%
         CONS (screener.in):
-          - Stock is trading at 4.34 times its book value
-          - Tax rate seems low
-          - Company has a low return on equity of 1.87% over last 3 years.
-          - Earnings include an other income of Rs.119 Cr.
-          - Debtor days have increased from 42.5 to 58.6 days.
-        https://www.screener.in/company/DALBHARAT/
+          - The company has delivered a poor sales growth of 7.93% over past five years.
+          - Company has a low return on equity of 5.19% over last 3 years.
+          - Working capital days have increased from 1.55 days to 71.0 days
+        https://www.screener.in/company/DALBHARAT/consolidated/
 
   • KRSNAA          (Krsnaa Diagnostics Ltd        )  close ₹599.50  -0.71%  bias STRONG_SELL
         → STRONG SELL (tech=STRONG_SELL, signal net -4)
@@ -358,7 +356,7 @@ Top 10 SELL candidates (high-volume distribution):
           - Trading below the 200-day SMA
           - Closed near the day's low (CLV -0.81) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 1,941 Cr. | P/E 24.1 | ROCE 11.9 % | ROE 8.76 % | DivYield 0.46 % | BookVal ₹ 285
+        FUNDAMENTALS (screener.in): MCap ₹ 1,945 Cr. | P/E 24.2 | ROCE 11.9 % | ROE 8.76 % | DivYield 0.46 % | BookVal ₹ 285
         CONS (screener.in):
           - Promoter holding is low: 27.1%
           - Company has a low return on equity of 8.27% over last 3 years.
@@ -375,13 +373,10 @@ Top 10 SELL candidates (high-volume distribution):
           - Trading below the 200-day SMA
           - Closed near the day's low (CLV -0.80) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 401 Cr. | P/E 39.1 | ROCE 11.2 % | ROE 9.54 % | DivYield 0.26 % | BookVal ₹ 33.4
+        FUNDAMENTALS (screener.in): MCap ₹ 401 Cr. | P/E 22.2 | ROCE 14.4 % | ROE 12.2 % | DivYield 0.26 % | BookVal ₹ 38.9
         CONS (screener.in):
-          - Stock is trading at 3.45 times its book value
           - Promoter holding has decreased over last quarter: -0.72%
-          - The company has delivered a poor sales growth of 11.8% over past five years.
-          - Company has a low return on equity of 12.4% over last 3 years.
-        https://www.screener.in/company/REMSONSIND/
+        https://www.screener.in/company/REMSONSIND/consolidated/
 
   • SBIN            (State Bank of India           )  close ₹1019.30  -6.66%  bias STRONG_SELL
         → HOLD / MIXED (tech=STRONG_SELL, signal net 1)
@@ -392,14 +387,15 @@ Top 10 SELL candidates (high-volume distribution):
         CONS (signals):
           - Closed near the day's low (CLV -0.80) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 9,41,049 Cr. | P/E 12.3 | ROCE 6.02 % | ROE 15.5 % | DivYield 1.56 % | BookVal ₹ 590
+        FUNDAMENTALS (screener.in): MCap ₹ 9,40,877 Cr. | P/E 11.6 | ROCE 6.09 % | ROE 15.0 % | DivYield 1.70 % | BookVal ₹ 646
         PROS (screener.in):
-          - Company has been maintaining a healthy dividend payout of 20.0%
+          - Company has been maintaining a healthy dividend payout of 18.6%
         CONS (screener.in):
           - Company has low interest coverage ratio.
-          - Contingent liabilities of Rs.27,32,684 Cr.
+          - Contingent liabilities of Rs.27,42,584 Cr.
           - Company might be capitalizing the interest cost
-        https://www.screener.in/company/SBIN/
+          - Earnings include an other income of Rs.1,97,711 Cr.
+        https://www.screener.in/company/SBIN/consolidated/
 
   • BRITANNIA       (Britannia Industries Ltd      )  close ₹5520.00  -5.06%  bias STRONG_SELL
         → STRONG SELL (tech=STRONG_SELL, signal net -2)
@@ -411,7 +407,7 @@ Top 10 SELL candidates (high-volume distribution):
           - Bearish SMA stack (close < 20 < 50 < 200)
           - Closed near the day's low (CLV -0.77) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 1,33,034 Cr. | P/E 51.9 | ROCE 61.4 % | ROE 60.1 % | DivYield 1.36 % | BookVal ₹ 193
+        FUNDAMENTALS (screener.in): MCap ₹ 1,32,959 Cr. | P/E 51.9 | ROCE 61.4 % | ROE 60.1 % | DivYield 1.36 % | BookVal ₹ 193
         PROS (screener.in):
           - Company has a good return on equity (ROE) track record: 3 Years ROE 60.0%
           - Company has been maintaining a healthy dividend payout of 85.0%
