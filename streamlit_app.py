@@ -232,7 +232,7 @@ def render_card(stock: dict, kind: str) -> None:
     net_str = f"+{net}" if net > 0 else f"{net}"
 
     with st.container(border=True):
-        h1, h2 = st.columns([3, 1.2])
+        h1, h2 = st.columns([2, 2])
         with h1:
             st.markdown(
                 f'<div class="stock-symbol">{stock["symbol"]}</div>'
