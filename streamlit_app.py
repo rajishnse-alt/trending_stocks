@@ -147,13 +147,16 @@ def parse_summary(text: str) -> dict:
     pov_hits  = re.search(r"Pure_on_Volume hits \(BUY\):\s+(\d+)", text)
     rec       = re.search(r"Recommendations:\s+(\d+)\s+BUY\s+\+\s+(\d+)\s+SELL", text)
 
-    buy_sec  = re.search(
-        r"Top 10 BUY candidates:.*?\n-+\n(.*?)(?=Top 10 SELL candidates|\Z)",
-        text, flags=re.S,
+    buy_sec = re.search(
+        r"Top\s+\d+\s+BUY candidates:.*?\n-+\n(.*?)(?=Top\s+\d+\s+SELL candidates|\Z)",
+        text,
+        flags=re.S,
     )
+    
     sell_sec = re.search(
-        r"Top 10 SELL candidates.*?\n-+\n(.*?)(?=\n—|\Z)",
-        text, flags=re.S,
+        r"Top\s+\d+\s+SELL candidates.*?\n-+\n(.*?)(?=\n—|\Z)",
+        text,
+        flags=re.S,
     )
 
     buys  = [parse_block(b) for b in split_blocks(buy_sec.group(1))]  if buy_sec  else []
