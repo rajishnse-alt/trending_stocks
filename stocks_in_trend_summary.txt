@@ -3,7 +3,7 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-05-12 01:09 IST
+NSE bhavcopy analysis — generated 2026-05-12 08:18 IST
 ============================================================
 
 Pure_on_Volume hits (BUY): 42
@@ -16,8 +16,8 @@ Top 20 BUY candidates:
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹1565.16  [today H/L ₹1634.60 / ₹1480.30, fib 0.55]
           - Strict stop-loss:      ₹1361.22
-          - Best stop-loss:        ₹1320.00  [prev 1-week swing low]
-          - Target-1:              ₹1426.90  [prev_high + prev_range]
+          - Best stop-loss:        ₹1278.55  [swing low − 3.14 %]
+          - Target-1:              ₹1599.82  [entry + 50 % of 5-day swing]
         PROS (signals):
           - Trading near 52-week high (100% of range)
           - +32% over the last month
@@ -47,8 +47,8 @@ Top 20 BUY candidates:
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹361.11  [today H/L ₹376.75 / ₹342.00, fib 0.55]
           - Strict stop-loss:      ₹316.49
-          - Best stop-loss:        ₹261.20  [prev 1-week swing low]
-          - Target-1:              ₹388.95  [prev_high + prev_range]
+          - Best stop-loss:        ₹253.00  [swing low − 3.14 %]
+          - Target-1:              ₹401.76  [entry + 50 % of 5-day swing]
         PROS (signals):
           - Upper third of 52-week range (79%)
           - +215% off 52-week low (turnaround)
@@ -68,8 +68,8 @@ Top 20 BUY candidates:
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹101.93  [today H/L ₹103.99 / ₹99.41, fib 0.55]
           - Strict stop-loss:      ₹102.43
-          - Best stop-loss:        ₹96.11  [prev 1-week swing low]
-          - Target-1:              ₹106.78  [prev_high + prev_range]
+          - Best stop-loss:        ₹93.09  [swing low − 3.14 %]
+          - Target-1:              ₹107.07  [entry + 50 % of 5-day swing]
         PROS (signals):
           - Upper third of 52-week range (71%)
           - Trading above the 200-day SMA
@@ -94,8 +94,8 @@ Top 20 BUY candidates:
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹57.83  [today H/L ₹60.64 / ₹54.40, fib 0.55]
           - Strict stop-loss:      ₹51.09
-          - Best stop-loss:        ₹39.17  [prev 1-week swing low]
-          - Target-1:              ₹63.80  [prev_high + prev_range]
+          - Best stop-loss:        ₹37.94  [swing low − 3.14 %]
+          - Target-1:              ₹66.07  [entry + 50 % of 5-day swing]
         PROS (signals):
           - Trading near 52-week high (92% of range)
           - +61% over the last month
@@ -125,8 +125,8 @@ Top 20 BUY candidates:
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹1243.67  [today H/L ₹1279.40 / ₹1200.00, fib 0.55]
           - Strict stop-loss:      ₹1172.16
-          - Best stop-loss:        ₹1135.60  [prev 1-week swing low]
-          - Target-1:              ₹1233.00  [prev_high + prev_range]
+          - Best stop-loss:        ₹1099.94  [swing low − 3.14 %]
+          - Target-1:              ₹1272.87  [entry + 50 % of 5-day swing]
         PROS (signals):
           - Trading near 52-week high (97% of range)
           - +19% over the last month
@@ -150,8 +150,8 @@ Top 20 BUY candidates:
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹871.70  [today H/L ₹914.00 / ₹820.00, fib 0.55]
           - Strict stop-loss:      ₹848.61
-          - Best stop-loss:        ₹740.10  [prev 1-week swing low]
-          - Target-1:              ₹932.30  [prev_high + prev_range]
+          - Best stop-loss:        ₹716.86  [swing low − 3.14 %]
+          - Target-1:              ₹965.65  [entry + 50 % of 5-day swing]
         PROS (signals):
           - +37% over the last month
           - +46% over the last 3 months
@@ -174,8 +174,8 @@ Top 20 BUY candidates:
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹371.37  [today H/L ₹381.20 / ₹359.35, fib 0.55]
           - Strict stop-loss:      ₹361.73
-          - Best stop-loss:        ₹353.50  [prev 1-week swing low]
-          - Target-1:              ₹371.40  [prev_high + prev_range]
+          - Best stop-loss:        ₹342.40  [swing low − 3.14 %]
+          - Target-1:              ₹378.47  [entry + 50 % of 5-day swing]
         PROS (signals):
           - +16% over the last month
           - Volume highest in 3 months (HVQ)
@@ -192,8 +192,8 @@ Top 20 BUY candidates:
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹889.78  [today H/L ₹899.10 / ₹878.40, fib 0.55]
           - Strict stop-loss:      ₹879.01
-          - Best stop-loss:        ₹830.20  [prev 1-week swing low]
-          - Target-1:              ₹934.70  [prev_high + prev_range]
+          - Best stop-loss:        ₹804.13  [swing low − 3.14 %]
+          - Target-1:              ₹924.18  [entry + 50 % of 5-day swing]
         PROS (signals):
           - Trading near 52-week high (90% of range)
           - Bullish SMA stack (close > 20 > 50 > 200)
@@ -219,8 +219,8 @@ Top 20 BUY candidates:
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹250.01  [today H/L ₹262.70 / ₹234.50, fib 0.55]
           - Strict stop-loss:      ₹251.40
-          - Best stop-loss:        ₹242.00  [prev 1-week swing low]
-          - Target-1:              ₹263.10  [prev_high + prev_range]
+          - Best stop-loss:        ₹234.40  [swing low − 3.14 %]
+          - Target-1:              ₹257.01  [entry + 50 % of 5-day swing]
         PROS (signals):
           - Upper third of 52-week range (84%)
           - +18% over the last month
@@ -236,8 +236,8 @@ Top 20 BUY candidates:
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹754.57  [today H/L ₹791.15 / ₹709.85, fib 0.55]
           - Strict stop-loss:      ₹712.49
-          - Best stop-loss:        ₹663.00  [prev 1-week swing low]
-          - Target-1:              ₹736.75  [prev_high + prev_range]
+          - Best stop-loss:        ₹642.18  [swing low − 3.14 %]
+          - Target-1:              ₹783.67  [entry + 50 % of 5-day swing]
         PROS (signals):
           - Trading near 52-week high (91% of range)
           - +17% over the last month
@@ -258,8 +258,8 @@ Top 20 BUY candidates:
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹583.94  [today H/L ₹592.90 / ₹573.00, fib 0.55]
           - Strict stop-loss:      ₹570.08
-          - Best stop-loss:        ₹552.20  [prev 1-week swing low]
-          - Target-1:              ₹593.25  [prev_high + prev_range]
+          - Best stop-loss:        ₹534.86  [swing low − 3.14 %]
+          - Target-1:              ₹597.04  [entry + 50 % of 5-day swing]
         PROS (signals):
           - Trading near 52-week high (91% of range)
           - +77% over the year
@@ -282,8 +282,8 @@ Top 20 BUY candidates:
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹301.74  [today H/L ₹312.00 / ₹289.20, fib 0.55]
           - Strict stop-loss:      ₹291.41
-          - Best stop-loss:        ₹280.00  [prev 1-week swing low]
-          - Target-1:              ₹312.55  [prev_high + prev_range]
+          - Best stop-loss:        ₹271.21  [swing low − 3.14 %]
+          - Target-1:              ₹311.24  [entry + 50 % of 5-day swing]
         PROS (signals):
           - +17% over the last month
           - Trading above the 200-day SMA
@@ -302,8 +302,8 @@ Top 20 BUY candidates:
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹167.37  [today H/L ₹173.80 / ₹159.52, fib 0.55]
           - Strict stop-loss:      ₹161.12
-          - Best stop-loss:        ₹154.21  [prev 1-week swing low]
-          - Target-1:              ₹173.88  [prev_high + prev_range]
+          - Best stop-loss:        ₹149.37  [swing low − 3.14 %]
+          - Target-1:              ₹173.12  [entry + 50 % of 5-day swing]
         PROS (signals):
           - Volume highest in 1 year (HVY)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
@@ -325,8 +325,8 @@ Top 20 BUY candidates:
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹1250.99  [today H/L ₹1313.00 / ₹1175.20, fib 0.55]
           - Strict stop-loss:      ₹1189.07
-          - Best stop-loss:        ₹1022.00  [prev 1-week swing low]
-          - Target-1:              ₹1339.30  [prev_high + prev_range]
+          - Best stop-loss:        ₹989.91  [swing low − 3.14 %]
+          - Target-1:              ₹1361.49  [entry + 50 % of 5-day swing]
         PROS (signals):
           - Trading near 52-week high (95% of range)
           - +38% over the last month
@@ -351,8 +351,8 @@ Top 20 BUY candidates:
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹1100.25  [today H/L ₹1170.00 / ₹1015.00, fib 0.55]
           - Strict stop-loss:      ₹1004.52
-          - Best stop-loss:        ₹925.30  [prev 1-week swing low]
-          - Target-1:              ₹1056.00  [prev_high + prev_range]
+          - Best stop-loss:        ₹896.25  [swing low − 3.14 %]
+          - Target-1:              ₹1150.10  [entry + 50 % of 5-day swing]
         PROS (signals):
           - Trading near 52-week high (96% of range)
           - +58% over the last month
@@ -382,8 +382,8 @@ Top 20 BUY candidates:
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹64.94  [today H/L ₹67.50 / ₹61.80, fib 0.55]
           - Strict stop-loss:      ₹62.84
-          - Best stop-loss:        ₹57.10  [prev 1-week swing low]
-          - Target-1:              ₹67.46  [prev_high + prev_range]
+          - Best stop-loss:        ₹55.31  [swing low − 3.14 %]
+          - Target-1:              ₹68.64  [entry + 50 % of 5-day swing]
         PROS (signals):
           - +34% over the last month
           - Trading above the 200-day SMA
@@ -403,8 +403,8 @@ Top 20 BUY candidates:
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹1596.09  [today H/L ₹1686.00 / ₹1486.20, fib 0.55]
           - Strict stop-loss:      ₹1508.02
-          - Best stop-loss:        ₹1390.00  [prev 1-week swing low]
-          - Target-1:              ₹1576.50  [prev_high + prev_range]
+          - Best stop-loss:        ₹1346.35  [swing low − 3.14 %]
+          - Target-1:              ₹1667.39  [entry + 50 % of 5-day swing]
         PROS (signals):
           - +16% over the last month
           - Volume surge — 5d avg is 3.5× the 30d avg
@@ -430,8 +430,8 @@ Top 20 BUY candidates:
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹164.08  [today H/L ₹167.74 / ₹159.61, fib 0.55]
           - Strict stop-loss:      ₹160.40
-          - Best stop-loss:        ₹151.01  [prev 1-week swing low]
-          - Target-1:              ₹165.53  [prev_high + prev_range]
+          - Best stop-loss:        ₹146.27  [swing low − 3.14 %]
+          - Target-1:              ₹169.70  [entry + 50 % of 5-day swing]
         PROS (signals):
           - Trading above the 200-day SMA
           - Low volatility (20% annualised) with uptrend
@@ -444,8 +444,8 @@ Top 20 BUY candidates:
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹1038.30  [today H/L ₹1126.90 / ₹930.00, fib 0.55]
           - Strict stop-loss:      ₹960.85
-          - Best stop-loss:        ₹922.80  [prev 1-week swing low]
-          - Target-1:              ₹987.45  [prev_high + prev_range]
+          - Best stop-loss:        ₹893.82  [swing low − 3.14 %]
+          - Target-1:              ₹1067.72  [entry + 50 % of 5-day swing]
         PROS (signals):
           - Volume surge — 5d avg is 4.2× the 30d avg
           - Volume highest in 4 years (HVE) — strongest possible breakout signal
@@ -472,8 +472,8 @@ Top 20 BUY candidates:
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹91.67  [today H/L ₹96.49 / ₹85.77, fib 0.55]
           - Strict stop-loss:      ₹85.64
-          - Best stop-loss:        ₹81.50  [prev 1-week swing low]
-          - Target-1:              ₹88.60  [prev_high + prev_range]
+          - Best stop-loss:        ₹78.94  [swing low − 3.14 %]
+          - Target-1:              ₹94.66  [entry + 50 % of 5-day swing]
         PROS (signals):
           - +22% over the last month
           - Trading above the 200-day SMA
@@ -863,5 +863,5 @@ Top 20 SELL candidates (high-volume distribution):
   TRADE PLAN (BUY rows only):
     Entry zone (probable) = today_low + 0.55 × (today_high - today_low)  — enter only above this level.
     Strict stop-loss      = prev_low  + 0.44 × (prev_high - prev_low).
-    Best stop-loss        = lowest low of the previous 5 trading days (one-week swing low).
-    Target-1              = prev_high + (prev_high - prev_low)  — one full range above prior-day high.
+    Best stop-loss        = swing_low_5d × (1 − 3.14 %)  — prior 5-day swing low with a 3.14 % cushion below.
+    Target-1              = entry_zone + 0.5 × (swing_high_5d − swing_low_5d)  — 50 % of the prior 5-day high-to-low swing above the entry zone.

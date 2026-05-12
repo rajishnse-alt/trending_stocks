@@ -1,16 +1,20 @@
 """
 Stocks in Trend — Streamlit dashboard.
+
 Reads `stocks_in_trend_summary.txt` (sitting next to this file) and renders the
-top BUY / SELL candidates as interactive cards.
+top 10 BUY / top 10 SELL candidates as interactive cards.
+
 Deploy: push this repo to GitHub, then https://share.streamlit.io → "New app"
 → point at repo + branch + main file = `streamlit_app.py`.
 """
+
 from __future__ import annotations
 
 import re
 from pathlib import Path
 
 import streamlit as st
+
 
 # ─────────────────────────────────────────── Page setup ────────────────────────
 st.set_page_config(
@@ -19,6 +23,7 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="collapsed",
 )
+
 st.markdown(
     """
     <style>
@@ -49,15 +54,6 @@ st.markdown(
         margin-top: 6px;
       }
       .fund-row b { color:#0f172a; }
-      .trade-plan {
-        font-family: 'JetBrains Mono', monospace; font-size: 12px; color:#1e3a8a;
-        background: rgba(59,130,246,0.10); padding: 8px 12px; border-radius: 8px;
-        margin-top: 6px; line-height: 1.55;
-      }
-      .trade-plan b      { color:#0f172a; }
-      .trade-plan .tp-entry  { color:#15803d; font-weight:700; }
-      .trade-plan .tp-sl     { color:#b91c1c; font-weight:700; }
-      .trade-plan .tp-target { color:#1d4ed8; font-weight:700; }
       .group-head-pro { color:#15803d; font-size: 11px; font-weight:700; letter-spacing:.08em;
                         text-transform:uppercase; margin-top:10px; }
       .group-head-con { color:#b91c1c; font-size: 11px; font-weight:700; letter-spacing:.08em;
@@ -70,6 +66,7 @@ st.markdown(
     """,
     unsafe_allow_html=True,
 )
+
 
 # ─────────────────────────────────────────── Parser ────────────────────────────
 SUMMARY_PATH = Path(__file__).parent / "stocks_in_trend_summary.txt"
@@ -109,26 +106,6 @@ def parse_block(block: str) -> dict | None:
             if line.strip().startswith("-")
         ]
 
-    def grab_trade_plan() -> dict:
-        """Pull the four BUY trade-management levels from the
-        'TRADE PLAN (BUY):' block if present. Returns empty strings
-        for any level that isn't in the block (SELL picks won't have
-        a trade plan at all).
-        """
-        out = {"entry": "", "strict_sl": "", "best_sl": "", "target_1": ""}
-        patterns = {
-            # The price token allows ₹ + digits + optional commas/decimals
-            "entry":     r"Entry zone\s*\(probable\):\s+above\s+(₹[\d.,]+)",
-            "strict_sl": r"Strict stop-loss:\s+(₹[\d.,]+)",
-            "best_sl":   r"Best stop-loss:\s+(₹[\d.,]+)",
-            "target_1":  r"Target-1:\s+(₹[\d.,]+)",
-        }
-        for key, pat in patterns.items():
-            m = re.search(pat, block)
-            if m:
-                out[key] = m.group(1)
-        return out
-
     fund_match = re.search(r"FUNDAMENTALS \(screener\.in\):\s+(.+)", block)
     url_match = re.search(r"(https?://www\.screener\.in/\S+)", block)
 
@@ -141,7 +118,6 @@ def parse_block(block: str) -> dict | None:
         "verdict":         (verdict_match.group(1).strip() if verdict_match else ""),
         "tech":            (verdict_match.group(2) if verdict_match else ""),
         "net":             int(verdict_match.group(3)) if verdict_match else 0,
-        "trade_plan":      grab_trade_plan(),
         "signal_pros":     grab_section("PROS (signals):"),
         "signal_cons":     grab_section("CONS (signals):"),
         "screener_pros":   grab_section("PROS (screener.in):"),
@@ -165,23 +141,18 @@ def split_blocks(section_text: str) -> list[str]:
     return [b for b in blocks if b.strip()]
 
 
-@st.cache_data(show_spinner=False, ttl=900)
+@st.cache_data(show_spinner=False)
 def parse_summary(text: str) -> dict:
     generated = re.search(r"generated\s+(.+)$", text, flags=re.M)
     pov_hits  = re.search(r"Pure_on_Volume hits \(BUY\):\s+(\d+)", text)
     rec       = re.search(r"Recommendations:\s+(\d+)\s+BUY\s+\+\s+(\d+)\s+SELL", text)
 
-    # Flexible Top-N matching — the pipeline currently writes "Top 20
-    # BUY candidates:" / "Top 20 SELL candidates ..." but historically
-    # used "Top 10". Match any positive integer so the dashboard keeps
-    # working regardless of how many picks the pipeline emits.
     buy_sec  = re.search(
-        r"Top\s+\d+\s+BUY candidates:.*?\n-+\n(.*?)"
-        r"(?=Top\s+\d+\s+SELL candidates|\Z)",
+        r"Top 10 BUY candidates:.*?\n-+\n(.*?)(?=Top 10 SELL candidates|\Z)",
         text, flags=re.S,
     )
     sell_sec = re.search(
-        r"Top\s+\d+\s+SELL candidates.*?\n-+\n(.*?)(?=\n—|\Z)",
+        r"Top 10 SELL candidates.*?\n-+\n(.*?)(?=\n—|\Z)",
         text, flags=re.S,
     )
 
@@ -208,6 +179,7 @@ if not SUMMARY_PATH.exists():
 
 text = SUMMARY_PATH.read_text(encoding="utf-8")
 data = parse_summary(text)
+
 
 # ─────────────────────────────────────────── Header ────────────────────────────
 st.markdown("# 📈 Stocks in Trend")
@@ -242,25 +214,6 @@ def render_signals(items: list[str], kind: str) -> None:
     st.markdown(html, unsafe_allow_html=True)
 
 
-def render_trade_plan(tp: dict) -> None:
-    """Render the BUY trade-management block (entry / stops / target)."""
-    if not tp or not any(tp.values()):
-        return
-    entry = tp.get("entry") or "—"
-    strict_sl = tp.get("strict_sl") or "—"
-    best_sl = tp.get("best_sl") or "—"
-    target_1 = tp.get("target_1") or "—"
-    st.markdown(
-        '<div class="trade-plan">'
-        f'<b>Entry</b> above <span class="tp-entry">{entry}</span>'
-        f' · <b>Strict SL</b> <span class="tp-sl">{strict_sl}</span>'
-        f' · <b>Best SL</b> <span class="tp-sl">{best_sl}</span>'
-        f' · <b>Target-1</b> <span class="tp-target">{target_1}</span>'
-        '</div>',
-        unsafe_allow_html=True,
-    )
-
-
 def render_card(stock: dict, kind: str) -> None:
     pct = stock["change_pct"]
     pct_str = f"+{pct:.2f}%" if pct > 0 else f"{pct:.2f}%"
@@ -276,7 +229,7 @@ def render_card(stock: dict, kind: str) -> None:
     net_str = f"+{net}" if net > 0 else f"{net}"
 
     with st.container(border=True):
-        h1, h2 = st.columns([2, 2])
+        h1, h2 = st.columns([3, 1.2])
         with h1:
             st.markdown(
                 f'<div class="stock-symbol">{stock["symbol"]}</div>'
@@ -292,10 +245,6 @@ def render_card(stock: dict, kind: str) -> None:
             f'<span class="meta-pill">net <span class="{net_class}">{net_str}</span></span>',
             unsafe_allow_html=True,
         )
-
-        # BUY-only: trade-management plan
-        if kind == "buy":
-            render_trade_plan(stock.get("trade_plan") or {})
 
         render_signals(stock["signal_pros"], "pro")
         render_signals(stock["signal_cons"], "con")
@@ -351,6 +300,7 @@ with raw_tab:
         mime="text/plain",
     )
 
+
 # ─────────────────────────────────────────── Footer ────────────────────────────
 st.divider()
 st.caption(
@@ -358,8 +308,5 @@ st.caption(
     "screen — HVQ / HVY / HVE volume breakouts gated by liquidity. Pros & cons "
     "(signals) are derived from price/volume panel data: 52-week position, SMA "
     "stack, returns, volatility, delivery & volume trend, CLV. Pros & cons "
-    "(screener.in) are scraped from the company's screener.in page. "
-    "BUY trade plan: Entry = fib-0.55 of today's range; Strict SL = fib-0.44 "
-    "of prev day's range; Best SL = previous 1-week swing low; "
-    "Target-1 = prev_high + (prev_high - prev_low)."
+    "(screener.in) are scraped from the company's screener.in page."
 )
