@@ -3,7 +3,7 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-05-12 08:36 IST
+NSE bhavcopy analysis — generated 2026-05-12 08:52 IST
 ============================================================
 
 Pure_on_Volume hits (BUY): 42
@@ -14,11 +14,14 @@ Top 20 BUY candidates:
   • SASKEN          (Sasken Technologies Ltd       )  close ₹1634.60  +20.00%  bias STRONG_BUY
         → STRONG BUY (tech=STRONG_BUY, signal net +8)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹1565.16  [today H/L ₹1634.60 / ₹1480.30, fib 0.55]
-          - Strict stop-loss:      ₹1529.16  [fib 38.2%]
-          - Best stop-loss:        ₹1323.48  [fib 23.6%]
+          - Entry zone (probable): above ₹1565.16
+          - Strict stop-loss:      ₹1529.16
+          - Best stop-loss:        ₹1323.48
           - Target-1 (50.0%):      ₹1695.40
           - Target-2 (61.8%):      ₹1861.64
+          - Target-3 (150%):       ₹3104.20
+          - Target-4 (161.8%):     ₹3270.44
+          - Target-5 (261.8%):     ₹4679.24
           - Swing anchor:          low ₹991.00  ↔  high ₹2399.80
         PROS (signals):
           - Trading near 52-week high (100% of range)
@@ -47,7 +50,7 @@ Top 20 BUY candidates:
   • PURPLEUTED      (PURPLEUTED                    )  close ₹376.75  +10.00%  bias STRONG_BUY
         → STRONG BUY (tech=STRONG_BUY, signal net +7)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹361.11  [today H/L ₹376.75 / ₹342.00, fib 0.55]
+          - Entry zone (probable): above ₹361.11
         PROS (signals):
           - Upper third of 52-week range (79%)
           - +215% off 52-week low (turnaround)
@@ -65,11 +68,14 @@ Top 20 BUY candidates:
   • TEXINFRA        (Texmaco Infrastructure & Holdi)  close ₹103.80  +1.41%  bias STRONG_BUY
         → STRONG BUY (tech=STRONG_BUY, signal net +7)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹101.93  [today H/L ₹103.99 / ₹99.41, fib 0.55]
-          - Strict stop-loss:      ₹101.29  [fib 78.6%]
-          - Best stop-loss:        ₹99.85  [fib 72.6%]
+          - Entry zone (probable): above ₹101.93
+          - Strict stop-loss:      ₹101.29
+          - Best stop-loss:        ₹99.85
           - Target-1 (50.0%):      ₹94.45
           - Target-2 (61.8%):      ₹97.27
+          - Target-3 (150%):       ₹118.35
+          - Target-4 (161.8%):     ₹121.17
+          - Target-5 (261.8%):     ₹145.07
           - Swing anchor:          low ₹82.50  ↔  high ₹106.40
         PROS (signals):
           - Upper third of 52-week range (71%)
@@ -93,11 +99,14 @@ Top 20 BUY candidates:
   • PARACABLES      (Paramount Communications Ltd  )  close ₹60.07  +8.96%  bias STRONG_BUY
         → STRONG BUY (tech=STRONG_BUY, signal net +8)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹57.83  [today H/L ₹60.64 / ₹54.40, fib 0.55]
-          - Strict stop-loss:      ₹55.93  [fib 38.2%]
-          - Best stop-loss:        ₹45.37  [fib 23.6%]
+          - Entry zone (probable): above ₹57.83
+          - Strict stop-loss:      ₹55.93
+          - Best stop-loss:        ₹45.37
           - Target-1 (50.0%):      ₹64.47
           - Target-2 (61.8%):      ₹73.00
+          - Target-3 (150%):       ₹136.80
+          - Target-4 (161.8%):     ₹145.33
+          - Target-5 (261.8%):     ₹217.66
           - Swing anchor:          low ₹28.30  ↔  high ₹100.63
         PROS (signals):
           - Trading near 52-week high (92% of range)
@@ -126,11 +135,14 @@ Top 20 BUY candidates:
   • TATACONSUM      (Tata Consumer Products Ltd    )  close ₹1271.00  +8.06%  bias STRONG_BUY
         → STRONG BUY (tech=STRONG_BUY, signal net +8)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹1243.67  [today H/L ₹1279.40 / ₹1200.00, fib 0.55]
-          - Strict stop-loss:      ₹1220.90  [fib 100.0%]
-          - Best stop-loss:        ₹1175.17  [fib 78.6%]
+          - Entry zone (probable): above ₹1243.67
+          - Strict stop-loss:      ₹1220.90
+          - Best stop-loss:        ₹1175.17
           - Target-1 (50.0%):      ₹1114.05
           - Target-2 (61.8%):      ₹1139.27
+          - Target-3 (150%):       ₹1327.75
+          - Target-4 (161.8%):     ₹1352.97
+          - Target-5 (261.8%):     ₹1566.67
           - Swing anchor:          low ₹1007.20  ↔  high ₹1220.90
         PROS (signals):
           - Trading near 52-week high (97% of range)
@@ -153,11 +165,14 @@ Top 20 BUY candidates:
   • DANISH          (Danish Power Ltd              )  close ₹902.20  +7.61%  bias STRONG_BUY
         → STRONG BUY (tech=STRONG_BUY, signal net +5)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹871.70  [today H/L ₹914.00 / ₹820.00, fib 0.55]
-          - Strict stop-loss:      ₹852.72  [fib 78.6%]
-          - Best stop-loss:        ₹829.65  [fib 72.6%]
+          - Entry zone (probable): above ₹871.70
+          - Strict stop-loss:      ₹852.72
+          - Best stop-loss:        ₹829.65
           - Target-1 (50.0%):      ₹742.75
           - Target-2 (61.8%):      ₹788.12
+          - Target-3 (150%):       ₹1127.25
+          - Target-4 (161.8%):     ₹1172.62
+          - Target-5 (261.8%):     ₹1557.12
           - Swing anchor:          low ₹550.50  ↔  high ₹935.00
         PROS (signals):
           - +37% over the last month
@@ -179,11 +194,14 @@ Top 20 BUY candidates:
   • HERITGFOOD      (Heritage Foods Ltd            )  close ₹378.30  +4.33%  bias STRONG_BUY
         → STRONG BUY (tech=STRONG_BUY, signal net +4)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹371.37  [today H/L ₹381.20 / ₹359.35, fib 0.55]
-          - Strict stop-loss:      ₹350.95  [fib 23.6%]
-          - Best stop-loss:        ₹292.55  [fib 0.0%]
+          - Entry zone (probable): above ₹371.37
+          - Strict stop-loss:      ₹350.95
+          - Best stop-loss:        ₹292.55
           - Target-1 (50.0%):      ₹416.27
           - Target-2 (61.8%):      ₹445.47
+          - Target-3 (150%):       ₹663.72
+          - Target-4 (161.8%):     ₹692.92
+          - Target-5 (261.8%):     ₹940.37
           - Swing anchor:          low ₹292.55  ↔  high ₹540.00
         PROS (signals):
           - +16% over the last month
@@ -199,11 +217,14 @@ Top 20 BUY candidates:
   • ISEC            (ICICI Securities Ltd          )  close ₹896.20  +1.70%  bias STRONG_BUY
         → STRONG BUY (tech=STRONG_BUY, signal net +9)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹889.78  [today H/L ₹899.10 / ₹878.40, fib 0.55]
-          - Strict stop-loss:      ₹893.68  [fib 78.6%]
-          - Best stop-loss:        ₹885.61  [fib 72.6%]
+          - Entry zone (probable): above ₹889.78
+          - Strict stop-loss:      ₹893.68
+          - Best stop-loss:        ₹885.61
           - Target-1 (50.0%):      ₹855.23
           - Target-2 (61.8%):      ₹871.09
+          - Target-3 (150%):       ₹989.68
+          - Target-4 (161.8%):     ₹1005.54
+          - Target-5 (261.8%):     ₹1139.99
           - Swing anchor:          low ₹788.00  ↔  high ₹922.45
         PROS (signals):
           - Trading near 52-week high (90% of range)
@@ -228,11 +249,14 @@ Top 20 BUY candidates:
   • UTSSAV          (Utssav CZ Gold Jewels Ltd     )  close ₹258.70  +1.51%  bias STRONG_BUY
         → STRONG BUY (tech=STRONG_BUY, signal net +6)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹250.01  [today H/L ₹262.70 / ₹234.50, fib 0.55]
-          - Strict stop-loss:      ₹256.00  [fib 100.0%]
-          - Best stop-loss:        ₹238.99  [fib 78.6%]
+          - Entry zone (probable): above ₹250.01
+          - Strict stop-loss:      ₹256.00
+          - Best stop-loss:        ₹238.99
           - Target-1 (50.0%):      ₹216.25
           - Target-2 (61.8%):      ₹225.63
+          - Target-3 (150%):       ₹295.75
+          - Target-4 (161.8%):     ₹305.13
+          - Target-5 (261.8%):     ₹384.63
           - Swing anchor:          low ₹176.50  ↔  high ₹256.00
         PROS (signals):
           - Upper third of 52-week range (84%)
@@ -247,11 +271,14 @@ Top 20 BUY candidates:
   • KIMS            (Krishna Institute of Medical S)  close ₹777.85  +8.40%  bias STRONG_BUY
         → STRONG BUY (tech=STRONG_BUY, signal net +6)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹754.57  [today H/L ₹791.15 / ₹709.85, fib 0.55]
-          - Strict stop-loss:      ₹757.50  [fib 100.0%]
-          - Best stop-loss:        ₹718.62  [fib 78.6%]
+          - Entry zone (probable): above ₹754.57
+          - Strict stop-loss:      ₹757.50
+          - Best stop-loss:        ₹718.62
           - Target-1 (50.0%):      ₹666.65
           - Target-2 (61.8%):      ₹688.09
+          - Target-3 (150%):       ₹848.35
+          - Target-4 (161.8%):     ₹869.79
+          - Target-5 (261.8%):     ₹1051.49
           - Swing anchor:          low ₹575.80  ↔  high ₹757.50
         PROS (signals):
           - Trading near 52-week high (91% of range)
@@ -271,11 +298,14 @@ Top 20 BUY candidates:
   • UJJIVAN         (Ujjivan Financial Services Ltd)  close ₹589.50  +2.62%  bias STRONG_BUY
         → STRONG BUY (tech=STRONG_BUY, signal net +7)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹583.94  [today H/L ₹592.90 / ₹573.00, fib 0.55]
-          - Strict stop-loss:      ₹582.24  [fib 78.6%]
-          - Best stop-loss:        ₹573.11  [fib 72.6%]
+          - Entry zone (probable): above ₹583.94
+          - Strict stop-loss:      ₹582.24
+          - Best stop-loss:        ₹573.11
           - Target-1 (50.0%):      ₹538.72
           - Target-2 (61.8%):      ₹556.68
+          - Target-3 (150%):       ₹690.88
+          - Target-4 (161.8%):     ₹708.83
+          - Target-5 (261.8%):     ₹860.98
           - Swing anchor:          low ₹462.65  ↔  high ₹614.80
         PROS (signals):
           - Trading near 52-week high (91% of range)
@@ -297,7 +327,7 @@ Top 20 BUY candidates:
   • SURAKSHA        (Suraksha Diagnostic Ltd       )  close ₹307.10  +5.08%  bias STRONG_BUY
         → STRONG BUY (tech=STRONG_BUY, signal net +4)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹301.74  [today H/L ₹312.00 / ₹289.20, fib 0.55]
+          - Entry zone (probable): above ₹301.74
         PROS (signals):
           - +17% over the last month
           - Trading above the 200-day SMA
@@ -314,7 +344,7 @@ Top 20 BUY candidates:
   • PRABHA          (Prabha Energy Ltd             )  close ₹170.62  +6.86%  bias STRONG_BUY
         → HOLD / MIXED (tech=STRONG_BUY, signal net -1)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹167.37  [today H/L ₹173.80 / ₹159.52, fib 0.55]
+          - Entry zone (probable): above ₹167.37
         PROS (signals):
           - Volume highest in 1 year (HVY)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
@@ -334,11 +364,14 @@ Top 20 BUY candidates:
   • KRISHNADEF      (Krishna Defence & Allied Indus)  close ₹1281.10  +7.34%  bias STRONG_BUY
         → STRONG BUY (tech=STRONG_BUY, signal net +8)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹1250.99  [today H/L ₹1313.00 / ₹1175.20, fib 0.55]
-          - Strict stop-loss:      ₹1200.00  [fib 100.0%]
-          - Best stop-loss:        ₹1085.51  [fib 78.6%]
+          - Entry zone (probable): above ₹1250.99
+          - Strict stop-loss:      ₹1200.00
+          - Best stop-loss:        ₹1085.51
           - Target-1 (50.0%):      ₹932.50
           - Target-2 (61.8%):      ₹995.63
+          - Target-3 (150%):       ₹1467.50
+          - Target-4 (161.8%):     ₹1530.63
+          - Target-5 (261.8%):     ₹2065.63
           - Swing anchor:          low ₹665.00  ↔  high ₹1200.00
         PROS (signals):
           - Trading near 52-week high (95% of range)
@@ -362,11 +395,14 @@ Top 20 BUY candidates:
   • VMARCIND        (V-Marc India Ltd              )  close ₹1133.60  +11.25%  bias STRONG_BUY
         → STRONG BUY (tech=STRONG_BUY, signal net +7)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹1100.25  [today H/L ₹1170.00 / ₹1015.00, fib 0.55]
-          - Strict stop-loss:      ₹1030.00  [fib 100.0%]
-          - Best stop-loss:        ₹824.49  [fib 78.6%]
+          - Entry zone (probable): above ₹1100.25
+          - Strict stop-loss:      ₹1030.00
+          - Best stop-loss:        ₹824.49
           - Target-1 (50.0%):      ₹549.83
           - Target-2 (61.8%):      ₹663.15
+          - Target-3 (150%):       ₹1510.18
+          - Target-4 (161.8%):     ₹1623.50
+          - Target-5 (261.8%):     ₹2583.85
           - Swing anchor:          low ₹69.65  ↔  high ₹1030.00
         PROS (signals):
           - Trading near 52-week high (96% of range)
@@ -395,11 +431,14 @@ Top 20 BUY candidates:
   • LLOYDSENGG      (Lloyds Engineering Works Ltd  )  close ₹66.16  +5.23%  bias STRONG_BUY
         → STRONG BUY (tech=STRONG_BUY, signal net +5)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹64.94  [today H/L ₹67.50 / ₹61.80, fib 0.55]
-          - Strict stop-loss:      ₹60.57  [fib 100.0%]
-          - Best stop-loss:        ₹55.61  [fib 78.6%]
+          - Entry zone (probable): above ₹64.94
+          - Strict stop-loss:      ₹60.57
+          - Best stop-loss:        ₹55.61
           - Target-1 (50.0%):      ₹48.98
           - Target-2 (61.8%):      ₹51.72
+          - Target-3 (150%):       ₹72.16
+          - Target-4 (161.8%):     ₹74.89
+          - Target-5 (261.8%):     ₹98.06
           - Swing anchor:          low ₹37.40  ↔  high ₹60.57
         PROS (signals):
           - +34% over the last month
@@ -418,11 +457,14 @@ Top 20 BUY candidates:
   • AFFLE           (Affle 3i Ltd                  )  close ₹1637.50  +8.71%  bias STRONG_BUY
         → STRONG BUY (tech=STRONG_BUY, signal net +3)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹1596.09  [today H/L ₹1686.00 / ₹1486.20, fib 0.55]
-          - Strict stop-loss:      ₹1608.32  [fib 38.2%]
-          - Best stop-loss:        ₹1471.87  [fib 23.6%]
+          - Entry zone (probable): above ₹1596.09
+          - Strict stop-loss:      ₹1608.32
+          - Best stop-loss:        ₹1471.87
           - Target-1 (50.0%):      ₹1718.60
           - Target-2 (61.8%):      ₹1828.88
+          - Target-3 (150%):       ₹2653.20
+          - Target-4 (161.8%):     ₹2763.48
+          - Target-5 (261.8%):     ₹3698.08
           - Swing anchor:          low ₹1251.30  ↔  high ₹2185.90
         PROS (signals):
           - +16% over the last month
@@ -447,7 +489,7 @@ Top 20 BUY candidates:
   • MARKOLINES      (MARKOLINES                    )  close ₹165.72  +3.47%  bias STRONG_BUY
         → STRONG BUY (tech=STRONG_BUY, signal net +5)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹164.08  [today H/L ₹167.74 / ₹159.61, fib 0.55]
+          - Entry zone (probable): above ₹164.08
         PROS (signals):
           - Trading above the 200-day SMA
           - Low volatility (20% annualised) with uptrend
@@ -458,10 +500,13 @@ Top 20 BUY candidates:
   • MAPMYINDIA      (C.E. Info Systems Ltd         )  close ₹1077.00  +12.60%  bias BUY
         → HOLD / MIXED (tech=BUY, signal net 0)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹1038.30  [today H/L ₹1126.90 / ₹930.00, fib 0.55]
-          - Strict stop-loss:      ₹795.00  [fib 0.0%]
+          - Entry zone (probable): above ₹1038.30
+          - Strict stop-loss:      ₹795.00
           - Target-1 (50.0%):      ₹1480.85
           - Target-2 (61.8%):      ₹1642.71
+          - Target-3 (150%):       ₹2852.55
+          - Target-4 (161.8%):     ₹3014.41
+          - Target-5 (261.8%):     ₹4386.11
           - Swing anchor:          low ₹795.00  ↔  high ₹2166.70
         PROS (signals):
           - Volume surge — 5d avg is 4.2× the 30d avg
@@ -487,11 +532,14 @@ Top 20 BUY candidates:
   • MUNJALAU        (Munjal Auto Industries Ltd    )  close ₹93.65  +9.72%  bias BUY
         → STRONG BUY (tech=BUY, signal net +5)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹91.67  [today H/L ₹96.49 / ₹85.77, fib 0.55]
-          - Strict stop-loss:      ₹90.88  [fib 50.0%]
-          - Best stop-loss:        ₹85.29  [fib 38.2%]
+          - Entry zone (probable): above ₹91.67
+          - Strict stop-loss:      ₹90.88
+          - Best stop-loss:        ₹85.29
           - Target-1 (50.0%):      ₹90.88
           - Target-2 (61.8%):      ₹96.46
+          - Target-3 (150%):       ₹138.22
+          - Target-4 (161.8%):     ₹143.81
+          - Target-5 (261.8%):     ₹191.16
           - Swing anchor:          low ₹67.20  ↔  high ₹114.55
         PROS (signals):
           - +22% over the last month
@@ -883,5 +931,8 @@ Top 20 SELL candidates (high-volume distribution):
     Entry zone (probable) = today_low + 0.55 × (today_high − today_low)  — enter only above this level.
     Strict stop-loss      = closest fib level (0.236 / 0.382 / 0.500 / 0.618 / 0.726 / 0.786) strictly BELOW today's close.
     Best stop-loss        = the next fib level BELOW the strict stop-loss (one level deeper).
-    Target-1              = 50.0 % fib level of the latest swing  (swing_low + 0.500 × swing_range).
-    Target-2              = 61.8 % fib level of the latest swing  (swing_low + 0.618 × swing_range).
+    Target-1              = 50.0 %  retracement  (swing_low + 0.500 × swing_range).
+    Target-2              = 61.8 %  retracement  (swing_low + 0.618 × swing_range).
+    Target-3              = 150 %   extension    (swing_low + 1.500 × swing_range).
+    Target-4              = 161.8 % extension    (swing_low + 1.618 × swing_range — golden ext.).
+    Target-5              = 261.8 % extension    (swing_low + 2.618 × swing_range — deep ext.).
