@@ -3,7 +3,7 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-05-12 08:18 IST
+NSE bhavcopy analysis — generated 2026-05-12 08:36 IST
 ============================================================
 
 Pure_on_Volume hits (BUY): 42
@@ -15,9 +15,11 @@ Top 20 BUY candidates:
         → STRONG BUY (tech=STRONG_BUY, signal net +8)
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹1565.16  [today H/L ₹1634.60 / ₹1480.30, fib 0.55]
-          - Strict stop-loss:      ₹1361.22
-          - Best stop-loss:        ₹1278.55  [swing low − 3.14 %]
-          - Target-1:              ₹1599.82  [entry + 50 % of 5-day swing]
+          - Strict stop-loss:      ₹1529.16  [fib 38.2%]
+          - Best stop-loss:        ₹1323.48  [fib 23.6%]
+          - Target-1 (50.0%):      ₹1695.40
+          - Target-2 (61.8%):      ₹1861.64
+          - Swing anchor:          low ₹991.00  ↔  high ₹2399.80
         PROS (signals):
           - Trading near 52-week high (100% of range)
           - +32% over the last month
@@ -46,9 +48,6 @@ Top 20 BUY candidates:
         → STRONG BUY (tech=STRONG_BUY, signal net +7)
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹361.11  [today H/L ₹376.75 / ₹342.00, fib 0.55]
-          - Strict stop-loss:      ₹316.49
-          - Best stop-loss:        ₹253.00  [swing low − 3.14 %]
-          - Target-1:              ₹401.76  [entry + 50 % of 5-day swing]
         PROS (signals):
           - Upper third of 52-week range (79%)
           - +215% off 52-week low (turnaround)
@@ -67,9 +66,11 @@ Top 20 BUY candidates:
         → STRONG BUY (tech=STRONG_BUY, signal net +7)
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹101.93  [today H/L ₹103.99 / ₹99.41, fib 0.55]
-          - Strict stop-loss:      ₹102.43
-          - Best stop-loss:        ₹93.09  [swing low − 3.14 %]
-          - Target-1:              ₹107.07  [entry + 50 % of 5-day swing]
+          - Strict stop-loss:      ₹101.29  [fib 78.6%]
+          - Best stop-loss:        ₹99.85  [fib 72.6%]
+          - Target-1 (50.0%):      ₹94.45
+          - Target-2 (61.8%):      ₹97.27
+          - Swing anchor:          low ₹82.50  ↔  high ₹106.40
         PROS (signals):
           - Upper third of 52-week range (71%)
           - Trading above the 200-day SMA
@@ -93,9 +94,11 @@ Top 20 BUY candidates:
         → STRONG BUY (tech=STRONG_BUY, signal net +8)
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹57.83  [today H/L ₹60.64 / ₹54.40, fib 0.55]
-          - Strict stop-loss:      ₹51.09
-          - Best stop-loss:        ₹37.94  [swing low − 3.14 %]
-          - Target-1:              ₹66.07  [entry + 50 % of 5-day swing]
+          - Strict stop-loss:      ₹55.93  [fib 38.2%]
+          - Best stop-loss:        ₹45.37  [fib 23.6%]
+          - Target-1 (50.0%):      ₹64.47
+          - Target-2 (61.8%):      ₹73.00
+          - Swing anchor:          low ₹28.30  ↔  high ₹100.63
         PROS (signals):
           - Trading near 52-week high (92% of range)
           - +61% over the last month
@@ -124,9 +127,11 @@ Top 20 BUY candidates:
         → STRONG BUY (tech=STRONG_BUY, signal net +8)
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹1243.67  [today H/L ₹1279.40 / ₹1200.00, fib 0.55]
-          - Strict stop-loss:      ₹1172.16
-          - Best stop-loss:        ₹1099.94  [swing low − 3.14 %]
-          - Target-1:              ₹1272.87  [entry + 50 % of 5-day swing]
+          - Strict stop-loss:      ₹1220.90  [fib 100.0%]
+          - Best stop-loss:        ₹1175.17  [fib 78.6%]
+          - Target-1 (50.0%):      ₹1114.05
+          - Target-2 (61.8%):      ₹1139.27
+          - Swing anchor:          low ₹1007.20  ↔  high ₹1220.90
         PROS (signals):
           - Trading near 52-week high (97% of range)
           - +19% over the last month
@@ -149,9 +154,11 @@ Top 20 BUY candidates:
         → STRONG BUY (tech=STRONG_BUY, signal net +5)
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹871.70  [today H/L ₹914.00 / ₹820.00, fib 0.55]
-          - Strict stop-loss:      ₹848.61
-          - Best stop-loss:        ₹716.86  [swing low − 3.14 %]
-          - Target-1:              ₹965.65  [entry + 50 % of 5-day swing]
+          - Strict stop-loss:      ₹852.72  [fib 78.6%]
+          - Best stop-loss:        ₹829.65  [fib 72.6%]
+          - Target-1 (50.0%):      ₹742.75
+          - Target-2 (61.8%):      ₹788.12
+          - Swing anchor:          low ₹550.50  ↔  high ₹935.00
         PROS (signals):
           - +37% over the last month
           - +46% over the last 3 months
@@ -173,9 +180,11 @@ Top 20 BUY candidates:
         → STRONG BUY (tech=STRONG_BUY, signal net +4)
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹371.37  [today H/L ₹381.20 / ₹359.35, fib 0.55]
-          - Strict stop-loss:      ₹361.73
-          - Best stop-loss:        ₹342.40  [swing low − 3.14 %]
-          - Target-1:              ₹378.47  [entry + 50 % of 5-day swing]
+          - Strict stop-loss:      ₹350.95  [fib 23.6%]
+          - Best stop-loss:        ₹292.55  [fib 0.0%]
+          - Target-1 (50.0%):      ₹416.27
+          - Target-2 (61.8%):      ₹445.47
+          - Swing anchor:          low ₹292.55  ↔  high ₹540.00
         PROS (signals):
           - +16% over the last month
           - Volume highest in 3 months (HVQ)
@@ -191,9 +200,11 @@ Top 20 BUY candidates:
         → STRONG BUY (tech=STRONG_BUY, signal net +9)
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹889.78  [today H/L ₹899.10 / ₹878.40, fib 0.55]
-          - Strict stop-loss:      ₹879.01
-          - Best stop-loss:        ₹804.13  [swing low − 3.14 %]
-          - Target-1:              ₹924.18  [entry + 50 % of 5-day swing]
+          - Strict stop-loss:      ₹893.68  [fib 78.6%]
+          - Best stop-loss:        ₹885.61  [fib 72.6%]
+          - Target-1 (50.0%):      ₹855.23
+          - Target-2 (61.8%):      ₹871.09
+          - Swing anchor:          low ₹788.00  ↔  high ₹922.45
         PROS (signals):
           - Trading near 52-week high (90% of range)
           - Bullish SMA stack (close > 20 > 50 > 200)
@@ -218,9 +229,11 @@ Top 20 BUY candidates:
         → STRONG BUY (tech=STRONG_BUY, signal net +6)
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹250.01  [today H/L ₹262.70 / ₹234.50, fib 0.55]
-          - Strict stop-loss:      ₹251.40
-          - Best stop-loss:        ₹234.40  [swing low − 3.14 %]
-          - Target-1:              ₹257.01  [entry + 50 % of 5-day swing]
+          - Strict stop-loss:      ₹256.00  [fib 100.0%]
+          - Best stop-loss:        ₹238.99  [fib 78.6%]
+          - Target-1 (50.0%):      ₹216.25
+          - Target-2 (61.8%):      ₹225.63
+          - Swing anchor:          low ₹176.50  ↔  high ₹256.00
         PROS (signals):
           - Upper third of 52-week range (84%)
           - +18% over the last month
@@ -235,9 +248,11 @@ Top 20 BUY candidates:
         → STRONG BUY (tech=STRONG_BUY, signal net +6)
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹754.57  [today H/L ₹791.15 / ₹709.85, fib 0.55]
-          - Strict stop-loss:      ₹712.49
-          - Best stop-loss:        ₹642.18  [swing low − 3.14 %]
-          - Target-1:              ₹783.67  [entry + 50 % of 5-day swing]
+          - Strict stop-loss:      ₹757.50  [fib 100.0%]
+          - Best stop-loss:        ₹718.62  [fib 78.6%]
+          - Target-1 (50.0%):      ₹666.65
+          - Target-2 (61.8%):      ₹688.09
+          - Swing anchor:          low ₹575.80  ↔  high ₹757.50
         PROS (signals):
           - Trading near 52-week high (91% of range)
           - +17% over the last month
@@ -257,9 +272,11 @@ Top 20 BUY candidates:
         → STRONG BUY (tech=STRONG_BUY, signal net +7)
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹583.94  [today H/L ₹592.90 / ₹573.00, fib 0.55]
-          - Strict stop-loss:      ₹570.08
-          - Best stop-loss:        ₹534.86  [swing low − 3.14 %]
-          - Target-1:              ₹597.04  [entry + 50 % of 5-day swing]
+          - Strict stop-loss:      ₹582.24  [fib 78.6%]
+          - Best stop-loss:        ₹573.11  [fib 72.6%]
+          - Target-1 (50.0%):      ₹538.72
+          - Target-2 (61.8%):      ₹556.68
+          - Swing anchor:          low ₹462.65  ↔  high ₹614.80
         PROS (signals):
           - Trading near 52-week high (91% of range)
           - +77% over the year
@@ -281,9 +298,6 @@ Top 20 BUY candidates:
         → STRONG BUY (tech=STRONG_BUY, signal net +4)
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹301.74  [today H/L ₹312.00 / ₹289.20, fib 0.55]
-          - Strict stop-loss:      ₹291.41
-          - Best stop-loss:        ₹271.21  [swing low − 3.14 %]
-          - Target-1:              ₹311.24  [entry + 50 % of 5-day swing]
         PROS (signals):
           - +17% over the last month
           - Trading above the 200-day SMA
@@ -301,9 +315,6 @@ Top 20 BUY candidates:
         → HOLD / MIXED (tech=STRONG_BUY, signal net -1)
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹167.37  [today H/L ₹173.80 / ₹159.52, fib 0.55]
-          - Strict stop-loss:      ₹161.12
-          - Best stop-loss:        ₹149.37  [swing low − 3.14 %]
-          - Target-1:              ₹173.12  [entry + 50 % of 5-day swing]
         PROS (signals):
           - Volume highest in 1 year (HVY)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
@@ -324,9 +335,11 @@ Top 20 BUY candidates:
         → STRONG BUY (tech=STRONG_BUY, signal net +8)
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹1250.99  [today H/L ₹1313.00 / ₹1175.20, fib 0.55]
-          - Strict stop-loss:      ₹1189.07
-          - Best stop-loss:        ₹989.91  [swing low − 3.14 %]
-          - Target-1:              ₹1361.49  [entry + 50 % of 5-day swing]
+          - Strict stop-loss:      ₹1200.00  [fib 100.0%]
+          - Best stop-loss:        ₹1085.51  [fib 78.6%]
+          - Target-1 (50.0%):      ₹932.50
+          - Target-2 (61.8%):      ₹995.63
+          - Swing anchor:          low ₹665.00  ↔  high ₹1200.00
         PROS (signals):
           - Trading near 52-week high (95% of range)
           - +38% over the last month
@@ -350,9 +363,11 @@ Top 20 BUY candidates:
         → STRONG BUY (tech=STRONG_BUY, signal net +7)
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹1100.25  [today H/L ₹1170.00 / ₹1015.00, fib 0.55]
-          - Strict stop-loss:      ₹1004.52
-          - Best stop-loss:        ₹896.25  [swing low − 3.14 %]
-          - Target-1:              ₹1150.10  [entry + 50 % of 5-day swing]
+          - Strict stop-loss:      ₹1030.00  [fib 100.0%]
+          - Best stop-loss:        ₹824.49  [fib 78.6%]
+          - Target-1 (50.0%):      ₹549.83
+          - Target-2 (61.8%):      ₹663.15
+          - Swing anchor:          low ₹69.65  ↔  high ₹1030.00
         PROS (signals):
           - Trading near 52-week high (96% of range)
           - +58% over the last month
@@ -381,9 +396,11 @@ Top 20 BUY candidates:
         → STRONG BUY (tech=STRONG_BUY, signal net +5)
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹64.94  [today H/L ₹67.50 / ₹61.80, fib 0.55]
-          - Strict stop-loss:      ₹62.84
-          - Best stop-loss:        ₹55.31  [swing low − 3.14 %]
-          - Target-1:              ₹68.64  [entry + 50 % of 5-day swing]
+          - Strict stop-loss:      ₹60.57  [fib 100.0%]
+          - Best stop-loss:        ₹55.61  [fib 78.6%]
+          - Target-1 (50.0%):      ₹48.98
+          - Target-2 (61.8%):      ₹51.72
+          - Swing anchor:          low ₹37.40  ↔  high ₹60.57
         PROS (signals):
           - +34% over the last month
           - Trading above the 200-day SMA
@@ -402,9 +419,11 @@ Top 20 BUY candidates:
         → STRONG BUY (tech=STRONG_BUY, signal net +3)
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹1596.09  [today H/L ₹1686.00 / ₹1486.20, fib 0.55]
-          - Strict stop-loss:      ₹1508.02
-          - Best stop-loss:        ₹1346.35  [swing low − 3.14 %]
-          - Target-1:              ₹1667.39  [entry + 50 % of 5-day swing]
+          - Strict stop-loss:      ₹1608.32  [fib 38.2%]
+          - Best stop-loss:        ₹1471.87  [fib 23.6%]
+          - Target-1 (50.0%):      ₹1718.60
+          - Target-2 (61.8%):      ₹1828.88
+          - Swing anchor:          low ₹1251.30  ↔  high ₹2185.90
         PROS (signals):
           - +16% over the last month
           - Volume surge — 5d avg is 3.5× the 30d avg
@@ -429,9 +448,6 @@ Top 20 BUY candidates:
         → STRONG BUY (tech=STRONG_BUY, signal net +5)
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹164.08  [today H/L ₹167.74 / ₹159.61, fib 0.55]
-          - Strict stop-loss:      ₹160.40
-          - Best stop-loss:        ₹146.27  [swing low − 3.14 %]
-          - Target-1:              ₹169.70  [entry + 50 % of 5-day swing]
         PROS (signals):
           - Trading above the 200-day SMA
           - Low volatility (20% annualised) with uptrend
@@ -443,9 +459,10 @@ Top 20 BUY candidates:
         → HOLD / MIXED (tech=BUY, signal net 0)
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹1038.30  [today H/L ₹1126.90 / ₹930.00, fib 0.55]
-          - Strict stop-loss:      ₹960.85
-          - Best stop-loss:        ₹893.82  [swing low − 3.14 %]
-          - Target-1:              ₹1067.72  [entry + 50 % of 5-day swing]
+          - Strict stop-loss:      ₹795.00  [fib 0.0%]
+          - Target-1 (50.0%):      ₹1480.85
+          - Target-2 (61.8%):      ₹1642.71
+          - Swing anchor:          low ₹795.00  ↔  high ₹2166.70
         PROS (signals):
           - Volume surge — 5d avg is 4.2× the 30d avg
           - Volume highest in 4 years (HVE) — strongest possible breakout signal
@@ -471,9 +488,11 @@ Top 20 BUY candidates:
         → STRONG BUY (tech=BUY, signal net +5)
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹91.67  [today H/L ₹96.49 / ₹85.77, fib 0.55]
-          - Strict stop-loss:      ₹85.64
-          - Best stop-loss:        ₹78.94  [swing low − 3.14 %]
-          - Target-1:              ₹94.66  [entry + 50 % of 5-day swing]
+          - Strict stop-loss:      ₹90.88  [fib 50.0%]
+          - Best stop-loss:        ₹85.29  [fib 38.2%]
+          - Target-1 (50.0%):      ₹90.88
+          - Target-2 (61.8%):      ₹96.46
+          - Swing anchor:          low ₹67.20  ↔  high ₹114.55
         PROS (signals):
           - +22% over the last month
           - Trading above the 200-day SMA
@@ -860,8 +879,9 @@ Top 20 SELL candidates (high-volume distribution):
   PROS / CONS (signals)   = derived from price/volume panel data (52-w position, SMA stack, returns, volatility, delivery & volume trend, CLV).
   PROS / CONS (screener.in) = scraped from the company's screener.in page — fundamentals & qualitative notes.
 
-  TRADE PLAN (BUY rows only):
-    Entry zone (probable) = today_low + 0.55 × (today_high - today_low)  — enter only above this level.
-    Strict stop-loss      = prev_low  + 0.44 × (prev_high - prev_low).
-    Best stop-loss        = swing_low_5d × (1 − 3.14 %)  — prior 5-day swing low with a 3.14 % cushion below.
-    Target-1              = entry_zone + 0.5 × (swing_high_5d − swing_low_5d)  — 50 % of the prior 5-day high-to-low swing above the entry zone.
+  TRADE PLAN (BUY rows only) — fib extension anchored to the most recent confirmed swing low (0 %) and swing high (100 %), ChartPrime zigzag (lookback = 100 bars):
+    Entry zone (probable) = today_low + 0.55 × (today_high − today_low)  — enter only above this level.
+    Strict stop-loss      = closest fib level (0.236 / 0.382 / 0.500 / 0.618 / 0.726 / 0.786) strictly BELOW today's close.
+    Best stop-loss        = the next fib level BELOW the strict stop-loss (one level deeper).
+    Target-1              = 50.0 % fib level of the latest swing  (swing_low + 0.500 × swing_range).
+    Target-2              = 61.8 % fib level of the latest swing  (swing_low + 0.618 × swing_range).
