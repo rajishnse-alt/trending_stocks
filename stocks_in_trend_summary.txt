@@ -3,7 +3,7 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-05-12 08:52 IST
+NSE bhavcopy analysis — generated 2026-05-12 09:08 IST
 ============================================================
 
 Pure_on_Volume hits (BUY): 42
@@ -71,8 +71,6 @@ Top 20 BUY candidates:
           - Entry zone (probable): above ₹101.93
           - Strict stop-loss:      ₹101.29
           - Best stop-loss:        ₹99.85
-          - Target-1 (50.0%):      ₹94.45
-          - Target-2 (61.8%):      ₹97.27
           - Target-3 (150%):       ₹118.35
           - Target-4 (161.8%):     ₹121.17
           - Target-5 (261.8%):     ₹145.07
@@ -138,8 +136,6 @@ Top 20 BUY candidates:
           - Entry zone (probable): above ₹1243.67
           - Strict stop-loss:      ₹1220.90
           - Best stop-loss:        ₹1175.17
-          - Target-1 (50.0%):      ₹1114.05
-          - Target-2 (61.8%):      ₹1139.27
           - Target-3 (150%):       ₹1327.75
           - Target-4 (161.8%):     ₹1352.97
           - Target-5 (261.8%):     ₹1566.67
@@ -168,8 +164,6 @@ Top 20 BUY candidates:
           - Entry zone (probable): above ₹871.70
           - Strict stop-loss:      ₹852.72
           - Best stop-loss:        ₹829.65
-          - Target-1 (50.0%):      ₹742.75
-          - Target-2 (61.8%):      ₹788.12
           - Target-3 (150%):       ₹1127.25
           - Target-4 (161.8%):     ₹1172.62
           - Target-5 (261.8%):     ₹1557.12
@@ -220,8 +214,6 @@ Top 20 BUY candidates:
           - Entry zone (probable): above ₹889.78
           - Strict stop-loss:      ₹893.68
           - Best stop-loss:        ₹885.61
-          - Target-1 (50.0%):      ₹855.23
-          - Target-2 (61.8%):      ₹871.09
           - Target-3 (150%):       ₹989.68
           - Target-4 (161.8%):     ₹1005.54
           - Target-5 (261.8%):     ₹1139.99
@@ -252,8 +244,6 @@ Top 20 BUY candidates:
           - Entry zone (probable): above ₹250.01
           - Strict stop-loss:      ₹256.00
           - Best stop-loss:        ₹238.99
-          - Target-1 (50.0%):      ₹216.25
-          - Target-2 (61.8%):      ₹225.63
           - Target-3 (150%):       ₹295.75
           - Target-4 (161.8%):     ₹305.13
           - Target-5 (261.8%):     ₹384.63
@@ -274,8 +264,6 @@ Top 20 BUY candidates:
           - Entry zone (probable): above ₹754.57
           - Strict stop-loss:      ₹757.50
           - Best stop-loss:        ₹718.62
-          - Target-1 (50.0%):      ₹666.65
-          - Target-2 (61.8%):      ₹688.09
           - Target-3 (150%):       ₹848.35
           - Target-4 (161.8%):     ₹869.79
           - Target-5 (261.8%):     ₹1051.49
@@ -301,8 +289,6 @@ Top 20 BUY candidates:
           - Entry zone (probable): above ₹583.94
           - Strict stop-loss:      ₹582.24
           - Best stop-loss:        ₹573.11
-          - Target-1 (50.0%):      ₹538.72
-          - Target-2 (61.8%):      ₹556.68
           - Target-3 (150%):       ₹690.88
           - Target-4 (161.8%):     ₹708.83
           - Target-5 (261.8%):     ₹860.98
@@ -367,8 +353,6 @@ Top 20 BUY candidates:
           - Entry zone (probable): above ₹1250.99
           - Strict stop-loss:      ₹1200.00
           - Best stop-loss:        ₹1085.51
-          - Target-1 (50.0%):      ₹932.50
-          - Target-2 (61.8%):      ₹995.63
           - Target-3 (150%):       ₹1467.50
           - Target-4 (161.8%):     ₹1530.63
           - Target-5 (261.8%):     ₹2065.63
@@ -398,8 +382,6 @@ Top 20 BUY candidates:
           - Entry zone (probable): above ₹1100.25
           - Strict stop-loss:      ₹1030.00
           - Best stop-loss:        ₹824.49
-          - Target-1 (50.0%):      ₹549.83
-          - Target-2 (61.8%):      ₹663.15
           - Target-3 (150%):       ₹1510.18
           - Target-4 (161.8%):     ₹1623.50
           - Target-5 (261.8%):     ₹2583.85
@@ -434,8 +416,6 @@ Top 20 BUY candidates:
           - Entry zone (probable): above ₹64.94
           - Strict stop-loss:      ₹60.57
           - Best stop-loss:        ₹55.61
-          - Target-1 (50.0%):      ₹48.98
-          - Target-2 (61.8%):      ₹51.72
           - Target-3 (150%):       ₹72.16
           - Target-4 (161.8%):     ₹74.89
           - Target-5 (261.8%):     ₹98.06
@@ -535,7 +515,6 @@ Top 20 BUY candidates:
           - Entry zone (probable): above ₹91.67
           - Strict stop-loss:      ₹90.88
           - Best stop-loss:        ₹85.29
-          - Target-1 (50.0%):      ₹90.88
           - Target-2 (61.8%):      ₹96.46
           - Target-3 (150%):       ₹138.22
           - Target-4 (161.8%):     ₹143.81

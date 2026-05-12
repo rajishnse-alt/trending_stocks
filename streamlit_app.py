@@ -1,16 +1,20 @@
 """
 Stocks in Trend — Streamlit dashboard.
+
 Reads `stocks_in_trend_summary.txt` (sitting next to this file) and renders the
-top BUY / SELL candidates as interactive cards.
+top 10 BUY / top 10 SELL candidates as interactive cards.
+
 Deploy: push this repo to GitHub, then https://share.streamlit.io → "New app"
 → point at repo + branch + main file = `streamlit_app.py`.
 """
+
 from __future__ import annotations
 
 import re
 from pathlib import Path
 
 import streamlit as st
+
 
 # ─────────────────────────────────────────── Page setup ────────────────────────
 st.set_page_config(
@@ -19,6 +23,7 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="collapsed",
 )
+
 st.markdown(
     """
     <style>
@@ -49,19 +54,6 @@ st.markdown(
         margin-top: 6px;
       }
       .fund-row b { color:#0f172a; }
-      .trade-plan {
-        font-family: 'JetBrains Mono', monospace; font-size: 12px; color:#1e3a8a;
-        background: rgba(59,130,246,0.10); padding: 10px 12px; border-radius: 8px;
-        margin-top: 6px; line-height: 1.65;
-      }
-      .trade-plan b           { color:#0f172a; }
-      .trade-plan .tp-entry   { color:#15803d; font-weight:700; }
-      .trade-plan .tp-sl      { color:#b91c1c; font-weight:700; }
-      .trade-plan .tp-target  { color:#1d4ed8; font-weight:700; }
-      .trade-plan .tp-row     { display:flex; flex-wrap:wrap; gap:14px 18px; }
-      .trade-plan .tp-cell    { white-space:nowrap; }
-      .trade-plan .tp-anchor  { color:#475569; font-size:11px; margin-top:6px;
-                                padding-top:6px; border-top:1px dashed rgba(100,116,139,0.25); }
       .group-head-pro { color:#15803d; font-size: 11px; font-weight:700; letter-spacing:.08em;
                         text-transform:uppercase; margin-top:10px; }
       .group-head-con { color:#b91c1c; font-size: 11px; font-weight:700; letter-spacing:.08em;
@@ -74,6 +66,7 @@ st.markdown(
     """,
     unsafe_allow_html=True,
 )
+
 
 # ─────────────────────────────────────────── Parser ────────────────────────────
 SUMMARY_PATH = Path(__file__).parent / "stocks_in_trend_summary.txt"
@@ -113,63 +106,6 @@ def parse_block(block: str) -> dict | None:
             if line.strip().startswith("-")
         ]
 
-    def grab_trade_plan() -> dict:
-        """Pull the BUY trade-management levels from the
-        'TRADE PLAN (BUY):' block if present.
-
-        Current format (ChartPrime swing fib, 5 targets):
-            - Entry zone (probable): above ₹X
-            - Strict stop-loss:      ₹X
-            - Best stop-loss:        ₹X
-            - Target-1 (50.0%):      ₹X      (retracement)
-            - Target-2 (61.8%):      ₹X      (retracement)
-            - Target-3 (150%):       ₹X      (extension)
-            - Target-4 (161.8%):     ₹X      (extension)
-            - Target-5 (261.8%):     ₹X      (extension)
-            - Swing anchor:          low ₹A  ↔  high ₹B
-
-        Returns empty strings for any field not present so the renderer
-        can gracefully degrade for older summary files.
-        """
-        out = {
-            "entry": "",
-            "strict_sl": "", "best_sl": "",
-            "target_1": "", "target_2": "",
-            "target_3": "", "target_4": "", "target_5": "",
-            "swing_low": "", "swing_high": "",
-        }
-        price = r"(₹[\d.,]+)"
-
-        # Entry zone
-        m = re.search(rf"Entry zone\s*\(probable\):\s+above\s+{price}", block)
-        if m:
-            out["entry"] = m.group(1)
-
-        # Stop-losses — plain price, no fib annotation
-        m = re.search(rf"Strict stop-loss:\s+{price}", block)
-        if m:
-            out["strict_sl"] = m.group(1)
-
-        m = re.search(rf"Best stop-loss:\s+{price}", block)
-        if m:
-            out["best_sl"] = m.group(1)
-
-        # Targets — labels carry the ratio in parens; capture the price.
-        for n in range(1, 6):
-            m = re.search(
-                rf"Target-{n}\s*(?:\([^)]+\))?:\s+{price}", block)
-            if m:
-                out[f"target_{n}"] = m.group(1)
-
-        # Swing anchor: "low ₹X  ↔  high ₹Y"
-        m = re.search(
-            rf"Swing anchor:\s+low\s+{price}\s+.+?\s+high\s+{price}", block)
-        if m:
-            out["swing_low"] = m.group(1)
-            out["swing_high"] = m.group(2)
-
-        return out
-
     fund_match = re.search(r"FUNDAMENTALS \(screener\.in\):\s+(.+)", block)
     url_match = re.search(r"(https?://www\.screener\.in/\S+)", block)
 
@@ -182,7 +118,6 @@ def parse_block(block: str) -> dict | None:
         "verdict":         (verdict_match.group(1).strip() if verdict_match else ""),
         "tech":            (verdict_match.group(2) if verdict_match else ""),
         "net":             int(verdict_match.group(3)) if verdict_match else 0,
-        "trade_plan":      grab_trade_plan(),
         "signal_pros":     grab_section("PROS (signals):"),
         "signal_cons":     grab_section("CONS (signals):"),
         "screener_pros":   grab_section("PROS (screener.in):"),
@@ -206,23 +141,18 @@ def split_blocks(section_text: str) -> list[str]:
     return [b for b in blocks if b.strip()]
 
 
-@st.cache_data(show_spinner=False, ttl=900)
+@st.cache_data(show_spinner=False)
 def parse_summary(text: str) -> dict:
     generated = re.search(r"generated\s+(.+)$", text, flags=re.M)
     pov_hits  = re.search(r"Pure_on_Volume hits \(BUY\):\s+(\d+)", text)
     rec       = re.search(r"Recommendations:\s+(\d+)\s+BUY\s+\+\s+(\d+)\s+SELL", text)
 
-    # Flexible Top-N matching — the pipeline currently writes "Top 20
-    # BUY candidates:" / "Top 20 SELL candidates ..." but historically
-    # used "Top 10". Match any positive integer so the dashboard keeps
-    # working regardless of how many picks the pipeline emits.
     buy_sec  = re.search(
-        r"Top\s+\d+\s+BUY candidates:.*?\n-+\n(.*?)"
-        r"(?=Top\s+\d+\s+SELL candidates|\Z)",
+        r"Top 10 BUY candidates:.*?\n-+\n(.*?)(?=Top 10 SELL candidates|\Z)",
         text, flags=re.S,
     )
     sell_sec = re.search(
-        r"Top\s+\d+\s+SELL candidates.*?\n-+\n(.*?)(?=\n—|\Z)",
+        r"Top 10 SELL candidates.*?\n-+\n(.*?)(?=\n—|\Z)",
         text, flags=re.S,
     )
 
@@ -249,6 +179,7 @@ if not SUMMARY_PATH.exists():
 
 text = SUMMARY_PATH.read_text(encoding="utf-8")
 data = parse_summary(text)
+
 
 # ─────────────────────────────────────────── Header ────────────────────────────
 st.markdown("# 📈 Stocks in Trend")
@@ -283,53 +214,6 @@ def render_signals(items: list[str], kind: str) -> None:
     st.markdown(html, unsafe_allow_html=True)
 
 
-def render_trade_plan(tp: dict) -> None:
-    """Render the BUY trade-management block: entry, strict & best
-    stops, five fib targets (T1/T2 retracements + T3/T4/T5 extensions),
-    and the swing-anchor context line."""
-    if not tp or not any(tp.values()):
-        return
-
-    def _cell(label: str, price: str, klass: str) -> str:
-        price = price or "—"
-        return (
-            f'<span class="tp-cell"><b>{label}</b> '
-            f'<span class="{klass}">{price}</span></span>'
-        )
-
-    row_cells = [
-        _cell("Entry &gt;", tp.get("entry", ""), "tp-entry"),
-        _cell("Strict SL", tp.get("strict_sl", ""), "tp-sl"),
-        _cell("Best SL",   tp.get("best_sl", ""),   "tp-sl"),
-        _cell("T1 (50.0%)", tp.get("target_1", ""), "tp-target"),
-    ]
-    target_labels = [
-        ("target_2", "T2 (61.8%)"),
-        ("target_3", "T3 (150%)"),
-        ("target_4", "T4 (161.8%)"),
-        ("target_5", "T5 (261.8%)"),
-    ]
-    for key, label in target_labels:
-        if tp.get(key):
-            row_cells.append(_cell(label, tp[key], "tp-target"))
-
-    anchor_html = ""
-    if tp.get("swing_low") and tp.get("swing_high"):
-        anchor_html = (
-            f'<div class="tp-anchor">Swing anchor &nbsp;·&nbsp; '
-            f'low <b>{tp["swing_low"]}</b> &nbsp;↔&nbsp; '
-            f'high <b>{tp["swing_high"]}</b></div>'
-        )
-
-    st.markdown(
-        '<div class="trade-plan">'
-        f'<div class="tp-row">{"".join(row_cells)}</div>'
-        f'{anchor_html}'
-        '</div>',
-        unsafe_allow_html=True,
-    )
-
-
 def render_card(stock: dict, kind: str) -> None:
     pct = stock["change_pct"]
     pct_str = f"+{pct:.2f}%" if pct > 0 else f"{pct:.2f}%"
@@ -345,7 +229,7 @@ def render_card(stock: dict, kind: str) -> None:
     net_str = f"+{net}" if net > 0 else f"{net}"
 
     with st.container(border=True):
-        h1, h2 = st.columns([3, 3])
+        h1, h2 = st.columns([3, 1.2])
         with h1:
             st.markdown(
                 f'<div class="stock-symbol">{stock["symbol"]}</div>'
@@ -361,10 +245,6 @@ def render_card(stock: dict, kind: str) -> None:
             f'<span class="meta-pill">net <span class="{net_class}">{net_str}</span></span>',
             unsafe_allow_html=True,
         )
-
-        # BUY-only: trade-management plan
-        if kind == "buy":
-            render_trade_plan(stock.get("trade_plan") or {})
 
         render_signals(stock["signal_pros"], "pro")
         render_signals(stock["signal_cons"], "con")
@@ -420,6 +300,7 @@ with raw_tab:
         mime="text/plain",
     )
 
+
 # ─────────────────────────────────────────── Footer ────────────────────────────
 st.divider()
 st.caption(
@@ -427,12 +308,5 @@ st.caption(
     "screen — HVQ / HVY / HVE volume breakouts gated by liquidity. Pros & cons "
     "(signals) are derived from price/volume panel data: 52-week position, SMA "
     "stack, returns, volatility, delivery & volume trend, CLV. Pros & cons "
-    "(screener.in) are scraped from the company's screener.in page. "
-    "**BUY trade plan** is anchored to the most recent ChartPrime zigzag swing "
-    "(lookback = 100 bars). Entry = fib-0.55 of today's range. Strict SL = "
-    "closest fib retracement level (0.236 / 0.382 / 0.500 / 0.618 / 0.726 / "
-    "0.786) below today's close; Best SL = the next fib level below the "
-    "strict SL. Targets: T1 = 50.0 % retracement, T2 = 61.8 % retracement, "
-    "T3 = 150 % extension, T4 = 161.8 % extension (golden), T5 = 261.8 % "
-    "extension (deep)."
+    "(screener.in) are scraped from the company's screener.in page."
 )
