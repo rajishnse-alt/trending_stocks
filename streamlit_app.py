@@ -10,6 +10,7 @@ from __future__ import annotations
 import re
 from pathlib import Path
 
+import pandas as pd
 import streamlit as st
 
 # ─────────────────────────────────────────── Page setup ────────────────────────
@@ -77,6 +78,7 @@ st.markdown(
 
 # ─────────────────────────────────────────── Parser ────────────────────────────
 SUMMARY_PATH = Path(__file__).parent / "stocks_in_trend_summary.txt"
+BULK_DEALS_PATH = Path(__file__).parent / "bulk_deals.csv"
 
 VERDICT_CLASS = {
     "STRONG BUY":  "v-strong-buy",
@@ -388,11 +390,33 @@ def render_card(stock: dict, kind: str) -> None:
             st.markdown(f"[screener.in/{stock['symbol']} ↗]({stock['url']})")
 
 
+# ─────────────────────────────────────────── Bulk deals loader ────────────────
+@st.cache_data(show_spinner=False, ttl=900)
+def load_bulk_deals() -> pd.DataFrame | None:
+    """Load the bulk-deals CSV produced by the pipeline. Returns None if the
+    file is missing, unreadable, or empty so the tab can show a friendly
+    message instead of crashing."""
+    if not BULK_DEALS_PATH.exists():
+        return None
+    try:
+        df = pd.read_csv(BULK_DEALS_PATH)
+    except Exception:
+        return None
+    if df.empty:
+        return None
+    if "date" in df.columns:
+        df["date"] = pd.to_datetime(df["date"], errors="coerce")
+    if "buy_sell" in df.columns:
+        df["buy_sell"] = df["buy_sell"].astype(str).str.strip().str.upper()
+    return df
+
+
 # ─────────────────────────────────────────── Tabs ──────────────────────────────
-buy_tab, sell_tab, raw_tab = st.tabs(
+buy_tab, sell_tab, bulk_tab, raw_tab = st.tabs(
     [
         f"💚  BUY  ({len(data['buys'])})",
         f"❤️  SELL  ({len(data['sells'])})",
+        "🧾  Bulk Deals",
         "📄  Raw text",
     ]
 )
@@ -414,6 +438,70 @@ with sell_tab:
         for i, stock in enumerate(data["sells"]):
             with cols[i % 2]:
                 render_card(stock, "sell")
+
+with bulk_tab:
+    deals = load_bulk_deals()
+    if deals is None or deals.empty:
+        st.info(
+            "Bulk deals data not yet available. The pipeline writes "
+            "`bulk_deals.csv` next to this script — run the daily pipeline "
+            "(or wait for the next scheduled run) to populate it."
+        )
+    else:
+        side = st.selectbox(
+            "Side",
+            ["All", "BUY", "SELL"],
+            index=0,
+            key="bulk_deals_side",
+            help="Filter the most recent 150 NSE bulk deals by side.",
+        )
+        view = deals if side == "All" else deals[deals["buy_sell"] == side]
+        view = view.copy()
+
+        if "date" in view.columns:
+            view["date"] = view["date"].dt.strftime("%d-%b-%Y")
+
+        display_map = {
+            "date":     "Date",
+            "symbol":   "Symbol",
+            "name":     "Name",
+            "client":   "Client",
+            "buy_sell": "Side",
+            "quantity": "Quantity",
+            "price":    "Price (₹)",
+            "value":    "Value (₹)",
+            "remarks":  "Remarks",
+        }
+        keep = [c for c in display_map if c in view.columns]
+        view = view[keep].rename(columns=display_map)
+
+        st.caption(
+            f"Showing **{len(view)}** of **{len(deals)}** most recent bulk "
+            "deals from NSE (top 150, last ~30 days). "
+            "Source: nseindia.com/report-detail/display-bulk-and-block-deals"
+        )
+
+        col_cfg: dict = {}
+        if "Quantity" in view.columns:
+            col_cfg["Quantity"] = st.column_config.NumberColumn(format="%d")
+        if "Price (₹)" in view.columns:
+            col_cfg["Price (₹)"] = st.column_config.NumberColumn(format="₹%.2f")
+        if "Value (₹)" in view.columns:
+            col_cfg["Value (₹)"] = st.column_config.NumberColumn(format="₹%.0f")
+
+        st.dataframe(
+            view,
+            use_container_width=True,
+            hide_index=True,
+            column_config=col_cfg,
+        )
+
+        st.download_button(
+            "Download bulk_deals.csv",
+            data=deals.to_csv(index=False).encode("utf-8"),
+            file_name="bulk_deals.csv",
+            mime="text/csv",
+        )
 
 with raw_tab:
     st.code(text, language="text")
