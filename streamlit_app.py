@@ -336,9 +336,10 @@ def render_trade_plan(tp: dict) -> None:
 def render_card(stock: dict, kind: str) -> None:
     pct = stock["change_pct"]
     pct_str = f"+{pct:.2f}%" if pct > 0 else f"{pct:.2f}%"
+    # Streamlit default: positive delta is green, negative is red.
+    # Keep it that way — "inverse" would flip colors which is misleading
+    # for stock price changes.
     pct_color = "normal"
-    if pct > 0: pct_color = "normal"
-    if pct < 0: pct_color = "inverse"
 
     verdict = stock["verdict"] or stock["bias"].replace("_", " ")
     verdict_class = VERDICT_CLASS.get(verdict.upper().strip(), "v-default")
