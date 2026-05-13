@@ -3,13 +3,13 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-05-13 07:53 IST
+NSE bhavcopy analysis — generated 2026-05-13 08:10 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 1
-Recommendations: 1 BUY  +  2 SELL
+Pure_on_Volume hits (BUY): 2
+Recommendations: 2 BUY  +  4 SELL
 
-Top 1 BUY candidates:
+Top 2 BUY candidates:
 ------------------------------------------------------------
   • OIL             (Oil India Ltd                 )  close ₹490.95  +7.66%  bias BUY
         → STRONG BUY (tech=BUY, signal net +5)
@@ -34,7 +34,33 @@ Top 1 BUY candidates:
           - The company has delivered a poor sales growth of 11.2% over past five years.
         https://www.screener.in/company/OIL/consolidated/
 
-Top 2 SELL candidates (high-volume distribution):
+  • PARADEEP        (Paradeep Phosphates Ltd       )  close ₹127.63  +4.11%  bias BUY
+        → HOLD / MIXED (tech=BUY, signal net 0)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹127.59
+          - Strict stop-loss:      ₹99.70
+          - Target-1 (50.0%):      ₹167.05
+          - Target-2 (61.8%):      ₹182.94
+          - Target-3 (150%):       ₹301.74
+          - Target-4 (161.8%):     ₹317.63
+          - Target-5 (261.8%):     ₹452.32
+          - Swing anchor:          low ₹99.70  ↔  high ₹234.39
+        PROS (signals):
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹88.0cr daily turnover)
+        CONS (signals):
+          - Lower third of 52-week range (21%)
+          - 46% off 52-week high
+          - Trading below the 200-day SMA
+        FUNDAMENTALS (screener.in): MCap ₹ 13,250 Cr. | P/E 12.9 | ROCE 17.1 % | ROE 18.9 % | DivYield 0.78 % | BookVal ₹ 65.3
+        PROS (screener.in):
+          - Company has delivered good profit growth of 35.2% CAGR over last 5 years
+        CONS (screener.in):
+          - Company has a low return on equity of 13.2% over last 3 years.
+        https://www.screener.in/company/PARADEEP/consolidated/
+
+Top 4 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
   • INDHOTEL        (Indian Hotels Co Ltd          )  close ₹634.40  -4.07%  bias STRONG_SELL
         → STRONG SELL (tech=STRONG_SELL, signal net -3)
@@ -52,6 +78,45 @@ Top 2 SELL candidates (high-volume distribution):
           - Company has delivered good profit growth of 32.8% CAGR over last 5 years
           - Company has been maintaining a healthy dividend payout of 19.6%
         https://www.screener.in/company/INDHOTEL/consolidated/
+
+  • SYRMA           (Syrma SGS Technology Ltd      )  close ₹1075.20  -3.36%  bias STRONG_SELL
+        → BUY-LEAN (tech=STRONG_SELL, signal net +4)
+        PROS (signals):
+          - Upper third of 52-week range (84%)
+          - +27% over the last month
+          - +121% over the year
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹171.1cr daily turnover)
+        CONS (signals):
+          - Closed near the day's low (CLV -0.76) — sellers dumped into the volume
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 20,733 Cr. | P/E 64.6 | ROCE 20.0 % | ROE 18.3 % | DivYield 0.14 % | BookVal ₹ 146
+        PROS (screener.in):
+          - Company has reduced debt.
+          - Company is expected to give good quarter
+          - Company has delivered good profit growth of 36.2% CAGR over last 5 years
+        CONS (screener.in):
+          - Stock is trading at 7.38 times its book value
+          - Promoter holding has decreased over last quarter: -0.44%
+          - Company has a low return on equity of 11.7% over last 3 years.
+        https://www.screener.in/company/SYRMA/consolidated/
+
+  • MEDANTA         (Global Health Ltd             )  close ₹1193.10  -3.72%  bias STRONG_SELL
+        → SELL-LEAN (tech=STRONG_SELL, signal net -1)
+        PROS (signals):
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹25.6cr daily turnover)
+        CONS (signals):
+          - Trading below the 200-day SMA
+          - Closed near the day's low (CLV -0.75) — sellers dumped into the volume
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 32,077 Cr. | P/E 56.6 | ROCE 19.7 % | ROE 16.5 % | DivYield 0.04 % | BookVal ₹ 138
+        PROS (screener.in):
+          - Company has delivered good profit growth of 70.2% CAGR over last 5 years
+        CONS (screener.in):
+          - Stock is trading at 8.65 times its book value
+        https://www.screener.in/company/MEDANTA/consolidated/
 
   • GROWW           (Billionbrains Garage Ventures )  close ₹183.09  -5.39%  bias SELL
         → HOLD / MIXED (tech=SELL, signal net 2)
