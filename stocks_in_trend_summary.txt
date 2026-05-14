@@ -3,105 +3,49 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-05-13 20:42 IST
+NSE bhavcopy analysis — generated 2026-05-14 19:02 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 6
-Recommendations: 6 BUY  +  3 SELL
+Pure_on_Volume hits (BUY): 7
+Recommendations: 7 BUY  +  2 SELL
 
-Top 6 BUY candidates:
+Top 7 BUY candidates:
 ------------------------------------------------------------
-  • SAIL            (Steel Authority of India Ltd  )  close ₹201.31  +14.32%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +8)
+  • BHARTIARTL      (Bharti Airtel Ltd             )  close ₹1883.50  +5.27%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +4)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹190.63
-          - Strict stop-loss:      ₹190.50
-          - Best stop-loss:        ₹170.95
-          - Target-3 (150%):       ₹236.17
-          - Target-4 (161.8%):     ₹246.95
-          - Target-5 (261.8%):     ₹338.30
-          - Swing anchor:          low ₹99.15  ↔  high ₹190.50
+          - Entry zone (probable): above ₹1847.85
+          - Strict stop-loss:      ₹1842.92
+          - Best stop-loss:        ₹1740.50
+          - Target-1 (50.0%):      ₹1957.50
+          - Target-2 (61.8%):      ₹2008.71
+          - Target-3 (150%):       ₹2391.50
+          - Target-4 (161.8%):     ₹2442.71
+          - Target-5 (261.8%):     ₹2876.71
+          - Swing anchor:          low ₹1740.50  ↔  high ₹2174.50
         PROS (signals):
-          - Trading near 52-week high (99% of range)
-          - +21% over the last month
-          - +84% over the year
-          - Bullish SMA stack (close > 20 > 50 > 200)
-          - Volume highest in 1 year (HVY)
-          - Closed near the day's high (CLV +0.92) — buyers absorbed the volume
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹559.6cr daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ 83,194 Cr. | P/E 27.5 | ROCE 6.76 % | ROE 4.54 % | DivYield 0.79 % | BookVal ₹ 141
-        PROS (screener.in):
-          - Company has been maintaining a healthy dividend payout of 27.8%
-        CONS (screener.in):
-          - The company has delivered a poor sales growth of 10.7% over past five years.
-          - Company has a low return on equity of 4.86% over last 3 years.
-          - Contingent liabilities of Rs.44,708 Cr.
-        https://www.screener.in/company/SAIL/consolidated/
-
-  • DIXON           (Dixon Technologies (India) Ltd)  close ₹11124.00  +9.73%  bias STRONG_BUY
-        → BUY-LEAN (tech=STRONG_BUY, signal net +0)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹10748.70
-          - Strict stop-loss:      ₹9600.00
-          - Target-1 (50.0%):      ₹14035.50
-          - Target-2 (61.8%):      ₹15082.28
-          - Target-3 (150%):       ₹22906.50
-          - Target-4 (161.8%):     ₹23953.28
-          - Target-5 (261.8%):     ₹32824.28
-          - Swing anchor:          low ₹9600.00  ↔  high ₹18471.00
-        PROS (signals):
-          - Volume highest in 1 year (HVY)
-          - Closed near the day's high (CLV +0.80) — buyers absorbed the volume
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹871.1cr daily turnover)
-        CONS (signals):
-          - Lower third of 52-week range (17%)
-          - 40% off 52-week high
-          - -29% over the year
-          - Trading below the 200-day SMA
-        FUNDAMENTALS (screener.in): MCap ₹ 67,633 Cr. | P/E 47.0 | ROCE 42.0 % | ROE 37.4 % | DivYield 0.07 % | BookVal ₹ 769
-        PROS (screener.in):
-          - Company has delivered good profit growth of 55.2% CAGR over last 5 years
-          - Company has a good return on equity (ROE) track record: 3 Years ROE 33.6%
-          - Company's median sales growth is 45.8% of last 10 years
-        CONS (screener.in):
-          - Stock is trading at 14.5 times its book value
-          - Earnings include an other income of Rs.734 Cr.
-          - Promoter holding has decreased over last 3 years: -5.38%
-        https://www.screener.in/company/DIXON/consolidated/
-
-  • ASIANPAINT      (Asian Paints Ltd              )  close ₹2617.60  +4.47%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +4)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹2602.62
-          - Strict stop-loss:      ₹2550.35
-          - Best stop-loss:        ₹2447.61
-          - Target-2 (61.8%):      ₹2653.09
-          - Target-3 (150%):       ₹3421.05
-          - Target-4 (161.8%):     ₹3523.79
-          - Target-5 (261.8%):     ₹4394.49
-          - Swing anchor:          low ₹2115.00  ↔  high ₹2985.70
-        PROS (signals):
-          - Trading above the 200-day SMA
+          - Delivery % rising — recent 64% vs 30d 58% (+6pp accumulation)
           - Volume highest in 3 months (HVQ)
+          - Closed near the day's high (CLV +0.88) — buyers absorbed the volume
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹371.6cr daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ 2,51,075 Cr. | P/E 61.5 | ROCE 25.7 % | ROE 20.6 % | DivYield 0.95 % | BookVal ₹ 204
+          - Healthy liquidity (~₹1936.3cr daily turnover)
+        CONS (signals):
+          - Trading below the 200-day SMA
+        FUNDAMENTALS (screener.in): MCap ₹ 11,48,374 Cr. | P/E 40.0 | ROCE 18.5 % | ROE 21.9 % | DivYield 0.85 % | BookVal ₹ 245
         PROS (screener.in):
-          - Company has a good return on equity (ROE) track record: 3 Years ROE 26.3%
-          - Company has been maintaining a healthy dividend payout of 61.1%
+          - Company has delivered good profit growth of 24.0% CAGR over last 5 years
+          - Company has been maintaining a healthy dividend payout of 48.0%
         CONS (screener.in):
-          - Stock is trading at 12.8 times its book value
-          - The company has delivered a poor sales growth of 10.9% over past five years.
-        https://www.screener.in/company/ASIANPAINT/consolidated/
+          - Stock is trading at 7.70 times its book value
+          - Promoter holding has decreased over last 3 years: -6.15%
+        https://www.screener.in/company/BHARTIARTL/consolidated/
 
-  • CIPLA           (Cipla Ltd                     )  close ₹1327.60  +2.73%  bias BUY
-        → BUY-LEAN (tech=BUY, signal net +1)
+  • CIPLA           (Cipla Ltd                     )  close ₹1436.70  +8.22%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +3)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹1319.74
-          - Strict stop-loss:      ₹1285.42
-          - Best stop-loss:        ₹1165.70
+          - Entry zone (probable): above ₹1406.09
+          - Strict stop-loss:      ₹1419.35
+          - Best stop-loss:        ₹1359.49
           - Target-1 (50.0%):      ₹1419.35
           - Target-2 (61.8%):      ₹1479.21
           - Target-3 (150%):       ₹1926.65
@@ -109,13 +53,15 @@ Top 6 BUY candidates:
           - Target-5 (261.8%):     ₹2493.81
           - Swing anchor:          low ₹1165.70  ↔  high ₹1673.00
         PROS (signals):
-          - Volume highest in 3 months (HVQ)
+          - +19% over the last month
+          - Volume highest in 1 year (HVY)
+          - Closed near the day's high (CLV +0.87) — buyers absorbed the volume
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹250.8cr daily turnover)
+          - Healthy liquidity (~₹290.3cr daily turnover)
         CONS (signals):
           - Trading below the 200-day SMA
-          - Delivery % falling — recent 47% vs 30d 56% (-10pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 1,07,266 Cr. | P/E 26.3 | ROCE 16.6 % | ROE 12.4 % | DivYield 0.98 % | BookVal ₹ 426
+          - Delivery % falling — recent 40% vs 30d 55% (-16pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 1,16,093 Cr. | P/E 28.5 | ROCE 16.6 % | ROE 12.4 % | DivYield 0.90 % | BookVal ₹ 426
         PROS (screener.in):
           - Company is almost debt free.
           - Company has been maintaining a healthy dividend payout of 25.7%
@@ -124,125 +70,199 @@ Top 6 BUY candidates:
           - Promoter holding has decreased over last 3 years: -4.34%
         https://www.screener.in/company/CIPLA/consolidated/
 
-  • BERGEPAINT      (Berger Paints India Ltd       )  close ₹507.70  +4.02%  bias NEUTRAL
-        → BUY-LEAN (tech=NEUTRAL, signal net +2)
+  • CAPLIPOINT      (Caplin Point Laboratories Ltd )  close ₹2023.80  +9.88%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +6)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹518.34
-          - Strict stop-loss:      ₹498.05
-          - Best stop-loss:        ₹472.81
-          - Target-2 (61.8%):      ₹523.29
-          - Target-3 (150%):       ₹711.95
-          - Target-4 (161.8%):     ₹737.19
-          - Target-5 (261.8%):     ₹951.09
-          - Swing anchor:          low ₹391.10  ↔  high ₹605.00
+          - Entry zone (probable): above ₹1944.35
+          - Strict stop-loss:      ₹1947.65
+          - Best stop-loss:        ₹1842.08
+          - Target-1 (50.0%):      ₹1947.65
+          - Target-2 (61.8%):      ₹2053.22
+          - Target-3 (150%):       ₹2842.35
+          - Target-4 (161.8%):     ₹2947.92
+          - Target-5 (261.8%):     ₹3842.62
+          - Swing anchor:          low ₹1500.30  ↔  high ₹2395.00
         PROS (signals):
-          - Volume surge — 5d avg is 4.0× the 30d avg
+          - +20% over the last month
+          - Trading above the 200-day SMA
+          - Volume surge — 5d avg is 3.1× the 30d avg
           - Volume highest in 1 year (HVY)
+          - Closed near the day's high (CLV +0.72) — buyers absorbed the volume
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹28.5cr daily turnover)
+          - Healthy liquidity (~₹26.7cr daily turnover)
         CONS (signals):
+          - Delivery % falling — recent 43% vs 30d 53% (-10pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 15,373 Cr. | P/E 24.0 | ROCE 24.6 % | ROE 20.6 % | DivYield 0.30 % | BookVal ₹ 472
+        PROS (screener.in):
+          - Company has reduced debt.
+          - Company is almost debt free.
+          - Company has delivered good profit growth of 21.9% CAGR over last 5 years
+          - Company's median sales growth is 19.9% of last 10 years
+        https://www.screener.in/company/CAPLIPOINT/consolidated/
+
+  • ZYDUSLIFE       (Zydus Lifesciences Ltd        )  close ₹991.70  +5.58%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +4)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹980.85
+          - Strict stop-loss:      ₹963.95
+          - Best stop-loss:        ₹936.46
+          - Target-3 (150%):       ₹1028.18
+          - Target-4 (161.8%):     ₹1043.33
+          - Target-5 (261.8%):     ₹1171.78
+          - Swing anchor:          low ₹835.50  ↔  high ₹963.95
+        PROS (signals):
+          - Trading above the 200-day SMA
+          - Volume highest in 3 months (HVQ)
+          - Closed near the day's high (CLV +0.70) — buyers absorbed the volume
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹77.9cr daily turnover)
+        CONS (signals):
+          - Delivery % falling — recent 38% vs 30d 43% (-5pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 99,820 Cr. | P/E 19.5 | ROCE 24.3 % | ROE 21.2 % | DivYield 1.11 % | BookVal ₹ 251
+        PROS (screener.in):
+          - Company has been maintaining a healthy dividend payout of 21.1%
+          - Debtor days have improved from 84.7 to 63.2 days.
+        https://www.screener.in/company/ZYDUSLIFE/consolidated/
+
+  • SAREGAMA        (Saregama India Ltd            )  close ₹384.55  +14.77%  bias STRONG_BUY
+        → HOLD / MIXED (tech=STRONG_BUY, signal net -1)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹370.89
+          - Strict stop-loss:      ₹307.05
+          - Target-1 (50.0%):      ₹497.98
+          - Target-2 (61.8%):      ₹543.03
+          - Target-3 (150%):       ₹879.83
+          - Target-4 (161.8%):     ₹924.88
+          - Target-5 (261.8%):     ₹1306.73
+          - Swing anchor:          low ₹307.05  ↔  high ₹688.90
+        PROS (signals):
+          - +16% over the last month
+          - Volume surge — 5d avg is 4.8× the 30d avg
+          - Volume highest in 4 years (HVE) — strongest possible breakout signal
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹45.6cr daily turnover)
+        CONS (signals):
+          - Lower third of 52-week range (26%)
+          - 36% off 52-week high
+          - -28% over the year
           - Trading below the 200-day SMA
-          - Delivery % falling — recent 28% vs 30d 40% (-12pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 59,234 Cr. | P/E 50.8 | ROCE 22.2 % | ROE 17.8 % | DivYield 0.75 % | BookVal ₹ 59.3
+          - High volatility (60% annualised)
+          - Delivery % falling — recent 34% vs 30d 43% (-9pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 7,416 Cr. | P/E 34.8 | ROCE 17.8 % | ROE 13.0 % | DivYield 1.17 % | BookVal ₹ 87.8
         PROS (screener.in):
           - Company is almost debt free.
-          - Company has been maintaining a healthy dividend payout of 38.0%
         CONS (screener.in):
-          - Stock is trading at 8.56 times its book value
-          - The company has delivered a poor sales growth of 11.8% over past five years.
-        https://www.screener.in/company/BERGEPAINT/consolidated/
+          - Company has a low return on equity of 12.9% over last 3 years.
+        https://www.screener.in/company/SAREGAMA/consolidated/
 
-  • IIFL            (IIFL Finance Ltd              )  close ₹463.60  +4.02%  bias NEUTRAL
-        → HOLD / MIXED (tech=NEUTRAL, signal net 1)
+  • NLCINDIA        (NLC India Ltd                 )  close ₹370.90  +13.88%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +8)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹477.70
-          - Strict stop-loss:      ₹409.10
-          - Target-1 (50.0%):      ₹542.05
-          - Target-2 (61.8%):      ₹573.43
-          - Target-3 (150%):       ₹807.95
-          - Target-4 (161.8%):     ₹839.33
-          - Target-5 (261.8%):     ₹1105.23
-          - Swing anchor:          low ₹409.10  ↔  high ₹675.00
+          - Entry zone (probable): above ₹369.89
+          - Strict stop-loss:      ₹336.50
+          - Best stop-loss:        ₹304.30
+          - Target-3 (150%):       ₹411.74
+          - Target-4 (161.8%):     ₹429.49
+          - Target-5 (261.8%):     ₹579.96
+          - Swing anchor:          low ₹186.03  ↔  high ₹336.50
         PROS (signals):
-          - Volume surge — 5d avg is 2.1× the 30d avg
+          - Trading near 52-week high (90% of range)
+          - +36% over the last month
+          - +44% over the last 3 months
+          - +68% over the year
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Volume surge — 5d avg is 2.4× the 30d avg
+          - Volume highest in 4 years (HVE) — strongest possible breakout signal
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹230.2cr daily turnover)
+        CONS (signals):
+          - High volatility (64% annualised)
+        FUNDAMENTALS (screener.in): MCap ₹ 51,454 Cr. | P/E 14.6 | ROCE 10.4 % | ROE 17.5 % | DivYield 0.97 % | BookVal ₹ 155
+        PROS (screener.in):
+          - Company has been maintaining a healthy dividend payout of 17.8%
+        CONS (screener.in):
+          - The company has delivered a poor sales growth of 12.0% over past five years.
+          - Tax rate seems low
+          - Company has a low return on equity of 13.3% over last 3 years.
+          - Company might be capitalizing the interest cost
+          - Earnings include an other income of Rs.1,887 Cr.
+          - Promoter holding has decreased over last 3 years: -7.00%
+        https://www.screener.in/company/NLCINDIA/consolidated/
+
+  • GODREJIND       (Godrej Industries Ltd         )  close ₹1153.15  +7.45%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +4)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹1156.10
+          - Strict stop-loss:      ₹1150.13
+          - Best stop-loss:        ₹1119.14
+          - Target-3 (150%):       ₹1518.88
+          - Target-4 (161.8%):     ₹1579.82
+          - Target-5 (261.8%):     ₹2096.27
+          - Swing anchor:          low ₹744.20  ↔  high ₹1260.65
+        PROS (signals):
+          - +30% over the last month
+          - Trading above the 200-day SMA
+          - Volume surge — 5d avg is 2.2× the 30d avg
           - Volume highest in 1 year (HVY)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹131.4cr daily turnover)
+          - Healthy liquidity (~₹58.4cr daily turnover)
         CONS (signals):
-          - 31% off 52-week high
+          - High volatility (83% annualised)
+          - Delivery % falling — recent 19% vs 30d 32% (-12pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 38,877 Cr. | P/E 38.6 | ROCE 7.83 % | ROE 9.64 % | DivYield 0.00 % | BookVal ₹ 309
+        CONS (screener.in):
+          - Stock is trading at 3.73 times its book value
+          - Though the company is reporting repeated profits, it is not paying out dividend
+          - The company has delivered a poor sales growth of 11.7% over past five years.
+          - Company has a low return on equity of 7.20% over last 3 years.
+          - Company might be capitalizing the interest cost
+          - Earnings include an other income of Rs.4,034 Cr.
+        https://www.screener.in/company/GODREJIND/consolidated/
+
+Top 2 SELL candidates (high-volume distribution):
+------------------------------------------------------------
+  • KAYNES          (Kaynes Technology India Ltd   )  close ₹3336.50  -20.15%  bias STRONG_SELL
+        → STRONG SELL (tech=STRONG_SELL, signal net -4)
+        PROS (signals):
+          - Volume surge — 5d avg is 2.0× the 30d avg
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹526.7cr daily turnover)
+        CONS (signals):
+          - Trading near 52-week low (1% of range)
+          - 57% off 52-week high
+          - -41% over the year
           - Trading below the 200-day SMA
-          - Closed near the day's low (CLV -0.72) — sellers dumped into the volume
-        FUNDAMENTALS (screener.in): MCap ₹ 19,745 Cr. | P/E 11.9 | ROCE 10.8 % | ROE 12.6 % | DivYield 0.86 % | BookVal ₹ 327
+          - High volatility (85% annualised)
+          - Closed near the day's low (CLV -0.84) — sellers dumped into the volume
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 22,369 Cr. | P/E 61.2 | ROCE 13.2 % | ROE 9.64 % | DivYield 0.00 % | BookVal ₹ 708
         PROS (screener.in):
           - Company is expected to give good quarter
+          - Company has delivered good profit growth of 108% CAGR over last 5 years
         CONS (screener.in):
-          - Company has low interest coverage ratio.
-          - Company has a low return on equity of 11.5% over last 3 years.
-          - Dividend payout has been low at 6.30% of profits over last 3 years
-        https://www.screener.in/company/IIFL/consolidated/
+          - Stock is trading at 4.71 times its book value
+          - Though the company is reporting repeated profits, it is not paying out dividend
+          - Company has a low return on equity of 10.2% over last 3 years.
+          - Company has high debtors of 154 days.
+          - Promoter holding has decreased over last 3 years: -10.1%
+          - Working capital days have increased from 63.8 days to 133 days
+        https://www.screener.in/company/KAYNES/consolidated/
 
-Top 3 SELL candidates (high-volume distribution):
-------------------------------------------------------------
-  • NEULANDLAB      (Neuland Laboratories Ltd      )  close ₹16497.00  -2.98%  bias STRONG_SELL
+  • ZFCVINDIA       (ZF Commercial Vehicle Control )  close ₹14120.00  -2.11%  bias STRONG_SELL
         → HOLD / MIXED (tech=STRONG_SELL, signal net 2)
         PROS (signals):
           - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 2.3× the 30d avg
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹88.7cr daily turnover)
+          - Healthy liquidity (~₹26.1cr daily turnover)
         CONS (signals):
-          - Closed near the day's low (CLV -0.82) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 21,169 Cr. | P/E 58.2 | ROCE 26.6 % | ROE 21.4 % | DivYield 0.07 % | BookVal ₹ 1,461
+        FUNDAMENTALS (screener.in): MCap ₹ 26,794 Cr. | P/E 51.2 | ROCE 20.3 % | ROE 15.2 % | DivYield 0.13 % | BookVal ₹ 1,946
         PROS (screener.in):
-          - Company is expected to give good quarter
-          - Company has delivered good profit growth of 38.7% CAGR over last 5 years
+          - Company is almost debt free.
         CONS (screener.in):
-          - Stock is trading at 11.3 times its book value
-          - Promoter holding has decreased over last 3 years: -3.50%
-        https://www.screener.in/company/NEULANDLAB/consolidated/
-
-  • PINELABS        (Pine Labs Ltd                 )  close ₹162.18  -13.74%  bias SELL
-        → SELL-LEAN (tech=SELL, signal net -1)
-        PROS (signals):
-          - Volume surge — 5d avg is 2.1× the 30d avg
-          - Delivery % rising — recent 50% vs 30d 41% (+9pp accumulation)
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹43.9cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (8% of range)
-          - 43% off 52-week high
-          - -25% over the last 3 months
-          - Trading below the 200-day SMA
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 18,654 Cr. | ROCE -0.49 % | ROE -3.31 % | DivYield 0.00 % | BookVal ₹ 32.3
-        CONS (screener.in):
-          - Stock is trading at 5.02 times its book value
-          - Company has low interest coverage ratio.
-          - Company has a low return on equity of -7.02% over last 3 years.
-        https://www.screener.in/company/PINELABS/consolidated/
-
-  • KALYANKJIL      (Kalyan Jewellers India Ltd    )  close ₹355.40  -1.77%  bias SELL
-        → STRONG SELL (tech=SELL, signal net -3)
-        PROS (signals):
-          - Volume surge — 5d avg is 2.9× the 30d avg
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹223.0cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (6% of range)
-          - 42% off 52-week high
-          - -21% over the last month
-          - -31% over the year
-          - Trading below the 200-day SMA
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 36,688 Cr. | P/E 26.6 | ROCE 20.5 % | ROE 24.8 % | DivYield 0.42 % | BookVal ₹ 61.1
-        PROS (screener.in):
-          - Company is expected to give good quarter
-          - Company has delivered good profit growth of 195% CAGR over last 5 years
-          - Company has been maintaining a healthy dividend payout of 20.5%
-        CONS (screener.in):
-          - Company might be capitalizing the interest cost
-        https://www.screener.in/company/KALYANKJIL/consolidated/
+          - Stock is trading at 7.26 times its book value
+          - Promoter holding has decreased over last 3 years: -15.0%
+        https://www.screener.in/company/ZFCVINDIA/consolidated/
 
 
 — BUY/SELL recommendations are based on the Pure_on_Volume screen (HVQ/HVY/HVE volume breakouts + liquidity gate).
