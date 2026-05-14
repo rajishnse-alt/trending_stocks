@@ -523,8 +523,9 @@ st.caption(
     "**BUY trade plan** is anchored to the most recent ChartPrime zigzag swing "
     "(lookback = 100 bars). Entry = fib-0.55 of today's range. Strict SL = "
     "closest fib retracement level (0.236 / 0.382 / 0.500 / 0.618 / 0.726 / "
-    "0.786) below today's close; Best SL = the next fib level below the "
-    "strict SL. Targets: T1 = 50.0 % retracement, T2 = 61.8 % retracement, "
+    "0.786) below the entry zone (so SL < Entry by construction); Best SL = "
+    "the next fib level below the strict SL. Targets already cleared by "
+    "today's close are dropped. Targets: T1 = 50.0 % retracement, T2 = 61.8 % retracement, "
     "T3 = 150 % extension, T4 = 161.8 % extension (golden), T5 = 261.8 % "
     "extension (deep)."
 )

@@ -3,7 +3,7 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-05-14 19:05 IST
+NSE bhavcopy analysis — generated 2026-05-14 21:54 IST
 ============================================================
 
 Pure_on_Volume hits (BUY): 7
@@ -44,9 +44,8 @@ Top 7 BUY candidates:
         → STRONG BUY (tech=STRONG_BUY, signal net +3)
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹1406.09
-          - Strict stop-loss:      ₹1419.35
-          - Best stop-loss:        ₹1359.49
-          - Target-1 (50.0%):      ₹1419.35
+          - Strict stop-loss:      ₹1359.49
+          - Best stop-loss:        ₹1285.42
           - Target-2 (61.8%):      ₹1479.21
           - Target-3 (150%):       ₹1926.65
           - Target-4 (161.8%):     ₹1986.51
@@ -74,9 +73,8 @@ Top 7 BUY candidates:
         → STRONG BUY (tech=STRONG_BUY, signal net +6)
         TRADE PLAN (BUY):
           - Entry zone (probable): above ₹1944.35
-          - Strict stop-loss:      ₹1947.65
-          - Best stop-loss:        ₹1842.08
-          - Target-1 (50.0%):      ₹1947.65
+          - Strict stop-loss:      ₹1842.08
+          - Best stop-loss:        ₹1711.45
           - Target-2 (61.8%):      ₹2053.22
           - Target-3 (150%):       ₹2842.35
           - Target-4 (161.8%):     ₹2947.92
@@ -271,7 +269,7 @@ Top 2 SELL candidates (high-volume distribution):
 
   TRADE PLAN (BUY rows only) — fib extension anchored to the most recent confirmed swing low (0 %) and swing high (100 %), ChartPrime zigzag (lookback = 100 bars):
     Entry zone (probable) = today_low + 0.55 × (today_high − today_low)  — enter only above this level.
-    Strict stop-loss      = closest fib level (0.236 / 0.382 / 0.500 / 0.618 / 0.726 / 0.786) strictly BELOW today's close.
+    Strict stop-loss      = closest fib level (0.236 / 0.382 / 0.500 / 0.618 / 0.726 / 0.786) strictly BELOW the entry zone — guarantees SL < Entry.
     Best stop-loss        = the next fib level BELOW the strict stop-loss (one level deeper).
     Target-1              = 50.0 %  retracement  (swing_low + 0.500 × swing_range).
     Target-2              = 61.8 %  retracement  (swing_low + 0.618 × swing_range).
