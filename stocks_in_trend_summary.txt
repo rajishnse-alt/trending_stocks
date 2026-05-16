@@ -3,7 +3,7 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-05-15 19:14 IST
+NSE bhavcopy analysis — generated 2026-05-16 21:11 IST
 ============================================================
 
 Pure_on_Volume hits (BUY): 11
@@ -29,7 +29,7 @@ Top 11 BUY candidates:
           - Closed near the day's high (CLV +0.80) — buyers absorbed the volume
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
           - Healthy liquidity (~₹27.3cr daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ 13,534 Cr. | P/E 62.1 | ROCE 6.25 % | ROE 4.47 % | DivYield 1.21 % | BookVal ₹ 51.3
+        FUNDAMENTALS (screener.in): MCap ₹ 13,526 Cr. | P/E 62.1 | ROCE 6.25 % | ROE 4.47 % | DivYield 1.21 % | BookVal ₹ 51.3
         CONS (screener.in):
           - Stock is trading at 2.75 times its book value
           - The company has delivered a poor sales growth of 5.07% over past five years.
@@ -56,7 +56,7 @@ Top 11 BUY candidates:
           - Volume highest in 3 months (HVQ)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
           - Healthy liquidity (~₹27.1cr daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ 20,985 Cr. | P/E 82.0 | ROCE 10.5 % | ROE 6.89 % | DivYield 0.36 % | BookVal ₹ 205
+        FUNDAMENTALS (screener.in): MCap ₹ 21,000 Cr. | P/E 82.0 | ROCE 10.5 % | ROE 6.89 % | DivYield 0.36 % | BookVal ₹ 205
         PROS (screener.in):
           - Company has been maintaining a healthy dividend payout of 22.3%
         CONS (screener.in):
@@ -81,7 +81,7 @@ Top 11 BUY candidates:
         CONS (signals):
           - Lower third of 52-week range (24%)
           - Trading below the 200-day SMA
-        FUNDAMENTALS (screener.in): MCap ₹ 17,196 Cr. | P/E 26.6 | ROCE 17.1 % | ROE 19.2 % | DivYield 0.13 % | BookVal ₹ 169
+        FUNDAMENTALS (screener.in): MCap ₹ 17,183 Cr. | P/E 26.6 | ROCE 17.1 % | ROE 19.2 % | DivYield 0.13 % | BookVal ₹ 169
         PROS (screener.in):
           - Company is expected to give good quarter
           - Company has delivered good profit growth of 46.6% CAGR over last 5 years
@@ -140,7 +140,7 @@ Top 11 BUY candidates:
           - 35% off 52-week high
           - -35% over the year
           - Trading below the 200-day SMA
-        FUNDAMENTALS (screener.in): MCap ₹ 18,017 Cr. | P/E 9.22 | ROCE 25.5 % | ROE 20.4 % | DivYield 2.22 % | BookVal ₹ 260
+        FUNDAMENTALS (screener.in): MCap ₹ 18,025 Cr. | P/E 9.23 | ROCE 25.5 % | ROE 20.4 % | DivYield 2.22 % | BookVal ₹ 260
         PROS (screener.in):
           - Company has been maintaining a healthy dividend payout of 20.0%
         CONS (screener.in):
@@ -168,7 +168,7 @@ Top 11 BUY candidates:
           - 77% off 52-week high
           - -75% over the year
           - Bearish SMA stack (close < 20 < 50 < 200)
-        FUNDAMENTALS (screener.in): MCap ₹ 50,064 Cr. | P/E 29.8 | ROCE % | ROE 11.4 % | DivYield 0.76 % | BookVal ₹ 111
+        FUNDAMENTALS (screener.in): MCap ₹ 50,036 Cr. | P/E 29.8 | ROCE % | ROE 11.4 % | DivYield 0.76 % | BookVal ₹ 111
         CONS (screener.in):
           - Stock is trading at 4.13 times its book value
           - Promoter holding has decreased over last 3 years: -12.6%
@@ -197,7 +197,7 @@ Top 11 BUY candidates:
           - 31% off 52-week high
           - High volatility (65% annualised)
           - Delivery % falling — recent 29% vs 30d 42% (-13pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 8,000 Cr. | P/E 37.5 | ROCE 17.8 % | ROE 13.0 % | DivYield 1.08 % | BookVal ₹ 87.8
+        FUNDAMENTALS (screener.in): MCap ₹ 8,016 Cr. | P/E 37.6 | ROCE 17.8 % | ROE 13.0 % | DivYield 1.08 % | BookVal ₹ 87.8
         PROS (screener.in):
           - Company is almost debt free.
         CONS (screener.in):
@@ -221,14 +221,15 @@ Top 11 BUY candidates:
           - Volume highest in 3 months (HVQ)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
           - Healthy liquidity (~₹124.2cr daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ 35,620 Cr. | P/E 198 | ROCE 2.47 % | ROE 1.52 % | DivYield 0.00 % | BookVal ₹ 127
+        FUNDAMENTALS (screener.in): MCap ₹ 35,620 Cr. | P/E 200 | ROCE 2.82 % | ROE 1.87 % | DivYield 0.00 % | BookVal ₹ 129
         PROS (screener.in):
-          - Company has delivered good profit growth of 19.7% CAGR over last 5 years
-          - Company's working capital requirements have reduced from 118 days to 67.5 days
+          - Company has delivered good profit growth of 19.8% CAGR over last 5 years
         CONS (screener.in):
-          - Stock is trading at 3.73 times its book value
-          - Company has a low return on equity of -4.42% over last 3 years.
-          - Earnings include an other income of Rs.406 Cr.
+          - Stock is trading at 3.68 times its book value
+          - Though the company is reporting repeated profits, it is not paying out dividend
+          - Tax rate seems low
+          - Company has a low return on equity of 0.18% over last 3 years.
+          - Earnings include an other income of Rs.340 Cr.
         https://www.screener.in/company/DELHIVERY/consolidated/
 
   • TMPV            (Tata Motors Passenger Vehicles)  close ₹356.55  +5.25%  bias BUY
@@ -242,7 +243,7 @@ Top 11 BUY candidates:
         CONS (signals):
           - Trading below the 200-day SMA
           - Delivery % falling — recent 36% vs 30d 41% (-5pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 1,31,258 Cr. | P/E 20.6 | ROCE 2.73 % | ROE 5.58 % | DivYield 1.68 % | BookVal ₹ 304
+        FUNDAMENTALS (screener.in): MCap ₹ 1,31,297 Cr. | P/E 20.6 | ROCE 2.73 % | ROE 5.58 % | DivYield 1.68 % | BookVal ₹ 304
         PROS (screener.in):
           - Stock is trading at 1.17 times its book value
           - Company has delivered good profit growth of 19.1% CAGR over last 5 years
@@ -273,7 +274,7 @@ Top 11 BUY candidates:
           - Volume highest in 3 months (HVQ)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
           - Healthy liquidity (~₹43.6cr daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ 40,752 Cr. | P/E 38.6 | ROCE 14.7 % | ROE 12.8 % | DivYield 0.25 % | BookVal ₹ 293
+        FUNDAMENTALS (screener.in): MCap ₹ 40,720 Cr. | P/E 38.6 | ROCE 14.7 % | ROE 12.8 % | DivYield 0.25 % | BookVal ₹ 293
         PROS (screener.in):
           - Company has been maintaining a healthy dividend payout of 17.9%
         CONS (screener.in):
@@ -301,7 +302,7 @@ Top 11 BUY candidates:
           - Healthy liquidity (~₹127.4cr daily turnover)
         CONS (signals):
           - Delivery % falling — recent 41% vs 30d 47% (-7pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 21,912 Cr. | P/E 7.45 | ROCE 18.4 % | ROE 18.8 % | DivYield 1.94 % | BookVal ₹ 1,188
+        FUNDAMENTALS (screener.in): MCap ₹ 21,899 Cr. | P/E 7.44 | ROCE 18.4 % | ROE 18.8 % | DivYield 2.29 % | BookVal ₹ 1,188
         PROS (screener.in):
           - Company has reduced debt.
           - Company is almost debt free.
@@ -324,7 +325,7 @@ Top 1 SELL candidates (high-volume distribution):
           - Bearish SMA stack (close < 20 < 50 < 200)
           - Closed near the day's low (CLV -0.86) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 25,061 Cr. | P/E 12.1 | ROCE 13.8 % | ROE 13.2 % | DivYield 1.27 % | BookVal ₹ 263
+        FUNDAMENTALS (screener.in): MCap ₹ 25,055 Cr. | P/E 12.1 | ROCE 13.8 % | ROE 13.2 % | DivYield 1.27 % | BookVal ₹ 263
         PROS (screener.in):
           - Company has delivered good profit growth of 23.8% CAGR over last 5 years
           - Company has been maintaining a healthy dividend payout of 26.1%
