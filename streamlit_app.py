@@ -20,61 +20,146 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="collapsed",
 )
+
+# ─────────────────────────────────────────── Theme toggle ─────────────────────
+# Two palettes — light (default) and dark. Tracked in st.session_state so the
+# choice survives reruns within a session. The toggle button itself sits to
+# the right of the page title (rendered a few lines below).
+if "theme" not in st.session_state:
+    st.session_state["theme"] = "light"
+DARK = st.session_state["theme"] == "dark"
+
+if DARK:
+    P = {
+        "bg":         "#0b1220",
+        "fg":         "#e2e8f0",
+        "muted":      "#94a3b8",
+        "border":     "rgba(148,163,184,0.20)",
+        "green_bg":   "rgba(34,197,94,0.18)",
+        "green_fg":   "#4ade80",
+        "red_bg":     "rgba(239,68,68,0.18)",
+        "red_fg":     "#f87171",
+        "blue_bg":    "rgba(59,130,246,0.20)",
+        "blue_fg":    "#60a5fa",
+        "amber_bg":   "rgba(234,179,8,0.18)",
+        "amber_fg":   "#fbbf24",
+        "neutral_bg": "rgba(148,163,184,0.20)",
+        "neutral_fg": "#cbd5e1",
+        "fund_bg":    "rgba(148,163,184,0.10)",
+        "tp_bg":      "rgba(59,130,246,0.15)",
+        "tp_fg":      "#93c5fd",
+        "tp_dim":     "#94a3b8",
+        "strong_b":   "#e2e8f0",
+    }
+else:
+    P = {
+        "bg":         "#ffffff",
+        "fg":         "#0f172a",
+        "muted":      "#475569",
+        "border":     "rgba(148,163,184,0.35)",
+        "green_bg":   "rgba(34,197,94,0.10)",
+        "green_fg":   "#15803d",
+        "red_bg":     "rgba(239,68,68,0.10)",
+        "red_fg":     "#b91c1c",
+        "blue_bg":    "rgba(59,130,246,0.10)",
+        "blue_fg":    "#1d4ed8",
+        "amber_bg":   "rgba(234,179,8,0.10)",
+        "amber_fg":   "#a16207",
+        "neutral_bg": "rgba(148,163,184,0.10)",
+        "neutral_fg": "#475569",
+        "fund_bg":    "rgba(148,163,184,0.08)",
+        "tp_bg":      "rgba(59,130,246,0.10)",
+        "tp_fg":      "#1e3a8a",
+        "tp_dim":     "#475569",
+        "strong_b":   "#0f172a",
+    }
+
 st.markdown(
-    """
+    f"""
     <style>
-      /* Tighten up Streamlit's default vertical rhythm */
-      .block-container { padding-top: 2.2rem; padding-bottom: 4rem; max-width: 1280px; }
-      h1 { letter-spacing: -0.02em; }
-      [data-testid="stMetricValue"] { font-feature-settings: "tnum"; font-weight: 700; }
-      .stock-symbol  { font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-weight: 700; font-size: 18px; letter-spacing: -0.01em; }
-      .stock-name    { color: #94a3b8; font-size: 13px; margin-top: 2px; }
-      .verdict-badge { display:inline-block; padding:3px 10px; border-radius:999px;
-                       font-family:'JetBrains Mono', monospace; font-size:11px; font-weight:700;
-                       letter-spacing:0.04em; border:1px solid currentColor; }
-      .v-strong-buy  { color:#15803d; background:rgba(34,197,94,0.10); }
-      .v-buy-lean    { color:#15803d; background:rgba(34,197,94,0.06); }
-      .v-strong-sell { color:#b91c1c; background:rgba(239,68,68,0.10); }
-      .v-sell-lean   { color:#b91c1c; background:rgba(239,68,68,0.06); }
-      .v-hold        { color:#a16207; background:rgba(234,179,8,0.10); }
-      .v-default     { color:#475569; background:rgba(148,163,184,0.10); }
-      .meta-pill     { display:inline-block; padding:3px 10px; border-radius:999px;
-                       font-family:'JetBrains Mono', monospace; font-size:11px;
-                       background:rgba(148,163,184,0.12); color:#475569; margin-left:6px; }
-      .net-pos { color:#15803d; font-weight:700; }
-      .net-neg { color:#b91c1c; font-weight:700; }
-      .net-zero{ color:#475569; font-weight:700; }
-      .fund-row {
-        font-family: 'JetBrains Mono', monospace; font-size: 12px; color:#475569;
-        background: rgba(148,163,184,0.08); padding: 8px 12px; border-radius: 8px;
+      /* Streamlit chrome ---------------------------------------------------- */
+      .stApp {{ background: {P['bg']}; color: {P['fg']}; }}
+      .block-container {{ padding-top: 2.2rem; padding-bottom: 4rem; max-width: 1280px; }}
+      h1, h2, h3, h4 {{ color: {P['fg']}; letter-spacing: -0.02em; }}
+      p, label, span, div, li {{ color: {P['fg']}; }}
+      [data-testid="stCaptionContainer"], .stCaption,
+      [data-testid="stMarkdownContainer"] small {{ color: {P['muted']} !important; }}
+      [data-testid="stMetricLabel"] {{ color: {P['muted']}; }}
+      [data-testid="stMetricValue"] {{ color: {P['fg']}; font-feature-settings: "tnum"; font-weight: 700; }}
+      /* Tabs */
+      [data-baseweb="tab-list"] {{ border-bottom-color: {P['border']}; }}
+      [data-baseweb="tab"] {{ color: {P['muted']}; }}
+      [data-baseweb="tab"][aria-selected="true"] {{ color: {P['fg']}; }}
+      /* Bordered containers (used for cards) */
+      [data-testid="stVerticalBlockBorderWrapper"] {{ border-color: {P['border']} !important; }}
+      /* Code block (Raw text tab) */
+      pre, code {{ color: {P['fg']}; }}
+      [data-testid="stCodeBlock"] {{ background: {P['fund_bg']} !important; }}
+      /* Dataframe (Bulk Deals tab) */
+      [data-testid="stDataFrame"] {{ color: {P['fg']}; }}
+      /* Theme toggle button styling */
+      .theme-toggle button {{
+          background: {P['neutral_bg']} !important;
+          color: {P['fg']} !important;
+          border: 1px solid {P['border']} !important;
+          border-radius: 999px !important;
+          font-weight: 600 !important;
+      }}
+
+      /* Custom card components -------------------------------------------- */
+      .stock-symbol  {{ font-family: 'JetBrains Mono', ui-monospace, Menlo, monospace; font-weight: 700; font-size: 18px; letter-spacing: -0.01em; color: {P['fg']}; }}
+      .stock-name    {{ color: {P['muted']}; font-size: 13px; margin-top: 2px; }}
+      .verdict-badge {{ display:inline-block; padding:3px 10px; border-radius:999px;
+                        font-family:'JetBrains Mono', monospace; font-size:11px; font-weight:700;
+                        letter-spacing:0.04em; border:1px solid currentColor; }}
+      .v-strong-buy  {{ color:{P['green_fg']}; background:{P['green_bg']}; }}
+      .v-buy-lean    {{ color:{P['green_fg']}; background:{P['green_bg']}; }}
+      .v-strong-sell {{ color:{P['red_fg']};   background:{P['red_bg']}; }}
+      .v-sell-lean   {{ color:{P['red_fg']};   background:{P['red_bg']}; }}
+      .v-hold        {{ color:{P['amber_fg']}; background:{P['amber_bg']}; }}
+      .v-default     {{ color:{P['neutral_fg']}; background:{P['neutral_bg']}; }}
+      .meta-pill     {{ display:inline-block; padding:3px 10px; border-radius:999px;
+                        font-family:'JetBrains Mono', monospace; font-size:11px;
+                        background:{P['neutral_bg']}; color:{P['neutral_fg']}; margin-left:6px; }}
+      .net-pos {{ color:{P['green_fg']}; font-weight:700; }}
+      .net-neg {{ color:{P['red_fg']};   font-weight:700; }}
+      .net-zero{{ color:{P['neutral_fg']}; font-weight:700; }}
+      .fund-row {{
+        font-family: 'JetBrains Mono', monospace; font-size: 12px; color:{P['muted']};
+        background: {P['fund_bg']}; padding: 8px 12px; border-radius: 8px;
         margin-top: 6px;
-      }
-      .fund-row b { color:#0f172a; }
-      .trade-plan {
-        font-family: 'JetBrains Mono', monospace; font-size: 12px; color:#1e3a8a;
-        background: rgba(59,130,246,0.10); padding: 10px 12px; border-radius: 8px;
+      }}
+      .fund-row b {{ color:{P['strong_b']}; }}
+      .trade-plan {{
+        font-family: 'JetBrains Mono', monospace; font-size: 12px; color:{P['tp_fg']};
+        background: {P['tp_bg']}; padding: 10px 12px; border-radius: 8px;
         margin-top: 6px; line-height: 1.65;
-      }
-      .trade-plan b           { color:#0f172a; }
-      .trade-plan .tp-entry   { color:#15803d; font-weight:700; }
-      .trade-plan .tp-sl      { color:#b91c1c; font-weight:700; }
-      .trade-plan .tp-target  { color:#1d4ed8; font-weight:700; }
-      .trade-plan .tp-row     { display:flex; flex-wrap:wrap; gap:14px 18px; }
-      .trade-plan .tp-cell    { white-space:nowrap; }
-      .trade-plan .tp-anchor  { color:#475569; font-size:11px; margin-top:6px;
-                                padding-top:6px; border-top:1px dashed rgba(100,116,139,0.25); }
-      .group-head-pro { color:#15803d; font-size: 11px; font-weight:700; letter-spacing:.08em;
-                        text-transform:uppercase; margin-top:10px; }
-      .group-head-con { color:#b91c1c; font-size: 11px; font-weight:700; letter-spacing:.08em;
-                        text-transform:uppercase; margin-top:10px; }
-      .pro-li { background: rgba(34,197,94,0.10); padding: 4px 10px; border-radius:6px;
-                margin: 4px 0; font-size: 13px; }
-      .con-li { background: rgba(239,68,68,0.10); padding: 4px 10px; border-radius:6px;
-                margin: 4px 0; font-size: 13px; }
+      }}
+      .trade-plan b           {{ color:{P['strong_b']}; }}
+      .trade-plan .tp-entry   {{ color:{P['green_fg']}; font-weight:700; }}
+      .trade-plan .tp-sl      {{ color:{P['red_fg']};   font-weight:700; }}
+      .trade-plan .tp-target  {{ color:{P['blue_fg']};  font-weight:700; }}
+      .trade-plan .tp-row     {{ display:flex; flex-wrap:wrap; gap:14px 18px; }}
+      .trade-plan .tp-cell    {{ white-space:nowrap; }}
+      .trade-plan .tp-anchor  {{ color:{P['tp_dim']}; font-size:11px; margin-top:6px;
+                                 padding-top:6px; border-top:1px dashed {P['border']}; }}
+      .group-head-pro {{ color:{P['green_fg']}; font-size: 11px; font-weight:700; letter-spacing:.08em;
+                         text-transform:uppercase; margin-top:10px; }}
+      .group-head-con {{ color:{P['red_fg']};   font-size: 11px; font-weight:700; letter-spacing:.08em;
+                         text-transform:uppercase; margin-top:10px; }}
+      .pro-li {{ background:{P['green_bg']}; padding: 4px 10px; border-radius:6px;
+                 margin: 4px 0; font-size: 13px; color:{P['fg']}; }}
+      .con-li {{ background:{P['red_bg']};   padding: 4px 10px; border-radius:6px;
+                 margin: 4px 0; font-size: 13px; color:{P['fg']}; }}
     </style>
     """,
     unsafe_allow_html=True,
 )
+
+
+def _toggle_theme() -> None:
+    """Flip light ↔ dark and let Streamlit rerun to repaint the page."""
+    st.session_state["theme"] = "light" if DARK else "dark"
 
 # ─────────────────────────────────────────── Parser ────────────────────────────
 SUMMARY_PATH = Path(__file__).parent / "stocks_in_trend_summary.txt"
@@ -253,11 +338,23 @@ text = SUMMARY_PATH.read_text(encoding="utf-8")
 data = parse_summary(text)
 
 # ─────────────────────────────────────────── Header ────────────────────────────
-st.markdown("# 📈 Stocks in Trend")
-st.caption(
-    f"NSE bhavcopy analysis · {data['generated'] or 'date not detected'} · "
-    "Pure-on-Volume + screener.in fundamentals"
-)
+title_col, toggle_col = st.columns([8, 1])
+with title_col:
+    st.markdown("# 📈 Stocks in Trend")
+    st.caption(
+        f"NSE bhavcopy analysis · {data['generated'] or 'date not detected'} · "
+        "Pure-on-Volume + screener.in fundamentals"
+    )
+with toggle_col:
+    st.markdown('<div class="theme-toggle">', unsafe_allow_html=True)
+    st.button(
+        "☀️ Light" if DARK else "🌙 Dark",
+        key="theme_toggle_btn",
+        on_click=_toggle_theme,
+        use_container_width=True,
+        help="Toggle dark / light theme",
+    )
+    st.markdown('</div>', unsafe_allow_html=True)
 
 c1, c2, c3, c4 = st.columns(4)
 c1.metric("BUY recommendations", data["buy_count"])
