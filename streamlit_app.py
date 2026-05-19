@@ -7,6 +7,7 @@ Deploy: push this repo to GitHub, then https://share.streamlit.io → "New app"
 """
 from __future__ import annotations
 
+import json
 import re
 from pathlib import Path
 
@@ -164,6 +165,7 @@ def _toggle_theme() -> None:
 # ─────────────────────────────────────────── Parser ────────────────────────────
 SUMMARY_PATH = Path(__file__).parent / "stocks_in_trend_summary.txt"
 BULK_DEALS_PATH = Path(__file__).parent / "bulk_deals.csv"
+POSITIONS_PATH = Path(__file__).parent / "positions.json"
 
 VERDICT_CLASS = {
     "STRONG BUY":  "v-strong-buy",
@@ -508,11 +510,119 @@ def load_bulk_deals() -> pd.DataFrame | None:
     return df
 
 
+# ─────────────────────────────────────────── Positions loader ─────────────────
+@st.cache_data(show_spinner=False, ttl=300)
+def load_positions() -> list[dict]:
+    """Load the BUY position ledger written by the pipeline.
+
+    Returns [] if the file is missing or unreadable so the tab can render
+    a friendly empty state rather than crashing.
+    """
+    if not POSITIONS_PATH.exists():
+        return []
+    try:
+        raw = POSITIONS_PATH.read_text(encoding="utf-8")
+    except Exception:
+        return []
+    if not raw.strip():
+        return []
+    try:
+        data = json.loads(raw)
+    except Exception:
+        return []
+    return data if isinstance(data, list) else []
+
+
+def _positions_to_frame(positions: list[dict], status: str) -> pd.DataFrame:
+    """Flatten the JSON position records into a tidy DataFrame for the
+    selected status ('open', 'pending', 'closed')."""
+    rows = []
+    for p in positions:
+        if p.get("status") != status:
+            continue
+        targets = p.get("targets") or []
+        target_prices = " · ".join(
+            f"{t.get('name')}:₹{t.get('price'):,.2f}"
+            for t in targets if t.get("price") is not None
+        )
+        rows.append({
+            "Symbol":     p.get("symbol"),
+            "Name":       p.get("name"),
+            "Suggested":  p.get("suggested_on"),
+            "Entry":      p.get("entry"),
+            "Fill ≥":     p.get("fill_trigger"),
+            "Fill date":  p.get("fill_date"),
+            "Fill px":    p.get("fill_price"),
+            "Stop loss":  p.get("stoploss"),
+            "Targets":    target_prices,
+            "Exit date":  p.get("exit_date"),
+            "Exit px":    p.get("exit_price"),
+            "Exit why":   p.get("exit_reason"),
+            "Days":       p.get("days_held"),
+            "P&L %":      p.get("pnl_pct"),
+        })
+    return pd.DataFrame(rows)
+
+
+# ─────────────────────────────────────────── Trades table helper ───────────────
+_PRICE_RE = re.compile(r"[₹,\s]")
+
+
+def _price_to_float(s) -> float | None:
+    """Convert a '₹1,234.56' style string to float; return None on miss."""
+    if not s:
+        return None
+    try:
+        return float(_PRICE_RE.sub("", str(s)))
+    except (TypeError, ValueError):
+        return None
+
+
+def _signals_to_trades_frame(signals: list[dict], side: str) -> pd.DataFrame:
+    """Build a compact, tabular view of today's BUY/SELL candidates with
+    trade-plan levels. One row per stock — designed for fast scanning
+    (sortable columns, no card scrolling).
+
+    `side` is 'buy' or 'sell'. SELL rows omit trade-plan columns since
+    the pipeline only emits a plan for BUY signals.
+    """
+    rows = []
+    for s in signals:
+        tp = s.get("trade_plan") or {}
+        rows.append({
+            "Symbol":   s.get("symbol", ""),
+            "Name":     s.get("name", ""),
+            "Close":    s.get("price"),
+            "% chg":    s.get("change_pct"),
+            "Verdict":  s.get("verdict") or s.get("bias", ""),
+            "Bias":     s.get("bias", ""),
+            "Net":      s.get("net", 0),
+            "Entry":    _price_to_float(tp.get("entry")),
+            "Strict SL":_price_to_float(tp.get("strict_sl")),
+            "Best SL":  _price_to_float(tp.get("best_sl")),
+            "T1":       _price_to_float(tp.get("target_1")),
+            "T2":       _price_to_float(tp.get("target_2")),
+            "T3":       _price_to_float(tp.get("target_3")),
+            "T4":       _price_to_float(tp.get("target_4")),
+            "T5":       _price_to_float(tp.get("target_5")),
+            "Side":     side.upper(),
+        })
+    return pd.DataFrame(rows)
+
+
 # ─────────────────────────────────────────── Tabs ──────────────────────────────
-buy_tab, sell_tab, bulk_tab, raw_tab = st.tabs(
+positions_data = load_positions()
+n_open    = sum(1 for p in positions_data if p.get("status") == "open")
+n_pending = sum(1 for p in positions_data if p.get("status") == "pending")
+n_closed  = sum(1 for p in positions_data if p.get("status") == "closed")
+n_trades  = len(data["buys"]) + len(data["sells"])
+
+buy_tab, sell_tab, trades_tab, pos_tab, bulk_tab, raw_tab = st.tabs(
     [
         f"💚  BUY  ({len(data['buys'])})",
         f"❤️  SELL  ({len(data['sells'])})",
+        f"📊  Trades  ({n_trades})",
+        f"📓  Positions  ({n_open + n_pending} live · {n_closed} closed)",
         "🧾  Bulk Deals",
         "📄  Raw text",
     ]
@@ -535,6 +645,188 @@ with sell_tab:
         for i, stock in enumerate(data["sells"]):
             with cols[i % 2]:
                 render_card(stock, "sell")
+
+with trades_tab:
+    if not data["buys"] and not data["sells"]:
+        st.info("No trade candidates parsed from the summary.")
+    else:
+        st.caption(
+            "Compact table view of today's signals — sortable, scannable, "
+            "and friendly to copy into a watchlist. BUY rows include the "
+            "full trade-plan ladder (Entry, Strict SL, Best SL, T1–T5); "
+            "SELL rows show price/verdict only since the pipeline doesn't "
+            "emit a plan for shorts."
+        )
+
+        side_filter = st.radio(
+            "Side",
+            ["Both", "BUY only", "SELL only"],
+            index=0,
+            horizontal=True,
+            key="trades_side_filter",
+        )
+
+        frames: list[pd.DataFrame] = []
+        if side_filter in ("Both", "BUY only") and data["buys"]:
+            frames.append(_signals_to_trades_frame(data["buys"], "buy"))
+        if side_filter in ("Both", "SELL only") and data["sells"]:
+            frames.append(_signals_to_trades_frame(data["sells"], "sell"))
+
+        if not frames:
+            st.info("Nothing to show for the selected side.")
+        else:
+            trades_df = pd.concat(frames, ignore_index=True)
+
+            # Column order — Side first when both are visible so BUY/SELL
+            # rows are easy to tell apart, then identity, then trade plan.
+            base_cols = [
+                "Side", "Symbol", "Name", "Close", "% chg",
+                "Verdict", "Bias", "Net",
+                "Entry", "Strict SL", "Best SL",
+                "T1", "T2", "T3", "T4", "T5",
+            ]
+            if side_filter != "Both":
+                # Drop the Side column when filtered to a single side.
+                base_cols = [c for c in base_cols if c != "Side"]
+            view = trades_df[[c for c in base_cols if c in trades_df.columns]]
+
+            st.dataframe(
+                view,
+                use_container_width=True,
+                hide_index=True,
+                column_config={
+                    "Close":     st.column_config.NumberColumn(format="₹%.2f"),
+                    "% chg":     st.column_config.NumberColumn(format="%+.2f %%"),
+                    "Net":       st.column_config.NumberColumn(format="%+d"),
+                    "Entry":     st.column_config.NumberColumn(format="₹%.2f"),
+                    "Strict SL": st.column_config.NumberColumn(format="₹%.2f"),
+                    "Best SL":   st.column_config.NumberColumn(format="₹%.2f"),
+                    "T1":        st.column_config.NumberColumn(format="₹%.2f"),
+                    "T2":        st.column_config.NumberColumn(format="₹%.2f"),
+                    "T3":        st.column_config.NumberColumn(format="₹%.2f"),
+                    "T4":        st.column_config.NumberColumn(format="₹%.2f"),
+                    "T5":        st.column_config.NumberColumn(format="₹%.2f"),
+                },
+            )
+
+            st.download_button(
+                "Download trades.csv",
+                data=trades_df.to_csv(index=False).encode("utf-8"),
+                file_name="trades.csv",
+                mime="text/csv",
+            )
+
+with pos_tab:
+    if not positions_data:
+        st.info(
+            "No positions tracked yet. The pipeline writes "
+            "`positions.json` next to this script on every run — "
+            "fresh BUY signals will start appearing here once the next "
+            "daily run completes."
+        )
+    else:
+        st.caption(
+            f"**{n_open}** open · **{n_pending}** pending fill · "
+            f"**{n_closed}** closed. A signal becomes *open* the day "
+            "price trades ≥ 1.2 % above the suggested entry, and *closes* "
+            "when daily H/L straddles the stop loss or any target."
+        )
+
+        # ── Open positions ──────────────────────────────────────────────
+        st.markdown("### 🟢 Open (filled, still live)")
+        open_df = _positions_to_frame(positions_data, "open")
+        if open_df.empty:
+            st.caption("No open positions right now.")
+        else:
+            open_cols = [
+                "Symbol", "Name", "Suggested", "Entry",
+                "Fill date", "Fill px", "Stop loss",
+                "Targets", "Days",
+            ]
+            view = open_df[[c for c in open_cols if c in open_df.columns]]
+            st.dataframe(
+                view,
+                use_container_width=True,
+                hide_index=True,
+                column_config={
+                    "Entry":     st.column_config.NumberColumn(format="₹%.2f"),
+                    "Fill px":   st.column_config.NumberColumn(format="₹%.2f"),
+                    "Stop loss": st.column_config.NumberColumn(format="₹%.2f"),
+                    "Days":      st.column_config.NumberColumn(format="%d"),
+                },
+            )
+
+        # ── Pending positions ───────────────────────────────────────────
+        st.markdown("### 🟡 Pending (waiting for 1.2 % confirmation)")
+        pend_df = _positions_to_frame(positions_data, "pending")
+        if pend_df.empty:
+            st.caption("No pending signals.")
+        else:
+            pend_cols = [
+                "Symbol", "Name", "Suggested", "Entry",
+                "Fill ≥", "Stop loss", "Targets",
+            ]
+            view = pend_df[[c for c in pend_cols if c in pend_df.columns]]
+            st.dataframe(
+                view,
+                use_container_width=True,
+                hide_index=True,
+                column_config={
+                    "Entry":     st.column_config.NumberColumn(format="₹%.2f"),
+                    "Fill ≥":    st.column_config.NumberColumn(format="₹%.2f"),
+                    "Stop loss": st.column_config.NumberColumn(format="₹%.2f"),
+                },
+            )
+
+        # ── Closed positions ────────────────────────────────────────────
+        st.markdown("### ⚪ Closed (target hit or stopped out)")
+        closed_df = _positions_to_frame(positions_data, "closed")
+        if closed_df.empty:
+            st.caption("No closed positions yet.")
+        else:
+            closed_cols = [
+                "Symbol", "Name", "Suggested", "Entry",
+                "Fill date", "Fill px", "Exit date", "Exit px",
+                "Exit why", "Days", "P&L %",
+            ]
+            view = closed_df[[c for c in closed_cols if c in closed_df.columns]]
+            # Sort by most recent exit
+            if "Exit date" in view.columns:
+                view = view.sort_values("Exit date", ascending=False)
+            st.dataframe(
+                view,
+                use_container_width=True,
+                hide_index=True,
+                column_config={
+                    "Entry":   st.column_config.NumberColumn(format="₹%.2f"),
+                    "Fill px": st.column_config.NumberColumn(format="₹%.2f"),
+                    "Exit px": st.column_config.NumberColumn(format="₹%.2f"),
+                    "Days":    st.column_config.NumberColumn(format="%d"),
+                    "P&L %":   st.column_config.NumberColumn(format="%+.2f %%"),
+                },
+            )
+
+            # Quick summary stats
+            wins   = closed_df[closed_df["P&L %"].fillna(0) > 0]
+            losses = closed_df[closed_df["P&L %"].fillna(0) <= 0]
+            if len(closed_df) > 0:
+                k1, k2, k3, k4 = st.columns(4)
+                k1.metric("Win rate",
+                          f"{(len(wins) / len(closed_df)) * 100:.1f}%")
+                k2.metric("Avg P&L",
+                          f"{closed_df['P&L %'].mean():+.2f}%")
+                k3.metric("Best",
+                          f"{closed_df['P&L %'].max():+.2f}%")
+                k4.metric("Worst",
+                          f"{closed_df['P&L %'].min():+.2f}%")
+
+        st.download_button(
+            "Download positions.json",
+            data=POSITIONS_PATH.read_text(encoding="utf-8")
+                 if POSITIONS_PATH.exists() else "[]",
+            file_name="positions.json",
+            mime="application/json",
+        )
 
 with bulk_tab:
     deals = load_bulk_deals()
