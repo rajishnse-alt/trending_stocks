@@ -3,209 +3,152 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-05-18 21:25 IST
+NSE bhavcopy analysis — generated 2026-05-19 22:25 IST
 ============================================================
 
 Pure_on_Volume hits (BUY): 3
-Recommendations: 3 BUY  +  5 SELL
+Recommendations: 3 BUY  +  3 SELL
 
 Top 3 BUY candidates:
 ------------------------------------------------------------
-  • SOLARINDS       (Solar Industries India Ltd    )  close ₹18019.00  +4.07%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +8)
+  • IGL             (Indraprastha Gas Ltd          )  close ₹157.35  +3.77%  bias BUY
+        → HOLD / MIXED (tech=BUY, signal net -1)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹17701.10
-          - Strict stop-loss:      ₹16325.00
-          - Best stop-loss:        ₹15323.69
-          - Target-3 (150%):       ₹18664.50
-          - Target-4 (161.8%):     ₹19216.62
-          - Target-5 (261.8%):     ₹23895.62
-          - Swing anchor:          low ₹11646.00  ↔  high ₹16325.00
+          - Entry zone (probable): above ₹155.97
+          - Strict stop-loss:      ₹141.74
+          - Target-1 (50.0%):      ₹185.37
+          - Target-2 (61.8%):      ₹195.67
+          - Target-3 (150%):       ₹272.63
+          - Target-4 (161.8%):     ₹282.93
+          - Target-5 (261.8%):     ₹370.19
+          - Swing anchor:          low ₹141.74  ↔  high ₹229.00
         PROS (signals):
-          - Trading near 52-week high (99% of range)
-          - +20% over the last month
-          - +35% over the last 3 months
-          - Bullish SMA stack (close > 20 > 50 > 200)
           - Volume highest in 3 months (HVQ)
-          - Closed near the day's high (CLV +0.84) — buyers absorbed the volume
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹353.0cr daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ 1,62,701 Cr. | P/E 97.0 | ROCE 36.8 % | ROE 31.5 % | DivYield 0.06 % | BookVal ₹ 694
-        PROS (screener.in):
-          - Company is expected to give good quarter
-          - Company has delivered good profit growth of 43.5% CAGR over last 5 years
-          - Company has a good return on equity (ROE) track record: 3 Years ROE 31.7%
-          - Company's median sales growth is 22.8% of last 10 years
-        CONS (screener.in):
-          - Stock is trading at 26.0 times its book value
-          - Working capital days have increased from 49.9 days to 74.4 days
-        https://www.screener.in/company/SOLARINDS/consolidated/
-
-  • GESHIP          (Great Eastern Shipping Company)  close ₹1696.50  +10.60%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +7)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹1641.76
-          - Strict stop-loss:      ₹1618.90
-          - Best stop-loss:        ₹1443.12
-          - Target-3 (150%):       ₹2029.60
-          - Target-4 (161.8%):     ₹2126.53
-          - Target-5 (261.8%):     ₹2947.93
-          - Swing anchor:          low ₹797.50  ↔  high ₹1618.90
-        PROS (signals):
-          - Trading near 52-week high (96% of range)
-          - +23% over the last month
-          - +89% over the year
-          - Bullish SMA stack (close > 20 > 50 > 200)
-          - Volume surge — 5d avg is 3.9× the 30d avg
-          - Volume highest in 4 years (HVE) — strongest possible breakout signal
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹201.0cr daily turnover)
+          - Healthy liquidity (~₹63.7cr daily turnover)
         CONS (signals):
-          - Delivery % falling — recent 32% vs 30d 46% (-14pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 24,250 Cr. | P/E 8.24 | ROCE 18.4 % | ROE 18.8 % | DivYield 2.07 % | BookVal ₹ 1,188
+          - Lower third of 52-week range (18%)
+          - 31% off 52-week high
+          - Trading below the 200-day SMA
+          - Delivery % falling — recent 52% vs 30d 60% (-9pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 22,013 Cr. | P/E 14.2 | ROCE 17.9 % | ROE 14.0 % | DivYield 2.70 % | BookVal ₹ 82.2
         PROS (screener.in):
-          - Company has reduced debt.
           - Company is almost debt free.
+          - Company has been maintaining a healthy dividend payout of 34.1%
         CONS (screener.in):
-          - The company has delivered a poor sales growth of 10.2% over past five years.
-          - Tax rate seems low
-          - Working capital days have increased from 53.7 days to 199 days
-        https://www.screener.in/company/GESHIP/consolidated/
+          - Earnings include an other income of Rs.675 Cr.
+        https://www.screener.in/company/IGL/consolidated/
 
-  • GLAND           (Gland Pharma Ltd              )  close ₹2156.60  +15.43%  bias BUY
+  • ECLERX          (eClerx Services Ltd           )  close ₹1553.80  +5.39%  bias BUY
+        → SELL-LEAN (tech=BUY, signal net -3)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹1560.18
+          - Strict stop-loss:      ₹1375.00
+          - Target-1 (50.0%):      ₹3185.00
+          - Target-2 (61.8%):      ₹3612.16
+          - Target-3 (150%):       ₹6805.00
+          - Target-4 (161.8%):     ₹7232.16
+          - Target-5 (261.8%):     ₹10852.16
+          - Swing anchor:          low ₹1375.00  ↔  high ₹4995.00
+        PROS (signals):
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹51.1cr daily turnover)
+        CONS (signals):
+          - Trading near 52-week low (5% of range)
+          - 69% off 52-week high
+          - -58% over the last 3 months
+          - -43% over the year
+          - Trading below the 200-day SMA
+          - Delivery % falling — recent 32% vs 30d 44% (-12pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 14,604 Cr. | P/E 20.7 | ROCE 34.8 % | ROE 29.0 % | DivYield 0.03 % | BookVal ₹ 272
+        PROS (screener.in):
+          - Company has a good return on equity (ROE) track record: 3 Years ROE 25.8%
+          - Debtor days have improved from 77.5 to 59.1 days.
+        https://www.screener.in/company/ECLERX/consolidated/
+
+  • ZYDUSLIFE       (Zydus Lifesciences Ltd        )  close ₹1018.90  +2.80%  bias BUY
         → STRONG BUY (tech=BUY, signal net +6)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹2129.15
-          - Strict stop-loss:      ₹2011.72
-          - Best stop-loss:        ₹1978.27
-          - Target-3 (150%):       ₹2409.70
-          - Target-4 (161.8%):     ₹2475.47
-          - Target-5 (261.8%):     ₹3032.87
-          - Swing anchor:          low ₹1573.60  ↔  high ₹2131.00
+          - Entry zone (probable): above ₹1024.15
+          - Strict stop-loss:      ₹1018.80
+          - Best stop-loss:        ₹979.57
+          - Target-3 (150%):       ₹1110.45
+          - Target-4 (161.8%):     ₹1132.08
+          - Target-5 (261.8%):     ₹1315.38
+          - Swing anchor:          low ₹835.50  ↔  high ₹1018.80
         PROS (signals):
-          - Trading near 52-week high (94% of range)
-          - +24% over the last month
-          - +50% over the year
+          - Upper third of 52-week range (82%)
           - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 4.2× the 30d avg
+          - Volume surge — 5d avg is 2.6× the 30d avg
           - Volume highest in 1 year (HVY)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹54.9cr daily turnover)
-        CONS (signals):
-          - High volatility (64% annualised)
-          - Delivery % falling — recent 48% vs 30d 57% (-9pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 35,554 Cr. | P/E 34.0 | ROCE 15.1 % | ROE 10.7 % | DivYield 0.83 % | BookVal ₹ 629
+          - Healthy liquidity (~₹94.0cr daily turnover)
+        FUNDAMENTALS (screener.in): MCap ₹ 1,02,515 Cr. | P/E 18.9 | ROCE 21.2 % | ROE 21.2 % | DivYield 1.08 % | BookVal ₹ 269
         PROS (screener.in):
-          - Company is almost debt free.
-          - Company has been maintaining a healthy dividend payout of 39.1%
-        CONS (screener.in):
-          - Stock is trading at 3.43 times its book value
-          - Company has a low return on equity of 9.30% over last 3 years.
-          - Promoter holding has decreased over last 3 years: -6.03%
-        https://www.screener.in/company/GLAND/consolidated/
+          - Company has delivered good profit growth of 18.8% CAGR over last 5 years
+        https://www.screener.in/company/ZYDUSLIFE/consolidated/
 
-Top 5 SELL candidates (high-volume distribution):
+Top 3 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
-  • UNOMINDA        (Uno Minda Ltd                 )  close ₹1067.80  -4.81%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -3)
+  • CGCL            (Capri Global Capital Ltd      )  close ₹182.39  -2.10%  bias STRONG_SELL
+        → SELL-LEAN (tech=STRONG_SELL, signal net -1)
         PROS (signals):
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹115.2cr daily turnover)
-        CONS (signals):
-          - Lower third of 52-week range (26%)
-          - Trading below the 200-day SMA
-          - 6-day losing streak
-          - Closed near the day's low (CLV -0.85) — sellers dumped into the volume
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 61,624 Cr. | P/E 50.6 | ROCE 19.7 % | ROE 19.4 % | DivYield 0.21 % | BookVal ₹ 118
-        PROS (screener.in):
-          - Company has delivered good profit growth of 42.9% CAGR over last 5 years
-          - Company's median sales growth is 27.6% of last 10 years
-          - Company's working capital requirements have reduced from 14.9 days to 11.9 days
-        CONS (screener.in):
-          - Stock is trading at 9.03 times its book value
-        https://www.screener.in/company/UNOMINDA/consolidated/
-
-  • AMBER           (Amber Enterprises India Ltd   )  close ₹7153.50  -15.61%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -2)
-        PROS (signals):
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹277.9cr daily turnover)
+          - Healthy liquidity (~₹43.4cr daily turnover)
         CONS (signals):
           - Trading below the 200-day SMA
-          - High volatility (67% annualised)
-          - Closed near the day's low (CLV -0.70) — sellers dumped into the volume
+          - Closed near the day's low (CLV -0.73) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 25,209 Cr. | P/E 127 | ROCE 10.2 % | ROE 5.95 % | DivYield 0.00 % | BookVal ₹ 1,242
+        FUNDAMENTALS (screener.in): MCap ₹ 17,535 Cr. | P/E 18.5 | ROCE 11.7 % | ROE 16.5 % | DivYield 0.11 % | BookVal ₹ 74.9
         PROS (screener.in):
-          - Company's median sales growth is 34.4% of last 10 years
-        CONS (screener.in):
-          - Stock is trading at 5.76 times its book value
-          - Though the company is reporting repeated profits, it is not paying out dividend
-          - Company has a low return on equity of 7.71% over last 3 years.
-        https://www.screener.in/company/AMBER/consolidated/
-
-  • DELHIVERY       (Delhivery Ltd                 )  close ₹455.75  -4.20%  bias SELL
-        → BUY-LEAN (tech=SELL, signal net +3)
-        PROS (signals):
-          - Upper third of 52-week range (80%)
-          - Trading above the 200-day SMA
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹124.0cr daily turnover)
-        CONS (signals):
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 34,126 Cr. | P/E 191 | ROCE 2.82 % | ROE 1.87 % | DivYield 0.00 % | BookVal ₹ 129
-        PROS (screener.in):
-          - Company has delivered good profit growth of 19.8% CAGR over last 5 years
-        CONS (screener.in):
-          - Stock is trading at 3.52 times its book value
-          - Though the company is reporting repeated profits, it is not paying out dividend
-          - Tax rate seems low
-          - Company has a low return on equity of 0.18% over last 3 years.
-          - Earnings include an other income of Rs.340 Cr.
-        https://www.screener.in/company/DELHIVERY/consolidated/
-
-  • PNB             (Punjab National Bank          )  close ₹99.49  -2.51%  bias SELL
-        → SELL-LEAN (tech=SELL, signal net -1)
-        PROS (signals):
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹213.4cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (6% of range)
-          - Bearish SMA stack (close < 20 < 50 < 200)
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 1,14,343 Cr. | P/E 6.22 | ROCE 6.06 % | ROE 13.0 % | DivYield 3.02 % | BookVal ₹ 130
-        PROS (screener.in):
-          - Stock is trading at 0.76 times its book value
-          - Stock is providing a good dividend yield of 3.02%.
-          - Company has delivered good profit growth of 48.2% CAGR over last 5 years
-          - Company has been maintaining a healthy dividend payout of 18.3%
+          - Company is expected to give good quarter
+          - Company has delivered good profit growth of 39.9% CAGR over last 5 years
+          - Company's median sales growth is 43.0% of last 10 years
         CONS (screener.in):
           - Company has low interest coverage ratio.
-          - The company has delivered a poor sales growth of 9.80% over past five years.
-          - Company has a low return on equity of 12.4% over last 3 years.
-          - Contingent liabilities of Rs.6,93,710 Cr.
-          - Company might be capitalizing the interest cost
-          - Promoter holding has decreased over last 3 years: -3.07%
-        https://www.screener.in/company/PNB/consolidated/
+          - Company has a low return on equity of 12.6% over last 3 years.
+          - Promoter holding has decreased over last 3 years: -9.99%
+        https://www.screener.in/company/CGCL/consolidated/
 
-  • TATASTEEL       (Tata Steel Ltd                )  close ₹209.71  -3.29%  bias SELL
-        → BUY-LEAN (tech=SELL, signal net +3)
+  • JAINREC         (Jain Resource Recycling Ltd   )  close ₹390.80  -15.68%  bias STRONG_SELL
+        → STRONG SELL (tech=STRONG_SELL, signal net -2)
         PROS (signals):
-          - Upper third of 52-week range (80%)
-          - Trading above the 200-day SMA
+          - Volume surge — 5d avg is 2.3× the 30d avg
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹688.5cr daily turnover)
+          - Healthy liquidity (~₹102.8cr daily turnover)
         CONS (signals):
+          - 34% off 52-week high
+          - Trading below the 200-day SMA
+          - High volatility (109% annualised)
+          - Delivery % falling — recent 25% vs 30d 36% (-11pp distribution)
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 2,61,840 Cr. | P/E 22.8 | ROCE 12.6 % | ROE 11.9 % | DivYield 1.91 % | BookVal ₹ 81.8
+        FUNDAMENTALS (screener.in): MCap ₹ 13,474 Cr. | P/E 38.3 | ROCE 25.5 % | ROE 30.8 % | DivYield 0.00 % | BookVal ₹ 45.2
         PROS (screener.in):
-          - Company has been maintaining a healthy dividend payout of 25.4%
+          - Company is expected to give good quarter
+          - Company has a good return on equity (ROE) track record: 3 Years ROE 36.9%
         CONS (screener.in):
-          - Stock is trading at 2.56 times its book value
-          - The company has delivered a poor sales growth of 8.21% over past five years.
-          - Company has a low return on equity of 7.50% over last 3 years.
-        https://www.screener.in/company/TATASTEEL/consolidated/
+          - Stock is trading at 8.64 times its book value
+          - Though the company is reporting repeated profits, it is not paying out dividend
+        https://www.screener.in/company/JAINREC/consolidated/
+
+  • ICICIBANK       (ICICI Bank Ltd                )  close ₹1240.80  -0.82%  bias SELL
+        → HOLD / MIXED (tech=SELL, signal net 0)
+        PROS (signals):
+          - Delivery % rising — recent 62% vs 30d 57% (+5pp accumulation)
+          - Volume highest in 1 year (HVY)
+          - Healthy liquidity (~₹2409.2cr daily turnover)
+        CONS (signals):
+          - Lower third of 52-week range (17%)
+          - Trading below the 200-day SMA
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 8,89,716 Cr. | P/E 16.4 | ROCE 7.20 % | ROE 16.1 % | DivYield 0.89 % | BookVal ₹ 503
+        CONS (screener.in):
+          - Company has low interest coverage ratio.
+          - Contingent liabilities of Rs.80,16,362 Cr.
+          - Earnings include an other income of Rs.1,16,900 Cr.
+          - Working capital days have increased from 75.8 days to 135 days
+        https://www.screener.in/company/ICICIBANK/consolidated/
 
 
 — BUY/SELL recommendations are based on the Pure_on_Volume screen (HVQ/HVY/HVE volume breakouts + liquidity gate).

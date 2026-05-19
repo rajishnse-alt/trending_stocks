@@ -1,0 +1,149 @@
+[
+  {
+    "symbol": "ZYDUSLIFE",
+    "name": "Zydus Lifesciences Ltd",
+    "side": "BUY",
+    "suggested_on": "2026-05-19",
+    "suggested_close": 1018.9,
+    "entry": 1024.15,
+    "fill_trigger": 1036.4398,
+    "stoploss": 979.5738,
+    "strict_stoploss": 1018.8,
+    "swing_low": 835.5,
+    "swing_high": 1018.8,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 0.5,
+        "price": 927.15
+      },
+      {
+        "name": "T2",
+        "ratio": 0.618,
+        "price": 948.7794
+      },
+      {
+        "name": "T3",
+        "ratio": 1.5,
+        "price": 1110.4499999999998
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 1132.0794
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 1315.3793999999998
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "last_checked": "2026-05-19"
+  },
+  {
+    "symbol": "IGL",
+    "name": "Indraprastha Gas Ltd",
+    "side": "BUY",
+    "suggested_on": "2026-05-19",
+    "suggested_close": 157.35,
+    "entry": 155.968,
+    "fill_trigger": 157.83961599999998,
+    "stoploss": null,
+    "strict_stoploss": 141.74,
+    "swing_low": 141.74,
+    "swing_high": 229.0,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 0.5,
+        "price": 185.37
+      },
+      {
+        "name": "T2",
+        "ratio": 0.618,
+        "price": 195.66667999999999
+      },
+      {
+        "name": "T3",
+        "ratio": 1.5,
+        "price": 272.63
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 282.92668000000003
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 370.18667999999997
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "last_checked": "2026-05-19"
+  },
+  {
+    "symbol": "ECLERX",
+    "name": "eClerx Services Ltd",
+    "side": "BUY",
+    "suggested_on": "2026-05-19",
+    "suggested_close": 1553.8,
+    "entry": 1560.1799999999998,
+    "fill_trigger": 1578.9021599999999,
+    "stoploss": null,
+    "strict_stoploss": 1375.0,
+    "swing_low": 1375.0,
+    "swing_high": 4995.0,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 0.5,
+        "price": 3185.0
+      },
+      {
+        "name": "T2",
+        "ratio": 0.618,
+        "price": 3612.16
+      },
+      {
+        "name": "T3",
+        "ratio": 1.5,
+        "price": 6805.0
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 7232.160000000001
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 10852.16
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "last_checked": "2026-05-19"
+  }
+]
