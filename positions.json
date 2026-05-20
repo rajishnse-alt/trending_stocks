@@ -38,15 +38,15 @@
         "price": 1315.3793999999998
       }
     ],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-05-20",
+    "fill_price": 1036.4398,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-05-19"
+    "last_checked": "2026-05-20"
   },
   {
     "symbol": "IGL",
@@ -87,15 +87,15 @@
         "price": 370.18667999999997
       }
     ],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-05-20",
+    "fill_price": 157.83961599999998,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-05-19"
+    "last_checked": "2026-05-20"
   },
   {
     "symbol": "ECLERX",
@@ -144,6 +144,398 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-05-19"
+    "last_checked": "2026-05-20"
+  },
+  {
+    "symbol": "GPIL",
+    "name": "Godawari Power & Ispat Ltd",
+    "side": "BUY",
+    "suggested_on": "2026-05-20",
+    "suggested_close": 305.85,
+    "entry": 307.175,
+    "fill_trigger": 310.8611,
+    "stoploss": 266.99199999999996,
+    "strict_stoploss": 277.012,
+    "swing_low": 145.75,
+    "swing_high": 312.75,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 0.5,
+        "price": 229.25
+      },
+      {
+        "name": "T2",
+        "ratio": 0.618,
+        "price": 248.95600000000002
+      },
+      {
+        "name": "T3",
+        "ratio": 1.5,
+        "price": 396.25
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 415.956
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 582.9559999999999
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "last_checked": "2026-05-20"
+  },
+  {
+    "symbol": "MANKIND",
+    "name": "Mankind Pharma Ltd",
+    "side": "BUY",
+    "suggested_on": "2026-05-20",
+    "suggested_close": 2583.9,
+    "entry": 2568.75,
+    "fill_trigger": 2599.575,
+    "stoploss": 2401.1072,
+    "strict_stoploss": 2534.9,
+    "swing_low": 1909.7,
+    "swing_high": 2534.9,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 0.5,
+        "price": 2222.3
+      },
+      {
+        "name": "T2",
+        "ratio": 0.618,
+        "price": 2296.0736
+      },
+      {
+        "name": "T3",
+        "ratio": 1.5,
+        "price": 2847.5
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 2921.2736000000004
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 3546.4736000000003
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "last_checked": "2026-05-20"
+  },
+  {
+    "symbol": "MOTHERSON",
+    "name": "Samvardhana Motherson International Ltd",
+    "side": "BUY",
+    "suggested_on": "2026-05-20",
+    "suggested_close": 132.17,
+    "entry": 133.0795,
+    "fill_trigger": 134.676454,
+    "stoploss": 123.4227,
+    "strict_stoploss": 126.2097,
+    "swing_low": 89.7,
+    "swing_high": 136.15,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 0.5,
+        "price": 112.92500000000001
+      },
+      {
+        "name": "T2",
+        "ratio": 0.618,
+        "price": 118.40610000000001
+      },
+      {
+        "name": "T3",
+        "ratio": 1.5,
+        "price": 159.375
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 164.85610000000003
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 211.30610000000001
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "last_checked": "2026-05-20"
+  },
+  {
+    "symbol": "ENRIN",
+    "name": "Siemens Energy India Ltd",
+    "side": "BUY",
+    "suggested_on": "2026-05-20",
+    "suggested_close": 3459.6,
+    "entry": 3334.655,
+    "fill_trigger": 3374.67086,
+    "stoploss": 3024.678,
+    "strict_stoploss": 3099.858,
+    "swing_low": 2115.0,
+    "swing_high": 3368.0,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 0.5,
+        "price": 2741.5
+      },
+      {
+        "name": "T2",
+        "ratio": 0.618,
+        "price": 2889.3540000000003
+      },
+      {
+        "name": "T3",
+        "ratio": 1.5,
+        "price": 3994.5
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 4142.354
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 5395.353999999999
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "last_checked": "2026-05-20"
+  },
+  {
+    "symbol": "TATACOMM",
+    "name": "Tata Communications Ltd",
+    "side": "BUY",
+    "suggested_on": "2026-05-20",
+    "suggested_close": 1775.6,
+    "entry": 1726.3400000000001,
+    "fill_trigger": 1747.05608,
+    "stoploss": 1582.833,
+    "strict_stoploss": 1663.25,
+    "swing_low": 1322.5,
+    "swing_high": 2004.0,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 0.5,
+        "price": 1663.25
+      },
+      {
+        "name": "T2",
+        "ratio": 0.618,
+        "price": 1743.667
+      },
+      {
+        "name": "T3",
+        "ratio": 1.5,
+        "price": 2344.75
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 2425.1670000000004
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 3106.667
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "last_checked": "2026-05-20"
+  },
+  {
+    "symbol": "GVT&D",
+    "name": "GE Vernova T&D India Ltd",
+    "side": "BUY",
+    "suggested_on": "2026-05-20",
+    "suggested_close": 4679.4,
+    "entry": 4626.38,
+    "fill_trigger": 4681.89656,
+    "stoploss": 4211.730799999999,
+    "strict_stoploss": 4351.2788,
+    "swing_low": 2523.2,
+    "swing_high": 4849.0,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 0.5,
+        "price": 3686.1
+      },
+      {
+        "name": "T2",
+        "ratio": 0.618,
+        "price": 3960.5443999999998
+      },
+      {
+        "name": "T3",
+        "ratio": 1.5,
+        "price": 6011.9
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 6286.3444
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 8612.144400000001
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "last_checked": "2026-05-20"
+  },
+  {
+    "symbol": "ERIS",
+    "name": "ERIS Lifesciences Ltd",
+    "side": "BUY",
+    "suggested_on": "2026-05-20",
+    "suggested_close": 1458.2,
+    "entry": 1425.295,
+    "fill_trigger": 1442.3985400000001,
+    "stoploss": 1200.0,
+    "strict_stoploss": 1367.56,
+    "swing_low": 1200.0,
+    "swing_high": 1910.0,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 0.5,
+        "price": 1555.0
+      },
+      {
+        "name": "T2",
+        "ratio": 0.618,
+        "price": 1638.78
+      },
+      {
+        "name": "T3",
+        "ratio": 1.5,
+        "price": 2265.0
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 2348.7799999999997
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 3058.7799999999997
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "last_checked": "2026-05-20"
+  },
+  {
+    "symbol": "TIMKEN",
+    "name": "Timken India Ltd",
+    "side": "BUY",
+    "suggested_on": "2026-05-20",
+    "suggested_close": 3656.2,
+    "entry": 3633.825,
+    "fill_trigger": 3677.4309,
+    "stoploss": 3438.7266,
+    "strict_stoploss": 3491.4726,
+    "swing_low": 2800.5,
+    "swing_high": 3679.6,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 0.5,
+        "price": 3240.05
+      },
+      {
+        "name": "T2",
+        "ratio": 0.618,
+        "price": 3343.7838
+      },
+      {
+        "name": "T3",
+        "ratio": 1.5,
+        "price": 4119.15
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 4222.8838
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 5101.9838
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "last_checked": "2026-05-20"
   }
 ]

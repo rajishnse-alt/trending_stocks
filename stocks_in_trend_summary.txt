@@ -3,74 +3,224 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-05-19 22:25 IST
+NSE bhavcopy analysis — generated 2026-05-20 21:58 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 3
-Recommendations: 3 BUY  +  3 SELL
+Pure_on_Volume hits (BUY): 9
+Recommendations: 9 BUY  +  3 SELL
 
-Top 3 BUY candidates:
+Top 9 BUY candidates:
 ------------------------------------------------------------
-  • IGL             (Indraprastha Gas Ltd          )  close ₹157.35  +3.77%  bias BUY
-        → HOLD / MIXED (tech=BUY, signal net -1)
+  • ENRIN           (Siemens Energy India Ltd      )  close ₹3459.60  +9.36%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +6)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹155.97
-          - Strict stop-loss:      ₹141.74
-          - Target-1 (50.0%):      ₹185.37
-          - Target-2 (61.8%):      ₹195.67
-          - Target-3 (150%):       ₹272.63
-          - Target-4 (161.8%):     ₹282.93
-          - Target-5 (261.8%):     ₹370.19
-          - Swing anchor:          low ₹141.74  ↔  high ₹229.00
+          - Entry zone (probable): above ₹3334.66
+          - Strict stop-loss:      ₹3099.86
+          - Best stop-loss:        ₹3024.68
+          - Target-3 (150%):       ₹3994.50
+          - Target-4 (161.8%):     ₹4142.35
+          - Target-5 (261.8%):     ₹5395.35
+          - Swing anchor:          low ₹2115.00  ↔  high ₹3368.00
         PROS (signals):
+          - Trading near 52-week high (89% of range)
+          - Trading above the 200-day SMA
+          - Volume highest in 3 months (HVQ)
+          - Closed near the day's high (CLV +0.81) — buyers absorbed the volume
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹155.0cr daily turnover)
+        FUNDAMENTALS (screener.in): MCap ₹ Cr. | ROCE % | ROE % | DivYield % | BookVal ₹
+        https://www.screener.in/company/ENRIN/consolidated/
+
+  • TATACOMM        (Tata Communications Ltd       )  close ₹1775.60  +7.83%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +4)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹1726.34
+          - Strict stop-loss:      ₹1663.25
+          - Best stop-loss:        ₹1582.83
+          - Target-3 (150%):       ₹2344.75
+          - Target-4 (161.8%):     ₹2425.17
+          - Target-5 (261.8%):     ₹3106.67
+          - Swing anchor:          low ₹1322.50  ↔  high ₹2004.00
+        PROS (signals):
+          - +17% over the last month
+          - Trading above the 200-day SMA
           - Volume highest in 3 months (HVQ)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹63.7cr daily turnover)
+          - Healthy liquidity (~₹85.3cr daily turnover)
         CONS (signals):
-          - Lower third of 52-week range (18%)
-          - 31% off 52-week high
-          - Trading below the 200-day SMA
-          - Delivery % falling — recent 52% vs 30d 60% (-9pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 22,013 Cr. | P/E 14.2 | ROCE 17.9 % | ROE 14.0 % | DivYield 2.70 % | BookVal ₹ 82.2
+          - Delivery % falling — recent 39% vs 30d 53% (-14pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 50,660 Cr. | P/E 46.0 | ROCE 14.7 % | ROE 34.0 % | DivYield 1.41 % | BookVal ₹ 121
         PROS (screener.in):
-          - Company is almost debt free.
-          - Company has been maintaining a healthy dividend payout of 34.1%
+          - Company has a good return on equity (ROE) track record: 3 Years ROE 48.1%
+          - Company has been maintaining a healthy dividend payout of 45.9%
         CONS (screener.in):
-          - Earnings include an other income of Rs.675 Cr.
-        https://www.screener.in/company/IGL/consolidated/
+          - Stock is trading at 14.7 times its book value
+          - The company has delivered a poor sales growth of 7.72% over past five years.
+          - Contingent liabilities of Rs.15,675 Cr.
+          - Company might be capitalizing the interest cost
+        https://www.screener.in/company/TATACOMM/consolidated/
 
-  • ECLERX          (eClerx Services Ltd           )  close ₹1553.80  +5.39%  bias BUY
-        → SELL-LEAN (tech=BUY, signal net -3)
+  • ERIS            (ERIS Lifesciences Ltd         )  close ₹1458.20  +9.13%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +2)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹1560.18
-          - Strict stop-loss:      ₹1375.00
-          - Target-1 (50.0%):      ₹3185.00
-          - Target-2 (61.8%):      ₹3612.16
-          - Target-3 (150%):       ₹6805.00
-          - Target-4 (161.8%):     ₹7232.16
-          - Target-5 (261.8%):     ₹10852.16
-          - Swing anchor:          low ₹1375.00  ↔  high ₹4995.00
+          - Entry zone (probable): above ₹1425.30
+          - Strict stop-loss:      ₹1367.56
+          - Best stop-loss:        ₹1200.00
+          - Target-1 (50.0%):      ₹1555.00
+          - Target-2 (61.8%):      ₹1638.78
+          - Target-3 (150%):       ₹2265.00
+          - Target-4 (161.8%):     ₹2348.78
+          - Target-5 (261.8%):     ₹3058.78
+          - Swing anchor:          low ₹1200.00  ↔  high ₹1910.00
         PROS (signals):
+          - Volume surge — 5d avg is 2.3× the 30d avg
           - Volume highest in 3 months (HVQ)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹51.1cr daily turnover)
+          - Healthy liquidity (~₹18.6cr daily turnover)
         CONS (signals):
-          - Trading near 52-week low (5% of range)
-          - 69% off 52-week high
-          - -58% over the last 3 months
-          - -43% over the year
           - Trading below the 200-day SMA
-          - Delivery % falling — recent 32% vs 30d 44% (-12pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 14,604 Cr. | P/E 20.7 | ROCE 34.8 % | ROE 29.0 % | DivYield 0.03 % | BookVal ₹ 272
-        PROS (screener.in):
-          - Company has a good return on equity (ROE) track record: 3 Years ROE 25.8%
-          - Debtor days have improved from 77.5 to 59.1 days.
-        https://www.screener.in/company/ECLERX/consolidated/
+          - Delivery % falling — recent 39% vs 30d 55% (-16pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 20,189 Cr. | P/E 32.0 | ROCE 14.1 % | ROE 18.7 % | DivYield 0.50 % | BookVal ₹ 282
+        CONS (screener.in):
+          - Stock is trading at 5.18 times its book value
+          - Promoter holding has decreased over last quarter: -0.93%
+          - Tax rate seems low
+        https://www.screener.in/company/ERIS/consolidated/
 
-  • ZYDUSLIFE       (Zydus Lifesciences Ltd        )  close ₹1018.90  +2.80%  bias BUY
+  • GVT&D           (GE Vernova T&D India Ltd      )  close ₹4679.40  +6.71%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +5)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹4626.38
+          - Strict stop-loss:      ₹4351.28
+          - Best stop-loss:        ₹4211.73
+          - Target-3 (150%):       ₹6011.90
+          - Target-4 (161.8%):     ₹6286.34
+          - Target-5 (261.8%):     ₹8612.14
+          - Swing anchor:          low ₹2523.20  ↔  high ₹4849.00
+        PROS (signals):
+          - Trading near 52-week high (95% of range)
+          - +154% over the year
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹341.8cr daily turnover)
+        CONS (signals):
+          - Delivery % falling — recent 44% vs 30d 57% (-13pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 1,19,827 Cr. | P/E 642 | ROCE % | ROE 18.6 % | DivYield 0.11 % | BookVal ₹ 41.9
+        CONS (screener.in):
+          - Stock is trading at 112 times its book value
+          - Company has high debtors of 194 days.
+          - Promoter holding has decreased over last 3 years: -24.0%
+        https://www.screener.in/company/GVT&D/consolidated/
+
+  • MANKIND         (Mankind Pharma Ltd            )  close ₹2583.90  +3.66%  bias BUY
         → STRONG BUY (tech=BUY, signal net +6)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹1024.15
+          - Entry zone (probable): above ₹2568.75
+          - Strict stop-loss:      ₹2534.90
+          - Best stop-loss:        ₹2401.11
+          - Target-3 (150%):       ₹2847.50
+          - Target-4 (161.8%):     ₹2921.27
+          - Target-5 (261.8%):     ₹3546.47
+          - Swing anchor:          low ₹1909.70  ↔  high ₹2534.90
+        PROS (signals):
+          - Upper third of 52-week range (84%)
+          - +21% over the last month
+          - Trading above the 200-day SMA
+          - Volume surge — 5d avg is 2.1× the 30d avg
+          - Volume highest in 1 year (HVY)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹167.6cr daily turnover)
+        CONS (signals):
+          - Delivery % falling — recent 43% vs 30d 51% (-8pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 1,06,607 Cr. | P/E 53.1 | ROCE 13.5 % | ROE 13.1 % | DivYield 0.04 % | BookVal ₹ 395
+        PROS (screener.in):
+          - Company has reduced debt.
+        CONS (screener.in):
+          - Promoter holding has decreased over last 3 years: -3.84%
+        https://www.screener.in/company/MANKIND/consolidated/
+
+  • TIMKEN          (Timken India Ltd              )  close ₹3656.20  +3.34%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +6)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹3633.82
+          - Strict stop-loss:      ₹3491.47
+          - Best stop-loss:        ₹3438.73
+          - Target-3 (150%):       ₹4119.15
+          - Target-4 (161.8%):     ₹4222.88
+          - Target-5 (261.8%):     ₹5101.98
+          - Swing anchor:          low ₹2800.50  ↔  high ₹3679.60
+        PROS (signals):
+          - Trading near 52-week high (91% of range)
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Volume surge — 5d avg is 2.2× the 30d avg
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹27.6cr daily turnover)
+        FUNDAMENTALS (screener.in): MCap ₹ 27,490 Cr. | P/E 66.3 | ROCE 19.0 % | ROE 14.3 % | DivYield 0.98 % | BookVal ₹ 387
+        PROS (screener.in):
+          - Company is almost debt free.
+        CONS (screener.in):
+          - Stock is trading at 9.44 times its book value
+          - Promoter holding has decreased over last 3 years: -16.8%
+        https://www.screener.in/company/TIMKEN/consolidated/
+
+  • GPIL            (Godawari Power & Ispat Ltd    )  close ₹305.85  +5.27%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +7)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹307.18
+          - Strict stop-loss:      ₹277.01
+          - Best stop-loss:        ₹266.99
+          - Target-3 (150%):       ₹396.25
+          - Target-4 (161.8%):     ₹415.96
+          - Target-5 (261.8%):     ₹582.96
+          - Swing anchor:          low ₹145.75  ↔  high ₹312.75
+        PROS (signals):
+          - Trading near 52-week high (90% of range)
+          - +51% over the year
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Volume surge — 5d avg is 2.7× the 30d avg
+          - Volume highest in 4 years (HVE) — strongest possible breakout signal
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹119.6cr daily turnover)
+        FUNDAMENTALS (screener.in): MCap ₹ 20,586 Cr. | P/E 25.3 | ROCE 20.4 % | ROE 15.2 % | DivYield 0.33 % | BookVal ₹ 86.5
+        PROS (screener.in):
+          - Company is almost debt free.
+        CONS (screener.in):
+          - The company has delivered a poor sales growth of 6.38% over past five years.
+          - Promoter holding has decreased over last 3 years: -4.16%
+        https://www.screener.in/company/GPIL/consolidated/
+
+  • MOTHERSON       (Samvardhana Motherson Internat)  close ₹132.17  +0.52%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +3)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹133.08
+          - Strict stop-loss:      ₹126.21
+          - Best stop-loss:        ₹123.42
+          - Target-3 (150%):       ₹159.38
+          - Target-4 (161.8%):     ₹164.86
+          - Target-5 (261.8%):     ₹211.31
+          - Swing anchor:          low ₹89.70  ↔  high ₹136.15
+        PROS (signals):
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹302.7cr daily turnover)
+        CONS (signals):
+          - Delivery % falling — recent 40% vs 30d 46% (-6pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 1,39,541 Cr. | P/E 33.8 | ROCE 13.1 % | ROE 10.9 % | DivYield 0.43 % | BookVal ₹ 38.8
+        PROS (screener.in):
+          - Company has delivered good profit growth of 31.1% CAGR over last 5 years
+        CONS (screener.in):
+          - Stock is trading at 3.40 times its book value
+          - Company has a low return on equity of 11.6% over last 3 years.
+          - Promoter holding has decreased over last 3 years: -16.2%
+        https://www.screener.in/company/MOTHERSON/consolidated/
+
+  • ZYDUSLIFE       (Zydus Lifesciences Ltd        )  close ₹1040.85  +2.15%  bias NEUTRAL
+        → STRONG BUY (tech=NEUTRAL, signal net +4)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹1068.63
           - Strict stop-loss:      ₹1018.80
           - Best stop-loss:        ₹979.57
           - Target-3 (150%):       ₹1110.45
@@ -78,77 +228,79 @@ Top 3 BUY candidates:
           - Target-5 (261.8%):     ₹1315.38
           - Swing anchor:          low ₹835.50  ↔  high ₹1018.80
         PROS (signals):
-          - Upper third of 52-week range (82%)
+          - Upper third of 52-week range (80%)
           - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 2.6× the 30d avg
+          - Volume surge — 5d avg is 3.6× the 30d avg
           - Volume highest in 1 year (HVY)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹94.0cr daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ 1,02,515 Cr. | P/E 18.9 | ROCE 21.2 % | ROE 21.2 % | DivYield 1.08 % | BookVal ₹ 269
+          - Healthy liquidity (~₹123.2cr daily turnover)
+        CONS (signals):
+          - Delivery % falling — recent 33% vs 30d 42% (-9pp distribution)
+          - Closed near the day's low (CLV -0.90) — sellers dumped into the volume
+        FUNDAMENTALS (screener.in): MCap ₹ 1,04,729 Cr. | P/E 19.3 | ROCE 21.2 % | ROE 21.2 % | DivYield 0.10 % | BookVal ₹ 269
         PROS (screener.in):
           - Company has delivered good profit growth of 18.8% CAGR over last 5 years
         https://www.screener.in/company/ZYDUSLIFE/consolidated/
 
 Top 3 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
-  • CGCL            (Capri Global Capital Ltd      )  close ₹182.39  -2.10%  bias STRONG_SELL
-        → SELL-LEAN (tech=STRONG_SELL, signal net -1)
+  • ANTHEM          (Anthem Biosciences Ltd        )  close ₹780.50  -0.87%  bias SELL
+        → HOLD / MIXED (tech=SELL, signal net 1)
         PROS (signals):
+          - Bullish SMA stack (close > 20 > 50 > 200)
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹43.4cr daily turnover)
+          - Healthy liquidity (~₹30.2cr daily turnover)
         CONS (signals):
-          - Trading below the 200-day SMA
-          - Closed near the day's low (CLV -0.73) — sellers dumped into the volume
+          - Delivery % falling — recent 48% vs 30d 54% (-6pp distribution)
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 17,535 Cr. | P/E 18.5 | ROCE 11.7 % | ROE 16.5 % | DivYield 0.11 % | BookVal ₹ 74.9
+        FUNDAMENTALS (screener.in): MCap ₹ 43,856 Cr. | P/E 72.0 | ROCE 30.4 % | ROE 22.3 % | DivYield 0.00 % | BookVal ₹ 54.2
         PROS (screener.in):
-          - Company is expected to give good quarter
-          - Company has delivered good profit growth of 39.9% CAGR over last 5 years
-          - Company's median sales growth is 43.0% of last 10 years
+          - Company has reduced debt.
+          - Company is almost debt free.
         CONS (screener.in):
-          - Company has low interest coverage ratio.
-          - Company has a low return on equity of 12.6% over last 3 years.
-          - Promoter holding has decreased over last 3 years: -9.99%
-        https://www.screener.in/company/CGCL/consolidated/
-
-  • JAINREC         (Jain Resource Recycling Ltd   )  close ₹390.80  -15.68%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -2)
-        PROS (signals):
-          - Volume surge — 5d avg is 2.3× the 30d avg
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹102.8cr daily turnover)
-        CONS (signals):
-          - 34% off 52-week high
-          - Trading below the 200-day SMA
-          - High volatility (109% annualised)
-          - Delivery % falling — recent 25% vs 30d 36% (-11pp distribution)
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 13,474 Cr. | P/E 38.3 | ROCE 25.5 % | ROE 30.8 % | DivYield 0.00 % | BookVal ₹ 45.2
-        PROS (screener.in):
-          - Company is expected to give good quarter
-          - Company has a good return on equity (ROE) track record: 3 Years ROE 36.9%
-        CONS (screener.in):
-          - Stock is trading at 8.64 times its book value
+          - Stock is trading at 14.4 times its book value
           - Though the company is reporting repeated profits, it is not paying out dividend
-        https://www.screener.in/company/JAINREC/consolidated/
+        https://www.screener.in/company/ANTHEM/consolidated/
 
-  • ICICIBANK       (ICICI Bank Ltd                )  close ₹1240.80  -0.82%  bias SELL
-        → HOLD / MIXED (tech=SELL, signal net 0)
+  • PIIND           (P I Industries Ltd            )  close ₹2901.20  -7.15%  bias SELL
+        → SELL-LEAN (tech=SELL, signal net -2)
         PROS (signals):
-          - Delivery % rising — recent 62% vs 30d 57% (+5pp accumulation)
+          - Volume surge — 5d avg is 2.0× the 30d avg
           - Volume highest in 1 year (HVY)
-          - Healthy liquidity (~₹2409.2cr daily turnover)
+          - Healthy liquidity (~₹88.8cr daily turnover)
         CONS (signals):
-          - Lower third of 52-week range (17%)
+          - Trading near 52-week low (12% of range)
+          - 33% off 52-week high
           - Trading below the 200-day SMA
+          - Delivery % falling — recent 41% vs 30d 47% (-6pp distribution)
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 8,89,716 Cr. | P/E 16.4 | ROCE 7.20 % | ROE 16.1 % | DivYield 0.89 % | BookVal ₹ 503
+        FUNDAMENTALS (screener.in): MCap ₹ 44,017 Cr. | P/E 35.5 | ROCE 14.7 % | ROE 11.6 % | DivYield 0.55 % | BookVal ₹ 740
+        PROS (screener.in):
+          - Company is almost debt free.
         CONS (screener.in):
-          - Company has low interest coverage ratio.
-          - Contingent liabilities of Rs.80,16,362 Cr.
-          - Earnings include an other income of Rs.1,16,900 Cr.
-          - Working capital days have increased from 75.8 days to 135 days
-        https://www.screener.in/company/ICICIBANK/consolidated/
+          - The company has delivered a poor sales growth of 7.96% over past five years.
+          - Debtor days have increased from 65.4 to 87.6 days.
+          - Working capital days have increased from 103 days to 192 days
+        https://www.screener.in/company/PIIND/consolidated/
+
+  • DIVISLAB        (Divis Laboratories Ltd        )  close ₹6893.00  -0.27%  bias SELL
+        → BUY-LEAN (tech=SELL, signal net +4)
+        PROS (signals):
+          - Trading near 52-week high (88% of range)
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Low volatility (18% annualised) with uptrend
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹214.4cr daily turnover)
+        CONS (signals):
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 1,82,968 Cr. | P/E 72.2 | ROCE 20.4 % | ROE 15.4 % | DivYield 0.44 % | BookVal ₹ 581
+        PROS (screener.in):
+          - Company is almost debt free.
+          - Company has been maintaining a healthy dividend payout of 43.2%
+        CONS (screener.in):
+          - Stock is trading at 11.9 times its book value
+          - The company has delivered a poor sales growth of 11.6% over past five years.
+        https://www.screener.in/company/DIVISLAB/consolidated/
 
 
 — BUY/SELL recommendations are based on the Pure_on_Volume screen (HVQ/HVY/HVE volume breakouts + liquidity gate).
