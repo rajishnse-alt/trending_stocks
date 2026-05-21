@@ -46,7 +46,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-05-20"
+    "last_checked": "2026-05-21"
   },
   {
     "symbol": "IGL",
@@ -95,7 +95,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-05-20"
+    "last_checked": "2026-05-21"
   },
   {
     "symbol": "ECLERX",
@@ -144,7 +144,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-05-20"
+    "last_checked": "2026-05-21"
   },
   {
     "symbol": "GPIL",
@@ -193,7 +193,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-05-20"
+    "last_checked": "2026-05-21"
   },
   {
     "symbol": "MANKIND",
@@ -234,15 +234,15 @@
         "price": 3546.4736000000003
       }
     ],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-05-21",
+    "fill_price": 2599.575,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-05-20"
+    "last_checked": "2026-05-21"
   },
   {
     "symbol": "MOTHERSON",
@@ -283,15 +283,15 @@
         "price": 211.30610000000001
       }
     ],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-05-21",
+    "fill_price": 134.676454,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-05-20"
+    "last_checked": "2026-05-21"
   },
   {
     "symbol": "ENRIN",
@@ -332,15 +332,15 @@
         "price": 5395.353999999999
       }
     ],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-05-21",
+    "fill_price": 3374.67086,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-05-20"
+    "last_checked": "2026-05-21"
   },
   {
     "symbol": "TATACOMM",
@@ -381,15 +381,15 @@
         "price": 3106.667
       }
     ],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-05-21",
+    "fill_price": 1747.05608,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-05-20"
+    "last_checked": "2026-05-21"
   },
   {
     "symbol": "GVT&D",
@@ -430,15 +430,15 @@
         "price": 8612.144400000001
       }
     ],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-05-21",
+    "fill_price": 4681.89656,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-05-20"
+    "last_checked": "2026-05-21"
   },
   {
     "symbol": "ERIS",
@@ -479,15 +479,15 @@
         "price": 3058.7799999999997
       }
     ],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-05-21",
+    "fill_price": 1442.3985400000001,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-05-20"
+    "last_checked": "2026-05-21"
   },
   {
     "symbol": "TIMKEN",
@@ -528,6 +528,55 @@
         "price": 5101.9838
       }
     ],
+    "status": "open",
+    "fill_date": "2026-05-21",
+    "fill_price": 3677.4309,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "last_checked": "2026-05-21"
+  },
+  {
+    "symbol": "IRB",
+    "name": "IRB Infrastructure Developers Ltd",
+    "side": "BUY",
+    "suggested_on": "2026-05-21",
+    "suggested_close": 22.84,
+    "entry": 22.681,
+    "fill_trigger": 22.953172000000002,
+    "stoploss": null,
+    "strict_stoploss": 19.72,
+    "swing_low": 19.72,
+    "swing_high": 78.15,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 0.5,
+        "price": 48.935
+      },
+      {
+        "name": "T2",
+        "ratio": 0.618,
+        "price": 55.82974
+      },
+      {
+        "name": "T3",
+        "ratio": 1.5,
+        "price": 107.36500000000001
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 114.25974000000002
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 172.68974
+      }
+    ],
     "status": "pending",
     "fill_date": null,
     "fill_price": null,
@@ -536,6 +585,421 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-05-20"
+    "last_checked": "2026-05-21"
+  },
+  {
+    "symbol": "GRASIM",
+    "name": "Grasim Industries Ltd",
+    "side": "BUY",
+    "suggested_on": "2026-05-21",
+    "suggested_close": 3154.5,
+    "entry": 3108.45,
+    "fill_trigger": 3145.7513999999996,
+    "stoploss": 2899.2728,
+    "strict_stoploss": 3007.3,
+    "swing_low": 2502.5,
+    "swing_high": 3007.3,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 0.5,
+        "price": 2754.9
+      },
+      {
+        "name": "T2",
+        "ratio": 0.618,
+        "price": 2814.4664000000002
+      },
+      {
+        "name": "T3",
+        "ratio": 1.5,
+        "price": 3259.7000000000003
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 3319.2664000000004
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 3824.0664000000006
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "last_checked": "2026-05-21"
+  },
+  {
+    "symbol": "SAMMAANCAP",
+    "name": "Sammaan Capital Ltd",
+    "side": "BUY",
+    "suggested_on": "2026-05-21",
+    "suggested_close": 154.26,
+    "entry": 153.82999999999998,
+    "fill_trigger": 155.67595999999998,
+    "stoploss": 144.0922,
+    "strict_stoploss": 153.4289,
+    "swing_low": 129.0,
+    "swing_high": 192.95,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 0.5,
+        "price": 160.975
+      },
+      {
+        "name": "T2",
+        "ratio": 0.618,
+        "price": 168.5211
+      },
+      {
+        "name": "T3",
+        "ratio": 1.5,
+        "price": 224.92499999999998
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 232.47109999999998
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 296.42109999999997
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "last_checked": "2026-05-21"
+  },
+  {
+    "symbol": "JSWCEMENT",
+    "name": "JSW Cement Ltd",
+    "side": "BUY",
+    "suggested_on": "2026-05-21",
+    "suggested_close": 127.46,
+    "entry": 127.2475,
+    "fill_trigger": 128.77447,
+    "stoploss": null,
+    "strict_stoploss": null,
+    "swing_low": null,
+    "swing_high": 137.83,
+    "targets": [],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "last_checked": "2026-05-21"
+  },
+  {
+    "symbol": "IGIL",
+    "name": "International Gemmological Institute (India) Ltd",
+    "side": "BUY",
+    "suggested_on": "2026-05-21",
+    "suggested_close": 375.25,
+    "entry": 369.725,
+    "fill_trigger": 374.16170000000005,
+    "stoploss": 358.1117,
+    "strict_stoploss": 363.9887,
+    "swing_low": 287.0,
+    "swing_high": 384.95,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 0.5,
+        "price": 335.975
+      },
+      {
+        "name": "T2",
+        "ratio": 0.618,
+        "price": 347.5331
+      },
+      {
+        "name": "T3",
+        "ratio": 1.5,
+        "price": 433.92499999999995
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 445.4831
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 543.4331
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "last_checked": "2026-05-21"
+  },
+  {
+    "symbol": "RHIM",
+    "name": "RHI Magnesita India Ltd",
+    "side": "BUY",
+    "suggested_on": "2026-05-21",
+    "suggested_close": 398.8,
+    "entry": 406.3975,
+    "fill_trigger": 411.27427,
+    "stoploss": null,
+    "strict_stoploss": 323.05,
+    "swing_low": 323.05,
+    "swing_high": 824.0,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 0.5,
+        "price": 573.525
+      },
+      {
+        "name": "T2",
+        "ratio": 0.618,
+        "price": 632.6370999999999
+      },
+      {
+        "name": "T3",
+        "ratio": 1.5,
+        "price": 1074.475
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 1133.5871
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 1634.5370999999998
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "last_checked": "2026-05-21"
+  },
+  {
+    "symbol": "TECHNOE",
+    "name": "Techno Electric & Engineering Company Ltd",
+    "side": "BUY",
+    "suggested_on": "2026-05-21",
+    "suggested_close": 1294.3,
+    "entry": 1258.375,
+    "fill_trigger": 1273.4755,
+    "stoploss": 1208.0256,
+    "strict_stoploss": 1235.9615999999999,
+    "swing_low": 870.0,
+    "swing_high": 1335.6,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 0.5,
+        "price": 1102.8
+      },
+      {
+        "name": "T2",
+        "ratio": 0.618,
+        "price": 1157.7408
+      },
+      {
+        "name": "T3",
+        "ratio": 1.5,
+        "price": 1568.3999999999999
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 1623.3408
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 2088.9407999999994
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "last_checked": "2026-05-21"
+  },
+  {
+    "symbol": "APOLLOHOSP",
+    "name": "Apollo Hospitals Enterprise Ltd",
+    "side": "BUY",
+    "suggested_on": "2026-05-21",
+    "suggested_close": 8308.5,
+    "entry": 8236.575,
+    "fill_trigger": 8335.413900000001,
+    "stoploss": 7862.531,
+    "strict_stoploss": 8180.0,
+    "swing_low": 6696.5,
+    "swing_high": 8180.0,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 0.5,
+        "price": 7438.25
+      },
+      {
+        "name": "T2",
+        "ratio": 0.618,
+        "price": 7613.303
+      },
+      {
+        "name": "T3",
+        "ratio": 1.5,
+        "price": 8921.75
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 9096.803
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 10580.303
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "last_checked": "2026-05-21"
+  },
+  {
+    "symbol": "WHIRLPOOL",
+    "name": "Whirlpool of India Ltd",
+    "side": "BUY",
+    "suggested_on": "2026-05-21",
+    "suggested_close": 877.45,
+    "entry": 865.425,
+    "fill_trigger": 875.8100999999999,
+    "stoploss": 821.3016,
+    "strict_stoploss": 861.1742,
+    "swing_low": 756.85,
+    "swing_high": 1029.95,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 0.5,
+        "price": 893.4000000000001
+      },
+      {
+        "name": "T2",
+        "ratio": 0.618,
+        "price": 925.6258
+      },
+      {
+        "name": "T3",
+        "ratio": 1.5,
+        "price": 1166.5
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 1198.7258000000002
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 1471.8258
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "last_checked": "2026-05-21"
+  },
+  {
+    "symbol": "PAGEIND",
+    "name": "Page Industries Ltd",
+    "side": "BUY",
+    "suggested_on": "2026-05-21",
+    "suggested_close": 38380.0,
+    "entry": 38711.25,
+    "fill_trigger": 39175.785,
+    "stoploss": 36371.67,
+    "strict_stoploss": 36914.37,
+    "swing_low": 29805.0,
+    "swing_high": 38850.0,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 0.5,
+        "price": 34327.5
+      },
+      {
+        "name": "T2",
+        "ratio": 0.618,
+        "price": 35394.81
+      },
+      {
+        "name": "T3",
+        "ratio": 1.5,
+        "price": 43372.5
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 44439.81
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 53484.81
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "last_checked": "2026-05-21"
   }
 ]
