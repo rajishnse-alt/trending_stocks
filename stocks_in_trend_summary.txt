@@ -3,296 +3,122 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-05-22 23:14 IST
+NSE bhavcopy analysis — generated 2026-05-26 08:42 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 7
-Recommendations: 7 BUY  +  5 SELL
+Pure_on_Volume hits (BUY): 4
+Recommendations: 4 BUY  +  0 SELL
 
-Top 7 BUY candidates:
+Top 4 BUY candidates:
 ------------------------------------------------------------
-  • MINDACORP       (Minda Corporation Ltd         )  close ₹574.65  +7.04%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +4)
+  • EICHERMOT       (Eicher Motors Ltd             )  close ₹7414.00  +6.19%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +6)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹563.92
-          - Strict stop-loss:      ₹562.10
-          - Best stop-loss:        ₹544.23
-          - Target-3 (150%):       ₹695.68
-          - Target-4 (161.8%):     ₹713.55
-          - Target-5 (261.8%):     ₹865.00
-          - Swing anchor:          low ₹468.50  ↔  high ₹619.95
+          - Entry zone (probable): above ₹7334.35
+          - Strict stop-loss:      ₹7125.02
+          - Best stop-loss:        ₹6863.97
+          - Target-2 (61.8%):      ₹7546.98
+          - Target-3 (150%):       ₹9124.00
+          - Target-4 (161.8%):     ₹9334.98
+          - Target-5 (261.8%):     ₹11122.98
+          - Swing anchor:          low ₹6442.00  ↔  high ₹8230.00
         PROS (signals):
-          - Upper third of 52-week range (74%)
-          - Trading above the 200-day SMA
+          - Upper third of 52-week range (73%)
+          - Bullish SMA stack (close > 20 > 50 > 200)
           - Volume highest in 3 months (HVQ)
+          - Closed near the day's high (CLV +0.83) — buyers absorbed the volume
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹21.8cr daily turnover)
-        CONS (signals):
-          - Delivery % falling — recent 34% vs 30d 54% (-19pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 13,752 Cr. | P/E 38.1 | ROCE 12.8 % | ROE 14.9 % | DivYield 0.24 % | BookVal ₹ 111
-        CONS (screener.in):
-          - Stock is trading at 5.20 times its book value
-          - Company has a low return on equity of 13.4% over last 3 years.
-          - Dividend payout has been low at 9.28% of profits over last 3 years
-        https://www.screener.in/company/MINDACORP/consolidated/
-
-  • JSWCEMENT       (JSW Cement Ltd                )  close ₹137.99  +8.26%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +4)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹136.92
-        PROS (signals):
-          - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 4.8× the 30d avg
-          - Volume highest in 3 months (HVQ)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹61.1cr daily turnover)
-        CONS (signals):
-          - Delivery % falling — recent 31% vs 30d 46% (-16pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 18,800 Cr. | P/E 28.8 | ROCE 11.0 % | ROE 14.6 % | DivYield 0.00 % | BookVal ₹ 48.0
-        PROS (screener.in):
-          - Company has reduced debt.
-        CONS (screener.in):
-          - Stock is trading at 2.87 times its book value
-          - The company has delivered a poor sales growth of 11.1% over past five years.
-          - Company has a low return on equity of 6.78% over last 3 years.
-          - Company might be capitalizing the interest cost
-        https://www.screener.in/company/JSWCEMENT/consolidated/
-
-  • NAUKRI          (Info Edge (India) Ltd         )  close ₹960.95  +3.75%  bias BUY
-        → HOLD / MIXED (tech=BUY, signal net -1)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹955.80
-          - Strict stop-loss:      ₹914.80
-          - Target-1 (50.0%):      ₹5021.85
-          - Target-2 (61.8%):      ₹5991.11
-          - Target-3 (150%):       ₹13235.95
-          - Target-4 (161.8%):     ₹14205.21
-          - Target-5 (261.8%):     ₹22419.31
-          - Swing anchor:          low ₹914.80  ↔  high ₹9128.90
-        PROS (signals):
-          - Volume highest in 4 years (HVE) — strongest possible breakout signal
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹185.9cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (7% of range)
-          - 38% off 52-week high
-          - -34% over the year
-          - Trading below the 200-day SMA
-        FUNDAMENTALS (screener.in): MCap ₹ 62,327 Cr. | P/E 43.8 | ROCE 5.43 % | ROE 3.91 % | DivYield 0.62 % | BookVal ₹ 585
+          - Healthy liquidity (~₹469.0cr daily turnover)
+        FUNDAMENTALS (screener.in): MCap ₹ 2,03,377 Cr. | P/E 36.6 | ROCE 30.5 % | ROE 24.0 % | DivYield 0.94 % | BookVal ₹ 915
         PROS (screener.in):
           - Company is almost debt free.
-          - Company has delivered good profit growth of 61.8% CAGR over last 5 years
-          - Company has been maintaining a healthy dividend payout of 42.4%
+          - Company has delivered good profit growth of 32.8% CAGR over last 5 years
+          - Company has been maintaining a healthy dividend payout of 38.7%
         CONS (screener.in):
-          - Company has a low return on equity of 2.57% over last 3 years.
-          - Earnings include an other income of Rs.1,099 Cr.
-          - Working capital days have increased from 194 days to 282 days
-        https://www.screener.in/company/NAUKRI/consolidated/
+          - Stock is trading at 8.10 times its book value
+          - Earnings include an other income of Rs.2,229 Cr.
+          - Working capital days have increased from 34.0 days to 66.6 days
+        https://www.screener.in/company/EICHERMOT/consolidated/
 
-  • PAGEIND         (Page Industries Ltd           )  close ₹39455.00  +2.80%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +5)
+  • GAIL            (GAIL (India) Ltd              )  close ₹168.67  +4.91%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +3)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹39513.50
-          - Strict stop-loss:      ₹38850.00
-          - Best stop-loss:        ₹36914.37
-          - Target-3 (150%):       ₹43372.50
-          - Target-4 (161.8%):     ₹44439.81
-          - Target-5 (261.8%):     ₹53484.81
-          - Swing anchor:          low ₹29805.00  ↔  high ₹38850.00
+          - Entry zone (probable): above ₹167.10
+          - Strict stop-loss:      ₹160.50
+          - Best stop-loss:        ₹150.51
+          - Target-2 (61.8%):      ₹176.65
+          - Target-3 (150%):       ₹237.00
+          - Target-4 (161.8%):     ₹245.08
+          - Target-5 (261.8%):     ₹313.51
+          - Swing anchor:          low ₹134.36  ↔  high ₹202.79
         PROS (signals):
           - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 2.0× the 30d avg
           - Volume highest in 3 months (HVQ)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹117.4cr daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ Cr. | ROCE % | ROE % | DivYield % | BookVal ₹
-        https://www.screener.in/company/PAGEIND/consolidated/
+          - Healthy liquidity (~₹222.2cr daily turnover)
+        CONS (signals):
+          - Delivery % falling — recent 46% vs 30d 55% (-9pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 1,10,902 Cr. | P/E 14.6 | ROCE 9.68 % | ROE 8.71 % | DivYield 4.45 % | BookVal ₹ 135
+        PROS (screener.in):
+          - Company has been maintaining a healthy dividend payout of 41.3%
+        CONS (screener.in):
+          - Company has a low return on equity of 11.8% over last 3 years.
+        https://www.screener.in/company/GAIL/consolidated/
 
-  • NYKAA           (FSN E-Commerce Ventures Ltd   )  close ₹277.25  +1.00%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +6)
+  • NH              (Narayana Hrudayalaya Ltd      )  close ₹1940.00  +4.55%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +3)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹278.15
-          - Strict stop-loss:      ₹257.63
-          - Best stop-loss:        ₹249.79
-          - Target-3 (150%):       ₹350.95
-          - Target-4 (161.8%):     ₹366.37
-          - Target-5 (261.8%):     ₹497.07
-          - Swing anchor:          low ₹154.90  ↔  high ₹285.60
+          - Entry zone (probable): above ₹1935.64
+          - Strict stop-loss:      ₹1887.42
+          - Best stop-loss:        ₹1773.36
+          - Target-1 (50.0%):      ₹1979.60
+          - Target-2 (61.8%):      ₹2071.78
+          - Target-3 (150%):       ₹2760.80
+          - Target-4 (161.8%):     ₹2852.98
+          - Target-5 (261.8%):     ₹3634.18
+          - Swing anchor:          low ₹1589.00  ↔  high ₹2370.20
+        PROS (signals):
+          - Trading above the 200-day SMA
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹63.0cr daily turnover)
+        CONS (signals):
+          - Delivery % falling — recent 47% vs 30d 54% (-7pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 39,646 Cr. | P/E 46.6 | ROCE 15.4 % | ROE 20.9 % | DivYield 0.23 % | BookVal ₹ 222
+        PROS (screener.in):
+          - Company is expected to give good quarter
+          - Company has a good return on equity (ROE) track record: 3 Years ROE 24.7%
+        CONS (screener.in):
+          - Stock is trading at 8.74 times its book value
+          - Company might be capitalizing the interest cost
+        https://www.screener.in/company/NH/consolidated/
+
+  • TORNTPHARM      (Torrent Pharmaceuticals Ltd   )  close ₹4572.60  +1.93%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +4)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹4621.60
+          - Strict stop-loss:      ₹4555.10
+          - Best stop-loss:        ₹4198.01
+          - Target-3 (150%):       ₹5389.43
+          - Target-4 (161.8%):     ₹5586.33
+          - Target-5 (261.8%):     ₹7254.98
+          - Swing anchor:          low ₹2886.45  ↔  high ₹4555.10
         PROS (signals):
           - Trading near 52-week high (91% of range)
           - Bullish SMA stack (close > 20 > 50 > 200)
-          - Volume surge — 5d avg is 2.1× the 30d avg
           - Volume highest in 3 months (HVQ)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹137.3cr daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ 79,420 Cr. | P/E 379 | ROCE 17.2 % | ROE 15.3 % | DivYield 0.00 % | BookVal ₹ 5.02
-        PROS (screener.in):
-          - Company has delivered good profit growth of 27.7% CAGR over last 5 years
-        CONS (screener.in):
-          - Stock is trading at 55.2 times its book value
-          - Though the company is reporting repeated profits, it is not paying out dividend
-          - Company has a low return on equity of 7.75% over last 3 years.
-        https://www.screener.in/company/NYKAA/consolidated/
-
-  • HONASA          (Honasa Consumer Ltd           )  close ₹384.35  +6.62%  bias NEUTRAL
-        → STRONG BUY (tech=NEUTRAL, signal net +5)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹392.11
-          - Strict stop-loss:      ₹364.70
-          - Best stop-loss:        ₹339.81
-          - Target-3 (150%):       ₹422.85
-          - Target-4 (161.8%):     ₹436.57
-          - Target-5 (261.8%):     ₹552.87
-          - Swing anchor:          low ₹248.40  ↔  high ₹364.70
-        PROS (signals):
-          - Trading near 52-week high (88% of range)
-          - Bullish SMA stack (close > 20 > 50 > 200)
-          - Volume surge — 5d avg is 4.3× the 30d avg
-          - Volume highest in 1 year (HVY)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹88.0cr daily turnover)
+          - Healthy liquidity (~₹170.9cr daily turnover)
         CONS (signals):
-          - Delivery % falling — recent 39% vs 30d 47% (-8pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 12,523 Cr. | P/E 61.5 | ROCE 19.2 % | ROE 15.7 % | DivYield 0.00 % | BookVal ₹ 43.4
-        CONS (screener.in):
-          - Stock is trading at 8.86 times its book value
-          - Though the company is reporting repeated profits, it is not paying out dividend
-        https://www.screener.in/company/HONASA/consolidated/
-
-  • LICI            (Life Insurance Corporation of )  close ₹812.95  +1.59%  bias NEUTRAL
-        → BUY-LEAN (tech=NEUTRAL, signal net +2)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹825.79
-          - Strict stop-loss:      ₹820.25
-          - Best stop-loss:        ₹782.51
-          - Target-1 (50.0%):      ₹850.75
-          - Target-2 (61.8%):      ₹881.25
-          - Target-3 (150%):       ₹1109.25
-          - Target-4 (161.8%):     ₹1139.75
-          - Target-5 (261.8%):     ₹1398.25
-          - Swing anchor:          low ₹721.50  ↔  high ₹980.00
-        PROS (signals):
-          - Volume surge — 5d avg is 2.4× the 30d avg
-          - Volume highest in 3 months (HVQ)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹153.5cr daily turnover)
-        CONS (signals):
-          - Trading below the 200-day SMA
-          - Closed near the day's low (CLV -0.78) — sellers dumped into the volume
-        FUNDAMENTALS (screener.in): MCap ₹ 5,13,870 Cr. | P/E 8.94 | ROCE 35.1 % | ROE 37.8 % | DivYield 1.48 % | BookVal ₹ 279
+          - Delivery % falling — recent 44% vs 30d 52% (-8pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 1,54,758 Cr. | P/E 70.3 | ROCE 15.4 % | ROE 27.6 % | DivYield 0.83 % | BookVal ₹ 248
         PROS (screener.in):
-          - Company is almost debt free.
-          - Company has a good return on equity (ROE) track record: 3 Years ROE 45.5%
+          - Company has a good return on equity (ROE) track record: 3 Years ROE 26.2%
         CONS (screener.in):
-          - The company has delivered a poor sales growth of 7.19% over past five years.
-          - Tax rate seems low
-        https://www.screener.in/company/LICI/consolidated/
-
-Top 5 SELL candidates (high-volume distribution):
-------------------------------------------------------------
-  • CENTRALBK       (Central Bank of India         )  close ₹31.27  -7.81%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -2)
-        PROS (signals):
-          - Volume surge — 5d avg is 3.0× the 30d avg
-          - Volume highest in 1 year (HVY)
-          - Healthy liquidity (~₹26.0cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (1% of range)
-          - -15% over the last month
-          - Trading below the 200-day SMA
-          - Closed near the day's low (CLV -0.89) — sellers dumped into the volume
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 28,312 Cr. | P/E 6.34 | ROCE 5.62 % | ROE 11.8 % | DivYield 3.84 % | BookVal ₹ 43.1
-        PROS (screener.in):
-          - Stock is trading at 0.73 times its book value
-          - Stock is providing a good dividend yield of 3.84%.
-          - Company has delivered good profit growth of 45.7% CAGR over last 5 years
-        CONS (screener.in):
-          - Company has low interest coverage ratio.
-          - The company has delivered a poor sales growth of 9.64% over past five years.
-          - Company has a low return on equity of 10.8% over last 3 years.
-          - Contingent liabilities of Rs.1,51,986 Cr.
+          - Stock is trading at 18.4 times its book value
+          - The company has delivered a poor sales growth of 11.8% over past five years.
           - Company might be capitalizing the interest cost
-        https://www.screener.in/company/CENTRALBK/consolidated/
-
-  • PINELABS        (Pine Labs Ltd                 )  close ₹142.84  -3.69%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -3)
-        PROS (signals):
-          - Delivery % rising — recent 49% vs 30d 41% (+8pp accumulation)
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹69.9cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (2% of range)
-          - 50% off 52-week high
-          - -28% over the last month
-          - -30% over the last 3 months
-          - Trading below the 200-day SMA
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 16,404 Cr. | ROCE -0.49 % | ROE -3.31 % | DivYield 0.00 % | BookVal ₹ 32.3
-        CONS (screener.in):
-          - Stock is trading at 4.42 times its book value
-          - Company has low interest coverage ratio.
-          - Company has a low return on equity of -7.02% over last 3 years.
-        https://www.screener.in/company/PINELABS/consolidated/
-
-  • GLAXO           (Glaxosmithkline Pharmaceutical)  close ₹2306.90  -0.59%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -2)
-        PROS (signals):
-          - Delivery % rising — recent 64% vs 30d 57% (+7pp accumulation)
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹16.8cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (7% of range)
-          - 34% off 52-week high
-          - Trading below the 200-day SMA
-          - 5-day losing streak
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 39,079 Cr. | P/E 38.3 | ROCE 65.1 % | ROE 48.4 % | DivYield 2.47 % | BookVal ₹ 134
-        PROS (screener.in):
-          - Company is almost debt free.
-          - Company has a good return on equity (ROE) track record: 3 Years ROE 44.5%
-          - Company has been maintaining a healthy dividend payout of 94.6%
-        CONS (screener.in):
-          - Stock is trading at 17.2 times its book value
-          - The company has delivered a poor sales growth of 5.49% over past five years.
-        https://www.screener.in/company/GLAXO/consolidated/
-
-  • MAXHEALTH       (Max Healthcare Institute Ltd  )  close ₹1023.25  -6.22%  bias STRONG_SELL
-        → SELL-LEAN (tech=STRONG_SELL, signal net -1)
-        PROS (signals):
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹279.0cr daily turnover)
-        CONS (signals):
-          - Lower third of 52-week range (29%)
-          - Trading below the 200-day SMA
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 99,546 Cr. | P/E 67.1 | ROCE 14.7 % | ROE 14.8 % | DivYield 0.15 % | BookVal ₹ 110
-        CONS (screener.in):
-          - Stock is trading at 9.27 times its book value
-          - Tax rate seems low
-          - Company has a low return on equity of 13.7% over last 3 years.
-          - Company might be capitalizing the interest cost
-          - Dividend payout has been low at 13.6% of profits over last 3 years
-        https://www.screener.in/company/MAXHEALTH/consolidated/
-
-  • JUBLPHARMA      (Jubilant Pharmova Ltd         )  close ₹1006.35  -0.52%  bias SELL
-        → HOLD / MIXED (tech=SELL, signal net 0)
-        PROS (signals):
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹16.9cr daily turnover)
-        CONS (signals):
-          - Trading below the 200-day SMA
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 16,037 Cr. | P/E 36.7 | ROCE 8.99 % | ROE 6.55 % | DivYield 0.50 % | BookVal ₹ 445
-        PROS (screener.in):
-          - Company has been maintaining a healthy dividend payout of 43.9%
-          - Company's working capital requirements have reduced from 28.6 days to 13.4 days
-        CONS (screener.in):
-          - The company has delivered a poor sales growth of 6.31% over past five years.
-          - Company has a low return on equity of 5.80% over last 3 years.
-          - Company might be capitalizing the interest cost
-          - Promoter holding has decreased over last 3 years: -3.01%
-        https://www.screener.in/company/JUBLPHARMA/consolidated/
+        https://www.screener.in/company/TORNTPHARM/consolidated/
 
 
 — BUY/SELL recommendations are based on the Pure_on_Volume screen (HVQ/HVY/HVE volume breakouts + liquidity gate).
