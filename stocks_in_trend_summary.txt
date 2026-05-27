@@ -3,53 +3,123 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-05-27 01:28 IST
+NSE bhavcopy analysis — generated 2026-05-27 19:20 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 1
-Recommendations: 1 BUY  +  3 SELL
+Pure_on_Volume hits (BUY): 11
+Recommendations: 11 BUY  +  1 SELL
 
-Top 1 BUY candidates:
+Top 11 BUY candidates:
 ------------------------------------------------------------
-  • POWERINDIA      (Hitachi Energy India Ltd      )  close ₹35995.00  +1.01%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +6)
+  • JPPOWER         (Jaiprakash Power Ventures Ltd )  close ₹22.87  +19.55%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +8)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹35374.50
-          - Strict stop-loss:      ₹32333.25
-          - Best stop-loss:        ₹31094.91
-          - Target-3 (150%):       ₹47069.50
-          - Target-4 (161.8%):     ₹49504.90
-          - Target-5 (261.8%):     ₹70143.90
-          - Swing anchor:          low ₹16111.00  ↔  high ₹36750.00
+          - Entry zone (probable): above ₹21.25
+          - Strict stop-loss:      ₹21.05
+          - Best stop-loss:        ₹19.36
+          - Target-3 (150%):       ₹25.00
+          - Target-4 (161.8%):     ₹25.93
+          - Target-5 (261.8%):     ₹33.83
+          - Swing anchor:          low ₹13.15  ↔  high ₹21.05
         PROS (signals):
-          - Trading near 52-week high (96% of range)
-          - +51% over the last 3 months
-          - +117% over the year
+          - +17% over the last month
+          - +58% over the last 3 months
+          - +56% over the year
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - 5-day winning streak
+          - Volume highest in 4 years (HVE) — strongest possible breakout signal
+          - Closed near the day's high (CLV +0.96) — buyers absorbed the volume
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹391.8cr daily turnover)
+        CONS (signals):
+          - High volatility (83% annualised)
+        FUNDAMENTALS (screener.in): MCap ₹ 15,666 Cr. | P/E 34.8 | ROCE 6.97 % | ROE 3.60 % | DivYield 0.00 % | BookVal ₹ 18.6
+        PROS (screener.in):
+          - Company has delivered good profit growth of 20.2% CAGR over last 5 years
+        CONS (screener.in):
+          - Though the company is reporting repeated profits, it is not paying out dividend
+          - The company has delivered a poor sales growth of 11.0% over past five years.
+          - Company has a low return on equity of 7.56% over last 3 years.
+          - Promoters have pledged 73.0% of their holding.
+        https://www.screener.in/company/JPPOWER/consolidated/
+
+  • EXIDEIND        (Exide Industries Ltd          )  close ₹394.15  +7.62%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +5)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹382.44
+          - Strict stop-loss:      ₹375.99
+          - Best stop-loss:        ₹359.00
+          - Target-3 (150%):       ₹503.00
+          - Target-4 (161.8%):     ₹519.99
+          - Target-5 (261.8%):     ₹663.99
+          - Swing anchor:          low ₹287.00  ↔  high ₹431.00
+        PROS (signals):
+          - Upper third of 52-week range (74%)
+          - Trading above the 200-day SMA
+          - Volume highest in 3 months (HVQ)
+          - Closed near the day's high (CLV +0.80) — buyers absorbed the volume
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹140.6cr daily turnover)
+        CONS (signals):
+          - Delivery % falling — recent 32% vs 30d 38% (-7pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 33,503 Cr. | P/E 38.9 | ROCE 8.79 % | ROE 6.19 % | DivYield 0.51 % | BookVal ₹ 164
+        PROS (screener.in):
+          - Company has reduced debt.
+          - Company has been maintaining a healthy dividend payout of 20.2%
+        CONS (screener.in):
+          - The company has delivered a poor sales growth of 11.7% over past five years.
+          - Company has a low return on equity of 6.30% over last 3 years.
+        https://www.screener.in/company/EXIDEIND/consolidated/
+
+  • CUMMINSIND      (Cummins India Ltd             )  close ₹6027.50  +11.24%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +7)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹5785.57
+          - Strict stop-loss:      ₹5470.50
+          - Best stop-loss:        ₹4851.93
+          - Target-3 (150%):       ₹6915.75
+          - Target-4 (161.8%):     ₹7256.83
+          - Target-5 (261.8%):     ₹10147.33
+          - Swing anchor:          low ₹2580.00  ↔  high ₹5470.50
+        PROS (signals):
+          - Trading near 52-week high (98% of range)
+          - +15% over the last month
+          - +102% over the year
           - Bullish SMA stack (close > 20 > 50 > 200)
           - Volume highest in 3 months (HVQ)
+          - Closed near the day's high (CLV +0.79) — buyers absorbed the volume
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹531.9cr daily turnover)
+          - Healthy liquidity (~₹383.2cr daily turnover)
         CONS (signals):
-          - Delivery % falling — recent 27% vs 30d 33% (-5pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ Cr. | ROCE % | ROE % | DivYield % | BookVal ₹
-        https://www.screener.in/company/POWERINDIA/consolidated/
+          - Delivery % falling — recent 46% vs 30d 53% (-7pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 1,66,991 Cr. | P/E 68.9 | ROCE 39.5 % | ROE 30.2 % | DivYield 0.85 % | BookVal ₹ 306
+        PROS (screener.in):
+          - Company is almost debt free.
+          - Company has delivered good profit growth of 30.8% CAGR over last 5 years
+          - Company has a good return on equity (ROE) track record: 3 Years ROE 28.8%
+          - Company has been maintaining a healthy dividend payout of 70.0%
+        CONS (screener.in):
+          - Stock is trading at 19.7 times its book value
+          - Working capital days have increased from 64.5 days to 99.1 days
+        https://www.screener.in/company/CUMMINSIND/consolidated/
 
-Top 3 SELL candidates (high-volume distribution):
-------------------------------------------------------------
-  • PINELABS        (Pine Labs Ltd                 )  close ₹137.94  -5.65%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -4)
+  • PINELABS        (Pine Labs Ltd                 )  close ₹145.83  +5.72%  bias STRONG_BUY
+        → HOLD / MIXED (tech=STRONG_BUY, signal net -1)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹141.65
         PROS (signals):
-          - Volume surge — 5d avg is 3.0× the 30d avg
+          - Volume surge — 5d avg is 3.6× the 30d avg
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹94.7cr daily turnover)
+          - Closed near the day's high (CLV +0.76) — buyers absorbed the volume
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹125.3cr daily turnover)
         CONS (signals):
-          - Trading near 52-week low (2% of range)
-          - 51% off 52-week high
-          - -30% over the last month
-          - -32% over the last 3 months
-          - Trading below the 200-day SMA
-          - Closed near the day's low (CLV -0.72) — sellers dumped into the volume
-          - High-volume distribution — HV breakout on a down day
+          - Trading near 52-week low (7% of range)
+          - 49% off 52-week high
+          - -27% over the last month
+          - -30% over the last 3 months
+          - Bearish SMA stack (close < 20 < 50 < 200)
+          - High volatility (63% annualised)
         FUNDAMENTALS (screener.in): MCap ₹ 15,845 Cr. | P/E 138 | ROCE 4.16 % | ROE 2.46 % | DivYield 0.00 % | BookVal ₹ 51.3
         PROS (screener.in):
           - Company has reduced debt.
@@ -62,16 +132,214 @@ Top 3 SELL candidates (high-volume distribution):
           - Company's cost of borrowing seems high
         https://www.screener.in/company/PINELABS/consolidated/
 
-  • TECHNOE         (Techno Electric & Engineering )  close ₹1201.20  -12.51%  bias STRONG_SELL
-        → SELL-LEAN (tech=STRONG_SELL, signal net -1)
+  • COALINDIA       (Coal India Ltd                )  close ₹463.05  +1.07%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +7)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹450.35
+          - Strict stop-loss:      ₹437.01
+          - Best stop-loss:        ₹420.25
+          - Target-3 (150%):       ₹562.25
+          - Target-4 (161.8%):     ₹579.01
+          - Target-5 (261.8%):     ₹721.01
+          - Swing anchor:          low ₹349.25  ↔  high ₹491.25
         PROS (signals):
-          - Volume surge — 5d avg is 2.7× the 30d avg
+          - Upper third of 52-week range (77%)
+          - Trading above the 200-day SMA
+          - Volume surge — 5d avg is 2.2× the 30d avg
+          - Volume highest in 4 years (HVE) — strongest possible breakout signal
+          - Closed near the day's high (CLV +0.74) — buyers absorbed the volume
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹661.4cr daily turnover)
+        FUNDAMENTALS (screener.in): MCap ₹ 2,85,303 Cr. | P/E 9.18 | ROCE 35.3 % | ROE 28.5 % | DivYield 5.72 % | BookVal ₹ 193
+        PROS (screener.in):
+          - Stock is providing a good dividend yield of 5.72%.
+          - Company has a good return on equity (ROE) track record: 3 Years ROE 38.2%
+          - Company has been maintaining a healthy dividend payout of 47.1%
+        https://www.screener.in/company/COALINDIA/consolidated/
+
+  • ZEEL            (Zee Entertainment Enterprises )  close ₹91.46  +10.49%  bias STRONG_BUY
+        → HOLD / MIXED (tech=STRONG_BUY, signal net -1)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹88.58
+          - Strict stop-loss:      ₹87.75
+          - Best stop-loss:        ₹68.00
+          - Target-1 (50.0%):      ₹109.85
+          - Target-2 (61.8%):      ₹119.73
+          - Target-3 (150%):       ₹193.55
+          - Target-4 (161.8%):     ₹203.43
+          - Target-5 (261.8%):     ₹287.13
+          - Swing anchor:          low ₹68.00  ↔  high ₹151.70
+        PROS (signals):
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹41.2cr daily turnover)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹179.6cr daily turnover)
         CONS (signals):
+          - Lower third of 52-week range (28%)
+          - 40% off 52-week high
+          - -28% over the year
           - Trading below the 200-day SMA
-          - High volatility (61% annualised)
-          - Closed near the day's low (CLV -0.71) — sellers dumped into the volume
+        FUNDAMENTALS (screener.in): MCap ₹ 8,775 Cr. | P/E 31.4 | ROCE 2.75 % | ROE 2.40 % | DivYield 2.66 % | BookVal ₹ 122
+        PROS (screener.in):
+          - Company is almost debt free.
+          - Stock is trading at 0.75 times its book value
+          - Company has been maintaining a healthy dividend payout of 57.7%
+        CONS (screener.in):
+          - The company has delivered a poor sales growth of 0.94% over past five years.
+          - Promoter holding is low: 3.98%
+          - Tax rate seems low
+          - Company has a low return on equity of 3.74% over last 3 years.
+          - Earnings include an other income of Rs.137 Cr.
+        https://www.screener.in/company/ZEEL/consolidated/
+
+  • AIAENG          (AIA Engineering Ltd           )  close ₹4428.10  +6.87%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +6)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹4327.24
+          - Strict stop-loss:      ₹4206.10
+          - Best stop-loss:        ₹3948.23
+          - Target-3 (150%):       ₹4808.60
+          - Target-4 (161.8%):     ₹4950.79
+          - Target-5 (261.8%):     ₹6155.79
+          - Swing anchor:          low ₹3001.10  ↔  high ₹4206.10
+        PROS (signals):
+          - Trading near 52-week high (96% of range)
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Volume surge — 5d avg is 4.0× the 30d avg
+          - Volume highest in 4 years (HVE) — strongest possible breakout signal
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹39.6cr daily turnover)
+        FUNDAMENTALS (screener.in): MCap ₹ 41,460 Cr. | P/E 32.6 | ROCE 21.1 % | ROE 17.0 % | DivYield 0.36 % | BookVal ₹ 860
+        PROS (screener.in):
+          - Company has reduced debt.
+          - Company is almost debt free.
+        CONS (screener.in):
+          - The company has delivered a poor sales growth of 8.93% over past five years.
+          - Earnings include an other income of Rs.485 Cr.
+          - Dividend payout has been low at 13.0% of profits over last 3 years
+          - Debtor days have increased from 77.7 to 96.5 days.
+          - Working capital days have increased from 261 days to 537 days
+        https://www.screener.in/company/AIAENG/consolidated/
+
+  • ATGL            (Adani Total Gas Ltd           )  close ₹808.55  +13.39%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +8)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹777.82
+          - Strict stop-loss:      ₹684.90
+          - Best stop-loss:        ₹637.37
+          - Target-4 (161.8%):     ₹822.16
+          - Target-5 (261.8%):     ₹1044.26
+          - Swing anchor:          low ₹462.80  ↔  high ₹684.90
+        PROS (signals):
+          - Trading near 52-week high (94% of range)
+          - +27% over the last month
+          - +54% over the last 3 months
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Volume surge — 5d avg is 3.3× the 30d avg
+          - 5-day winning streak
+          - Volume highest in 4 years (HVE) — strongest possible breakout signal
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹553.6cr daily turnover)
+        CONS (signals):
+          - High volatility (63% annualised)
+        FUNDAMENTALS (screener.in): MCap ₹ 88,944 Cr. | P/E 136 | ROCE 15.4 % | ROE 14.5 % | DivYield 0.03 % | BookVal ₹ 44.2
+        CONS (screener.in):
+          - Stock is trading at 18.3 times its book value
+          - Dividend payout has been low at 4.17% of profits over last 3 years
+        https://www.screener.in/company/ATGL/consolidated/
+
+  • GILLETTE        (Gillette India Ltd            )  close ₹8273.50  +4.85%  bias BUY
+        → HOLD / MIXED (tech=BUY, signal net 0)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹8199.95
+          - Strict stop-loss:      ₹7206.00
+          - Target-1 (50.0%):      ₹9353.00
+          - Target-2 (61.8%):      ₹9859.69
+          - Target-3 (150%):       ₹13647.00
+          - Target-4 (161.8%):     ₹14153.69
+          - Target-5 (261.8%):     ₹18447.69
+          - Swing anchor:          low ₹7206.00  ↔  high ₹11500.00
+        PROS (signals):
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹26.8cr daily turnover)
+        CONS (signals):
+          - Lower third of 52-week range (25%)
+          - Trading below the 200-day SMA
+          - Delivery % falling — recent 52% vs 30d 60% (-7pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ Cr. | ROCE % | ROE % | DivYield % | BookVal ₹
+        https://www.screener.in/company/GILLETTE/consolidated/
+
+  • GRANULES        (Granules India Ltd            )  close ₹782.60  +3.45%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +7)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹779.68
+          - Strict stop-loss:      ₹773.20
+          - Best stop-loss:        ₹698.04
+          - Target-3 (150%):       ₹948.80
+          - Target-4 (161.8%):     ₹990.24
+          - Target-5 (261.8%):     ₹1341.44
+          - Swing anchor:          low ₹422.00  ↔  high ₹773.20
+        PROS (signals):
+          - Trading near 52-week high (95% of range)
+          - +31% over the last 3 months
+          - +52% over the year
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹118.8cr daily turnover)
+        FUNDAMENTALS (screener.in): MCap ₹ 19,385 Cr. | P/E 32.2 | ROCE 15.5 % | ROE 13.7 % | DivYield 0.22 % | BookVal ₹ 205
+        CONS (screener.in):
+          - Promoter holding has decreased over last quarter: -0.80%
+          - The company has delivered a poor sales growth of 10.6% over past five years.
+          - Company has a low return on equity of 13.7% over last 3 years.
+          - Company might be capitalizing the interest cost
+          - Dividend payout has been low at 7.84% of profits over last 3 years
+        https://www.screener.in/company/GRANULES/consolidated/
+
+  • JKTYRE          (JK Tyre & Industries Ltd      )  close ₹413.30  +4.86%  bias NEUTRAL
+        → BUY-LEAN (tech=NEUTRAL, signal net +2)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹417.07
+          - Strict stop-loss:      ₹357.70
+          - Target-1 (50.0%):      ₹484.80
+          - Target-2 (61.8%):      ₹514.80
+          - Target-3 (150%):       ₹739.00
+          - Target-4 (161.8%):     ₹769.00
+          - Target-5 (261.8%):     ₹1023.20
+          - Swing anchor:          low ₹357.70  ↔  high ₹611.90
+        PROS (signals):
+          - Volume surge — 5d avg is 2.5× the 30d avg
+          - 5-day winning streak
+          - Volume highest in 1 year (HVY)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹58.4cr daily turnover)
+        CONS (signals):
+          - 32% off 52-week high
+          - Trading below the 200-day SMA
+          - Delivery % falling — recent 31% vs 30d 41% (-10pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 11,917 Cr. | P/E 13.5 | ROCE 15.5 % | ROE 16.2 % | DivYield 0.73 % | BookVal ₹ 210
+        PROS (screener.in):
+          - Company has delivered good profit growth of 24.4% CAGR over last 5 years
+        CONS (screener.in):
+          - Promoter holding has decreased over last 3 years: -4.54%
+        https://www.screener.in/company/JKTYRE/consolidated/
+
+Top 1 SELL candidates (high-volume distribution):
+------------------------------------------------------------
+  • TECHNOE         (Techno Electric & Engineering )  close ₹1072.60  -10.71%  bias STRONG_SELL
+        → STRONG SELL (tech=STRONG_SELL, signal net -5)
+        PROS (signals):
+          - Volume surge — 5d avg is 3.2× the 30d avg
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹42.4cr daily turnover)
+        CONS (signals):
+          - Lower third of 52-week range (26%)
+          - 35% off 52-week high
+          - -16% over the last month
+          - Trading below the 200-day SMA
+          - High volatility (69% annualised)
+          - Delivery % falling — recent 40% vs 30d 47% (-7pp distribution)
+          - Closed near the day's low (CLV -0.79) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
         FUNDAMENTALS (screener.in): MCap ₹ 13,994 Cr. | P/E 31.2 | ROCE 14.8 % | ROE 11.4 % | DivYield 0.75 % | BookVal ₹ 357
         PROS (screener.in):
@@ -85,29 +353,6 @@ Top 3 SELL candidates (high-volume distribution):
           - Promoter holding has decreased over last 3 years: -4.59%
           - Working capital days have increased from 222 days to 430 days
         https://www.screener.in/company/TECHNOE/consolidated/
-
-  • CONCOR          (Container Corporation Of India)  close ₹475.90  -7.06%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -5)
-        PROS (signals):
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹79.8cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (14% of range)
-          - 42% off 52-week high
-          - -35% over the year
-          - Trading below the 200-day SMA
-          - Delivery % falling — recent 40% vs 30d 45% (-6pp distribution)
-          - Closed near the day's low (CLV -0.70) — sellers dumped into the volume
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 36,228 Cr. | P/E 29.2 | ROCE 12.4 % | ROE 9.81 % | DivYield 1.93 % | BookVal ₹ 170
-        PROS (screener.in):
-          - Company is almost debt free.
-          - Company has been maintaining a healthy dividend payout of 45.8%
-        CONS (screener.in):
-          - Stock is trading at 2.80 times its book value
-          - The company has delivered a poor sales growth of 7.15% over past five years.
-          - Company has a low return on equity of 10.4% over last 3 years.
-        https://www.screener.in/company/CONCOR/consolidated/
 
 
 — BUY/SELL recommendations are based on the Pure_on_Volume screen (HVQ/HVY/HVE volume breakouts + liquidity gate).
