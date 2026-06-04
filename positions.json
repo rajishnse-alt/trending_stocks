@@ -95,7 +95,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "ECLERX",
@@ -144,7 +144,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "GPIL",
@@ -193,7 +193,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "MANKIND",
@@ -291,7 +291,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "ENRIN",
@@ -340,7 +340,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "TATACOMM",
@@ -389,7 +389,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "GVT&D",
@@ -438,7 +438,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "ERIS",
@@ -487,7 +487,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "TIMKEN",
@@ -536,7 +536,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "IRB",
@@ -585,7 +585,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "GRASIM",
@@ -634,7 +634,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "SAMMAANCAP",
@@ -706,7 +706,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "IGIL",
@@ -747,15 +747,15 @@
         "price": 543.4331
       }
     ],
-    "status": "open",
+    "status": "closed",
     "fill_date": "2026-05-22",
     "fill_price": 374.16170000000005,
-    "exit_date": null,
-    "exit_price": null,
-    "exit_reason": null,
-    "days_held": null,
-    "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "exit_date": "2026-06-03",
+    "exit_price": 358.1117,
+    "exit_reason": "stoploss",
+    "days_held": 12,
+    "pnl_pct": -4.289589233745749,
+    "last_checked": "2026-06-03"
   },
   {
     "symbol": "RHIM",
@@ -804,7 +804,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "TECHNOE",
@@ -951,7 +951,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "PAGEIND",
@@ -1000,7 +1000,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "NAUKRI",
@@ -1049,7 +1049,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "HONASA",
@@ -1147,7 +1147,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "LICI",
@@ -1245,7 +1245,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "GAIL",
@@ -1335,15 +1335,15 @@
         "price": 3634.1815999999994
       }
     ],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
-    "exit_date": null,
-    "exit_price": null,
-    "exit_reason": null,
-    "days_held": null,
-    "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "status": "closed",
+    "fill_date": "2026-06-03",
+    "fill_price": 1958.87274,
+    "exit_date": "2026-06-04",
+    "exit_price": 1979.6,
+    "exit_reason": "target_t1",
+    "days_held": 1,
+    "pnl_pct": 1.058121825719005,
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "EICHERMOT",
@@ -1441,7 +1441,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "POWERINDIA",
@@ -1490,7 +1490,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "JPPOWER",
@@ -1588,7 +1588,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "ATGL",
@@ -1686,7 +1686,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "JKTYRE",
@@ -1735,7 +1735,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "ZEEL",
@@ -1784,7 +1784,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "PINELABS",
@@ -1807,7 +1807,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "EXIDEIND",
@@ -1856,7 +1856,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "GRANULES",
@@ -1905,7 +1905,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "CUMMINSIND",
@@ -1954,7 +1954,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "GILLETTE",
@@ -2003,7 +2003,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "FEDERALBNK",
@@ -2052,7 +2052,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "WIPRO",
@@ -2101,7 +2101,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "INFY",
@@ -2150,7 +2150,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "JUBLFOOD",
@@ -2191,15 +2191,15 @@
         "price": 1424.4531
       }
     ],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-06-03",
+    "fill_price": 435.89876000000004,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "GMRAIRPORT",
@@ -2240,15 +2240,15 @@
         "price": 152.83249999999998
       }
     ],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-06-04",
+    "fill_price": 103.303948,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "HYUNDAI",
@@ -2297,7 +2297,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "ALKEM",
@@ -2346,7 +2346,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "KALYANKJIL",
@@ -2387,15 +2387,15 @@
         "price": 1071.8726000000001
       }
     ],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-06-04",
+    "fill_price": 363.25487,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "INDUSTOWER",
@@ -2444,7 +2444,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "NETWEB",
@@ -2493,7 +2493,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "HBLENGINE",
@@ -2542,7 +2542,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "NUVOCO",
@@ -2591,7 +2591,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "ANTHEM",
@@ -2640,7 +2640,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "TEGA",
@@ -2738,7 +2738,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "NSLNISP",
@@ -2787,7 +2787,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "PTCIL",
@@ -2836,7 +2836,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "NMDC",
@@ -2885,7 +2885,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "NBCC",
@@ -2926,15 +2926,15 @@
         "price": 204.59805999999998
       }
     ],
-    "status": "open",
+    "status": "closed",
     "fill_date": "2026-06-02",
     "fill_price": 103.972374,
-    "exit_date": null,
-    "exit_price": null,
-    "exit_reason": null,
-    "days_held": null,
-    "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "exit_date": "2026-06-03",
+    "exit_price": 101.515,
+    "exit_reason": "target_t1",
+    "days_held": 1,
+    "pnl_pct": -2.3634874394615646,
+    "last_checked": "2026-06-03"
   },
   {
     "symbol": "CPPLUS",
@@ -2957,7 +2957,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "ZENSARTECH",
@@ -3006,7 +3006,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "NEWGEN",
@@ -3047,15 +3047,15 @@
         "price": 4060.6213000000002
       }
     ],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-06-03",
+    "fill_price": 492.98568,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "JMFINANCIL",
@@ -3096,15 +3096,15 @@
         "price": 341.8604
       }
     ],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-06-03",
+    "fill_price": 125.00224000000001,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "BSOFT",
@@ -3153,7 +3153,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
   },
   {
     "symbol": "CONCORDBIO",
@@ -3194,6 +3194,55 @@
         "price": 5377.3859999999995
       }
     ],
+    "status": "open",
+    "fill_date": "2026-06-03",
+    "fill_price": 1130.51026,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "last_checked": "2026-06-04"
+  },
+  {
+    "symbol": "ZENTEC",
+    "name": "Zen Technologies Ltd",
+    "side": "BUY",
+    "suggested_on": "2026-06-04",
+    "suggested_close": 1809.8,
+    "entry": 1797.7,
+    "fill_trigger": 1819.2724,
+    "stoploss": 1660.052,
+    "strict_stoploss": 1696.172,
+    "swing_low": 1223.0,
+    "swing_high": 1825.0,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 0.5,
+        "price": 1524.0
+      },
+      {
+        "name": "T2",
+        "ratio": 0.618,
+        "price": 1595.036
+      },
+      {
+        "name": "T3",
+        "ratio": 1.5,
+        "price": 2126.0
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 2197.036
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 2799.036
+      }
+    ],
     "status": "pending",
     "fill_date": null,
     "fill_price": null,
@@ -3202,6 +3251,78 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-04"
+  },
+  {
+    "symbol": "PWL",
+    "name": "Physicswallah Ltd",
+    "side": "BUY",
+    "suggested_on": "2026-06-04",
+    "suggested_close": 106.46,
+    "entry": 100.05199999999999,
+    "fill_trigger": 101.252624,
+    "stoploss": null,
+    "strict_stoploss": null,
+    "swing_low": null,
+    "swing_high": null,
+    "targets": [],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "last_checked": "2026-06-04"
+  },
+  {
+    "symbol": "VOLTAS",
+    "name": "Voltas Ltd",
+    "side": "BUY",
+    "suggested_on": "2026-06-04",
+    "suggested_close": 1286.5,
+    "entry": 1267.4450000000002,
+    "fill_trigger": 1282.6543400000003,
+    "stoploss": null,
+    "strict_stoploss": 1186.8,
+    "swing_low": 1186.8,
+    "swing_high": 1582.5,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 0.5,
+        "price": 1384.65
+      },
+      {
+        "name": "T2",
+        "ratio": 0.618,
+        "price": 1431.3426
+      },
+      {
+        "name": "T3",
+        "ratio": 1.5,
+        "price": 1780.35
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 1827.0426000000002
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 2222.7426
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "last_checked": "2026-06-04"
   }
 ]
