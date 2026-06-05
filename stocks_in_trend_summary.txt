@@ -3,113 +3,103 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-06-04 18:53 IST
+NSE bhavcopy analysis — generated 2026-06-05 22:16 IST
 ============================================================
 
 Pure_on_Volume hits (BUY): 3
-Recommendations: 3 BUY  +  1 SELL
+Recommendations: 3 BUY  +  0 SELL
 
 Top 3 BUY candidates:
 ------------------------------------------------------------
-  • PWL             (Physicswallah Ltd             )  close ₹106.46  +15.67%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +2)
+  • ZEEL            (Zee Entertainment Enterprises )  close ₹112.27  +7.52%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +5)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹100.05
+          - Entry zone (probable): above ₹110.29
+          - Strict stop-loss:      ₹99.80
+          - Best stop-loss:        ₹92.99
+          - Target-3 (150%):       ₹115.70
+          - Target-4 (161.8%):     ₹119.45
+          - Target-5 (261.8%):     ₹151.25
+          - Swing anchor:          low ₹68.00  ↔  high ₹99.80
         PROS (signals):
-          - +32% over the last 3 months
-          - Volume surge — 5d avg is 3.5× the 30d avg
-          - Volume highest in 3 months (HVQ)
-          - Closed near the day's high (CLV +0.79) — buyers absorbed the volume
+          - +19% over the last month
+          - +37% over the last 3 months
+          - Trading above the 200-day SMA
+          - Volume surge — 5d avg is 2.6× the 30d avg
+          - Volume highest in 4 years (HVE) — strongest possible breakout signal
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹70.9cr daily turnover)
+          - Healthy liquidity (~₹338.6cr daily turnover)
         CONS (signals):
-          - 34% off 52-week high
-          - Trading below the 200-day SMA
-          - High volatility (70% annualised)
-          - Delivery % falling — recent 30% vs 30d 36% (-6pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 30,424 Cr. | ROCE 4.02 % | ROE -0.48 % | DivYield 0.00 % | BookVal ₹ 15.8
+          - High volatility (71% annualised)
+          - Delivery % falling — recent 20% vs 30d 30% (-10pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 10,788 Cr. | P/E 38.6 | ROCE 2.75 % | ROE 2.40 % | DivYield 2.16 % | BookVal ₹ 122
         PROS (screener.in):
-          - Company has reduced debt.
+          - Company is almost debt free.
+          - Stock is trading at 0.92 times its book value
+          - Company has been maintaining a healthy dividend payout of 57.7%
         CONS (screener.in):
-          - Stock is trading at 6.73 times its book value
-          - Company has low interest coverage ratio.
-          - Earnings include an other income of Rs.179 Cr.
-          - Working capital days have increased from 9.30 days to 227 days
-        https://www.screener.in/company/PWL/consolidated/
+          - The company has delivered a poor sales growth of 0.94% over past five years.
+          - Promoter holding is low: 3.98%
+          - Tax rate seems low
+          - Company has a low return on equity of 3.74% over last 3 years.
+          - Earnings include an other income of Rs.137 Cr.
+        https://www.screener.in/company/ZEEL/consolidated/
 
-  • VOLTAS          (Voltas Ltd                    )  close ₹1286.50  +4.17%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +2)
+  • RITES           (Rites Ltd                     )  close ₹210.49  +5.13%  bias BUY
+        → BUY-LEAN (tech=BUY, signal net +1)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹1267.45
-          - Strict stop-loss:      ₹1186.80
-          - Target-1 (50.0%):      ₹1384.65
-          - Target-2 (61.8%):      ₹1431.34
-          - Target-3 (150%):       ₹1780.35
-          - Target-4 (161.8%):     ₹1827.04
-          - Target-5 (261.8%):     ₹2222.74
-          - Swing anchor:          low ₹1186.80  ↔  high ₹1582.50
+          - Entry zone (probable): above ₹208.92
+          - Strict stop-loss:      ₹208.28
+          - Best stop-loss:        ₹175.00
+          - Target-1 (50.0%):      ₹245.50
+          - Target-2 (61.8%):      ₹262.14
+          - Target-3 (150%):       ₹386.50
+          - Target-4 (161.8%):     ₹403.14
+          - Target-5 (261.8%):     ₹544.14
+          - Swing anchor:          low ₹175.00  ↔  high ₹316.00
         PROS (signals):
-          - Delivery % rising — recent 45% vs 30d 38% (+6pp accumulation)
+          - Volume surge — 5d avg is 2.7× the 30d avg
           - Volume highest in 3 months (HVQ)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹176.4cr daily turnover)
+          - Healthy liquidity (~₹20.3cr daily turnover)
         CONS (signals):
           - Lower third of 52-week range (25%)
+          - 33% off 52-week high
           - Trading below the 200-day SMA
-        FUNDAMENTALS (screener.in): MCap ₹ 42,561 Cr. | P/E 108 | ROCE 9.04 % | ROE 6.10 % | DivYield 0.31 % | BookVal ₹ 193
-        PROS (screener.in):
-          - Company has been maintaining a healthy dividend payout of 45.0%
-        CONS (screener.in):
-          - Stock is trading at 6.66 times its book value
-          - Company has a low return on equity of 8.09% over last 3 years.
-          - Earnings include an other income of Rs.212 Cr.
-        https://www.screener.in/company/VOLTAS/consolidated/
-
-  • ZENTEC          (Zen Technologies Ltd          )  close ₹1809.80  +7.21%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +6)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹1797.70
-          - Strict stop-loss:      ₹1696.17
-          - Best stop-loss:        ₹1660.05
-          - Target-3 (150%):       ₹2126.00
-          - Target-4 (161.8%):     ₹2197.04
-          - Target-5 (261.8%):     ₹2799.04
-          - Swing anchor:          low ₹1223.00  ↔  high ₹1825.00
-        PROS (signals):
-          - +15% over the last month
-          - +35% over the last 3 months
-          - Bullish SMA stack (close > 20 > 50 > 200)
-          - Volume highest in 1 year (HVY)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹169.1cr daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ 16,348 Cr. | P/E 84.8 | ROCE 16.2 % | ROE 10.7 % | DivYield 0.11 % | BookVal ₹ 209
+        FUNDAMENTALS (screener.in): MCap ₹ 10,110 Cr. | P/E 24.6 | ROCE 22.0 % | ROE 15.4 % | DivYield 3.59 % | BookVal ₹ 55.8
         PROS (screener.in):
           - Company has reduced debt.
           - Company is almost debt free.
-          - Company has delivered good profit growth of 128% CAGR over last 5 years
-          - Company's median sales growth is 44.8% of last 10 years
+          - Stock is providing a good dividend yield of 3.59%.
+          - Company has been maintaining a healthy dividend payout of 102%
         CONS (screener.in):
-          - Stock is trading at 8.65 times its book value
-          - Earnings include an other income of Rs.86.4 Cr.
-          - Promoter holding has decreased over last 3 years: -11.6%
-          - Working capital days have increased from 283 days to 543 days
-        https://www.screener.in/company/ZENTEC/consolidated/
+          - The company has delivered a poor sales growth of 4.86% over past five years.
+        https://www.screener.in/company/RITES/consolidated/
 
-Top 1 SELL candidates (high-volume distribution):
-------------------------------------------------------------
-  • SCHNEIDER       (Schneider Electric Infrastruct)  close ₹1109.80  -1.11%  bias SELL
-        → BUY-LEAN (tech=SELL, signal net +3)
+  • GODIGIT         (Go Digit General Insurance Ltd)  close ₹306.60  +1.25%  bias NEUTRAL
+        → HOLD / MIXED (tech=NEUTRAL, signal net 0)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹319.79
+          - Strict stop-loss:      ₹315.77
+          - Best stop-loss:        ₹295.50
+          - Target-1 (50.0%):      ₹338.45
+          - Target-2 (61.8%):      ₹348.59
+          - Target-3 (150%):       ₹424.35
+          - Target-4 (161.8%):     ₹434.49
+          - Target-5 (261.8%):     ₹520.39
+          - Swing anchor:          low ₹295.50  ↔  high ₹381.40
         PROS (signals):
-          - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 2.2× the 30d avg
-          - Delivery % rising — recent 87% vs 30d 64% (+23pp accumulation)
+          - Volume surge — 5d avg is 4.3× the 30d avg
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹26.7cr daily turnover)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹17.6cr daily turnover)
         CONS (signals):
-          - 6-day losing streak
-          - High-volume distribution — HV breakout on a down day
+          - Trading near 52-week low (13% of range)
+          - Bearish SMA stack (close < 20 < 50 < 200)
+          - Delivery % falling — recent 50% vs 30d 58% (-8pp distribution)
+          - Closed near the day's low (CLV -0.74) — sellers dumped into the volume
         FUNDAMENTALS (screener.in): MCap ₹ Cr. | ROCE % | ROE % | DivYield % | BookVal ₹
-        https://www.screener.in/company/SCHNEIDER/consolidated/
+        https://www.screener.in/company/GODIGIT/consolidated/
 
 
 — BUY/SELL recommendations are based on the Pure_on_Volume screen (HVQ/HVY/HVE volume breakouts + liquidity gate).
