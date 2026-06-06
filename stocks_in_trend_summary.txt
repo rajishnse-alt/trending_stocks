@@ -3,7 +3,7 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-06-05 22:16 IST
+NSE bhavcopy analysis — generated 2026-06-06 19:21 IST
 ============================================================
 
 Pure_on_Volume hits (BUY): 3
@@ -32,7 +32,7 @@ Top 3 BUY candidates:
         CONS (signals):
           - High volatility (71% annualised)
           - Delivery % falling — recent 20% vs 30d 30% (-10pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 10,788 Cr. | P/E 38.6 | ROCE 2.75 % | ROE 2.40 % | DivYield 2.16 % | BookVal ₹ 122
+        FUNDAMENTALS (screener.in): MCap ₹ 10,784 Cr. | P/E 38.6 | ROCE 2.75 % | ROE 2.40 % | DivYield 2.16 % | BookVal ₹ 122
         PROS (screener.in):
           - Company is almost debt free.
           - Stock is trading at 0.92 times its book value
@@ -66,7 +66,7 @@ Top 3 BUY candidates:
           - Lower third of 52-week range (25%)
           - 33% off 52-week high
           - Trading below the 200-day SMA
-        FUNDAMENTALS (screener.in): MCap ₹ 10,110 Cr. | P/E 24.6 | ROCE 22.0 % | ROE 15.4 % | DivYield 3.59 % | BookVal ₹ 55.8
+        FUNDAMENTALS (screener.in): MCap ₹ 10,116 Cr. | P/E 24.7 | ROCE 22.0 % | ROE 15.4 % | DivYield 3.59 % | BookVal ₹ 55.8
         PROS (screener.in):
           - Company has reduced debt.
           - Company is almost debt free.
