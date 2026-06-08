@@ -3,7 +3,7 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-06-06 19:21 IST
+NSE bhavcopy analysis — generated 2026-06-08 19:58 IST
 ============================================================
 
 Pure_on_Volume hits (BUY): 3
@@ -11,95 +11,84 @@ Recommendations: 3 BUY  +  0 SELL
 
 Top 3 BUY candidates:
 ------------------------------------------------------------
-  • ZEEL            (Zee Entertainment Enterprises )  close ₹112.27  +7.52%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +5)
+  • CCL             (CCL Products (India) Ltd      )  close ₹1173.00  +8.70%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +6)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹110.29
-          - Strict stop-loss:      ₹99.80
-          - Best stop-loss:        ₹92.99
-          - Target-3 (150%):       ₹115.70
-          - Target-4 (161.8%):     ₹119.45
-          - Target-5 (261.8%):     ₹151.25
-          - Swing anchor:          low ₹68.00  ↔  high ₹99.80
+          - Entry zone (probable): above ₹1148.49
+          - Strict stop-loss:      ₹1069.31
+          - Best stop-loss:        ₹1027.76
+          - Target-3 (150%):       ₹1563.75
+          - Target-4 (161.8%):     ₹1645.47
+          - Target-5 (261.8%):     ₹2337.97
+          - Swing anchor:          low ₹525.00  ↔  high ₹1217.50
         PROS (signals):
-          - +19% over the last month
-          - +37% over the last 3 months
+          - Trading near 52-week high (89% of range)
           - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 2.6× the 30d avg
-          - Volume highest in 4 years (HVE) — strongest possible breakout signal
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹338.6cr daily turnover)
-        CONS (signals):
-          - High volatility (71% annualised)
-          - Delivery % falling — recent 20% vs 30d 30% (-10pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 10,784 Cr. | P/E 38.6 | ROCE 2.75 % | ROE 2.40 % | DivYield 2.16 % | BookVal ₹ 122
-        PROS (screener.in):
-          - Company is almost debt free.
-          - Stock is trading at 0.92 times its book value
-          - Company has been maintaining a healthy dividend payout of 57.7%
-        CONS (screener.in):
-          - The company has delivered a poor sales growth of 0.94% over past five years.
-          - Promoter holding is low: 3.98%
-          - Tax rate seems low
-          - Company has a low return on equity of 3.74% over last 3 years.
-          - Earnings include an other income of Rs.137 Cr.
-        https://www.screener.in/company/ZEEL/consolidated/
-
-  • RITES           (Rites Ltd                     )  close ₹210.49  +5.13%  bias BUY
-        → BUY-LEAN (tech=BUY, signal net +1)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹208.92
-          - Strict stop-loss:      ₹208.28
-          - Best stop-loss:        ₹175.00
-          - Target-1 (50.0%):      ₹245.50
-          - Target-2 (61.8%):      ₹262.14
-          - Target-3 (150%):       ₹386.50
-          - Target-4 (161.8%):     ₹403.14
-          - Target-5 (261.8%):     ₹544.14
-          - Swing anchor:          low ₹175.00  ↔  high ₹316.00
-        PROS (signals):
-          - Volume surge — 5d avg is 2.7× the 30d avg
+          - Volume surge — 5d avg is 3.1× the 30d avg
           - Volume highest in 3 months (HVQ)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹20.3cr daily turnover)
-        CONS (signals):
-          - Lower third of 52-week range (25%)
-          - 33% off 52-week high
-          - Trading below the 200-day SMA
-        FUNDAMENTALS (screener.in): MCap ₹ 10,116 Cr. | P/E 24.7 | ROCE 22.0 % | ROE 15.4 % | DivYield 3.59 % | BookVal ₹ 55.8
+          - Healthy liquidity (~₹46.7cr daily turnover)
+        FUNDAMENTALS (screener.in): MCap ₹ 15,707 Cr. | P/E 40.5 | ROCE 15.8 % | ROE 18.0 % | DivYield 0.43 % | BookVal ₹ 176
         PROS (screener.in):
           - Company has reduced debt.
-          - Company is almost debt free.
-          - Stock is providing a good dividend yield of 3.59%.
-          - Company has been maintaining a healthy dividend payout of 102%
+          - Company is expected to give good quarter
+          - Company has been maintaining a healthy dividend payout of 21.8%
         CONS (screener.in):
-          - The company has delivered a poor sales growth of 4.86% over past five years.
-        https://www.screener.in/company/RITES/consolidated/
+          - Stock is trading at 6.68 times its book value
+        https://www.screener.in/company/CCL/consolidated/
 
-  • GODIGIT         (Go Digit General Insurance Ltd)  close ₹306.60  +1.25%  bias NEUTRAL
-        → HOLD / MIXED (tech=NEUTRAL, signal net 0)
+  • FORTIS          (Fortis Healthcare Ltd         )  close ₹989.10  +2.11%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +5)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹319.79
-          - Strict stop-loss:      ₹315.77
-          - Best stop-loss:        ₹295.50
-          - Target-1 (50.0%):      ₹338.45
-          - Target-2 (61.8%):      ₹348.59
-          - Target-3 (150%):       ₹424.35
-          - Target-4 (161.8%):     ₹434.49
-          - Target-5 (261.8%):     ₹520.39
-          - Swing anchor:          low ₹295.50  ↔  high ₹381.40
+          - Entry zone (probable): above ₹981.84
+          - Strict stop-loss:      ₹944.36
+          - Best stop-loss:        ₹930.80
+          - Target-3 (150%):       ₹1105.65
+          - Target-4 (161.8%):     ₹1132.31
+          - Target-5 (261.8%):     ₹1358.21
+          - Swing anchor:          low ₹766.80  ↔  high ₹992.70
         PROS (signals):
-          - Volume surge — 5d avg is 4.3× the 30d avg
+          - Trading above the 200-day SMA
+          - 6-day winning streak
           - Volume highest in 3 months (HVQ)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹17.6cr daily turnover)
+          - Healthy liquidity (~₹144.8cr daily turnover)
+        FUNDAMENTALS (screener.in): MCap ₹ 74,627 Cr. | P/E 70.5 | ROCE 13.5 % | ROE 11.3 % | DivYield 0.10 % | BookVal ₹ 131
+        PROS (screener.in):
+          - Company has delivered good profit growth of 64.4% CAGR over last 5 years
+        CONS (screener.in):
+          - Stock is trading at 7.55 times its book value
+          - Company has a low return on equity of 9.88% over last 3 years.
+        https://www.screener.in/company/FORTIS/consolidated/
+
+  • PFIZER          (Pfizer Ltd                    )  close ₹4527.90  +1.61%  bias BUY
+        → BUY-LEAN (tech=BUY, signal net +2)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹4591.95
+          - Strict stop-loss:      ₹4396.70
+          - Target-1 (50.0%):      ₹5194.85
+          - Target-2 (61.8%):      ₹5383.21
+          - Target-3 (150%):       ₹6791.15
+          - Target-4 (161.8%):     ₹6979.51
+          - Target-5 (261.8%):     ₹8575.81
+          - Swing anchor:          low ₹4396.70  ↔  high ₹5993.00
+        PROS (signals):
+          - Volume surge — 5d avg is 2.1× the 30d avg
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹10.7cr daily turnover)
         CONS (signals):
-          - Trading near 52-week low (13% of range)
+          - Trading near 52-week low (8% of range)
           - Bearish SMA stack (close < 20 < 50 < 200)
-          - Delivery % falling — recent 50% vs 30d 58% (-8pp distribution)
-          - Closed near the day's low (CLV -0.74) — sellers dumped into the volume
-        FUNDAMENTALS (screener.in): MCap ₹ Cr. | ROCE % | ROE % | DivYield % | BookVal ₹
-        https://www.screener.in/company/GODIGIT/consolidated/
+        FUNDAMENTALS (screener.in): MCap ₹ 20,719 Cr. | P/E 135 | ROCE 27.2 % | ROE 19.8 % | DivYield 1.66 % | BookVal ₹ 302
+        PROS (screener.in):
+          - Company is almost debt free.
+          - Company has been maintaining a healthy dividend payout of 33.2%
+        CONS (screener.in):
+          - Stock is trading at 15.0 times its book value
+          - Earnings include an other income of Rs.512 Cr.
+          - Working capital days have increased from 60.8 days to 135 days
+        https://www.screener.in/company/PFIZER/consolidated/
 
 
 — BUY/SELL recommendations are based on the Pure_on_Volume screen (HVQ/HVY/HVE volume breakouts + liquidity gate).
