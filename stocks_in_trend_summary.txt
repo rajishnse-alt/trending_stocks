@@ -3,109 +3,49 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-06-09 23:40 IST
+NSE bhavcopy analysis — generated 2026-06-10 21:48 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 3
-Recommendations: 3 BUY  +  1 SELL
+Pure_on_Volume hits (BUY): 1
+Recommendations: 1 BUY  +  0 SELL
 
-Top 3 BUY candidates:
+Top 1 BUY candidates:
 ------------------------------------------------------------
-  • BANKBARODA      (Bank of Baroda                )  close ₹273.75  +5.59%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +3)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹267.99
-          - Strict stop-loss:      ₹260.94
-          - Best stop-loss:        ₹241.00
-          - Target-1 (50.0%):      ₹283.25
-          - Target-2 (61.8%):      ₹293.22
-          - Target-3 (150%):       ₹367.75
-          - Target-4 (161.8%):     ₹377.72
-          - Target-5 (261.8%):     ₹462.22
-          - Swing anchor:          low ₹241.00  ↔  high ₹325.50
-        PROS (signals):
-          - Volume highest in 3 months (HVQ)
-          - Closed near the day's high (CLV +0.93) — buyers absorbed the volume
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹348.3cr daily turnover)
-        CONS (signals):
-          - Trading below the 200-day SMA
-        FUNDAMENTALS (screener.in): MCap ₹ 1,41,621 Cr. | P/E 7.14 | ROCE 5.63 % | ROE 12.7 % | DivYield 3.11 % | BookVal ₹ 321
-        PROS (screener.in):
-          - Stock is trading at 0.85 times its book value
-          - Stock is providing a good dividend yield of 3.11%.
-          - Company has been maintaining a healthy dividend payout of 21.3%
-        CONS (screener.in):
-          - Company has low interest coverage ratio.
-          - Contingent liabilities of Rs.8,63,069 Cr.
-          - Company might be capitalizing the interest cost
-        https://www.screener.in/company/BANKBARODA/consolidated/
-
-  • BELRISE         (Belrise Industries Ltd        )  close ₹234.73  +8.81%  bias STRONG_BUY
+  • CARTRADE        (Cartrade Tech Ltd             )  close ₹2451.40  +12.06%  bias STRONG_BUY
         → STRONG BUY (tech=STRONG_BUY, signal net +7)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹229.65
+          - Entry zone (probable): above ₹2344.56
+          - Strict stop-loss:      ₹2245.77
+          - Best stop-loss:        ₹1998.96
+          - Target-2 (61.8%):      ₹2644.73
+          - Target-3 (150%):       ₹4135.75
+          - Target-4 (161.8%):     ₹4335.23
+          - Target-5 (261.8%):     ₹6025.73
+          - Swing anchor:          low ₹1600.00  ↔  high ₹3290.50
         PROS (signals):
-          - Trading near 52-week high (99% of range)
-          - +141% over the year
-          - Bullish SMA stack (close > 20 > 50 > 200)
-          - Volume highest in 3 months (HVQ)
-          - Closed near the day's high (CLV +0.77) — buyers absorbed the volume
+          - +30% over the last month
+          - +39% over the last 3 months
+          - +58% over the year
+          - Trading above the 200-day SMA
+          - Volume surge — 5d avg is 2.1× the 30d avg
+          - Volume highest in 4 years (HVE) — strongest possible breakout signal
+          - Closed near the day's high (CLV +0.74) — buyers absorbed the volume
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹109.9cr daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ 20,866 Cr. | P/E 41.7 | ROCE 14.5 % | ROE 12.6 % | DivYield 0.23 % | BookVal ₹ 58.7
+          - Healthy liquidity (~₹207.0cr daily turnover)
+        CONS (signals):
+          - High volatility (65% annualised)
+          - Delivery % falling — recent 27% vs 30d 39% (-11pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 11,732 Cr. | P/E 51.5 | ROCE 11.8 % | ROE 9.69 % | DivYield 0.00 % | BookVal ₹ 519
         PROS (screener.in):
-          - Company has reduced debt.
+          - Company is almost debt free.
+          - Company has delivered good profit growth of 19.8% CAGR over last 5 years
+          - Company's median sales growth is 23.9% of last 10 years
         CONS (screener.in):
-          - Stock is trading at 4.00 times its book value
-          - Company has a low return on equity of 13.3% over last 3 years.
-        https://www.screener.in/company/BELRISE/consolidated/
-
-  • EIDPARRY        (EID Parry (India) Ltd         )  close ₹735.90  +2.04%  bias BUY
-        → BUY-LEAN (tech=BUY, signal net +1)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹731.77
-          - Target-1 (50.0%):      ₹991.40
-          - Target-2 (61.8%):      ₹1051.67
-          - Target-3 (150%):       ₹1502.20
-          - Target-4 (161.8%):     ₹1562.47
-          - Target-5 (261.8%):     ₹2073.27
-          - Swing anchor:          low ₹736.00  ↔  high ₹1246.80
-        PROS (signals):
-          - Delivery % rising — recent 57% vs 30d 50% (+7pp accumulation)
-          - Volume highest in 3 months (HVQ)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹23.5cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (4% of range)
-          - 41% off 52-week high
-          - Bearish SMA stack (close < 20 < 50 < 200)
-        FUNDAMENTALS (screener.in): MCap ₹ 13,080 Cr. | P/E 18.9 | ROCE 17.8 % | ROE 8.30 % | DivYield 0.00 % | BookVal ₹ 493
-        CONS (screener.in):
-          - Company has a low return on equity of 10.2% over last 3 years.
-          - Dividend payout has been low at 4.71% of profits over last 3 years
-          - Promoter holding has decreased over last 3 years: -3.10%
-        https://www.screener.in/company/EIDPARRY/consolidated/
-
-Top 1 SELL candidates (high-volume distribution):
-------------------------------------------------------------
-  • BAYERCROP       (Bayer CropScience Ltd         )  close ₹4272.20  -0.29%  bias SELL
-        → SELL-LEAN (tech=SELL, signal net -1)
-        PROS (signals):
-          - Delivery % rising — recent 71% vs 30d 55% (+16pp accumulation)
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹11.0cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (2% of range)
-          - 34% off 52-week high
-          - Bearish SMA stack (close < 20 < 50 < 200)
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 19,203 Cr. | P/E 390 | ROCE 20.1 % | ROE 15.8 % | DivYield 2.93 % | BookVal ₹ 84.5
-        CONS (screener.in):
-          - Stock is trading at 50.6 times its book value
-          - Company might be capitalizing the interest cost
-          - Earnings include an other income of Rs.83.7 Cr.
-        https://www.screener.in/company/BAYERCROP/consolidated/
+          - Stock is trading at 4.73 times its book value
+          - Though the company is reporting repeated profits, it is not paying out dividend
+          - Company has a low return on equity of 5.65% over last 3 years.
+          - Working capital days have increased from 138 days to 438 days
+        https://www.screener.in/company/CARTRADE/consolidated/
 
 
 — BUY/SELL recommendations are based on the Pure_on_Volume screen (HVQ/HVY/HVE volume breakouts + liquidity gate).
