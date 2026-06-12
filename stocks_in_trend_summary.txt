@@ -3,132 +3,98 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-06-11 23:55 IST
+NSE bhavcopy analysis — generated 2026-06-12 20:21 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 4
-Recommendations: 4 BUY  +  0 SELL
+Pure_on_Volume hits (BUY): 3
+Recommendations: 3 BUY  +  0 SELL
 
-Top 4 BUY candidates:
+Top 3 BUY candidates:
 ------------------------------------------------------------
-  • AEGISLOG        (Aegis Logistics Ltd           )  close ₹925.90  +15.59%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +7)
+  • AIIL            (Authum Investment & Infrastruc)  close ₹530.15  +15.26%  bias STRONG_BUY
+        → HOLD / MIXED (tech=STRONG_BUY, signal net -2)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹888.07
-          - Strict stop-loss:      ₹792.30
-          - Best stop-loss:        ₹746.03
-          - Target-4 (161.8%):     ₹925.91
-          - Target-5 (261.8%):     ₹1142.11
-          - Swing anchor:          low ₹576.10  ↔  high ₹792.30
+          - Entry zone (probable): above ₹511.31
+          - Strict stop-loss:      ₹400.00
+          - Target-1 (50.0%):      ₹1859.35
+          - Target-2 (61.8%):      ₹2203.76
+          - Target-3 (150%):       ₹4778.05
+          - Target-4 (161.8%):     ₹5122.46
+          - Target-5 (261.8%):     ₹8041.16
+          - Swing anchor:          low ₹400.00  ↔  high ₹3318.70
         PROS (signals):
-          - Trading near 52-week high (91% of range)
-          - +42% over the last month
-          - +50% over the last 3 months
-          - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 4.3× the 30d avg
+          - Volume surge — 5d avg is 3.8× the 30d avg
           - Volume highest in 1 year (HVY)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹173.9cr daily turnover)
+          - Healthy liquidity (~₹41.2cr daily turnover)
         CONS (signals):
-          - Delivery % falling — recent 26% vs 30d 40% (-15pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 32,507 Cr. | P/E 36.2 | ROCE 13.6 % | ROE 16.8 % | DivYield 0.78 % | BookVal ₹ 173
-        PROS (screener.in):
-          - Company is expected to give good quarter
-          - Company has delivered good profit growth of 32.1% CAGR over last 5 years
-          - Company has been maintaining a healthy dividend payout of 38.8%
-          - Debtor days have improved from 28.4 to 21.1 days.
-        CONS (screener.in):
-          - Stock is trading at 5.37 times its book value
-          - Company might be capitalizing the interest cost
-        https://www.screener.in/company/AEGISLOG/consolidated/
-
-  • BLUEJET         (Blue Jet Healthcare Ltd       )  close ₹498.45  +6.11%  bias BUY
-        → HOLD / MIXED (tech=BUY, signal net 0)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹493.77
-          - Strict stop-loss:      ₹490.86
-          - Best stop-loss:        ₹325.00
-          - Target-1 (50.0%):      ₹676.40
-          - Target-2 (61.8%):      ₹759.33
-          - Target-3 (150%):       ₹1379.20
-          - Target-4 (161.8%):     ₹1462.13
-          - Target-5 (261.8%):     ₹2164.93
-          - Swing anchor:          low ₹325.00  ↔  high ₹1027.80
-        PROS (signals):
-          - +33% over the last 3 months
-          - Volume highest in 3 months (HVQ)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹36.0cr daily turnover)
-        CONS (signals):
-          - Lower third of 52-week range (25%)
-          - 52% off 52-week high
-          - -45% over the year
+          - Trading near 52-week low (4% of range)
+          - 84% off 52-week high
+          - -79% over the year
           - Trading below the 200-day SMA
-        FUNDAMENTALS (screener.in): MCap ₹ 8,647 Cr. | P/E 61.4 | ROCE 57.3 % | ROE 52.1 % | DivYield 0.24 % | BookVal ₹
+          - High volatility (64% annualised)
+          - Delivery % falling — recent 37% vs 30d 43% (-6pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 45,080 Cr. | P/E 23.3 | ROCE 13.7 % | ROE 13.1 % | DivYield 0.04 % | BookVal ₹ 173
         PROS (screener.in):
-          - Company has reduced debt.
-        https://www.screener.in/company/BLUEJET/consolidated/
+          - Company has a good return on equity (ROE) track record: 3 Years ROE 30.5%
+        CONS (screener.in):
+          - Tax rate seems low
+        https://www.screener.in/company/AIIL/consolidated/
 
-  • APARINDS        (Apar Industries Ltd           )  close ₹14551.00  +3.31%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +7)
+  • GLAXO           (Glaxosmithkline Pharmaceutical)  close ₹2121.50  +0.87%  bias STRONG_BUY
+        → HOLD / MIXED (tech=STRONG_BUY, signal net -1)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹14544.75
-          - Strict stop-loss:      ₹14174.00
-          - Best stop-loss:        ₹12596.18
-          - Target-3 (150%):       ₹17860.50
-          - Target-4 (161.8%):     ₹18730.51
-          - Target-5 (261.8%):     ₹26103.51
-          - Swing anchor:          low ₹6801.00  ↔  high ₹14174.00
+          - Entry zone (probable): above ₹2112.19
+          - Target-1 (50.0%):      ₹2828.85
+          - Target-2 (61.8%):      ₹2990.95
+          - Target-3 (150%):       ₹4202.55
+          - Target-4 (161.8%):     ₹4364.65
+          - Target-5 (261.8%):     ₹5738.35
+          - Swing anchor:          low ₹2142.00  ↔  high ₹3515.70
         PROS (signals):
-          - Trading near 52-week high (95% of range)
-          - +17% over the last month
-          - +57% over the last 3 months
-          - +80% over the year
-          - Bullish SMA stack (close > 20 > 50 > 200)
           - Volume highest in 3 months (HVQ)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹196.6cr daily turnover)
+          - Healthy liquidity (~₹20.2cr daily turnover)
         CONS (signals):
-          - Delivery % falling — recent 31% vs 30d 38% (-6pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 58,500 Cr. | P/E 58.4 | ROCE 31.1 % | ROE 20.2 % | DivYield 0.35 % | BookVal ₹ 1,343
+          - Trading near 52-week low (2% of range)
+          - 39% off 52-week high
+          - -38% over the year
+          - Bearish SMA stack (close < 20 < 50 < 200)
+        FUNDAMENTALS (screener.in): MCap ₹ 35,948 Cr. | P/E 37.4 | ROCE 61.4 % | ROE 45.6 % | DivYield 2.69 % | BookVal ₹ 134
+        PROS (screener.in):
+          - Company is almost debt free.
+          - Company has a good return on equity (ROE) track record: 3 Years ROE 43.5%
+          - Company has been maintaining a healthy dividend payout of 94.6%
         CONS (screener.in):
-          - Stock is trading at 10.8 times its book value
-          - Company's cost of borrowing seems high
-        https://www.screener.in/company/APARINDS/consolidated/
+          - Stock is trading at 15.8 times its book value
+          - The company has delivered a poor sales growth of 5.49% over past five years.
+        https://www.screener.in/company/GLAXO/consolidated/
 
-  • AAVAS           (AAVAS Financiers Ltd          )  close ₹1328.20  +2.20%  bias BUY
+  • TTML            (Tata Teleservices (Maharashtra)  close ₹46.44  +10.18%  bias BUY
         → BUY-LEAN (tech=BUY, signal net +1)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹1328.85
-          - Strict stop-loss:      ₹1060.40
-          - Target-1 (50.0%):      ₹1647.20
-          - Target-2 (61.8%):      ₹1785.68
-          - Target-3 (150%):       ₹2820.80
-          - Target-4 (161.8%):     ₹2959.28
-          - Target-5 (261.8%):     ₹4132.88
-          - Swing anchor:          low ₹1060.40  ↔  high ₹2234.00
+          - Entry zone (probable): above ₹45.34
+          - Strict stop-loss:      ₹31.22
+          - Target-1 (50.0%):      ₹71.31
+          - Target-2 (61.8%):      ₹80.77
+          - Target-3 (150%):       ₹151.49
+          - Target-4 (161.8%):     ₹160.95
+          - Target-5 (261.8%):     ₹241.13
+          - Swing anchor:          low ₹31.22  ↔  high ₹111.40
         PROS (signals):
-          - Volume surge — 5d avg is 2.3× the 30d avg
-          - Delivery % rising — recent 69% vs 30d 63% (+6pp accumulation)
+          - Volume surge — 5d avg is 2.7× the 30d avg
           - Volume highest in 3 months (HVQ)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹18.4cr daily turnover)
+          - Healthy liquidity (~₹32.2cr daily turnover)
         CONS (signals):
-          - Lower third of 52-week range (25%)
-          - 38% off 52-week high
-          - -31% over the year
+          - 43% off 52-week high
+          - -35% over the year
           - Trading below the 200-day SMA
-        FUNDAMENTALS (screener.in): MCap ₹ 10,540 Cr. | P/E 21.5 | ROCE 9.91 % | ROE 13.9 % | DivYield 0.00 % | BookVal ₹ 477
-        PROS (screener.in):
-          - Company has delivered good profit growth of 22.8% CAGR over last 5 years
-          - Company's working capital requirements have reduced from 29.3 days to 21.8 days
+        FUNDAMENTALS (screener.in): MCap ₹ 9,072 Cr. | ROCE -12.7 % | ROE % | DivYield 0.00 % | BookVal ₹ -2.87
         CONS (screener.in):
-          - Stock is trading at 2.79 times its book value
-          - Though the company is reporting repeated profits, it is not paying out dividend
           - Company has low interest coverage ratio.
-          - Company has a low return on equity of 13.9% over last 3 years.
-          - Company might be capitalizing the interest cost
-        https://www.screener.in/company/AAVAS/consolidated/
+          - Earnings include an other income of Rs.1,834 Cr.
+        https://www.screener.in/company/TTML/consolidated/
 
 
 — BUY/SELL recommendations are based on the Pure_on_Volume screen (HVQ/HVY/HVE volume breakouts + liquidity gate).
