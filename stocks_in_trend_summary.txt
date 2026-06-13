@@ -3,7 +3,7 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-06-12 20:21 IST
+NSE bhavcopy analysis — generated 2026-06-13 20:05 IST
 ============================================================
 
 Pure_on_Volume hits (BUY): 3
@@ -34,7 +34,7 @@ Top 3 BUY candidates:
           - Trading below the 200-day SMA
           - High volatility (64% annualised)
           - Delivery % falling — recent 37% vs 30d 43% (-6pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 45,080 Cr. | P/E 23.3 | ROCE 13.7 % | ROE 13.1 % | DivYield 0.04 % | BookVal ₹ 173
+        FUNDAMENTALS (screener.in): MCap ₹ 45,022 Cr. | P/E 23.3 | ROCE 13.7 % | ROE 13.1 % | DivYield 0.04 % | BookVal ₹ 173
         PROS (screener.in):
           - Company has a good return on equity (ROE) track record: 3 Years ROE 30.5%
         CONS (screener.in):
@@ -60,7 +60,7 @@ Top 3 BUY candidates:
           - 39% off 52-week high
           - -38% over the year
           - Bearish SMA stack (close < 20 < 50 < 200)
-        FUNDAMENTALS (screener.in): MCap ₹ 35,948 Cr. | P/E 37.4 | ROCE 61.4 % | ROE 45.6 % | DivYield 2.69 % | BookVal ₹ 134
+        FUNDAMENTALS (screener.in): MCap ₹ 35,939 Cr. | P/E 37.4 | ROCE 61.4 % | ROE 45.6 % | DivYield 2.69 % | BookVal ₹ 134
         PROS (screener.in):
           - Company is almost debt free.
           - Company has a good return on equity (ROE) track record: 3 Years ROE 43.5%
@@ -90,7 +90,7 @@ Top 3 BUY candidates:
           - 43% off 52-week high
           - -35% over the year
           - Trading below the 200-day SMA
-        FUNDAMENTALS (screener.in): MCap ₹ 9,072 Cr. | ROCE -12.7 % | ROE % | DivYield 0.00 % | BookVal ₹ -2.87
+        FUNDAMENTALS (screener.in): MCap ₹ 9,079 Cr. | ROCE -12.7 % | ROE % | DivYield 0.00 % | BookVal ₹ -2.87
         CONS (screener.in):
           - Company has low interest coverage ratio.
           - Earnings include an other income of Rs.1,834 Cr.
