@@ -72,19 +72,9 @@
         "price": 195.66667999999999
       },
       {
-        "name": "T3",
-        "ratio": 1.5,
-        "price": 272.63
-      },
-      {
-        "name": "T4",
-        "ratio": 1.618,
-        "price": 282.92668000000003
-      },
-      {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 370.18667999999997
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 262.01376256
       }
     ],
     "status": "open",
@@ -113,29 +103,44 @@
     "swing_high": 4995.0,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 3185.0
+        "name": "P3",
+        "ratio": 0.03,
+        "price": 1626.2692247999998
       },
       {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 3612.16
+        "name": "P6",
+        "ratio": 0.06,
+        "price": 1673.6362896
       },
       {
-        "name": "T3",
-        "ratio": 1.5,
-        "price": 6805.0
+        "name": "P9",
+        "ratio": 0.09,
+        "price": 1721.0033544
       },
       {
-        "name": "T4",
-        "ratio": 1.618,
-        "price": 7232.160000000001
+        "name": "P12",
+        "ratio": 0.12,
+        "price": 1768.3704192
       },
       {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 10852.16
+        "name": "P21",
+        "ratio": 0.21,
+        "price": 1910.4716135999997
+      },
+      {
+        "name": "P34",
+        "ratio": 0.34,
+        "price": 2115.7288944
+      },
+      {
+        "name": "P55",
+        "ratio": 0.55,
+        "price": 2447.298348
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 2620.9775856
       }
     ],
     "status": "open",
@@ -164,16 +169,6 @@
     "swing_high": 312.75,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 229.25
-      },
-      {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 248.95600000000002
-      },
-      {
         "name": "T3",
         "ratio": 1.5,
         "price": 396.25
@@ -184,9 +179,9 @@
         "price": 415.956
       },
       {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 582.9559999999999
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 507.71100000000007
       }
     ],
     "status": "pending",
@@ -263,16 +258,6 @@
     "swing_high": 136.15,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 112.92500000000001
-      },
-      {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 118.40610000000001
-      },
-      {
         "name": "T3",
         "ratio": 1.5,
         "price": 159.375
@@ -286,6 +271,11 @@
         "name": "T5",
         "ratio": 2.618,
         "price": 211.30610000000001
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 223.56291364000003
       }
     ],
     "status": "open",
@@ -313,16 +303,6 @@
     "swing_high": 3368.0,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 2741.5
-      },
-      {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 2889.3540000000003
-      },
-      {
         "name": "T3",
         "ratio": 1.5,
         "price": 3994.5
@@ -336,6 +316,11 @@
         "name": "T5",
         "ratio": 2.618,
         "price": 5395.353999999999
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 5601.953627600001
       }
     ],
     "status": "open",
@@ -363,16 +348,6 @@
     "swing_high": 2004.0,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 1663.25
-      },
-      {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 1743.667
-      },
-      {
         "name": "T3",
         "ratio": 1.5,
         "price": 2344.75
@@ -383,9 +358,9 @@
         "price": 2425.1670000000004
       },
       {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 3106.667
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 2900.1130928000002
       }
     ],
     "status": "open",
@@ -413,16 +388,6 @@
     "swing_high": 4849.0,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 3686.1
-      },
-      {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 3960.5443999999998
-      },
-      {
         "name": "T3",
         "ratio": 1.5,
         "price": 6011.9
@@ -433,9 +398,9 @@
         "price": 6286.3444
       },
       {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 8612.144400000001
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 7771.948289600001
       }
     ],
     "status": "open",
@@ -483,9 +448,9 @@
         "price": 2348.7799999999997
       },
       {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 3058.7799999999997
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 2394.3815764000005
       }
     ],
     "status": "open",
@@ -513,16 +478,6 @@
     "swing_high": 3679.6,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 3240.05
-      },
-      {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 3343.7838
-      },
-      {
         "name": "T3",
         "ratio": 1.5,
         "price": 4119.15
@@ -536,6 +491,11 @@
         "name": "T5",
         "ratio": 2.618,
         "price": 5101.9838
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 6104.535294
       }
     ],
     "status": "open",
@@ -563,29 +523,44 @@
     "swing_high": 78.15,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 48.935
+        "name": "P3",
+        "ratio": 0.03,
+        "price": 23.5252
       },
       {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 55.82974
+        "name": "P6",
+        "ratio": 0.06,
+        "price": 24.2104
       },
       {
-        "name": "T3",
-        "ratio": 1.5,
-        "price": 107.36500000000001
+        "name": "P9",
+        "ratio": 0.09,
+        "price": 24.8956
       },
       {
-        "name": "T4",
-        "ratio": 1.618,
-        "price": 114.25974000000002
+        "name": "P12",
+        "ratio": 0.12,
+        "price": 25.580800000000004
       },
       {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 172.68974
+        "name": "P21",
+        "ratio": 0.21,
+        "price": 27.6364
+      },
+      {
+        "name": "P34",
+        "ratio": 0.34,
+        "price": 30.605600000000003
+      },
+      {
+        "name": "P55",
+        "ratio": 0.55,
+        "price": 35.402
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 37.9144
       }
     ],
     "status": "pending",
@@ -614,16 +589,6 @@
     "swing_high": 3007.3,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 2754.9
-      },
-      {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 2814.4664000000002
-      },
-      {
         "name": "T3",
         "ratio": 1.5,
         "price": 3259.7000000000003
@@ -637,6 +602,11 @@
         "name": "T5",
         "ratio": 2.618,
         "price": 3824.0664000000006
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 5221.947324
       }
     ],
     "status": "open",
@@ -711,7 +681,48 @@
     "strict_stoploss": null,
     "swing_low": null,
     "swing_high": 137.83,
-    "targets": [],
+    "targets": [
+      {
+        "name": "P3",
+        "ratio": 0.03,
+        "price": 132.6377041
+      },
+      {
+        "name": "P6",
+        "ratio": 0.06,
+        "price": 136.5009382
+      },
+      {
+        "name": "P9",
+        "ratio": 0.09,
+        "price": 140.3641723
+      },
+      {
+        "name": "P12",
+        "ratio": 0.12,
+        "price": 144.22740640000004
+      },
+      {
+        "name": "P21",
+        "ratio": 0.21,
+        "price": 155.8171087
+      },
+      {
+        "name": "P34",
+        "ratio": 0.34,
+        "price": 172.55778980000002
+      },
+      {
+        "name": "P55",
+        "ratio": 0.55,
+        "price": 199.60042850000002
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 213.76562020000003
+      }
+    ],
     "status": "open",
     "fill_date": "2026-05-22",
     "fill_price": 128.77447,
@@ -797,19 +808,9 @@
         "price": 632.6370999999999
       },
       {
-        "name": "T3",
-        "ratio": 1.5,
-        "price": 1074.475
-      },
-      {
-        "name": "T4",
-        "ratio": 1.618,
-        "price": 1133.5871
-      },
-      {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 1634.5370999999998
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 682.7152882
       }
     ],
     "status": "open",
@@ -956,9 +957,9 @@
         "price": 1198.7258000000002
       },
       {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 1471.8258
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 1456.5670000000002
       }
     ],
     "status": "pending",
@@ -986,16 +987,6 @@
     "swing_high": 38850.0,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 34327.5
-      },
-      {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 35394.81
-      },
-      {
         "name": "T3",
         "ratio": 1.5,
         "price": 43372.5
@@ -1009,6 +1000,11 @@
         "name": "T5",
         "ratio": 2.618,
         "price": 53484.81
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 65031.80310000001
       }
     ],
     "status": "open",
@@ -1036,29 +1032,44 @@
     "swing_high": 9128.9,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 5021.85
+        "name": "P3",
+        "ratio": 0.03,
+        "price": 996.2824762000001
       },
       {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 5991.1138
+        "name": "P6",
+        "ratio": 0.06,
+        "price": 1025.3004124000001
       },
       {
-        "name": "T3",
-        "ratio": 1.5,
-        "price": 13235.95
+        "name": "P9",
+        "ratio": 0.09,
+        "price": 1054.3183486000003
       },
       {
-        "name": "T4",
-        "ratio": 1.618,
-        "price": 14205.213800000001
+        "name": "P12",
+        "ratio": 0.12,
+        "price": 1083.3362848000002
       },
       {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 22419.3138
+        "name": "P21",
+        "ratio": 0.21,
+        "price": 1170.3900934
+      },
+      {
+        "name": "P34",
+        "ratio": 0.34,
+        "price": 1296.1344836000003
+      },
+      {
+        "name": "P55",
+        "ratio": 0.55,
+        "price": 1499.2600370000002
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 1605.6591364000003
       }
     ],
     "status": "open",
@@ -1136,16 +1147,6 @@
     "swing_high": 285.6,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 220.25
-      },
-      {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 235.67260000000002
-      },
-      {
         "name": "T3",
         "ratio": 1.5,
         "price": 350.95000000000005
@@ -1156,9 +1157,9 @@
         "price": 366.37260000000003
       },
       {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 497.0726000000001
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 460.235
       }
     ],
     "status": "pending",
@@ -1235,16 +1236,6 @@
     "swing_high": 619.95,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 544.225
-      },
-      {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 562.0961
-      },
-      {
         "name": "T3",
         "ratio": 1.5,
         "price": 695.6750000000001
@@ -1258,6 +1249,11 @@
         "name": "T5",
         "ratio": 2.618,
         "price": 864.9961000000001
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 947.3446862000001
       }
     ],
     "status": "open",
@@ -1432,16 +1428,6 @@
     "swing_high": 4555.1,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 3720.775
-      },
-      {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 3917.6757000000002
-      },
-      {
         "name": "T3",
         "ratio": 1.5,
         "price": 5389.425000000001
@@ -1455,6 +1441,11 @@
         "name": "T5",
         "ratio": 2.618,
         "price": 7254.975700000001
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 7590.516000000001
       }
     ],
     "status": "pending",
@@ -1482,16 +1473,6 @@
     "swing_high": 36750.0,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 26430.5
-      },
-      {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 28865.902000000002
-      },
-      {
         "name": "T3",
         "ratio": 1.5,
         "price": 47069.5
@@ -1502,9 +1483,9 @@
         "price": 49504.902
       },
       {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 70143.902
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 59426.33004
       }
     ],
     "status": "open",
@@ -1581,16 +1562,6 @@
     "swing_high": 491.25,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 420.25
-      },
-      {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 437.006
-      },
-      {
         "name": "T3",
         "ratio": 1.5,
         "price": 562.25
@@ -1604,6 +1575,11 @@
         "name": "T5",
         "ratio": 2.618,
         "price": 721.006
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 756.5435724000001
       }
     ],
     "status": "open",
@@ -1680,16 +1656,6 @@
     "swing_high": 4206.1,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 3603.6000000000004
-      },
-      {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 3745.79
-      },
-      {
         "name": "T3",
         "ratio": 1.5,
         "price": 4808.6
@@ -1703,6 +1669,11 @@
         "name": "T5",
         "ratio": 2.618,
         "price": 6155.790000000001
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 7269.4170208000005
       }
     ],
     "status": "open",
@@ -1740,19 +1711,9 @@
         "price": 514.7955999999999
       },
       {
-        "name": "T3",
-        "ratio": 1.5,
-        "price": 739.0
-      },
-      {
-        "name": "T4",
-        "ratio": 1.618,
-        "price": 768.9956
-      },
-      {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 1023.1956
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 686.0780000000001
       }
     ],
     "status": "pending",
@@ -1828,7 +1789,48 @@
     "strict_stoploss": null,
     "swing_low": 143.34,
     "swing_high": null,
-    "targets": [],
+    "targets": [
+      {
+        "name": "P3",
+        "ratio": 0.03,
+        "price": 147.64925164000002
+      },
+      {
+        "name": "P6",
+        "ratio": 0.06,
+        "price": 151.94971528000002
+      },
+      {
+        "name": "P9",
+        "ratio": 0.09,
+        "price": 156.25017892000002
+      },
+      {
+        "name": "P12",
+        "ratio": 0.12,
+        "price": 160.55064256000003
+      },
+      {
+        "name": "P21",
+        "ratio": 0.21,
+        "price": 173.45203348
+      },
+      {
+        "name": "P34",
+        "ratio": 0.34,
+        "price": 192.08737592000003
+      },
+      {
+        "name": "P55",
+        "ratio": 0.55,
+        "price": 222.19062140000003
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 237.95898808000004
+      }
+    ],
     "status": "open",
     "fill_date": "2026-05-29",
     "fill_price": 143.348788,
@@ -1855,16 +1857,6 @@
     "swing_high": 431.0,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 359.0
-      },
-      {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 375.992
-      },
-      {
         "name": "T3",
         "ratio": 1.5,
         "price": 503.0
@@ -1875,9 +1867,9 @@
         "price": 519.992
       },
       {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 663.992
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 642.464405
       }
     ],
     "status": "open",
@@ -1905,16 +1897,6 @@
     "swing_high": 773.2,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 597.6
-      },
-      {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 639.0416
-      },
-      {
         "name": "T3",
         "ratio": 1.5,
         "price": 948.8000000000001
@@ -1925,9 +1907,9 @@
         "price": 990.2416000000001
       },
       {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 1341.4416
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 1309.8042254000002
       }
     ],
     "status": "open",
@@ -1955,16 +1937,6 @@
     "swing_high": 5470.5,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 4025.25
-      },
-      {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 4366.329
-      },
-      {
         "name": "T3",
         "ratio": 1.5,
         "price": 6915.75
@@ -1975,9 +1947,9 @@
         "price": 7256.829000000001
       },
       {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 10147.329
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 9719.303154000001
       }
     ],
     "status": "open",
@@ -2020,14 +1992,9 @@
         "price": 13647.0
       },
       {
-        "name": "T4",
-        "ratio": 1.618,
-        "price": 14153.692
-      },
-      {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 18447.692
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 13775.260004000003
       }
     ],
     "status": "open",
@@ -2056,16 +2023,6 @@
     "swing_high": 302.0,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 237.32999999999998
-      },
-      {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 252.59212
-      },
-      {
         "name": "T3",
         "ratio": 1.5,
         "price": 366.66999999999996
@@ -2076,9 +2033,9 @@
         "price": 381.93212000000005
       },
       {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 511.27212
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 485.94205880000004
       }
     ],
     "status": "open",
@@ -2126,9 +2083,9 @@
         "price": 326.6188000000001
       },
       {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 413.21880000000004
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 339.055
       }
     ],
     "status": "pending",
@@ -2166,19 +2123,9 @@
         "price": 1483.902
       },
       {
-        "name": "T3",
-        "ratio": 1.5,
-        "price": 2047.5
-      },
-      {
-        "name": "T4",
-        "ratio": 1.618,
-        "price": 2122.902
-      },
-      {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 2761.902
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 1990.0668303999998
       }
     ],
     "status": "open",
@@ -2217,19 +2164,9 @@
         "price": 648.5531
       },
       {
-        "name": "T3",
-        "ratio": 1.5,
-        "price": 990.7249999999999
-      },
-      {
-        "name": "T4",
-        "ratio": 1.618,
-        "price": 1036.5031000000001
-      },
-      {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 1424.4531
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 723.5919416000002
       }
     ],
     "status": "open",
@@ -2317,19 +2254,9 @@
         "price": 2419.376
       },
       {
-        "name": "T3",
-        "ratio": 1.5,
-        "price": 3506.0
-      },
-      {
-        "name": "T4",
-        "ratio": 1.618,
-        "price": 3651.376
-      },
-      {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 4883.376
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 3281.1609468
       }
     ],
     "status": "open",
@@ -2357,11 +2284,6 @@
     "swing_high": 5933.5,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 5504.25
-      },
-      {
         "name": "T2",
         "ratio": 0.618,
         "price": 5605.553
@@ -2380,6 +2302,11 @@
         "name": "T5",
         "ratio": 2.618,
         "price": 7322.553
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 9126.68
       }
     ],
     "status": "pending",
@@ -2417,19 +2344,9 @@
         "price": 510.47260000000006
       },
       {
-        "name": "T3",
-        "ratio": 1.5,
-        "price": 758.0500000000001
-      },
-      {
-        "name": "T4",
-        "ratio": 1.618,
-        "price": 791.1726000000001
-      },
-      {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 1071.8726000000001
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 603.0030842
       }
     ],
     "status": "open",
@@ -2458,11 +2375,6 @@
     "swing_high": 481.5,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 436.15
-      },
-      {
         "name": "T2",
         "ratio": 0.618,
         "price": 446.8526
@@ -2481,6 +2393,11 @@
         "name": "T5",
         "ratio": 2.618,
         "price": 628.2526
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 733.8030000000001
       }
     ],
     "status": "pending",
@@ -2508,16 +2425,6 @@
     "swing_high": 4492.0,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 2871.7749999999996
-      },
-      {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 3254.1481
-      },
-      {
         "name": "T3",
         "ratio": 1.5,
         "price": 6112.224999999999
@@ -2528,9 +2435,9 @@
         "price": 6494.5981
       },
       {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 9735.048099999998
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 7459.835952800001
       }
     ],
     "status": "open",
@@ -2568,19 +2475,9 @@
         "price": 927.562
       },
       {
-        "name": "T3",
-        "ratio": 1.5,
-        "price": 1376.5
-      },
-      {
-        "name": "T4",
-        "ratio": 1.618,
-        "price": 1436.562
-      },
-      {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 1945.562
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 1365.516
       }
     ],
     "status": "pending",
@@ -2623,14 +2520,9 @@
         "price": 578.125
       },
       {
-        "name": "T4",
-        "ratio": 1.618,
-        "price": 601.8725
-      },
-      {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 803.1225
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 578.759
       }
     ],
     "status": "pending",
@@ -2658,16 +2550,6 @@
     "swing_high": 825.65,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 702.4
-      },
-      {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 731.487
-      },
-      {
         "name": "T3",
         "ratio": 1.5,
         "price": 948.9
@@ -2681,6 +2563,11 @@
         "name": "T5",
         "ratio": 2.618,
         "price": 1224.487
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 1281.4093776000002
       }
     ],
     "status": "open",
@@ -2757,11 +2644,6 @@
     "swing_high": 2005.0,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 1698.1
-      },
-      {
         "name": "T2",
         "ratio": 0.618,
         "price": 1770.5284000000001
@@ -2777,9 +2659,9 @@
         "price": 2384.3284
       },
       {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 2998.1283999999996
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 2833.786
       }
     ],
     "status": "pending",
@@ -2807,16 +2689,6 @@
     "swing_high": 46.62,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 39.815
-      },
-      {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 41.42098
-      },
-      {
         "name": "T3",
         "ratio": 1.5,
         "price": 53.425
@@ -2830,6 +2702,11 @@
         "name": "T5",
         "ratio": 2.618,
         "price": 68.64097999999998
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 84.46637760000002
       }
     ],
     "status": "open",
@@ -2857,16 +2734,6 @@
     "swing_high": 19387.0,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 16943.0
-      },
-      {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 17519.784
-      },
-      {
         "name": "T3",
         "ratio": 1.5,
         "price": 21831.0
@@ -2880,6 +2747,11 @@
         "name": "T5",
         "ratio": 2.618,
         "price": 27295.784
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 30656.440100000003
       }
     ],
     "status": "open",
@@ -2907,16 +2779,6 @@
     "swing_high": 94.25,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 76.89
-      },
-      {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 80.98696
-      },
-      {
         "name": "T3",
         "ratio": 1.5,
         "price": 111.61
@@ -2930,6 +2792,11 @@
         "name": "T5",
         "ratio": 2.618,
         "price": 150.42696
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 152.7215272
       }
     ],
     "status": "open",
@@ -3004,7 +2871,48 @@
     "strict_stoploss": null,
     "swing_low": null,
     "swing_high": 2575.0,
-    "targets": [],
+    "targets": [
+      {
+        "name": "P3",
+        "ratio": 0.03,
+        "price": 3260.4655974000007
+      },
+      {
+        "name": "P6",
+        "ratio": 0.06,
+        "price": 3355.4306148000005
+      },
+      {
+        "name": "P9",
+        "ratio": 0.09,
+        "price": 3450.395632200001
+      },
+      {
+        "name": "P12",
+        "ratio": 0.12,
+        "price": 3545.3606496000007
+      },
+      {
+        "name": "P21",
+        "ratio": 0.21,
+        "price": 3830.2557018
+      },
+      {
+        "name": "P34",
+        "ratio": 0.34,
+        "price": 4241.7707772
+      },
+      {
+        "name": "P55",
+        "ratio": 0.55,
+        "price": 4906.525899000001
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 5254.730962800001
+      }
+    ],
     "status": "open",
     "fill_date": "2026-06-02",
     "fill_price": 3165.5005800000004,
@@ -3041,19 +2949,9 @@
         "price": 767.976
       },
       {
-        "name": "T3",
-        "ratio": 1.5,
-        "price": 1193.1
-      },
-      {
-        "name": "T4",
-        "ratio": 1.618,
-        "price": 1249.976
-      },
-      {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 1731.976
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 863.1170000000002
       }
     ],
     "status": "pending",
@@ -3082,29 +2980,44 @@
     "swing_high": 1798.9,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 1099.9750000000001
+        "name": "P3",
+        "ratio": 0.03,
+        "price": 507.7752504
       },
       {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 1264.9213
+        "name": "P6",
+        "ratio": 0.06,
+        "price": 522.5648208
       },
       {
-        "name": "T3",
-        "ratio": 1.5,
-        "price": 2497.8250000000003
+        "name": "P9",
+        "ratio": 0.09,
+        "price": 537.3543912
       },
       {
-        "name": "T4",
-        "ratio": 1.618,
-        "price": 2662.7713000000003
+        "name": "P12",
+        "ratio": 0.12,
+        "price": 552.1439616
       },
       {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 4060.6213000000002
+        "name": "P21",
+        "ratio": 0.21,
+        "price": 596.5126728
+      },
+      {
+        "name": "P34",
+        "ratio": 0.34,
+        "price": 660.6008112000001
+      },
+      {
+        "name": "P55",
+        "ratio": 0.55,
+        "price": 764.127804
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 818.3562288
       }
     ],
     "status": "open",
@@ -3143,19 +3056,9 @@
         "price": 166.2604
       },
       {
-        "name": "T3",
-        "ratio": 1.5,
-        "price": 243.70000000000002
-      },
-      {
-        "name": "T4",
-        "ratio": 1.618,
-        "price": 254.06040000000002
-      },
-      {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 341.8604
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 207.50371840000005
       }
     ],
     "status": "open",
@@ -3199,14 +3102,9 @@
         "price": 557.8
       },
       {
-        "name": "T4",
-        "ratio": 1.618,
-        "price": 577.5768
-      },
-      {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 745.1768
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 572.368
       }
     ],
     "status": "pending",
@@ -3239,24 +3137,9 @@
         "price": 1825.5
       },
       {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 2023.386
-      },
-      {
-        "name": "T3",
-        "ratio": 1.5,
-        "price": 3502.5
-      },
-      {
-        "name": "T4",
-        "ratio": 1.618,
-        "price": 3700.386
-      },
-      {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 5377.3859999999995
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 1876.6470316000002
       }
     ],
     "status": "open",
@@ -3285,16 +3168,6 @@
     "swing_high": 1825.0,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 1524.0
-      },
-      {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 1595.036
-      },
-      {
         "name": "T3",
         "ratio": 1.5,
         "price": 2126.0
@@ -3308,6 +3181,11 @@
         "name": "T5",
         "ratio": 2.618,
         "price": 2799.036
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 3019.992184
       }
     ],
     "status": "open",
@@ -3333,7 +3211,48 @@
     "strict_stoploss": null,
     "swing_low": null,
     "swing_high": null,
-    "targets": [],
+    "targets": [
+      {
+        "name": "P3",
+        "ratio": 0.03,
+        "price": 104.29020272
+      },
+      {
+        "name": "P6",
+        "ratio": 0.06,
+        "price": 107.32778144
+      },
+      {
+        "name": "P9",
+        "ratio": 0.09,
+        "price": 110.36536016000001
+      },
+      {
+        "name": "P12",
+        "ratio": 0.12,
+        "price": 113.40293888000001
+      },
+      {
+        "name": "P21",
+        "ratio": 0.21,
+        "price": 122.51567503999999
+      },
+      {
+        "name": "P34",
+        "ratio": 0.34,
+        "price": 135.67851616000002
+      },
+      {
+        "name": "P55",
+        "ratio": 0.55,
+        "price": 156.9415672
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 168.07935584
+      }
+    ],
     "status": "open",
     "fill_date": "2026-06-05",
     "fill_price": 101.252624,
@@ -3380,9 +3299,9 @@
         "price": 1827.0426000000002
       },
       {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 2222.7426
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 2129.206204400001
       }
     ],
     "status": "open",
@@ -3411,16 +3330,6 @@
     "swing_high": 99.8,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 83.9
-      },
-      {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 87.6524
-      },
-      {
         "name": "T3",
         "ratio": 1.5,
         "price": 115.69999999999999
@@ -3434,6 +3343,11 @@
         "name": "T5",
         "ratio": 2.618,
         "price": 151.2524
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 185.27669688000003
       }
     ],
     "status": "open",
@@ -3481,9 +3395,9 @@
         "price": 434.48619999999994
       },
       {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 520.3861999999999
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 508.9560000000001
       }
     ],
     "status": "pending",
@@ -3521,19 +3435,9 @@
         "price": 262.13800000000003
       },
       {
-        "name": "T3",
-        "ratio": 1.5,
-        "price": 386.5
-      },
-      {
-        "name": "T4",
-        "ratio": 1.618,
-        "price": 403.13800000000003
-      },
-      {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 544.1379999999999
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 349.4134
       }
     ],
     "status": "pending",
@@ -3561,16 +3465,6 @@
     "swing_high": 1217.5,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 871.25
-      },
-      {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 952.9649999999999
-      },
-      {
         "name": "T3",
         "ratio": 1.5,
         "price": 1563.75
@@ -3581,9 +3475,9 @@
         "price": 1645.4650000000001
       },
       {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 2337.965
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 1929.3629212000003
       }
     ],
     "status": "open",
@@ -3611,16 +3505,6 @@
     "swing_high": 992.7,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 879.75
-      },
-      {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 906.4062
-      },
-      {
         "name": "T3",
         "ratio": 1.5,
         "price": 1105.65
@@ -3634,6 +3518,11 @@
         "name": "T5",
         "ratio": 2.618,
         "price": 1358.2062
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 1649.4168526
       }
     ],
     "status": "open",
@@ -3681,9 +3570,9 @@
         "price": 6979.5134
       },
       {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 8575.8134
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 7714.117043600001
       }
     ],
     "status": "open",
@@ -3710,7 +3599,48 @@
     "strict_stoploss": null,
     "swing_low": null,
     "swing_high": 228.8,
-    "targets": [],
+    "targets": [
+      {
+        "name": "P3",
+        "ratio": 0.03,
+        "price": 239.37901636
+      },
+      {
+        "name": "P6",
+        "ratio": 0.06,
+        "price": 246.35122072000001
+      },
+      {
+        "name": "P9",
+        "ratio": 0.09,
+        "price": 253.32342508000002
+      },
+      {
+        "name": "P12",
+        "ratio": 0.12,
+        "price": 260.29562944
+      },
+      {
+        "name": "P21",
+        "ratio": 0.21,
+        "price": 281.21224252
+      },
+      {
+        "name": "P34",
+        "ratio": 0.34,
+        "price": 311.42512808000004
+      },
+      {
+        "name": "P55",
+        "ratio": 0.55,
+        "price": 360.2305586
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 385.79530792
+      }
+    ],
     "status": "open",
     "fill_date": "2026-06-10",
     "fill_price": 232.406812,
@@ -3757,9 +3687,9 @@
         "price": 377.721
       },
       {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 462.221
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 450.2017608000001
       }
     ],
     "status": "open",
@@ -3797,19 +3727,9 @@
         "price": 1051.6743999999999
       },
       {
-        "name": "T3",
-        "ratio": 1.5,
-        "price": 1502.1999999999998
-      },
-      {
-        "name": "T4",
-        "ratio": 1.618,
-        "price": 1562.4744
-      },
-      {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 2073.2744
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 1229.3150584000002
       }
     ],
     "status": "open",
@@ -3848,19 +3768,9 @@
         "price": 2644.7290000000003
       },
       {
-        "name": "T3",
-        "ratio": 1.5,
-        "price": 4135.75
-      },
-      {
-        "name": "T4",
-        "ratio": 1.618,
-        "price": 4335.229
-      },
-      {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 6025.728999999999
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 3938.664835600001
       }
     ],
     "status": "open",
@@ -3888,16 +3798,6 @@
     "swing_high": 792.3,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 684.2
-      },
-      {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 709.7116
-      },
-      {
         "name": "T3",
         "ratio": 1.5,
         "price": 900.3999999999999
@@ -3911,6 +3811,11 @@
         "name": "T5",
         "ratio": 2.618,
         "price": 1142.1115999999997
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 1491.8823546000003
       }
     ],
     "status": "open",
@@ -3948,19 +3853,9 @@
         "price": 759.3303999999999
       },
       {
-        "name": "T3",
-        "ratio": 1.5,
-        "price": 1379.1999999999998
-      },
-      {
-        "name": "T4",
-        "ratio": 1.618,
-        "price": 1462.1304
-      },
-      {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 2164.9303999999997
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 829.4982982000001
       }
     ],
     "status": "open",
@@ -3998,19 +3893,9 @@
         "price": 1785.6848
       },
       {
-        "name": "T3",
-        "ratio": 1.5,
-        "price": 2820.8
-      },
-      {
-        "name": "T4",
-        "ratio": 1.618,
-        "price": 2959.2848000000004
-      },
-      {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 4132.8848
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 2232.3616920000004
       }
     ],
     "status": "open",
@@ -4039,16 +3924,6 @@
     "swing_high": 14174.0,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 10487.5
-      },
-      {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 11357.514
-      },
-      {
         "name": "T3",
         "ratio": 1.5,
         "price": 17860.5
@@ -4059,9 +3934,9 @@
         "price": 18730.514000000003
       },
       {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 26103.514
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 24434.016420000004
       }
     ],
     "status": "open",
@@ -4089,29 +3964,44 @@
     "swing_high": 3318.7,
     "targets": [
       {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 1859.35
+        "name": "P3",
+        "ratio": 0.03,
+        "price": 546.0545
       },
       {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 2203.7565999999997
+        "name": "P6",
+        "ratio": 0.06,
+        "price": 561.9590000000001
       },
       {
-        "name": "T3",
-        "ratio": 1.5,
-        "price": 4778.049999999999
+        "name": "P9",
+        "ratio": 0.09,
+        "price": 577.8635
       },
       {
-        "name": "T4",
-        "ratio": 1.618,
-        "price": 5122.4566
+        "name": "P12",
+        "ratio": 0.12,
+        "price": 593.768
       },
       {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 8041.156599999999
+        "name": "P21",
+        "ratio": 0.21,
+        "price": 641.4815
+      },
+      {
+        "name": "P34",
+        "ratio": 0.34,
+        "price": 710.4010000000001
+      },
+      {
+        "name": "P55",
+        "ratio": 0.55,
+        "price": 821.7325
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 880.0490000000001
       }
     ],
     "status": "pending",
@@ -4145,24 +4035,9 @@
         "price": 71.31
       },
       {
-        "name": "T2",
-        "ratio": 0.618,
-        "price": 80.77124
-      },
-      {
-        "name": "T3",
-        "ratio": 1.5,
-        "price": 151.49
-      },
-      {
-        "name": "T4",
-        "ratio": 1.618,
-        "price": 160.95124
-      },
-      {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 241.13124000000002
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 77.0904
       }
     ],
     "status": "pending",
@@ -4201,19 +4076,9 @@
         "price": 2990.9465999999998
       },
       {
-        "name": "T3",
-        "ratio": 1.5,
-        "price": 4202.549999999999
-      },
-      {
-        "name": "T4",
-        "ratio": 1.618,
-        "price": 4364.6466
-      },
-      {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 5738.346599999999
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 3521.6900000000005
       }
     ],
     "status": "pending",
