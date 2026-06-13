@@ -541,10 +541,16 @@ def _positions_to_frame(positions: list[dict], status: str) -> pd.DataFrame:
         if p.get("status") != status:
             continue
         targets = p.get("targets") or []
+        already_hit = set(p.get("hit_targets") or [])
+        # Annotate hit targets with a check; unhit stay plain.
         target_prices = " · ".join(
-            f"{t.get('name')}:₹{t.get('price'):,.2f}"
+            (
+                f"{t.get('name')}:₹{t.get('price'):,.2f}"
+                + (" ✓" if t.get("name") in already_hit else "")
+            )
             for t in targets if t.get("price") is not None
         )
+        hit_str = ", ".join(sorted(already_hit)) if already_hit else ""
         rows.append({
             "Symbol":     p.get("symbol"),
             "Name":       p.get("name"),
@@ -554,7 +560,9 @@ def _positions_to_frame(positions: list[dict], status: str) -> pd.DataFrame:
             "Fill date":  p.get("fill_date"),
             "Fill px":    p.get("fill_price"),
             "Stop loss":  p.get("stoploss"),
+            "SL src":     p.get("stoploss_source") or "",
             "Targets":    target_prices,
+            "Hit":        hit_str,
             "Exit date":  p.get("exit_date"),
             "Exit px":    p.get("exit_price"),
             "Exit why":   p.get("exit_reason"),
@@ -728,8 +736,13 @@ with pos_tab:
         st.caption(
             f"**{n_open}** open · **{n_pending}** pending fill · "
             f"**{n_closed}** closed. A signal becomes *open* the day "
-            "price trades ≥ 1.2 % above the suggested entry, and *closes* "
-            "when daily H/L straddles the stop loss or any target."
+            "price trades ≥ 1.2 % above the suggested entry. Once open, "
+            "each target the price reaches **trails the stop loss up** "
+            "to that target (T1 → T2 → T3 → …) so winners can run with "
+            "locked-in gains. The position closes when the trailed stop "
+            "is hit, or hits a hard ceiling at **+66 % of fill price**. "
+            "Missing stop losses are backfilled on the **weekly** "
+            "timeframe at the 0.786 swing-fib retracement."
         )
 
         # ── Open positions ──────────────────────────────────────────────
@@ -740,8 +753,8 @@ with pos_tab:
         else:
             open_cols = [
                 "Symbol", "Name", "Suggested", "Entry",
-                "Fill date", "Fill px", "Stop loss",
-                "Targets", "Days",
+                "Fill date", "Fill px", "Stop loss", "SL src",
+                "Targets", "Hit", "Days",
             ]
             view = open_df[[c for c in open_cols if c in open_df.columns]]
             st.dataframe(
