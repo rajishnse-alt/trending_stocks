@@ -3,98 +3,193 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-06-13 22:10 IST
+NSE bhavcopy analysis — generated 2026-06-15 19:54 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 3
-Recommendations: 3 BUY  +  0 SELL
+Pure_on_Volume hits (BUY): 6
+Recommendations: 6 BUY  +  1 SELL
 
-Top 3 BUY candidates:
+Top 6 BUY candidates:
 ------------------------------------------------------------
-  • AIIL            (Authum Investment & Infrastruc)  close ₹530.15  +15.26%  bias STRONG_BUY
-        → HOLD / MIXED (tech=STRONG_BUY, signal net -2)
+  • AARTIIND        (Aarti Industries Ltd          )  close ₹498.15  +13.06%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +7)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹511.31
-          - Strict stop-loss:      ₹400.00
-          - Target-1 (50.0%):      ₹1859.35
-          - Target-2 (61.8%):      ₹2203.76
-          - Target-3 (150%):       ₹4778.05
-          - Target-4 (161.8%):     ₹5122.46
-          - Target-5 (261.8%):     ₹8041.16
-          - Swing anchor:          low ₹400.00  ↔  high ₹3318.70
+          - Entry zone (probable): above ₹479.30
+          - Strict stop-loss:      ₹472.40
+          - Best stop-loss:        ₹452.41
+          - Target-3 (150%):       ₹615.62
+          - Target-4 (161.8%):     ₹637.46
+          - Target-5 (261.8%):     ₹822.51
+          - Swing anchor:          low ₹338.05  ↔  high ₹523.10
         PROS (signals):
-          - Volume surge — 5d avg is 3.8× the 30d avg
-          - Volume highest in 1 year (HVY)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹41.2cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (4% of range)
-          - 84% off 52-week high
-          - -79% over the year
-          - Trading below the 200-day SMA
-          - High volatility (64% annualised)
-          - Delivery % falling — recent 37% vs 30d 43% (-6pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 45,022 Cr. | P/E 23.3 | ROCE 13.7 % | ROE 13.1 % | DivYield 0.04 % | BookVal ₹ 173
-        PROS (screener.in):
-          - Company has a good return on equity (ROE) track record: 3 Years ROE 30.5%
-        CONS (screener.in):
-          - Tax rate seems low
-        https://www.screener.in/company/AIIL/consolidated/
-
-  • GLAXO           (Glaxosmithkline Pharmaceutical)  close ₹2121.50  +0.87%  bias STRONG_BUY
-        → HOLD / MIXED (tech=STRONG_BUY, signal net -1)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹2112.19
-          - Target-1 (50.0%):      ₹2828.85
-          - Target-2 (61.8%):      ₹2990.95
-          - Target-3 (150%):       ₹4202.55
-          - Target-4 (161.8%):     ₹4364.65
-          - Target-5 (261.8%):     ₹5738.35
-          - Swing anchor:          low ₹2142.00  ↔  high ₹3515.70
-        PROS (signals):
-          - Volume highest in 3 months (HVQ)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹20.2cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (2% of range)
-          - 39% off 52-week high
-          - -38% over the year
-          - Bearish SMA stack (close < 20 < 50 < 200)
-        FUNDAMENTALS (screener.in): MCap ₹ 35,939 Cr. | P/E 37.4 | ROCE 61.4 % | ROE 45.6 % | DivYield 2.69 % | BookVal ₹ 134
-        PROS (screener.in):
-          - Company is almost debt free.
-          - Company has a good return on equity (ROE) track record: 3 Years ROE 43.5%
-          - Company has been maintaining a healthy dividend payout of 94.6%
-        CONS (screener.in):
-          - Stock is trading at 15.8 times its book value
-          - The company has delivered a poor sales growth of 5.49% over past five years.
-        https://www.screener.in/company/GLAXO/consolidated/
-
-  • TTML            (Tata Teleservices (Maharashtra)  close ₹46.44  +10.18%  bias BUY
-        → BUY-LEAN (tech=BUY, signal net +1)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹45.34
-          - Strict stop-loss:      ₹31.22
-          - Target-1 (50.0%):      ₹71.31
-          - Target-2 (61.8%):      ₹80.77
-          - Target-3 (150%):       ₹151.49
-          - Target-4 (161.8%):     ₹160.95
-          - Target-5 (261.8%):     ₹241.13
-          - Swing anchor:          low ₹31.22  ↔  high ₹111.40
-        PROS (signals):
+          - Trading near 52-week high (87% of range)
+          - Bullish SMA stack (close > 20 > 50 > 200)
           - Volume surge — 5d avg is 2.7× the 30d avg
           - Volume highest in 3 months (HVQ)
+          - Closed near the day's high (CLV +0.76) — buyers absorbed the volume
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹32.2cr daily turnover)
-        CONS (signals):
-          - 43% off 52-week high
-          - -35% over the year
-          - Trading below the 200-day SMA
-        FUNDAMENTALS (screener.in): MCap ₹ 9,079 Cr. | ROCE -12.7 % | ROE % | DivYield 0.00 % | BookVal ₹ -2.87
+          - Healthy liquidity (~₹72.5cr daily turnover)
+        FUNDAMENTALS (screener.in): MCap ₹ 18,069 Cr. | P/E 43.9 | ROCE 6.85 % | ROE 7.13 % | DivYield 0.20 % | BookVal ₹ 164
         CONS (screener.in):
-          - Company has low interest coverage ratio.
-          - Earnings include an other income of Rs.1,834 Cr.
-        https://www.screener.in/company/TTML/consolidated/
+          - Stock is trading at 3.03 times its book value
+          - Tax rate seems low
+          - Company has a low return on equity of 7.11% over last 3 years.
+          - Company might be capitalizing the interest cost
+          - Dividend payout has been low at 9.43% of profits over last 3 years
+          - Debtor days have increased from 50.1 to 61.8 days.
+        https://www.screener.in/company/AARTIIND/consolidated/
+
+  • THELEELA        (Leela Palaces Hotels & Resorts)  close ₹458.20  +6.61%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +6)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹454.86
+        PROS (signals):
+          - Upper third of 52-week range (82%)
+          - Trading above the 200-day SMA
+          - Delivery % rising — recent 68% vs 30d 61% (+6pp accumulation)
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹14.8cr daily turnover)
+        FUNDAMENTALS (screener.in): MCap ₹ 15,302 Cr. | P/E 37.5 | ROCE 8.72 % | ROE 8.20 % | DivYield 0.00 % | BookVal ₹ 192
+        PROS (screener.in):
+          - Company has reduced debt.
+        CONS (screener.in):
+          - Though the company is reporting repeated profits, it is not paying out dividend
+          - Company might be capitalizing the interest cost
+        https://www.screener.in/company/THELEELA/consolidated/
+
+  • TBOTEK          (TBO Tek Ltd                   )  close ₹1452.00  +7.33%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +7)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹1448.99
+          - Strict stop-loss:      ₹1384.50
+          - Best stop-loss:        ₹1294.75
+          - Target-2 (61.8%):      ₹1474.25
+          - Target-3 (150%):       ₹2145.10
+          - Target-4 (161.8%):     ₹2234.85
+          - Target-5 (261.8%):     ₹2995.45
+          - Swing anchor:          low ₹1004.20  ↔  high ₹1764.80
+        PROS (signals):
+          - +23% over the last month
+          - Trading above the 200-day SMA
+          - Volume surge — 5d avg is 3.5× the 30d avg
+          - 5-day winning streak
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹23.0cr daily turnover)
+        FUNDAMENTALS (screener.in): MCap ₹ 15,670 Cr. | P/E 64.7 | ROCE 18.0 % | ROE 17.6 % | DivYield 0.00 % | BookVal ₹ 143
+        PROS (screener.in):
+          - Company is expected to give good quarter
+          - Company has delivered good profit growth of 90.8% CAGR over last 5 years
+          - Company has a good return on equity (ROE) track record: 3 Years ROE 24.6%
+        CONS (screener.in):
+          - Stock is trading at 10.2 times its book value
+          - Though the company is reporting repeated profits, it is not paying out dividend
+          - Company has high debtors of 724 days.
+        https://www.screener.in/company/TBOTEK/consolidated/
+
+  • FIVESTAR        (Five-Star Business Finance Ltd)  close ₹466.80  +6.30%  bias BUY
+        → HOLD / MIXED (tech=BUY, signal net 0)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹470.05
+          - Strict stop-loss:      ₹458.95
+          - Best stop-loss:        ₹338.15
+          - Target-1 (50.0%):      ₹594.08
+          - Target-2 (61.8%):      ₹654.47
+          - Target-3 (150%):       ₹1105.93
+          - Target-4 (161.8%):     ₹1166.32
+          - Target-5 (261.8%):     ₹1678.17
+          - Swing anchor:          low ₹338.15  ↔  high ₹850.00
+        PROS (signals):
+          - +32% over the last 3 months
+          - Volume surge — 5d avg is 2.8× the 30d avg
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹76.2cr daily turnover)
+        CONS (signals):
+          - Lower third of 52-week range (26%)
+          - 44% off 52-week high
+          - -42% over the year
+          - Trading below the 200-day SMA
+          - Delivery % falling — recent 38% vs 30d 47% (-9pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 13,758 Cr. | P/E 87.8 | ROCE 17.0 % | ROE 16.0 % | DivYield 0.43 % | BookVal ₹
+        CONS (screener.in):
+          - Promoter holding is low: 18.6%
+          - Promoter holding has decreased over last 3 years: -16.3%
+        https://www.screener.in/company/FIVESTAR/consolidated/
+
+  • CHALET          (Chalet Hotels Ltd             )  close ₹749.35  +2.55%  bias BUY
+        → BUY-LEAN (tech=BUY, signal net +1)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹752.61
+          - Strict stop-loss:      ₹691.35
+          - Target-1 (50.0%):      ₹886.67
+          - Target-2 (61.8%):      ₹932.77
+          - Target-3 (150%):       ₹1277.32
+          - Target-4 (161.8%):     ₹1323.42
+          - Target-5 (261.8%):     ₹1714.07
+          - Swing anchor:          low ₹691.35  ↔  high ₹1082.00
+        PROS (signals):
+          - Delivery % rising — recent 69% vs 30d 60% (+9pp accumulation)
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹10.6cr daily turnover)
+        CONS (signals):
+          - Trading near 52-week low (15% of range)
+          - 31% off 52-week high
+          - Trading below the 200-day SMA
+        FUNDAMENTALS (screener.in): MCap ₹ 16,290 Cr. | P/E 25.2 | ROCE 17.1 % | ROE 19.2 % | DivYield 0.13 % | BookVal ₹ 169
+        PROS (screener.in):
+          - Company is expected to give good quarter
+          - Company has delivered good profit growth of 46.6% CAGR over last 5 years
+        CONS (screener.in):
+          - Stock is trading at 4.44 times its book value
+          - Company might be capitalizing the interest cost
+          - Promoters have pledged 31.9% of their holding.
+          - Promoter holding has decreased over last 3 years: -4.37%
+        https://www.screener.in/company/CHALET/consolidated/
+
+  • LTFOODS         (L T Foods Ltd                 )  close ₹381.30  +0.11%  bias NEUTRAL
+        → HOLD / MIXED (tech=NEUTRAL, signal net 1)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹388.35
+          - Strict stop-loss:      ₹387.77
+          - Best stop-loss:        ₹374.88
+          - Target-2 (61.8%):      ₹400.67
+          - Target-3 (150%):       ₹497.02
+          - Target-4 (161.8%):     ₹509.92
+          - Target-5 (261.8%):     ₹619.17
+          - Swing anchor:          low ₹333.15  ↔  high ₹442.40
+        PROS (signals):
+          - Volume surge — 5d avg is 2.1× the 30d avg
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹16.6cr daily turnover)
+        CONS (signals):
+          - Lower third of 52-week range (26%)
+          - Trading below the 200-day SMA
+          - Closed near the day's low (CLV -0.73) — sellers dumped into the volume
+        FUNDAMENTALS (screener.in): MCap ₹ 13,241 Cr. | P/E 21.2 | ROCE 17.7 % | ROE 14.9 % | DivYield 0.79 % | BookVal ₹ 130
+        https://www.screener.in/company/LTFOODS/consolidated/
+
+Top 1 SELL candidates (high-volume distribution):
+------------------------------------------------------------
+  • BIKAJI          (Bikaji Foods International Ltd)  close ₹659.55  -2.11%  bias STRONG_SELL
+        → SELL-LEAN (tech=STRONG_SELL, signal net 0)
+        PROS (signals):
+          - Delivery % rising — recent 62% vs 30d 51% (+11pp accumulation)
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹11.9cr daily turnover)
+        CONS (signals):
+          - Lower third of 52-week range (30%)
+          - Trading below the 200-day SMA
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 16,571 Cr. | P/E 63.4 | ROCE 19.7 % | ROE 17.5 % | DivYield 0.19 % | BookVal ₹ 64.1
+        PROS (screener.in):
+          - Company has delivered good profit growth of 23.7% CAGR over last 5 years
+        CONS (screener.in):
+          - Stock is trading at 10.3 times its book value
+        https://www.screener.in/company/BIKAJI/consolidated/
 
 
 — BUY/SELL recommendations are based on the Pure_on_Volume screen (HVQ/HVY/HVE volume breakouts + liquidity gate).
