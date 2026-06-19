@@ -3,287 +3,139 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-06-17 19:45 IST
+NSE bhavcopy analysis — generated 2026-06-20 00:19 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 8
-Recommendations: 8 BUY  +  2 SELL
+Pure_on_Volume hits (BUY): 6
+Recommendations: 6 BUY  +  1 SELL
 
-Top 8 BUY candidates:
+Top 6 BUY candidates:
 ------------------------------------------------------------
-  • TRENT           (Trent Ltd                     )  close ₹3102.80  +7.07%  bias STRONG_BUY
-        → HOLD / MIXED (tech=STRONG_BUY, signal net -1)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹3020.50
-          - Strict stop-loss:      ₹2680.00
-          - Target-1 (50.0%):      ₹3589.00
-          - Target-2 (61.8%):      ₹3803.52
-          - Target-3 (150%):       ₹5407.00
-          - Target-4 (161.8%):     ₹5621.52
-          - Target-5 (261.8%):     ₹7439.52
-          - Swing anchor:          low ₹2680.00  ↔  high ₹4498.00
-        PROS (signals):
-          - Volume surge — 5d avg is 2.0× the 30d avg
-          - Volume highest in 3 months (HVQ)
-          - Closed near the day's high (CLV +0.88) — buyers absorbed the volume
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹366.6cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (12% of range)
-          - 50% off 52-week high
-          - -24% over the last month
-          - -45% over the year
-          - Bearish SMA stack (close < 20 < 50 < 200)
-          - High volatility (123% annualised)
-        FUNDAMENTALS (screener.in): MCap ₹ 1,65,497 Cr. | P/E 95.9 | ROCE 28.3 % | ROE 27.7 % | DivYield 0.13 % | BookVal ₹ 131
-        PROS (screener.in):
-          - Company has delivered good profit growth of 68.7% CAGR over last 5 years
-          - Company has a good return on equity (ROE) track record: 3 Years ROE 28.6%
-          - Company's median sales growth is 27.2% of last 10 years
-        CONS (screener.in):
-          - Stock is trading at 23.7 times its book value
-        https://www.screener.in/company/TRENT/consolidated/
-
-  • IDBI            (IDBI Bank Ltd                 )  close ₹90.36  +17.12%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +4)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹85.53
-          - Strict stop-loss:      ₹82.93
-          - Best stop-loss:        ₹74.55
-          - Target-2 (61.8%):      ₹96.46
-          - Target-3 (150%):       ₹147.06
-          - Target-4 (161.8%):     ₹153.83
-          - Target-5 (261.8%):     ₹211.20
-          - Swing anchor:          low ₹61.01  ↔  high ₹118.38
-        PROS (signals):
-          - +23% over the last month
-          - Volume surge — 5d avg is 3.7× the 30d avg
-          - Volume highest in 4 years (HVE) — strongest possible breakout signal
-          - Closed near the day's high (CLV +0.75) — buyers absorbed the volume
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹130.8cr daily turnover)
-        CONS (signals):
-          - Trading below the 200-day SMA
-          - High volatility (66% annualised)
-        FUNDAMENTALS (screener.in): MCap ₹ 97,184 Cr. | P/E 10.6 | ROCE 6.50 % | ROE 14.2 % | DivYield 2.32 % | BookVal ₹ 63.8
-        PROS (screener.in):
-          - Company has delivered good profit growth of 43.5% CAGR over last 5 years
-        CONS (screener.in):
-          - Company has low interest coverage ratio.
-          - The company has delivered a poor sales growth of 7.78% over past five years.
-          - Company has a low return on equity of 13.2% over last 3 years.
-          - Contingent liabilities of Rs.3,35,786 Cr.
-          - Company might be capitalizing the interest cost
-        https://www.screener.in/company/IDBI/consolidated/
-
-  • DOMS            (DOMS Industries Ltd           )  close ₹2323.90  +0.43%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +3)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹2281.95
-          - Strict stop-loss:      ₹2196.44
-          - Best stop-loss:        ₹2023.90
-          - Target-1 (50.0%):      ₹2389.45
-          - Target-2 (61.8%):      ₹2475.72
-          - Target-3 (150%):       ₹3120.55
-          - Target-4 (161.8%):     ₹3206.82
-          - Target-5 (261.8%):     ₹3937.92
-          - Swing anchor:          low ₹2023.90  ↔  high ₹2755.00
-        PROS (signals):
-          - Volume surge — 5d avg is 5.0× the 30d avg
-          - Volume highest in 3 months (HVQ)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹47.1cr daily turnover)
-        CONS (signals):
-          - Trading below the 200-day SMA
-        FUNDAMENTALS (screener.in): MCap ₹ 14,098 Cr. | P/E 61.2 | ROCE 24.3 % | ROE 20.7 % | DivYield 0.14 % | BookVal ₹ 201
-        PROS (screener.in):
-          - Company has reduced debt.
-          - Company has delivered good profit growth of 84.0% CAGR over last 5 years
-        CONS (screener.in):
-          - Stock is trading at 11.6 times its book value
-        https://www.screener.in/company/DOMS/consolidated/
-
-  • YESBANK         (Yes Bank Ltd                  )  close ₹25.11  +5.11%  bias STRONG_BUY
+  • THELEELA        (THELEELA                      )  close ₹494.20  +8.00%  bias STRONG_BUY
         → STRONG BUY (tech=STRONG_BUY, signal net +6)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹24.76
-          - Strict stop-loss:      ₹24.30
-          - Best stop-loss:        ₹22.78
-          - Target-3 (150%):       ₹27.85
-          - Target-4 (161.8%):     ₹28.69
-          - Target-5 (261.8%):     ₹35.79
-          - Swing anchor:          low ₹17.20  ↔  high ₹24.30
+          - Entry zone (probable): above ₹478.78
+          - Strict stop-loss:      ₹472.75
+          - Best stop-loss:        ₹453.86
+          - Target-3 (150%):       ₹516.88
+          - Target-4 (161.8%):     ₹527.29
+          - Target-5 (261.8%):     ₹615.54
+          - Swing anchor:          low ₹384.50  ↔  high ₹472.75
         PROS (signals):
-          - Trading near 52-week high (96% of range)
-          - +35% over the last 3 months
-          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Trading near 52-week high (93% of range)
+          - +21% over the last month
+          - Trading above the 200-day SMA
+          - Volume surge — 5d avg is 3.3× the 30d avg
           - Volume highest in 3 months (HVQ)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹330.4cr daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ 78,810 Cr. | P/E 22.4 | ROCE 5.98 % | ROE 7.10 % | DivYield 0.00 % | BookVal ₹ 16.3
-        PROS (screener.in):
-          - Company has delivered good profit growth of 24.6% CAGR over last 5 years
-        CONS (screener.in):
-          - Though the company is reporting repeated profits, it is not paying out dividend
-          - Company has low interest coverage ratio.
-          - The company has delivered a poor sales growth of 8.55% over past five years.
-          - Company has a low return on equity of 5.34% over last 3 years.
-          - Contingent liabilities of Rs.11,98,820 Cr.
-          - Company might be capitalizing the interest cost
-          - Earnings include an other income of Rs.7,084 Cr.
-        https://www.screener.in/company/YESBANK/consolidated/
+          - Healthy liquidity (~₹20.0cr daily turnover)
+        CONS (signals):
+          - Delivery % falling — recent 49% vs 30d 60% (-11pp distribution)
 
-  • CARTRADE        (Cartrade Tech Ltd             )  close ₹2614.90  +9.69%  bias BUY
+  • NIACL           (NIACL                         )  close ₹202.31  +13.23%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +7)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹194.36
+          - Strict stop-loss:      ₹180.40
+          - Best stop-loss:        ₹166.83
+          - Target-3 (150%):       ₹212.12
+          - Target-4 (161.8%):     ₹219.60
+          - Target-5 (261.8%):     ₹283.03
+          - Swing anchor:          low ₹116.97  ↔  high ₹180.40
+        PROS (signals):
+          - Trading near 52-week high (87% of range)
+          - +22% over the last month
+          - +56% over the last 3 months
+          - Trading above the 200-day SMA
+          - Volume surge — 5d avg is 5.4× the 30d avg
+          - 6-day winning streak
+          - Volume highest in 4 years (HVE) — strongest possible breakout signal
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹158.3cr daily turnover)
+        CONS (signals):
+          - High volatility (63% annualised)
+          - Delivery % falling — recent 20% vs 30d 28% (-9pp distribution)
+
+  • AADHARHFC       (AADHARHFC                     )  close ₹515.10  +5.89%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +7)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹505.40
+          - Strict stop-loss:      ₹503.13
+          - Best stop-loss:        ₹497.56
+          - Target-3 (150%):       ₹569.42
+          - Target-4 (161.8%):     ₹580.38
+          - Target-5 (261.8%):     ₹673.23
+          - Swing anchor:          low ₹430.15  ↔  high ₹523.00
+        PROS (signals):
+          - Upper third of 52-week range (76%)
+          - Trading above the 200-day SMA
+          - Volume surge — 5d avg is 2.1× the 30d avg
+          - Delivery % rising — recent 63% vs 30d 58% (+5pp accumulation)
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹22.8cr daily turnover)
+
+  • TARIL           (TARIL                         )  close ₹357.55  +10.07%  bias BUY
         → STRONG BUY (tech=BUY, signal net +5)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹2579.80
-          - Strict stop-loss:      ₹2445.25
-          - Best stop-loss:        ₹2245.77
-          - Target-2 (61.8%):      ₹2644.73
-          - Target-3 (150%):       ₹4135.75
-          - Target-4 (161.8%):     ₹4335.23
-          - Target-5 (261.8%):     ₹6025.73
-          - Swing anchor:          low ₹1600.00  ↔  high ₹3290.50
+          - Entry zone (probable): above ₹350.85
+          - Strict stop-loss:      ₹329.33
+          - Best stop-loss:        ₹321.30
+          - Target-3 (150%):       ₹424.98
+          - Target-4 (161.8%):     ₹440.78
+          - Target-5 (261.8%):     ₹574.73
+          - Swing anchor:          low ₹224.05  ↔  high ₹358.00
         PROS (signals):
-          - +44% over the last month
-          - +52% over the last 3 months
-          - +61% over the year
+          - +17% over the last month
+          - +30% over the last 3 months
           - Trading above the 200-day SMA
-          - Volume highest in 4 years (HVE) — strongest possible breakout signal
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹281.0cr daily turnover)
-        CONS (signals):
-          - High volatility (70% annualised)
-          - Delivery % falling — recent 22% vs 30d 35% (-14pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 12,591 Cr. | P/E 55.2 | ROCE 11.8 % | ROE 9.69 % | DivYield 0.00 % | BookVal ₹ 519
-        PROS (screener.in):
-          - Company is almost debt free.
-          - Company has delivered good profit growth of 19.8% CAGR over last 5 years
-          - Company's median sales growth is 23.9% of last 10 years
-        CONS (screener.in):
-          - Stock is trading at 5.04 times its book value
-          - Though the company is reporting repeated profits, it is not paying out dividend
-          - Company has a low return on equity of 5.65% over last 3 years.
-          - Working capital days have increased from 138 days to 438 days
-        https://www.screener.in/company/CARTRADE/consolidated/
-
-  • IOB             (Indian Overseas Bank          )  close ₹35.58  +4.55%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +3)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹35.34
-          - Strict stop-loss:      ₹31.20
-          - Target-1 (50.0%):      ₹57.47
-          - Target-2 (61.8%):      ₹63.68
-          - Target-3 (150%):       ₹110.02
-          - Target-4 (161.8%):     ₹116.23
-          - Target-5 (261.8%):     ₹168.78
-          - Swing anchor:          low ₹31.20  ↔  high ₹83.75
-        PROS (signals):
-          - Volume surge — 5d avg is 2.2× the 30d avg
+          - Volume surge — 5d avg is 3.1× the 30d avg
           - Volume highest in 3 months (HVQ)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹16.5cr daily turnover)
+          - Healthy liquidity (~₹179.8cr daily turnover)
         CONS (signals):
-          - Trading below the 200-day SMA
-        FUNDAMENTALS (screener.in): MCap ₹ 68,515 Cr. | P/E 12.6 | ROCE 6.12 % | ROE 15.6 % | DivYield 0.00 % | BookVal ₹ 19.2
-        PROS (screener.in):
-          - Company has delivered good profit growth of 48.2% CAGR over last 5 years
-        CONS (screener.in):
-          - Though the company is reporting repeated profits, it is not paying out dividend
-          - Company has low interest coverage ratio.
-          - Company has a low return on equity of 12.6% over last 3 years.
-          - Contingent liabilities of Rs.1,71,517 Cr.
-          - Company might be capitalizing the interest cost
-        https://www.screener.in/company/IOB/consolidated/
+          - 38% off 52-week high
+          - -28% over the year
 
-  • UCOBANK         (UCO Bank                      )  close ₹28.20  +7.10%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +3)
+  • TATACAP         (TATACAP                       )  close ₹366.80  +6.18%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +7)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹28.38
-          - Strict stop-loss:      ₹22.22
-          - Target-1 (50.0%):      ₹46.44
-          - Target-2 (61.8%):      ₹52.15
-          - Target-3 (150%):       ₹94.87
-          - Target-4 (161.8%):     ₹100.58
-          - Target-5 (261.8%):     ₹149.01
-          - Swing anchor:          low ₹22.22  ↔  high ₹70.65
+          - Entry zone (probable): above ₹363.14
         PROS (signals):
-          - Volume surge — 5d avg is 3.6× the 30d avg
-          - Volume highest in 1 year (HVY)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹24.1cr daily turnover)
-        CONS (signals):
-          - Trading below the 200-day SMA
-        FUNDAMENTALS (screener.in): MCap ₹ 35,375 Cr. | P/E 14.3 | ROCE 5.76 % | ROE 8.50 % | DivYield 1.56 % | BookVal ₹ 24.6
-        PROS (screener.in):
-          - Stock is trading at 1.14 times its book value
-        CONS (screener.in):
-          - Company has low interest coverage ratio.
-          - Company has a low return on equity of 7.46% over last 3 years.
-          - Contingent liabilities of Rs.1,36,430 Cr.
-          - Company might be capitalizing the interest cost
-        https://www.screener.in/company/UCOBANK/consolidated/
-
-  • ICICIAMC        (ICICI Prudential Asset Managem)  close ₹3250.50  +0.16%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +6)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹3272.58
-        PROS (signals):
+          - Upper third of 52-week range (84%)
+          - +23% over the last month
           - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 2.3× the 30d avg
-          - Delivery % rising — recent 70% vs 30d 60% (+10pp accumulation)
+          - Volume surge — 5d avg is 3.3× the 30d avg
           - Volume highest in 3 months (HVQ)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹165.4cr daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ 1,60,533 Cr. | P/E 54.6 | ROCE % | ROE % | DivYield 0.84 % | BookVal ₹
-        https://www.screener.in/company/ICICIAMC/consolidated/
+          - Healthy liquidity (~₹114.4cr daily turnover)
 
-Top 2 SELL candidates (high-volume distribution):
+  • LGEINDIA        (LGEINDIA                      )  close ₹1647.80  +2.50%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +7)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹1642.29
+        PROS (signals):
+          - Upper third of 52-week range (77%)
+          - Trading above the 200-day SMA
+          - Volume surge — 5d avg is 2.7× the 30d avg
+          - 5-day winning streak
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹136.2cr daily turnover)
+
+Top 1 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
-  • TMPV            (Tata Motors Passenger Vehicles)  close ₹360.95  -8.30%  bias STRONG_SELL
-        → HOLD / MIXED (tech=STRONG_SELL, signal net 1)
+  • ICICIAMC        (ICICIAMC                      )  close ₹3429.00  -0.08%  bias SELL
+        → STRONG BUY (tech=SELL, signal net +5)
         PROS (signals):
-          - Trading above the 200-day SMA
+          - Upper third of 52-week range (83%)
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Volume surge — 5d avg is 3.0× the 30d avg
+          - Delivery % rising — recent 69% vs 30d 61% (+8pp accumulation)
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹430.2cr daily turnover)
+          - Healthy liquidity (~₹196.7cr daily turnover)
         CONS (signals):
-          - Closed near the day's low (CLV -0.71) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 1,32,918 Cr. | P/E 20.9 | ROCE 2.73 % | ROE 5.58 % | DivYield 0.83 % | BookVal ₹ 304
-        PROS (screener.in):
-          - Stock is trading at 1.19 times its book value
-          - Company has delivered good profit growth of 19.1% CAGR over last 5 years
-        CONS (screener.in):
-          - Company has low interest coverage ratio.
-          - The company has delivered a poor sales growth of 6.08% over past five years.
-          - Tax rate seems low
-          - Company might be capitalizing the interest cost
-          - Earnings include an other income of Rs.86,113 Cr.
-          - Promoter holding has decreased over last 3 years: -3.83%
-        https://www.screener.in/company/TMPV/consolidated/
-
-  • BRIGADE         (Brigade Enterprises Ltd       )  close ₹565.85  -21.44%  bias SELL
-        → STRONG SELL (tech=SELL, signal net -4)
-        PROS (signals):
-          - Volume surge — 5d avg is 3.4× the 30d avg
-          - Volume highest in 4 years (HVE) — strongest possible breakout signal
-          - Healthy liquidity (~₹30.8cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (2% of range)
-          - 53% off 52-week high
-          - -53% over the year
-          - Bearish SMA stack (close < 20 < 50 < 200)
-          - High volatility (81% annualised)
-          - Delivery % falling — recent 39% vs 30d 45% (-5pp distribution)
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 18,464 Cr. | P/E 28.4 | ROCE 10.5 % | ROE 10.4 % | DivYield 0.33 % | BookVal ₹ 209
-        PROS (screener.in):
-          - Company has delivered good profit growth of 88.9% CAGR over last 5 years
-        CONS (screener.in):
-          - Stock is trading at 2.71 times its book value
-          - Company has a low return on equity of 12.6% over last 3 years.
-          - Company might be capitalizing the interest cost
-        https://www.screener.in/company/BRIGADE/consolidated/
 
 
 — BUY/SELL recommendations are based on the Pure_on_Volume screen (HVQ/HVY/HVE volume breakouts + liquidity gate).
