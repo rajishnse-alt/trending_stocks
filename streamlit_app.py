@@ -559,7 +559,7 @@ def _positions_to_frame(positions: list[dict], status: str) -> pd.DataFrame:
             "Fill ≥":     p.get("fill_trigger"),
             "Fill date":  p.get("fill_date"),
             "Fill px":    p.get("fill_price"),
-            "Stop loss":  p.get("stoploss"),
+            "TSL":        p.get("stoploss"),
             "SL src":     p.get("stoploss_source") or "",
             "Targets":    target_prices,
             "Hit":        hit_str,
@@ -753,7 +753,7 @@ with pos_tab:
         else:
             open_cols = [
                 "Symbol", "Name", "Suggested", "Entry",
-                "Fill date", "Fill px", "Stop loss", "SL src",
+                "Fill date", "Fill px", "TSL", "SL src",
                 "Targets", "Hit", "Days",
             ]
             view = open_df[[c for c in open_cols if c in open_df.columns]]
@@ -764,7 +764,7 @@ with pos_tab:
                 column_config={
                     "Entry":     st.column_config.NumberColumn(format="₹%.2f"),
                     "Fill px":   st.column_config.NumberColumn(format="₹%.2f"),
-                    "Stop loss": st.column_config.NumberColumn(format="₹%.2f"),
+                    "TSL": st.column_config.NumberColumn(format="₹%.2f"),
                     "Days":      st.column_config.NumberColumn(format="%d"),
                 },
             )
@@ -777,7 +777,7 @@ with pos_tab:
         else:
             pend_cols = [
                 "Symbol", "Name", "Suggested", "Entry",
-                "Fill ≥", "Stop loss", "Targets",
+                "Fill ≥", "TSL", "Targets",
             ]
             view = pend_df[[c for c in pend_cols if c in pend_df.columns]]
             st.dataframe(
@@ -787,7 +787,7 @@ with pos_tab:
                 column_config={
                     "Entry":     st.column_config.NumberColumn(format="₹%.2f"),
                     "Fill ≥":    st.column_config.NumberColumn(format="₹%.2f"),
-                    "Stop loss": st.column_config.NumberColumn(format="₹%.2f"),
+                    "TSL": st.column_config.NumberColumn(format="₹%.2f"),
                 },
             )
 
