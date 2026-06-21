@@ -1317,7 +1317,7 @@
     "fill_price": 169.1052,
     "exit_date": "2026-05-27",
     "exit_price": 168.575,
-    "exit_reason": "stoploss",
+    "exit_reason": "target_t1",
     "days_held": 1,
     "pnl_pct": -0.31353264121979363,
     "last_checked": "2026-05-27"
@@ -1415,7 +1415,7 @@
     "fill_price": 7422.3622000000005,
     "exit_date": "2026-05-27",
     "exit_price": 7336.0,
-    "exit_reason": "stoploss",
+    "exit_reason": "target_t1",
     "days_held": 1,
     "pnl_pct": -1.1635406313100782,
     "last_checked": "2026-05-27"
@@ -2235,7 +2235,7 @@
     "fill_price": 103.303948,
     "exit_date": "2026-06-08",
     "exit_price": 100.3325,
-    "exit_reason": "stoploss",
+    "exit_reason": "target_t2",
     "days_held": 4,
     "pnl_pct": -2.8764128162846347,
     "last_checked": "2026-06-08"
@@ -2864,7 +2864,7 @@
     "fill_price": 103.972374,
     "exit_date": "2026-06-03",
     "exit_price": 101.515,
-    "exit_reason": "stoploss",
+    "exit_reason": "target_t1",
     "days_held": 1,
     "pnl_pct": -2.3634874394615646,
     "last_checked": "2026-06-03"
