@@ -3,139 +3,51 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-06-21 16:04 IST
+NSE bhavcopy analysis — generated 2026-06-22 20:10 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 6
-Recommendations: 6 BUY  +  1 SELL
+Pure_on_Volume hits (BUY): 2
+Recommendations: 2 BUY  +  0 SELL
 
-Top 6 BUY candidates:
+Top 2 BUY candidates:
 ------------------------------------------------------------
-  • THELEELA        (THELEELA                      )  close ₹494.20  +8.00%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +6)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹478.78
-          - Strict stop-loss:      ₹472.75
-          - Best stop-loss:        ₹453.86
-          - Target-3 (150%):       ₹516.88
-          - Target-4 (161.8%):     ₹527.29
-          - Target-5 (261.8%):     ₹615.54
-          - Swing anchor:          low ₹384.50  ↔  high ₹472.75
-        PROS (signals):
-          - Trading near 52-week high (93% of range)
-          - +21% over the last month
-          - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 3.3× the 30d avg
-          - Volume highest in 3 months (HVQ)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹20.0cr daily turnover)
-        CONS (signals):
-          - Delivery % falling — recent 49% vs 30d 60% (-11pp distribution)
-
-  • NIACL           (NIACL                         )  close ₹202.31  +13.23%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +7)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹194.36
-          - Strict stop-loss:      ₹180.40
-          - Best stop-loss:        ₹166.83
-          - Target-3 (150%):       ₹212.12
-          - Target-4 (161.8%):     ₹219.60
-          - Target-5 (261.8%):     ₹283.03
-          - Swing anchor:          low ₹116.97  ↔  high ₹180.40
-        PROS (signals):
-          - Trading near 52-week high (87% of range)
-          - +22% over the last month
-          - +56% over the last 3 months
-          - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 5.4× the 30d avg
-          - 6-day winning streak
-          - Volume highest in 4 years (HVE) — strongest possible breakout signal
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹158.3cr daily turnover)
-        CONS (signals):
-          - High volatility (63% annualised)
-          - Delivery % falling — recent 20% vs 30d 28% (-9pp distribution)
-
-  • AADHARHFC       (AADHARHFC                     )  close ₹515.10  +5.89%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +7)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹505.40
-          - Strict stop-loss:      ₹503.13
-          - Best stop-loss:        ₹497.56
-          - Target-3 (150%):       ₹569.42
-          - Target-4 (161.8%):     ₹580.38
-          - Target-5 (261.8%):     ₹673.23
-          - Swing anchor:          low ₹430.15  ↔  high ₹523.00
-        PROS (signals):
-          - Upper third of 52-week range (76%)
-          - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 2.1× the 30d avg
-          - Delivery % rising — recent 63% vs 30d 58% (+5pp accumulation)
-          - Volume highest in 3 months (HVQ)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹22.8cr daily turnover)
-
-  • TARIL           (TARIL                         )  close ₹357.55  +10.07%  bias BUY
+  • DELHIVERY       (DELHIVERY                     )  close ₹483.80  +4.92%  bias BUY
         → STRONG BUY (tech=BUY, signal net +5)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹350.85
-          - Strict stop-loss:      ₹329.33
-          - Best stop-loss:        ₹321.30
-          - Target-3 (150%):       ₹424.98
-          - Target-4 (161.8%):     ₹440.78
-          - Target-5 (261.8%):     ₹574.73
-          - Swing anchor:          low ₹224.05  ↔  high ₹358.00
+          - Entry zone (probable): above ₹479.82
+          - Strict stop-loss:      ₹463.31
+          - Best stop-loss:        ₹456.52
+          - Target-3 (150%):       ₹544.02
+          - Target-4 (161.8%):     ₹557.36
+          - Target-5 (261.8%):     ₹670.41
+          - Swing anchor:          low ₹374.45  ↔  high ₹487.50
         PROS (signals):
-          - +17% over the last month
-          - +30% over the last 3 months
+          - Trading near 52-week high (95% of range)
           - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 3.1× the 30d avg
           - Volume highest in 3 months (HVQ)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹179.8cr daily turnover)
-        CONS (signals):
-          - 38% off 52-week high
-          - -28% over the year
+          - Healthy liquidity (~₹145.3cr daily turnover)
 
-  • TATACAP         (TATACAP                       )  close ₹366.80  +6.18%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +7)
+  • NCC             (NCC                           )  close ₹159.55  +2.38%  bias BUY
+        → HOLD / MIXED (tech=BUY, signal net 0)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹363.14
+          - Entry zone (probable): above ₹159.17
+          - Strict stop-loss:      ₹155.81
+          - Best stop-loss:        ₹150.88
+          - Target-3 (150%):       ₹192.66
+          - Target-4 (161.8%):     ₹197.58
+          - Target-5 (261.8%):     ₹239.35
+          - Swing anchor:          low ₹130.00  ↔  high ₹171.77
         PROS (signals):
-          - Upper third of 52-week range (84%)
-          - +23% over the last month
-          - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 3.3× the 30d avg
+          - 10-day winning streak
           - Volume highest in 3 months (HVQ)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹114.4cr daily turnover)
-
-  • LGEINDIA        (LGEINDIA                      )  close ₹1647.80  +2.50%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +7)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹1642.29
-        PROS (signals):
-          - Upper third of 52-week range (77%)
-          - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 2.7× the 30d avg
-          - 5-day winning streak
-          - Volume highest in 3 months (HVQ)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹136.2cr daily turnover)
-
-Top 1 SELL candidates (high-volume distribution):
-------------------------------------------------------------
-  • ICICIAMC        (ICICIAMC                      )  close ₹3429.00  -0.08%  bias SELL
-        → STRONG BUY (tech=SELL, signal net +5)
-        PROS (signals):
-          - Upper third of 52-week range (83%)
-          - Bullish SMA stack (close > 20 > 50 > 200)
-          - Volume surge — 5d avg is 3.0× the 30d avg
-          - Delivery % rising — recent 69% vs 30d 61% (+8pp accumulation)
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹196.7cr daily turnover)
+          - Healthy liquidity (~₹43.8cr daily turnover)
         CONS (signals):
-          - High-volume distribution — HV breakout on a down day
+          - Lower third of 52-week range (28%)
+          - 33% off 52-week high
+          - -29% over the year
+          - Trading below the 200-day SMA
 
 
 — BUY/SELL recommendations are based on the Pure_on_Volume screen (HVQ/HVY/HVE volume breakouts + liquidity gate).
