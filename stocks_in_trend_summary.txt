@@ -3,51 +3,109 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-06-22 20:10 IST
+NSE bhavcopy analysis — generated 2026-06-23 22:18 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 2
-Recommendations: 2 BUY  +  0 SELL
+Pure_on_Volume hits (BUY): 4
+Recommendations: 4 BUY  +  1 SELL
 
-Top 2 BUY candidates:
+Top 4 BUY candidates:
 ------------------------------------------------------------
-  • DELHIVERY       (DELHIVERY                     )  close ₹483.80  +4.92%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +5)
+  • ZFCVINDIA       (ZFCVINDIA                     )  close ₹16086.00  +3.17%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +6)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹479.82
-          - Strict stop-loss:      ₹463.31
-          - Best stop-loss:        ₹456.52
-          - Target-3 (150%):       ₹544.02
-          - Target-4 (161.8%):     ₹557.36
-          - Target-5 (261.8%):     ₹670.41
-          - Swing anchor:          low ₹374.45  ↔  high ₹487.50
+          - Entry zone (probable): above ₹16036.70
+          - Strict stop-loss:      ₹15731.32
+          - Best stop-loss:        ₹15469.54
+          - Target-3 (150%):       ₹18846.50
+          - Target-4 (161.8%):     ₹19361.33
+          - Target-5 (261.8%):     ₹23724.33
+          - Swing anchor:          low ₹12302.00  ↔  high ₹16665.00
         PROS (signals):
-          - Trading near 52-week high (95% of range)
-          - Trading above the 200-day SMA
+          - Trading near 52-week high (87% of range)
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Volume surge — 5d avg is 2.2× the 30d avg
           - Volume highest in 3 months (HVQ)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹145.3cr daily turnover)
+          - Healthy liquidity (~₹32.8cr daily turnover)
 
-  • NCC             (NCC                           )  close ₹159.55  +2.38%  bias BUY
-        → HOLD / MIXED (tech=BUY, signal net 0)
+  • JSWINFRA        (JSWINFRA                      )  close ₹314.95  +2.57%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +7)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹159.17
-          - Strict stop-loss:      ₹155.81
-          - Best stop-loss:        ₹150.88
-          - Target-3 (150%):       ₹192.66
-          - Target-4 (161.8%):     ₹197.58
-          - Target-5 (261.8%):     ₹239.35
-          - Swing anchor:          low ₹130.00  ↔  high ₹171.77
+          - Entry zone (probable): above ₹314.17
+          - Strict stop-loss:      ₹312.85
+          - Best stop-loss:        ₹295.85
+          - Target-3 (150%):       ₹352.57
+          - Target-4 (161.8%):     ₹361.94
+          - Target-5 (261.8%):     ₹441.37
+          - Swing anchor:          low ₹233.42  ↔  high ₹312.85
         PROS (signals):
-          - 10-day winning streak
-          - Volume highest in 3 months (HVQ)
+          - Upper third of 52-week range (71%)
+          - +31% over the last 3 months
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Volume surge — 5d avg is 2.4× the 30d avg
+          - Volume highest in 1 year (HVY)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹43.8cr daily turnover)
+          - Healthy liquidity (~₹80.8cr daily turnover)
+
+  • PPLPHARMA       (PPLPHARMA                     )  close ₹168.89  +6.55%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +3)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹168.04
+          - Strict stop-loss:      ₹164.37
+          - Best stop-loss:        ₹156.80
+          - Target-2 (61.8%):      ₹171.94
+          - Target-3 (150%):       ₹228.51
+          - Target-4 (161.8%):     ₹236.08
+          - Target-5 (261.8%):     ₹300.22
+          - Swing anchor:          low ₹132.30  ↔  high ₹196.44
+        PROS (signals):
+          - Volume surge — 5d avg is 3.7× the 30d avg
+          - Volume highest in 1 year (HVY)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹125.2cr daily turnover)
         CONS (signals):
-          - Lower third of 52-week range (28%)
-          - 33% off 52-week high
-          - -29% over the year
           - Trading below the 200-day SMA
+
+  • KIRLOSENG       (KIRLOSENG                     )  close ₹2504.40  +4.80%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +8)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹2589.59
+          - Strict stop-loss:      ₹2052.70
+          - Best stop-loss:        ₹1729.92
+          - Target-3 (150%):       ₹2806.85
+          - Target-4 (161.8%):     ₹2984.83
+          - Target-5 (261.8%):     ₹4493.13
+          - Swing anchor:          low ₹544.40  ↔  high ₹2052.70
+        PROS (signals):
+          - Trading near 52-week high (89% of range)
+          - +47% over the last month
+          - +94% over the last 3 months
+          - +193% over the year
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Volume surge — 5d avg is 3.5× the 30d avg
+          - Volume highest in 4 years (HVE) — strongest possible breakout signal
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹183.4cr daily turnover)
+        CONS (signals):
+          - High volatility (78% annualised)
+
+Top 1 SELL candidates (high-volume distribution):
+------------------------------------------------------------
+  • VEDL            (VEDL                          )  close ₹281.70  -7.90%  bias STRONG_SELL
+        → STRONG SELL (tech=STRONG_SELL, signal net -4)
+        PROS (signals):
+          - Delivery % rising — recent 42% vs 30d 36% (+6pp accumulation)
+          - Volume highest in 1 year (HVY)
+          - Healthy liquidity (~₹937.6cr daily turnover)
+        CONS (signals):
+          - Trading near 52-week low (2% of range)
+          - 65% off 52-week high
+          - -15% over the last month
+          - -56% over the last 3 months
+          - -38% over the year
+          - Bearish SMA stack (close < 20 < 50 < 200)
+          - High-volume distribution — HV breakout on a down day
 
 
 — BUY/SELL recommendations are based on the Pure_on_Volume screen (HVQ/HVY/HVE volume breakouts + liquidity gate).
