@@ -3,36 +3,33 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-06-23 22:20 IST
+NSE bhavcopy analysis — generated 2026-06-24 22:30 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 4
-Recommendations: 4 BUY  +  1 SELL
+Pure_on_Volume hits (BUY): 5
+Recommendations: 5 BUY  +  2 SELL
 
-Top 4 BUY candidates:
+Top 5 BUY candidates:
 ------------------------------------------------------------
-  • ZFCVINDIA       (ZFCVINDIA                     )  close ₹16086.00  +3.17%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +6)
+  • PINELABS        (PINELABS                      )  close ₹161.27  +7.48%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +2)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹16036.70
-          - Strict stop-loss:      ₹15731.32
-          - Best stop-loss:        ₹15469.54
-          - Target-3 (150%):       ₹18846.50
-          - Target-4 (161.8%):     ₹19361.33
-          - Target-5 (261.8%):     ₹23724.33
-          - Swing anchor:          low ₹12302.00  ↔  high ₹16665.00
+          - Entry zone (probable): above ₹156.87
         PROS (signals):
-          - Trading near 52-week high (87% of range)
-          - Bullish SMA stack (close > 20 > 50 > 200)
-          - Volume surge — 5d avg is 2.2× the 30d avg
+          - +17% over the last month
           - Volume highest in 3 months (HVQ)
+          - Closed near the day's high (CLV +0.80) — buyers absorbed the volume
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹32.8cr daily turnover)
+          - Healthy liquidity (~₹366.3cr daily turnover)
+        CONS (signals):
+          - Lower third of 52-week range (18%)
+          - 43% off 52-week high
+          - Trading below the 200-day SMA
 
-  • JSWINFRA        (JSWINFRA                      )  close ₹314.95  +2.57%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +7)
+  • JSWINFRA        (JSWINFRA                      )  close ₹338.40  +7.45%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +7)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹314.17
+          - Entry zone (probable): above ₹331.32
           - Strict stop-loss:      ₹312.85
           - Best stop-loss:        ₹295.85
           - Target-3 (150%):       ₹352.57
@@ -40,70 +37,106 @@ Top 4 BUY candidates:
           - Target-5 (261.8%):     ₹441.37
           - Swing anchor:          low ₹233.42  ↔  high ₹312.85
         PROS (signals):
-          - Upper third of 52-week range (71%)
-          - +31% over the last 3 months
+          - Trading near 52-week high (91% of range)
+          - +21% over the last month
+          - +34% over the last 3 months
           - Bullish SMA stack (close > 20 > 50 > 200)
-          - Volume surge — 5d avg is 2.4× the 30d avg
+          - Volume surge — 5d avg is 3.3× the 30d avg
           - Volume highest in 1 year (HVY)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹80.8cr daily turnover)
-
-  • PPLPHARMA       (PPLPHARMA                     )  close ₹168.89  +6.55%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +3)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹168.04
-          - Strict stop-loss:      ₹164.37
-          - Best stop-loss:        ₹156.80
-          - Target-2 (61.8%):      ₹171.94
-          - Target-3 (150%):       ₹228.51
-          - Target-4 (161.8%):     ₹236.08
-          - Target-5 (261.8%):     ₹300.22
-          - Swing anchor:          low ₹132.30  ↔  high ₹196.44
-        PROS (signals):
-          - Volume surge — 5d avg is 3.7× the 30d avg
-          - Volume highest in 1 year (HVY)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹125.2cr daily turnover)
+          - Healthy liquidity (~₹109.7cr daily turnover)
         CONS (signals):
-          - Trading below the 200-day SMA
+          - Delivery % falling — recent 47% vs 30d 52% (-5pp distribution)
 
-  • KIRLOSENG       (KIRLOSENG                     )  close ₹2504.40  +4.80%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +8)
+  • DELHIVERY       (DELHIVERY                     )  close ₹481.05  +0.97%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +6)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹2589.59
-          - Strict stop-loss:      ₹2052.70
-          - Best stop-loss:        ₹1729.92
-          - Target-3 (150%):       ₹2806.85
-          - Target-4 (161.8%):     ₹2984.83
-          - Target-5 (261.8%):     ₹4493.13
-          - Swing anchor:          low ₹544.40  ↔  high ₹2052.70
+          - Entry zone (probable): above ₹474.45
+          - Strict stop-loss:      ₹466.61
+          - Best stop-loss:        ₹459.57
+          - Target-3 (150%):       ₹550.33
+          - Target-4 (161.8%):     ₹564.16
+          - Target-5 (261.8%):     ₹681.41
+          - Swing anchor:          low ₹374.45  ↔  high ₹491.70
         PROS (signals):
-          - Trading near 52-week high (89% of range)
-          - +47% over the last month
-          - +94% over the last 3 months
-          - +193% over the year
+          - Trading near 52-week high (93% of range)
+          - Trading above the 200-day SMA
+          - Volume surge — 5d avg is 2.2× the 30d avg
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹161.0cr daily turnover)
+
+  • TRIDENT         (TRIDENT                       )  close ₹26.78  +4.28%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +5)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹26.54
+          - Strict stop-loss:      ₹26.46
+          - Best stop-loss:        ₹25.40
+          - Target-2 (61.8%):      ₹27.52
+          - Target-3 (150%):       ₹35.42
+          - Target-4 (161.8%):     ₹36.48
+          - Target-5 (261.8%):     ₹45.44
+          - Swing anchor:          low ₹21.98  ↔  high ₹30.94
+        PROS (signals):
+          - Trading above the 200-day SMA
+          - Volume surge — 5d avg is 2.4× the 30d avg
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹18.1cr daily turnover)
+
+  • KPRMILL         (KPRMILL                       )  close ₹1218.45  +7.72%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +6)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹1244.45
+          - Strict stop-loss:      ₹1208.70
+          - Best stop-loss:        ₹1120.40
+          - Target-3 (150%):       ₹1415.00
+          - Target-4 (161.8%):     ₹1463.69
+          - Target-5 (261.8%):     ₹1876.29
+          - Swing anchor:          low ₹796.10  ↔  high ₹1208.70
+        PROS (signals):
+          - Upper third of 52-week range (79%)
+          - +29% over the last month
+          - +45% over the last 3 months
           - Bullish SMA stack (close > 20 > 50 > 200)
-          - Volume surge — 5d avg is 3.5× the 30d avg
+          - Volume surge — 5d avg is 4.4× the 30d avg
           - Volume highest in 4 years (HVE) — strongest possible breakout signal
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹183.4cr daily turnover)
+          - Healthy liquidity (~₹87.9cr daily turnover)
         CONS (signals):
-          - High volatility (78% annualised)
+          - High volatility (66% annualised)
+          - Delivery % falling — recent 32% vs 30d 44% (-12pp distribution)
 
-Top 1 SELL candidates (high-volume distribution):
+Top 2 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
-  • VEDL            (VEDL                          )  close ₹281.70  -7.90%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -4)
+  • ZFCVINDIA       (ZFCVINDIA                     )  close ₹2660.00  -83.46%  bias STRONG_SELL
+        → STRONG SELL (tech=STRONG_SELL, signal net -6)
         PROS (signals):
-          - Delivery % rising — recent 42% vs 30d 36% (+6pp accumulation)
+          - Volume surge — 5d avg is 4.3× the 30d avg
           - Volume highest in 1 year (HVY)
-          - Healthy liquidity (~₹937.6cr daily turnover)
+          - Healthy liquidity (~₹10.0cr daily turnover)
         CONS (signals):
-          - Trading near 52-week low (2% of range)
-          - 65% off 52-week high
-          - -15% over the last month
-          - -56% over the last 3 months
-          - -38% over the year
+          - Trading near 52-week low (0% of range)
+          - 84% off 52-week high
+          - -82% over the last month
+          - -80% over the last 3 months
+          - -80% over the year
+          - Trading below the 200-day SMA
+          - High volatility (292% annualised)
+          - Closed near the day's low (CLV -0.75) — sellers dumped into the volume
+          - High-volume distribution — HV breakout on a down day
+
+  • IRFC            (IRFC                          )  close ₹92.50  -6.25%  bias STRONG_SELL
+        → SELL-LEAN (tech=STRONG_SELL, signal net -1)
+        PROS (signals):
+          - Volume surge — 5d avg is 2.0× the 30d avg
+          - Delivery % rising — recent 39% vs 30d 33% (+6pp accumulation)
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹125.8cr daily turnover)
+        CONS (signals):
+          - Trading near 52-week low (10% of range)
+          - 35% off 52-week high
+          - -30% over the year
           - Bearish SMA stack (close < 20 < 50 < 200)
           - High-volume distribution — HV breakout on a down day
 
