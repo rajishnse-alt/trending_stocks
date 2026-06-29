@@ -3,49 +3,330 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-06-27 15:17 IST
+NSE bhavcopy analysis — generated 2026-06-29 18:43 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 1
-Recommendations: 1 BUY  +  1 SELL
+Pure_on_Volume hits (BUY): 8
+Recommendations: 8 BUY  +  15 SELL
 
-Top 1 BUY candidates:
+Top 8 BUY candidates:
 ------------------------------------------------------------
-  • MSUMI           (MSUMI                         )  close ₹41.26  +9.10%  bias STRONG_BUY
-        → HOLD / MIXED (tech=STRONG_BUY, signal net -1)
+  • JBCHEPHARM      (JBCHEPHARM                    )  close ₹2303.20  +2.64%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +6)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹40.20
-          - Strict stop-loss:      ₹39.92
-          - Best stop-loss:        ₹35.70
-          - Target-1 (50.0%):      ₹44.65
-          - Target-2 (61.8%):      ₹46.76
-          - Target-3 (150%):       ₹62.54
-          - Target-4 (161.8%):     ₹64.65
-          - Target-5 (261.8%):     ₹82.54
-          - Swing anchor:          low ₹35.70  ↔  high ₹53.59
+          - Entry zone (probable): above ₹2279.75
+          - Strict stop-loss:      ₹2104.35
+          - Best stop-loss:        ₹2049.50
+          - Target-3 (150%):       ₹2757.12
+          - Target-4 (161.8%):     ₹2865.01
+          - Target-5 (261.8%):     ₹3779.26
+          - Swing anchor:          low ₹1385.75  ↔  high ₹2300.00
         PROS (signals):
-          - Volume surge — 5d avg is 4.1× the 30d avg
-          - Volume highest in 4 years (HVE) — strongest possible breakout signal
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹78.6cr daily turnover)
-        CONS (signals):
-          - Lower third of 52-week range (18%)
-          - 37% off 52-week high
-          - -30% over the year
-          - Trading below the 200-day SMA
-          - Delivery % falling — recent 37% vs 30d 51% (-15pp distribution)
-
-Top 1 SELL candidates (high-volume distribution):
-------------------------------------------------------------
-  • NTPC            (NTPC                          )  close ₹352.05  -1.40%  bias STRONG_SELL
-        → SELL-LEAN (tech=STRONG_SELL, signal net 0)
-        PROS (signals):
-          - Delivery % rising — recent 67% vs 30d 62% (+5pp accumulation)
+          - Trading near 52-week high (98% of range)
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Low volatility (18% annualised) with uptrend
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹412.7cr daily turnover)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹68.3cr daily turnover)
+
+  • NTPC            (NTPC                          )  close ₹356.10  +1.15%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +3)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹355.04
+          - Strict stop-loss:      ₹353.31
+          - Best stop-loss:        ₹338.88
+          - Target-1 (50.0%):      ₹364.98
+          - Target-2 (61.8%):      ₹376.64
+          - Target-3 (150%):       ₹463.82
+          - Target-4 (161.8%):     ₹475.49
+          - Target-5 (261.8%):     ₹574.34
+          - Swing anchor:          low ₹315.55  ↔  high ₹414.40
+        PROS (signals):
+          - Delivery % rising — recent 69% vs 30d 62% (+6pp accumulation)
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹442.1cr daily turnover)
         CONS (signals):
           - Trading below the 200-day SMA
-          - Closed near the day's low (CLV -0.84) — sellers dumped into the volume
+
+  • AJANTPHARM      (AJANTPHARM                    )  close ₹3384.20  +6.41%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +5)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹3339.09
+          - Strict stop-loss:      ₹3314.90
+          - Best stop-loss:        ₹3104.11
+          - Target-3 (150%):       ₹3807.40
+          - Target-4 (161.8%):     ₹3923.63
+          - Target-5 (261.8%):     ₹4908.63
+          - Swing anchor:          low ₹2329.90  ↔  high ₹3314.90
+        PROS (signals):
+          - Trading near 52-week high (92% of range)
+          - +16% over the last month
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹48.8cr daily turnover)
+        CONS (signals):
+          - Delivery % falling — recent 43% vs 30d 52% (-8pp distribution)
+
+  • LAURUSLABS      (LAURUSLABS                    )  close ₹1500.30  +3.47%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +7)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹1494.66
+          - Strict stop-loss:      ₹1492.60
+          - Best stop-loss:        ₹1232.86
+          - Target-3 (150%):       ₹2099.47
+          - Target-4 (161.8%):     ₹2242.70
+          - Target-5 (261.8%):     ₹3456.45
+          - Swing anchor:          low ₹278.85  ↔  high ₹1492.60
+        PROS (signals):
+          - Trading near 52-week high (96% of range)
+          - +51% over the last 3 months
+          - +124% over the year
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹345.8cr daily turnover)
+
+  • CHOICEIN        (CHOICEIN                      )  close ₹745.20  +2.95%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +4)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹743.82
+          - Strict stop-loss:      ₹714.60
+          - Best stop-loss:        ₹680.17
+          - Target-2 (61.8%):      ₹749.03
+          - Target-3 (150%):       ₹1006.40
+          - Target-4 (161.8%):     ₹1040.83
+          - Target-5 (261.8%):     ₹1332.63
+          - Swing anchor:          low ₹568.70  ↔  high ₹860.50
+        PROS (signals):
+          - Trading above the 200-day SMA
+          - Volume highest in 1 year (HVY)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹54.1cr daily turnover)
+
+  • BHARATFORG      (BHARATFORG                    )  close ₹2170.90  +1.19%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +7)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹2174.14
+          - Strict stop-loss:      ₹2167.50
+          - Best stop-loss:        ₹1900.34
+          - Target-3 (150%):       ₹2791.70
+          - Target-4 (161.8%):     ₹2939.01
+          - Target-5 (261.8%):     ₹4187.41
+          - Swing anchor:          low ₹919.10  ↔  high ₹2167.50
+        PROS (signals):
+          - Trading near 52-week high (94% of range)
+          - +68% over the year
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Delivery % rising — recent 57% vs 30d 48% (+9pp accumulation)
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹303.9cr daily turnover)
+
+  • HEXT            (HEXT                          )  close ₹519.40  +4.96%  bias BUY
+        → HOLD / MIXED (tech=BUY, signal net 0)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹523.25
+        PROS (signals):
+          - Volume surge — 5d avg is 2.2× the 30d avg
+          - Volume highest in 1 year (HVY)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹40.5cr daily turnover)
+        CONS (signals):
+          - Lower third of 52-week range (24%)
+          - 42% off 52-week high
+          - -38% over the year
+          - Trading below the 200-day SMA
+
+  • LTF             (LTF                           )  close ₹299.05  +0.02%  bias NEUTRAL
+        → STRONG BUY (tech=NEUTRAL, signal net +5)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹303.11
+          - Strict stop-loss:      ₹293.33
+          - Best stop-loss:        ₹282.18
+          - Target-3 (150%):       ₹376.73
+          - Target-4 (161.8%):     ₹387.88
+          - Target-5 (261.8%):     ₹482.43
+          - Swing anchor:          low ₹234.90  ↔  high ₹329.45
+        PROS (signals):
+          - Upper third of 52-week range (77%)
+          - Trading above the 200-day SMA
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹167.5cr daily turnover)
+
+Top 15 SELL candidates (high-volume distribution):
+------------------------------------------------------------
+  • MARUTI          (MARUTI                        )  close ₹13412.00  -2.42%  bias STRONG_SELL
+        → STRONG SELL (tech=STRONG_SELL, signal net -2)
+        PROS (signals):
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹627.2cr daily turnover)
+        CONS (signals):
+          - Lower third of 52-week range (23%)
+          - Trading below the 200-day SMA
+          - Closed near the day's low (CLV -0.83) — sellers dumped into the volume
+          - High-volume distribution — HV breakout on a down day
+
+  • CANBK           (CANBK                         )  close ₹125.86  -2.40%  bias STRONG_SELL
+        → SELL-LEAN (tech=STRONG_SELL, signal net -1)
+        PROS (signals):
+          - Delivery % rising — recent 59% vs 30d 49% (+10pp accumulation)
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹360.2cr daily turnover)
+        CONS (signals):
+          - Bearish SMA stack (close < 20 < 50 < 200)
+          - 5-day losing streak
+          - Closed near the day's low (CLV -0.77) — sellers dumped into the volume
+          - High-volume distribution — HV breakout on a down day
+
+  • PERSISTENT      (PERSISTENT                    )  close ₹4298.50  -11.22%  bias STRONG_SELL
+        → STRONG SELL (tech=STRONG_SELL, signal net -4)
+        PROS (signals):
+          - Volume surge — 5d avg is 2.1× the 30d avg
+          - Volume highest in 1 year (HVY)
+          - Healthy liquidity (~₹328.2cr daily turnover)
+        CONS (signals):
+          - Trading near 52-week low (1% of range)
+          - 35% off 52-week high
+          - -17% over the last month
+          - -29% over the year
+          - Bearish SMA stack (close < 20 < 50 < 200)
+          - Closed near the day's low (CLV -0.73) — sellers dumped into the volume
+          - High-volume distribution — HV breakout on a down day
+
+  • TVSMOTOR        (TVSMOTOR                      )  close ₹3456.80  -3.16%  bias STRONG_SELL
+        → SELL-LEAN (tech=STRONG_SELL, signal net -1)
+        PROS (signals):
+          - Volume highest in 1 year (HVY)
+          - Healthy liquidity (~₹420.5cr daily turnover)
+        CONS (signals):
+          - Trading below the 200-day SMA
+          - Closed near the day's low (CLV -0.71) — sellers dumped into the volume
+          - High-volume distribution — HV breakout on a down day
+
+  • UPL             (UPL                           )  close ₹568.40  -3.74%  bias STRONG_SELL
+        → STRONG SELL (tech=STRONG_SELL, signal net -3)
+        PROS (signals):
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹126.0cr daily turnover)
+        CONS (signals):
+          - Trading near 52-week low (2% of range)
+          - 30% off 52-week high
+          - Bearish SMA stack (close < 20 < 50 < 200)
+          - Closed near the day's low (CLV -0.71) — sellers dumped into the volume
+          - High-volume distribution — HV breakout on a down day
+
+  • CANFINHOME      (CANFINHOME                    )  close ₹837.30  -5.52%  bias STRONG_SELL
+        → HOLD / MIXED (tech=STRONG_SELL, signal net 1)
+        PROS (signals):
+          - Delivery % rising — recent 64% vs 30d 58% (+6pp accumulation)
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹16.9cr daily turnover)
+        CONS (signals):
+          - Bearish SMA stack (close < 20 < 50 < 200)
+          - High-volume distribution — HV breakout on a down day
+
+  • HEROMOTOCO      (HEROMOTOCO                    )  close ₹4813.60  -1.69%  bias STRONG_SELL
+        → SELL-LEAN (tech=STRONG_SELL, signal net -1)
+        PROS (signals):
+          - Volume surge — 5d avg is 2.0× the 30d avg
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹326.4cr daily turnover)
+        CONS (signals):
+          - Lower third of 52-week range (28%)
+          - Bearish SMA stack (close < 20 < 50 < 200)
+          - 5-day losing streak
+          - High-volume distribution — HV breakout on a down day
+
+  • AUROPHARMA      (AUROPHARMA                    )  close ₹1547.50  -0.50%  bias STRONG_SELL
+        → HOLD / MIXED (tech=STRONG_SELL, signal net 3)
+        PROS (signals):
+          - Trading near 52-week high (93% of range)
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹223.1cr daily turnover)
+        CONS (signals):
+          - High-volume distribution — HV breakout on a down day
+
+  • EICHERMOT       (EICHERMOT                     )  close ₹7426.00  -2.26%  bias STRONG_SELL
+        → BUY-LEAN (tech=STRONG_SELL, signal net +4)
+        PROS (signals):
+          - Upper third of 52-week range (72%)
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Delivery % rising — recent 57% vs 30d 51% (+6pp accumulation)
+          - Volume highest in 1 year (HVY)
+          - Healthy liquidity (~₹400.0cr daily turnover)
+        CONS (signals):
+          - High-volume distribution — HV breakout on a down day
+
+  • BHARTIHEXA      (BHARTIHEXA                    )  close ₹1440.10  -2.50%  bias STRONG_SELL
+        → HOLD / MIXED (tech=STRONG_SELL, signal net 1)
+        PROS (signals):
+          - Volume surge — 5d avg is 2.4× the 30d avg
+          - Delivery % rising — recent 70% vs 30d 55% (+15pp accumulation)
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹26.5cr daily turnover)
+        CONS (signals):
+          - Trading near 52-week low (2% of range)
+          - Bearish SMA stack (close < 20 < 50 < 200)
+          - High-volume distribution — HV breakout on a down day
+
+  • ASTRAL          (ASTRAL                        )  close ₹1368.00  -8.00%  bias SELL
+        → SELL-LEAN (tech=SELL, signal net -1)
+        PROS (signals):
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹99.8cr daily turnover)
+        CONS (signals):
+          - Lower third of 52-week range (21%)
+          - Trading below the 200-day SMA
+          - High-volume distribution — HV breakout on a down day
+
+  • FORTIS          (FORTIS                        )  close ₹950.40  -0.46%  bias SELL
+        → BUY-LEAN (tech=SELL, signal net +3)
+        PROS (signals):
+          - Trading above the 200-day SMA
+          - Low volatility (19% annualised) with uptrend
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹146.6cr daily turnover)
+        CONS (signals):
+          - High-volume distribution — HV breakout on a down day
+
+  • MFSL            (MFSL                          )  close ₹1601.50  -0.61%  bias SELL
+        → HOLD / MIXED (tech=SELL, signal net 1)
+        PROS (signals):
+          - Delivery % rising — recent 60% vs 30d 54% (+5pp accumulation)
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹114.7cr daily turnover)
+        CONS (signals):
+          - Bearish SMA stack (close < 20 < 50 < 200)
+          - High-volume distribution — HV breakout on a down day
+
+  • AUBANK          (AUBANK                        )  close ₹1030.45  -0.33%  bias SELL
+        → BUY-LEAN (tech=SELL, signal net +4)
+        PROS (signals):
+          - Trading near 52-week high (88% of range)
+          - Trading above the 200-day SMA
+          - Delivery % rising — recent 60% vs 30d 54% (+6pp accumulation)
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹224.2cr daily turnover)
+        CONS (signals):
+          - High-volume distribution — HV breakout on a down day
+
+  • GVT&D           (GVT&D                         )  close ₹4956.50  -1.72%  bias SELL
+        → BUY-LEAN (tech=SELL, signal net +4)
+        PROS (signals):
+          - Upper third of 52-week range (80%)
+          - +119% off 52-week low (turnaround)
+          - +36% over the last 3 months
+          - +103% over the year
+          - Trading above the 200-day SMA
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹472.8cr daily turnover)
+        CONS (signals):
+          - High volatility (60% annualised)
+          - 6-day losing streak
           - High-volume distribution — HV breakout on a down day
 
 
