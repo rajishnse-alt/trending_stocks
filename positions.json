@@ -85,7 +85,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "weekly_fib_0.786",
     "original_stoploss": 154.03644
   },
@@ -151,7 +151,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "weekly_fib_clamped",
     "original_stoploss": 1499.9570519999997
   },
@@ -192,7 +192,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -286,7 +286,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -331,7 +331,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -371,7 +371,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -411,7 +411,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -461,7 +461,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -506,7 +506,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -571,7 +571,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "weekly_fib_clamped",
     "original_stoploss": 21.698
   },
@@ -617,7 +617,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -816,15 +816,15 @@
         "price": 682.7152882
       }
     ],
-    "status": "open",
+    "status": "closed",
     "fill_date": "2026-05-26",
     "fill_price": 411.27427,
-    "exit_date": null,
-    "exit_price": null,
-    "exit_reason": null,
-    "days_held": null,
-    "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "exit_date": "2026-07-01",
+    "exit_price": 360.8317,
+    "exit_reason": "stoploss",
+    "days_held": 36,
+    "pnl_pct": -12.264946698464751,
+    "last_checked": "2026-07-01",
     "stoploss_source": "weekly_fib_0.786",
     "original_stoploss": 360.8317
   },
@@ -973,7 +973,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -984,7 +984,7 @@
     "suggested_close": 38380.0,
     "entry": 38711.25,
     "fill_trigger": 39175.785,
-    "stoploss": 36371.67,
+    "stoploss": 43372.5,
     "strict_stoploss": 36914.37,
     "swing_low": 29805.0,
     "swing_high": 38850.0,
@@ -1018,8 +1018,11 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
-    "stoploss_source": "best_stoploss"
+    "last_checked": "2026-07-01",
+    "stoploss_source": "trailed_t3",
+    "hit_targets": [
+      "T3"
+    ]
   },
   {
     "symbol": "NAUKRI",
@@ -1176,7 +1179,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -1262,15 +1265,15 @@
         "price": 947.3446862000001
       }
     ],
-    "status": "open",
+    "status": "closed",
     "fill_date": "2026-05-25",
     "fill_price": 570.68957,
-    "exit_date": null,
-    "exit_price": null,
-    "exit_reason": null,
-    "days_held": null,
-    "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "exit_date": "2026-07-01",
+    "exit_price": 695.6750000000001,
+    "exit_reason": "stoploss",
+    "days_held": 37,
+    "pnl_pct": 21.900773480055037,
+    "last_checked": "2026-07-01",
     "stoploss_source": "trailed_t3",
     "hit_targets": [
       "T3"
@@ -1465,7 +1468,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -1505,7 +1508,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -1599,7 +1602,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -1737,7 +1740,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "weekly_fib_0.786",
     "original_stoploss": 406.83259999999996
   },
@@ -1897,7 +1900,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -1937,7 +1940,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -1977,7 +1980,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -2063,7 +2066,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -2113,7 +2116,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -2284,7 +2287,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -2334,7 +2337,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -2374,7 +2377,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "weekly_fib_clamped",
     "original_stoploss": 345.09212649999995
   },
@@ -2425,7 +2428,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -2465,7 +2468,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -2505,7 +2508,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -2550,7 +2553,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -2595,7 +2598,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -2987,7 +2990,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "weekly_fib_0.786",
     "original_stoploss": 505.6174
   },
@@ -3094,7 +3097,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "weekly_fib_0.786",
     "original_stoploss": 120.5386
   },
@@ -3140,7 +3143,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -3175,7 +3178,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "weekly_fib_0.786",
     "original_stoploss": 1087.152
   },
@@ -3221,7 +3224,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -3342,7 +3345,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "trailed_t1",
     "original_stoploss": 1218.521623,
     "hit_targets": [
@@ -3444,7 +3447,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -3484,7 +3487,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -3524,7 +3527,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -3569,7 +3572,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -3619,7 +3622,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "weekly_fib_0.786",
     "original_stoploss": 4580.8042
   },
@@ -3917,7 +3920,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -3957,7 +3960,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "weekly_fib_0.786",
     "original_stoploss": 1169.1976
   },
@@ -3998,7 +4001,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "best_stoploss"
   },
   {
@@ -4103,7 +4106,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "weekly_fib_0.786",
     "original_stoploss": 36.24472
   },
@@ -4144,7 +4147,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30",
+    "last_checked": "2026-07-01",
     "stoploss_source": "weekly_fib_clamped",
     "original_stoploss": 2015.425
   },
@@ -4188,7 +4191,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "FIVESTAR",
@@ -4230,7 +4233,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "LTFOODS",
@@ -4444,7 +4447,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "LALPATHLAB",
@@ -4491,7 +4494,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "FACT",
@@ -4538,7 +4541,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "PGEL",
@@ -4580,7 +4583,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "KPIL",
@@ -4627,7 +4630,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "IDBI",
@@ -4664,7 +4667,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "UCOBANK",
@@ -4701,7 +4704,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "YESBANK",
@@ -4748,7 +4751,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "IOB",
@@ -4785,7 +4788,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "DOMS",
@@ -4837,7 +4840,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "TRENT",
@@ -4879,7 +4882,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "ICICIAMC",
@@ -4949,7 +4952,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "NIACL",
@@ -4996,7 +4999,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "TATACAP",
@@ -5063,7 +5066,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "TARIL",
@@ -5110,7 +5113,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "LGEINDIA",
@@ -5177,7 +5180,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "AADHARHFC",
@@ -5271,7 +5274,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "NCC",
@@ -5318,7 +5321,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "KIRLOSENG",
@@ -5360,7 +5363,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "PPLPHARMA",
@@ -5456,7 +5459,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "ZFCVINDIA",
@@ -5503,7 +5506,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "KPRMILL",
@@ -5550,7 +5553,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "PINELABS",
@@ -5619,7 +5622,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "TRIDENT",
@@ -5666,7 +5669,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "MSUMI",
@@ -5718,7 +5721,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "HEXT",
@@ -5738,54 +5741,54 @@
       {
         "name": "P3",
         "ratio": 0.03,
-        "price": 534.982
+        "price": 545.4148700000001
       },
       {
         "name": "P6",
         "ratio": 0.06,
-        "price": 550.564
+        "price": 561.30074
       },
       {
         "name": "P9",
         "ratio": 0.09,
-        "price": 566.1460000000001
+        "price": 577.1866100000001
       },
       {
         "name": "P12",
         "ratio": 0.12,
-        "price": 581.7280000000001
+        "price": 593.07248
       },
       {
         "name": "P21",
         "ratio": 0.21,
-        "price": 628.4739999999999
+        "price": 640.73009
       },
       {
         "name": "P34",
         "ratio": 0.34,
-        "price": 695.996
+        "price": 709.5688600000001
       },
       {
         "name": "P55",
         "ratio": 0.55,
-        "price": 805.0699999999999
+        "price": 820.76995
       },
       {
         "name": "MAX",
         "ratio": 0.66,
-        "price": 862.2040000000001
+        "price": 879.01814
       }
     ],
     "hit_targets": [],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-07-01",
+    "fill_price": 529.529,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "CHOICEIN",
@@ -5827,7 +5830,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "NTPC",
@@ -5872,19 +5875,19 @@
       {
         "name": "MAX",
         "ratio": 0.66,
-        "price": 591.1260000000001
+        "price": 596.4429966000001
       }
     ],
     "hit_targets": [],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-07-01",
+    "fill_price": 359.30301000000003,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "LTF",
@@ -5931,7 +5934,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "LAURUSLABS",
@@ -5973,7 +5976,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "BHARATFORG",
@@ -6015,7 +6018,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "AJANTPHARM",
@@ -6062,7 +6065,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "JBCHEPHARM",
@@ -6109,7 +6112,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "CANFINHOME",
@@ -6126,11 +6129,6 @@
     "swing_low": 772.0,
     "swing_high": 971.5,
     "targets": [
-      {
-        "name": "T1",
-        "ratio": 0.5,
-        "price": 871.75
-      },
       {
         "name": "T2",
         "ratio": 0.618,
@@ -6154,19 +6152,19 @@
       {
         "name": "MAX",
         "ratio": 0.66,
-        "price": 1440.7970000000003
+        "price": 1465.2052250000002
       }
     ],
     "hit_targets": [],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-07-01",
+    "fill_price": 882.6537500000001,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "CGCL",
@@ -6201,19 +6199,19 @@
       {
         "name": "MAX",
         "ratio": 0.66,
-        "price": 377.91560000000004
+        "price": 377.2965926400001
       }
     ],
     "hit_targets": [],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-07-01",
+    "fill_price": 227.28710400000003,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "VIJAYA",
@@ -6255,7 +6253,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
   },
   {
     "symbol": "MARUTI",
@@ -6295,7 +6293,74 @@
       {
         "name": "MAX",
         "ratio": 0.66,
-        "price": 23430.9
+        "price": 23334.172796
+      }
+    ],
+    "hit_targets": [],
+    "status": "open",
+    "fill_date": "2026-07-01",
+    "fill_price": 14056.730599999999,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "last_checked": "2026-07-01"
+  },
+  {
+    "symbol": "RPOWER",
+    "name": "",
+    "side": "BUY",
+    "suggested_on": "2026-07-01",
+    "suggested_close": 27.17,
+    "entry": 27.406499999999998,
+    "fill_trigger": 27.735377999999997,
+    "stoploss": 23.64536,
+    "original_stoploss": 23.64536,
+    "stoploss_source": "weekly_fib_0.786",
+    "strict_stoploss": 20.17,
+    "swing_low": 20.17,
+    "swing_high": 76.49,
+    "targets": [
+      {
+        "name": "P3",
+        "ratio": 0.03,
+        "price": 27.985100000000003
+      },
+      {
+        "name": "P6",
+        "ratio": 0.06,
+        "price": 28.800200000000004
+      },
+      {
+        "name": "P9",
+        "ratio": 0.09,
+        "price": 29.615300000000005
+      },
+      {
+        "name": "P12",
+        "ratio": 0.12,
+        "price": 30.430400000000006
+      },
+      {
+        "name": "P21",
+        "ratio": 0.21,
+        "price": 32.8757
+      },
+      {
+        "name": "P34",
+        "ratio": 0.34,
+        "price": 36.4078
+      },
+      {
+        "name": "P55",
+        "ratio": 0.55,
+        "price": 42.1135
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 45.1022
       }
     ],
     "hit_targets": [],
@@ -6307,6 +6372,100 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-06-30"
+    "last_checked": "2026-07-01"
+  },
+  {
+    "symbol": "RHIM",
+    "name": "",
+    "side": "BUY",
+    "suggested_on": "2026-07-01",
+    "suggested_close": 387.7,
+    "entry": 382.425,
+    "fill_trigger": 387.01410000000004,
+    "stoploss": 360.8317,
+    "original_stoploss": 360.8317,
+    "stoploss_source": "weekly_fib_0.786",
+    "strict_stoploss": 323.05,
+    "swing_low": 323.05,
+    "swing_high": 824.0,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 0.5,
+        "price": 573.525
+      },
+      {
+        "name": "T2",
+        "ratio": 0.618,
+        "price": 632.6370999999999
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 643.582
+      }
+    ],
+    "hit_targets": [],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "last_checked": "2026-07-01"
+  },
+  {
+    "symbol": "RAMCOCEM",
+    "name": "",
+    "side": "BUY",
+    "suggested_on": "2026-07-01",
+    "suggested_close": 931.75,
+    "entry": 934.82,
+    "fill_trigger": 946.0378400000001,
+    "stoploss": 838.3,
+    "original_stoploss": 838.3,
+    "stoploss_source": "best_stoploss",
+    "strict_stoploss": 927.0831999999999,
+    "swing_low": 838.3,
+    "swing_high": 1214.5,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 0.5,
+        "price": 1026.4
+      },
+      {
+        "name": "T2",
+        "ratio": 0.618,
+        "price": 1070.7916
+      },
+      {
+        "name": "T3",
+        "ratio": 1.5,
+        "price": 1402.6
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 1446.9916
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 1546.7050000000002
+      }
+    ],
+    "hit_targets": [],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "last_checked": "2026-07-01"
   }
 ]
