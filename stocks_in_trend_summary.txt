@@ -3,59 +3,80 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-07-01 20:48 IST
+NSE bhavcopy analysis — generated 2026-07-02 20:31 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 5
-Recommendations: 5 BUY  +  1 SELL
+Pure_on_Volume hits (BUY): 4
+Recommendations: 4 BUY  +  1 SELL
 
-Top 5 BUY candidates:
+Top 4 BUY candidates:
 ------------------------------------------------------------
-  • DELHIVERY       (DELHIVERY                     )  close ₹507.70  +7.55%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +7)
+  • ZENSARTECH      (ZENSARTECH                    )  close ₹467.35  +9.69%  bias BUY
+        → HOLD / MIXED (tech=BUY, signal net 0)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹492.23
-          - Strict stop-loss:      ₹491.70
-          - Best stop-loss:        ₹466.61
-          - Target-3 (150%):       ₹550.33
-          - Target-4 (161.8%):     ₹564.16
-          - Target-5 (261.8%):     ₹681.41
-          - Swing anchor:          low ₹374.45  ↔  high ₹491.70
+          - Entry zone (probable): above ₹458.63
+          - Strict stop-loss:      ₹423.00
+          - Target-1 (50.0%):      ₹687.55
+          - Target-2 (61.8%):      ₹749.98
+          - Target-3 (150%):       ₹1216.65
+          - Target-4 (161.8%):     ₹1279.08
+          - Target-5 (261.8%):     ₹1808.18
+          - Swing anchor:          low ₹423.00  ↔  high ₹952.10
         PROS (signals):
-          - Trading near 52-week high (98% of range)
-          - +16% over the last month
-          - Trading above the 200-day SMA
-          - Volume highest in 3 months (HVQ)
-          - Closed near the day's high (CLV +0.88) — buyers absorbed the volume
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹181.3cr daily turnover)
-
-  • RITES           (RITES                         )  close ₹233.19  +14.02%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +5)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹225.42
-          - Strict stop-loss:      ₹208.28
-          - Best stop-loss:        ₹175.00
-          - Target-1 (50.0%):      ₹245.50
-          - Target-2 (61.8%):      ₹262.14
-          - Target-3 (150%):       ₹386.50
-          - Target-4 (161.8%):     ₹403.14
-          - Target-5 (261.8%):     ₹544.14
-          - Swing anchor:          low ₹175.00  ↔  high ₹316.00
-        PROS (signals):
-          - +15% over the last month
-          - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 5.0× the 30d avg
+          - Volume surge — 5d avg is 4.1× the 30d avg
           - Volume highest in 4 years (HVE) — strongest possible breakout signal
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹61.9cr daily turnover)
+          - Healthy liquidity (~₹66.0cr daily turnover)
         CONS (signals):
-          - Delivery % falling — recent 23% vs 30d 38% (-15pp distribution)
+          - Trading near 52-week low (10% of range)
+          - 47% off 52-week high
+          - -45% over the year
+          - Trading below the 200-day SMA
 
-  • RHIM            (RHIM                          )  close ₹387.70  +5.42%  bias BUY
+  • ABFRL           (ABFRL                         )  close ₹61.88  +5.47%  bias BUY
+        → HOLD / MIXED (tech=BUY, signal net 0)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹61.58
+          - Strict stop-loss:      ₹53.51
+          - Target-1 (50.0%):      ₹174.60
+          - Target-2 (61.8%):      ₹203.18
+          - Target-3 (150%):       ₹416.79
+          - Target-4 (161.8%):     ₹445.37
+          - Target-5 (261.8%):     ₹687.56
+          - Swing anchor:          low ₹53.51  ↔  high ₹295.70
+        PROS (signals):
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹33.5cr daily turnover)
+        CONS (signals):
+          - Lower third of 52-week range (20%)
+          - 35% off 52-week high
+          - Trading below the 200-day SMA
+
+  • SAGILITY        (SAGILITY                      )  close ₹41.25  +4.06%  bias BUY
+        → BUY-LEAN (tech=BUY, signal net +1)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹41.19
+          - Strict stop-loss:      ₹41.04
+          - Best stop-loss:        ₹35.83
+          - Target-1 (50.0%):      ₹46.86
+          - Target-2 (61.8%):      ₹49.46
+          - Target-3 (150%):       ₹68.92
+          - Target-4 (161.8%):     ₹71.52
+          - Target-5 (261.8%):     ₹93.58
+          - Swing anchor:          low ₹35.83  ↔  high ₹57.89
+        PROS (signals):
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹71.5cr daily turnover)
+        CONS (signals):
+          - Lower third of 52-week range (25%)
+          - Trading below the 200-day SMA
+
+  • RHIM            (RHIM                          )  close ₹403.20  +4.00%  bias BUY
         → BUY-LEAN (tech=BUY, signal net +2)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹382.43
+          - Entry zone (probable): above ₹418.60
           - Strict stop-loss:      ₹323.05
           - Target-1 (50.0%):      ₹573.52
           - Target-2 (61.8%):      ₹632.64
@@ -64,73 +85,26 @@ Top 5 BUY candidates:
           - Target-5 (261.8%):     ₹1634.54
           - Swing anchor:          low ₹323.05  ↔  high ₹824.00
         PROS (signals):
-          - Volume surge — 5d avg is 2.7× the 30d avg
-          - Volume highest in 3 months (HVQ)
+          - Volume surge — 5d avg is 4.6× the 30d avg
+          - Volume highest in 4 years (HVE) — strongest possible breakout signal
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹35.5cr daily turnover)
+          - Healthy liquidity (~₹77.2cr daily turnover)
         CONS (signals):
           - Trading below the 200-day SMA
-          - Delivery % falling — recent 33% vs 30d 39% (-7pp distribution)
-
-  • RPOWER          (RPOWER                        )  close ₹27.17  +9.38%  bias BUY
-        → HOLD / MIXED (tech=BUY, signal net -1)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹27.41
-          - Strict stop-loss:      ₹20.17
-          - Target-1 (50.0%):      ₹48.33
-          - Target-2 (61.8%):      ₹54.98
-          - Target-3 (150%):       ₹104.65
-          - Target-4 (161.8%):     ₹111.30
-          - Target-5 (261.8%):     ₹167.62
-          - Swing anchor:          low ₹20.17  ↔  high ₹76.49
-        PROS (signals):
-          - Volume highest in 1 year (HVY)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹135.6cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (14% of range)
-          - 62% off 52-week high
-          - -59% over the year
-          - Trading below the 200-day SMA
-
-  • RAMCOCEM        (RAMCOCEM                      )  close ₹931.75  +0.19%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +3)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹934.82
-          - Strict stop-loss:      ₹927.08
-          - Best stop-loss:        ₹838.30
-          - Target-1 (50.0%):      ₹1026.40
-          - Target-2 (61.8%):      ₹1070.79
-          - Target-3 (150%):       ₹1402.60
-          - Target-4 (161.8%):     ₹1446.99
-          - Target-5 (261.8%):     ₹1823.19
-          - Swing anchor:          low ₹838.30  ↔  high ₹1214.50
-        PROS (signals):
-          - Volume surge — 5d avg is 2.3× the 30d avg
-          - Delivery % rising — recent 69% vs 30d 52% (+18pp accumulation)
-          - Volume highest in 3 months (HVQ)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹26.5cr daily turnover)
-        CONS (signals):
-          - Lower third of 52-week range (25%)
-          - Trading below the 200-day SMA
+          - Delivery % falling — recent 28% vs 30d 38% (-10pp distribution)
 
 Top 1 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
-  • KPITTECH        (KPITTECH                      )  close ₹557.55  -16.98%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -5)
+  • AWL             (AWL                           )  close ₹183.96  -0.13%  bias SELL
+        → STRONG SELL (tech=SELL, signal net -3)
         PROS (signals):
-          - Volume surge — 5d avg is 3.0× the 30d avg
-          - Volume highest in 4 years (HVE) — strongest possible breakout signal
-          - Healthy liquidity (~₹143.8cr daily turnover)
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹63.0cr daily turnover)
         CONS (signals):
-          - Trading near 52-week low (0% of range)
-          - 58% off 52-week high
-          - -31% over the last month
-          - -56% over the year
+          - Trading near 52-week low (11% of range)
+          - 36% off 52-week high
+          - -29% over the year
           - Bearish SMA stack (close < 20 < 50 < 200)
-          - High volatility (64% annualised)
-          - Closed near the day's low (CLV -0.92) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
 
 
