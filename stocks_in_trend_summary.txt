@@ -3,18 +3,58 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-07-02 20:31 IST
+NSE bhavcopy analysis — generated 2026-07-03 22:17 IST
 ============================================================
 
 Pure_on_Volume hits (BUY): 4
-Recommendations: 4 BUY  +  1 SELL
+Recommendations: 4 BUY  +  4 SELL
 
 Top 4 BUY candidates:
 ------------------------------------------------------------
-  • ZENSARTECH      (ZENSARTECH                    )  close ₹467.35  +9.69%  bias BUY
-        → HOLD / MIXED (tech=BUY, signal net 0)
+  • AEGISVOPAK      (AEGISVOPAK                    )  close ₹257.43  +9.67%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +7)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹458.63
+          - Entry zone (probable): above ₹248.49
+          - Strict stop-loss:      ₹229.86
+          - Best stop-loss:        ₹224.38
+          - Target-3 (150%):       ₹295.14
+          - Target-4 (161.8%):     ₹305.93
+          - Target-5 (261.8%):     ₹397.36
+          - Swing anchor:          low ₹158.00  ↔  high ₹249.43
+        PROS (signals):
+          - +34% over the last month
+          - +52% over the last 3 months
+          - Trading above the 200-day SMA
+          - Volume highest in 3 months (HVQ)
+          - Closed near the day's high (CLV +0.93) — buyers absorbed the volume
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹28.1cr daily turnover)
+
+  • SUMICHEM        (SUMICHEM                      )  close ₹502.30  +13.85%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +6)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹479.20
+          - Strict stop-loss:      ₹472.88
+          - Best stop-loss:        ₹456.47
+          - Target-3 (150%):       ₹590.45
+          - Target-4 (161.8%):     ₹608.37
+          - Target-5 (261.8%):     ₹760.27
+          - Swing anchor:          low ₹362.60  ↔  high ₹514.50
+        PROS (signals):
+          - +31% over the last 3 months
+          - Trading above the 200-day SMA
+          - Volume surge — 5d avg is 4.6× the 30d avg
+          - Volume highest in 4 years (HVE) — strongest possible breakout signal
+          - Closed near the day's high (CLV +0.79) — buyers absorbed the volume
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹49.8cr daily turnover)
+        CONS (signals):
+          - Delivery % falling — recent 44% vs 30d 52% (-8pp distribution)
+
+  • ZENSARTECH      (ZENSARTECH                    )  close ₹516.10  +10.43%  bias STRONG_BUY
+        → BUY-LEAN (tech=STRONG_BUY, signal net +0)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹502.64
           - Strict stop-loss:      ₹423.00
           - Target-1 (50.0%):      ₹687.55
           - Target-2 (61.8%):      ₹749.98
@@ -23,87 +63,74 @@ Top 4 BUY candidates:
           - Target-5 (261.8%):     ₹1808.18
           - Swing anchor:          low ₹423.00  ↔  high ₹952.10
         PROS (signals):
-          - Volume surge — 5d avg is 4.1× the 30d avg
+          - Volume surge — 5d avg is 5.1× the 30d avg
           - Volume highest in 4 years (HVE) — strongest possible breakout signal
+          - Closed near the day's high (CLV +0.71) — buyers absorbed the volume
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹66.0cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (10% of range)
-          - 47% off 52-week high
-          - -45% over the year
-          - Trading below the 200-day SMA
-
-  • ABFRL           (ABFRL                         )  close ₹61.88  +5.47%  bias BUY
-        → HOLD / MIXED (tech=BUY, signal net 0)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹61.58
-          - Strict stop-loss:      ₹53.51
-          - Target-1 (50.0%):      ₹174.60
-          - Target-2 (61.8%):      ₹203.18
-          - Target-3 (150%):       ₹416.79
-          - Target-4 (161.8%):     ₹445.37
-          - Target-5 (261.8%):     ₹687.56
-          - Swing anchor:          low ₹53.51  ↔  high ₹295.70
-        PROS (signals):
-          - Volume highest in 3 months (HVQ)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹33.5cr daily turnover)
+          - Healthy liquidity (~₹135.3cr daily turnover)
         CONS (signals):
           - Lower third of 52-week range (20%)
-          - 35% off 52-week high
+          - 41% off 52-week high
+          - -39% over the year
           - Trading below the 200-day SMA
+          - Delivery % falling — recent 31% vs 30d 42% (-10pp distribution)
 
-  • SAGILITY        (SAGILITY                      )  close ₹41.25  +4.06%  bias BUY
-        → BUY-LEAN (tech=BUY, signal net +1)
+  • BAJAJHFL        (BAJAJHFL                      )  close ₹91.35  +3.05%  bias NEUTRAL
+        → HOLD / MIXED (tech=NEUTRAL, signal net 0)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹41.19
-          - Strict stop-loss:      ₹41.04
-          - Best stop-loss:        ₹35.83
-          - Target-1 (50.0%):      ₹46.86
-          - Target-2 (61.8%):      ₹49.46
-          - Target-3 (150%):       ₹68.92
-          - Target-4 (161.8%):     ₹71.52
-          - Target-5 (261.8%):     ₹93.58
-          - Swing anchor:          low ₹35.83  ↔  high ₹57.89
+          - Entry zone (probable): above ₹92.54
         PROS (signals):
           - Volume highest in 3 months (HVQ)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹71.5cr daily turnover)
+          - Healthy liquidity (~₹49.1cr daily turnover)
         CONS (signals):
-          - Lower third of 52-week range (25%)
+          - -25% over the year
           - Trading below the 200-day SMA
+          - Delivery % falling — recent 45% vs 30d 51% (-6pp distribution)
 
-  • RHIM            (RHIM                          )  close ₹403.20  +4.00%  bias BUY
-        → BUY-LEAN (tech=BUY, signal net +2)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹418.60
-          - Strict stop-loss:      ₹323.05
-          - Target-1 (50.0%):      ₹573.52
-          - Target-2 (61.8%):      ₹632.64
-          - Target-3 (150%):       ₹1074.47
-          - Target-4 (161.8%):     ₹1133.59
-          - Target-5 (261.8%):     ₹1634.54
-          - Swing anchor:          low ₹323.05  ↔  high ₹824.00
-        PROS (signals):
-          - Volume surge — 5d avg is 4.6× the 30d avg
-          - Volume highest in 4 years (HVE) — strongest possible breakout signal
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹77.2cr daily turnover)
-        CONS (signals):
-          - Trading below the 200-day SMA
-          - Delivery % falling — recent 28% vs 30d 38% (-10pp distribution)
-
-Top 1 SELL candidates (high-volume distribution):
+Top 4 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
-  • AWL             (AWL                           )  close ₹183.96  -0.13%  bias SELL
-        → STRONG SELL (tech=SELL, signal net -3)
+  • CGPOWER         (CGPOWER                       )  close ₹892.55  -6.97%  bias STRONG_SELL
+        → HOLD / MIXED (tech=STRONG_SELL, signal net 3)
         PROS (signals):
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹63.0cr daily turnover)
+          - Upper third of 52-week range (81%)
+          - +31% over the last 3 months
+          - Trading above the 200-day SMA
+          - Volume highest in 1 year (HVY)
+          - Healthy liquidity (~₹418.8cr daily turnover)
         CONS (signals):
-          - Trading near 52-week low (11% of range)
-          - 36% off 52-week high
-          - -29% over the year
+          - Closed near the day's low (CLV -0.72) — sellers dumped into the volume
+          - High-volume distribution — HV breakout on a down day
+
+  • BANKBARODA      (BANKBARODA                    )  close ₹252.20  -3.09%  bias SELL
+        → SELL-LEAN (tech=SELL, signal net -2)
+        PROS (signals):
+          - Volume highest in 1 year (HVY)
+          - Healthy liquidity (~₹339.9cr daily turnover)
+        CONS (signals):
+          - Lower third of 52-week range (23%)
+          - Trading below the 200-day SMA
+          - 7-day losing streak
+          - High-volume distribution — HV breakout on a down day
+
+  • POWERINDIA      (POWERINDIA                    )  close ₹31040.00  -8.10%  bias SELL
+        → HOLD / MIXED (tech=SELL, signal net 2)
+        PROS (signals):
+          - +55% over the year
+          - Trading above the 200-day SMA
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹563.6cr daily turnover)
+        CONS (signals):
+          - -15% over the last month
+          - High-volume distribution — HV breakout on a down day
+
+  • POLICYBZR       (POLICYBZR                     )  close ₹1591.20  -5.40%  bias SELL
+        → HOLD / MIXED (tech=SELL, signal net 1)
+        PROS (signals):
+          - Volume surge — 5d avg is 2.6× the 30d avg
+          - Volume highest in 1 year (HVY)
+          - Healthy liquidity (~₹338.5cr daily turnover)
+        CONS (signals):
           - Bearish SMA stack (close < 20 < 50 < 200)
           - High-volume distribution — HV breakout on a down day
 
