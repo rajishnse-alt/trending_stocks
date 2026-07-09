@@ -122,6 +122,9 @@ st.markdown(
       .meta-pill     {{ display:inline-block; padding:3px 10px; border-radius:999px;
                         font-family:'JetBrains Mono', monospace; font-size:11px;
                         background:{P['neutral_bg']}; color:{P['neutral_fg']}; margin-left:6px; }}
+      .conflict-pill {{ display:block; margin-top:8px; padding:5px 10px; border-radius:6px;
+                        font-size:12px; font-weight:600; color:{P['amber_fg']};
+                        background:{P['amber_bg']}; border:1px solid {P['amber_fg']}; }}
       .net-pos {{ color:{P['green_fg']}; font-weight:700; }}
       .net-neg {{ color:{P['red_fg']};   font-weight:700; }}
       .net-zero{{ color:{P['neutral_fg']}; font-weight:700; }}
@@ -449,6 +452,19 @@ def render_card(stock: dict, kind: str) -> None:
     net_class = "net-pos" if net > 0 else ("net-neg" if net < 0 else "net-zero")
     net_str = f"+{net}" if net > 0 else f"{net}"
 
+    # The tab a card sits under (`kind`, "buy" or "sell") reflects only
+    # *today's* raw volume-day classification (Pure_on_Volume breakout vs.
+    # HV-distribution day). The `verdict` badge is a separate scorecard —
+    # technical bias + net pros/cons from signals & fundamentals — and can
+    # legitimately disagree (e.g. a bearish-volume day on an otherwise
+    # strong stock). Flag it explicitly instead of leaving it looking like
+    # a contradiction.
+    verdict_upper = verdict.upper()
+    conflict = (
+        (kind == "buy" and "SELL" in verdict_upper)
+        or (kind == "sell" and "BUY" in verdict_upper)
+    )
+
     with st.container(border=True):
         h1, h2 = st.columns([3, 3])
         with h1:
@@ -466,6 +482,15 @@ def render_card(stock: dict, kind: str) -> None:
             f'<span class="meta-pill">net <span class="{net_class}">{net_str}</span></span>',
             unsafe_allow_html=True,
         )
+
+        if conflict:
+            st.markdown(
+                '<span class="conflict-pill">⚠ Signal conflict — bucketed under '
+                f'{kind.upper()} by today\'s raw volume action, but the '
+                f'verdict says {verdict}. These measure different things; '
+                'read both before acting.</span>',
+                unsafe_allow_html=True,
+            )
 
         # BUY-only: trade-management plan
         if kind == "buy":
