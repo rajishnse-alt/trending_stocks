@@ -3,145 +3,33 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-07-08 23:24 IST
+NSE bhavcopy analysis — generated 2026-07-11 13:29 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 4
-Recommendations: 4 BUY  +  4 SELL
+Pure_on_Volume hits (BUY): 1
+Recommendations: 1 BUY  +  0 SELL
 
-Top 4 BUY candidates:
+Top 1 BUY candidates:
 ------------------------------------------------------------
-  • KALYANKJIL      (KALYANKJIL                    )  close ₹374.15  +5.47%  bias BUY
-        → HOLD / MIXED (tech=BUY, signal net -1)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹373.80
-          - Strict stop-loss:      ₹327.05
-          - Target-1 (50.0%):      ₹472.38
-          - Target-2 (61.8%):      ₹506.67
-          - Target-3 (150%):       ₹763.03
-          - Target-4 (161.8%):     ₹797.32
-          - Target-5 (261.8%):     ₹1087.97
-          - Swing anchor:          low ₹327.05  ↔  high ₹617.70
-        PROS (signals):
-          - Volume highest in 3 months (HVQ)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹373.3cr daily turnover)
-        CONS (signals):
-          - Lower third of 52-week range (16%)
-          - 39% off 52-week high
-          - -36% over the year
-          - Trading below the 200-day SMA
-
-  • JBCHEPHARM      (JBCHEPHARM                    )  close ₹2435.80  +0.57%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +7)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹2442.68
-          - Strict stop-loss:      ₹2332.00
-          - Best stop-loss:        ₹2129.50
-          - Target-3 (150%):       ₹2805.12
-          - Target-4 (161.8%):     ₹2916.78
-          - Target-5 (261.8%):     ₹3863.03
-          - Swing anchor:          low ₹1385.75  ↔  high ₹2332.00
-        PROS (signals):
-          - Trading near 52-week high (96% of range)
-          - Bullish SMA stack (close > 20 > 50 > 200)
-          - Low volatility (17% annualised) with uptrend
-          - 6-day winning streak
-          - Volume highest in 3 months (HVQ)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹77.0cr daily turnover)
-
-  • LODHA           (LODHA                         )  close ₹1115.10  +1.14%  bias BUY
+  • J&KBANK         (J&KBANK                       )  close ₹192.65  +14.39%  bias BUY
         → STRONG BUY (tech=BUY, signal net +8)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹1123.72
-          - Strict stop-loss:      ₹1090.90
-          - Best stop-loss:        ₹987.04
-          - Target-2 (61.8%):      ₹1194.76
-          - Target-3 (150%):       ₹1971.10
-          - Target-4 (161.8%):     ₹2074.96
-          - Target-5 (261.8%):     ₹2955.16
-          - Swing anchor:          low ₹650.80  ↔  high ₹1531.00
+          - Entry zone (probable): above ₹187.05
+          - Strict stop-loss:      ₹171.00
+          - Best stop-loss:        ₹155.24
+          - Target-3 (150%):       ₹207.82
+          - Target-4 (161.8%):     ₹216.52
+          - Target-5 (261.8%):     ₹290.17
+          - Swing anchor:          low ₹97.35  ↔  high ₹171.00
         PROS (signals):
+          - Trading near 52-week high (91% of range)
           - +26% over the last month
-          - +43% over the last 3 months
-          - Trading above the 200-day SMA
-          - Delivery % rising — recent 50% vs 30d 41% (+8pp accumulation)
-          - 7-day winning streak
-          - Volume highest in 3 months (HVQ)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹314.1cr daily turnover)
-
-  • BAYERCROP       (BAYERCROP                     )  close ₹4163.50  +1.00%  bias NEUTRAL
-        → SELL-LEAN (tech=NEUTRAL, signal net -2)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹4228.72
-          - Strict stop-loss:      ₹4030.00
-          - Target-1 (50.0%):      ₹4546.50
-          - Target-2 (61.8%):      ₹4668.39
-          - Target-3 (150%):       ₹5579.50
-          - Target-4 (161.8%):     ₹5701.39
-          - Target-5 (261.8%):     ₹6734.39
-          - Swing anchor:          low ₹4030.00  ↔  high ₹5063.00
-        PROS (signals):
-          - Volume highest in 3 months (HVQ)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹14.3cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (5% of range)
-          - 36% off 52-week high
-          - -35% over the year
-          - Bearish SMA stack (close < 20 < 50 < 200)
-          - Delivery % falling — recent 46% vs 30d 57% (-11pp distribution)
-
-Top 4 SELL candidates (high-volume distribution):
-------------------------------------------------------------
-  • PWL             (PWL                           )  close ₹146.64  -1.44%  bias STRONG_SELL
-        → BUY-LEAN (tech=STRONG_SELL, signal net +4)
-        PROS (signals):
-          - Upper third of 52-week range (82%)
-          - +38% over the last month
-          - +48% over the last 3 months
+          - +56% over the last 3 months
+          - +73% over the year
           - Bullish SMA stack (close > 20 > 50 > 200)
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹190.0cr daily turnover)
-        CONS (signals):
-          - Closed near the day's low (CLV -0.77) — sellers dumped into the volume
-          - High-volume distribution — HV breakout on a down day
-
-  • SWIGGY          (SWIGGY                        )  close ₹261.41  -1.83%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -3)
-        PROS (signals):
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹325.9cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (11% of range)
-          - 45% off 52-week high
-          - -32% over the year
-          - Trading below the 200-day SMA
-          - High-volume distribution — HV breakout on a down day
-
-  • HINDPETRO       (HINDPETRO                     )  close ₹386.85  -4.71%  bias SELL
-        → HOLD / MIXED (tech=SELL, signal net 0)
-        PROS (signals):
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹283.0cr daily turnover)
-        CONS (signals):
-          - Trading below the 200-day SMA
-          - High-volume distribution — HV breakout on a down day
-
-  • CGCL            (CGCL                          )  close ₹237.06  -0.17%  bias SELL
-        → STRONG BUY (tech=SELL, signal net +6)
-        PROS (signals):
-          - Trading near 52-week high (90% of range)
-          - +17% over the last month
-          - +32% over the last 3 months
-          - Bullish SMA stack (close > 20 > 50 > 200)
-          - Delivery % rising — recent 40% vs 30d 35% (+6pp accumulation)
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹100.6cr daily turnover)
-        CONS (signals):
-          - High-volume distribution — HV breakout on a down day
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹93.9cr daily turnover)
 
 
 — BUY/SELL recommendations are based on the Pure_on_Volume screen (HVQ/HVY/HVE volume breakouts + liquidity gate).
