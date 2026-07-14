@@ -3,7 +3,7 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-07-14 06:35 IST
+NSE bhavcopy analysis — generated 2026-07-14 18:57 IST
 ============================================================
 
 Pure_on_Volume hits (BUY): 5
@@ -11,91 +11,106 @@ Recommendations: 5 BUY  +  0 SELL
 
 Top 5 BUY candidates:
 ------------------------------------------------------------
-  • SONATSOFTW      (SONATSOFTW                    )  close ₹316.05  +10.76%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +4)
+  • DIVISLAB        (DIVISLAB                      )  close ₹7188.50  +3.60%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +5)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹307.90
-          - Strict stop-loss:      ₹207.15
-          - Target-1 (50.0%):      ₹846.07
-          - Target-2 (61.8%):      ₹996.86
-          - Target-3 (150%):       ₹2123.92
-          - Target-4 (161.8%):     ₹2274.71
-          - Target-5 (261.8%):     ₹3552.56
-          - Swing anchor:          low ₹207.15  ↔  high ₹1485.00
+          - Entry zone (probable): above ₹7073.73
+          - Strict stop-loss:      ₹6968.00
+          - Best stop-loss:        ₹6685.41
+          - Target-3 (150%):       ₹7628.25
+          - Target-4 (161.8%):     ₹7784.07
+          - Target-5 (261.8%):     ₹9104.57
+          - Swing anchor:          low ₹5647.50  ↔  high ₹6968.00
         PROS (signals):
-          - +24% over the last month
-          - +31% over the last 3 months
-          - Trading above the 200-day SMA
+          - Trading near 52-week high (99% of range)
+          - Bullish SMA stack (close > 20 > 50 > 200)
           - Volume highest in 3 months (HVQ)
+          - Closed near the day's high (CLV +0.87) — buyers absorbed the volume
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹122.3cr daily turnover)
+          - Healthy liquidity (~₹265.4cr daily turnover)
         CONS (signals):
-          - -28% over the year
-          - High volatility (84% annualised)
+          - Delivery % falling — recent 52% vs 30d 58% (-6pp distribution)
 
-  • KALYANKJIL      (KALYANKJIL                    )  close ₹510.65  +7.25%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +4)
+  • SBICARD         (SBICARD                       )  close ₹638.85  +3.26%  bias STRONG_BUY
+        → BUY-LEAN (tech=STRONG_BUY, signal net +0)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹503.59
-          - Strict stop-loss:      ₹472.38
-          - Best stop-loss:        ₹438.08
-          - Target-3 (150%):       ₹763.03
-          - Target-4 (161.8%):     ₹797.32
-          - Target-5 (261.8%):     ₹1087.97
-          - Swing anchor:          low ₹327.05  ↔  high ₹617.70
+          - Entry zone (probable): above ₹628.68
+          - Strict stop-loss:      ₹565.45
+          - Target-1 (50.0%):      ₹796.35
+          - Target-2 (61.8%):      ₹850.84
+          - Target-3 (150%):       ₹1258.15
+          - Target-4 (161.8%):     ₹1312.64
+          - Target-5 (261.8%):     ₹1774.44
+          - Swing anchor:          low ₹565.45  ↔  high ₹1027.25
         PROS (signals):
-          - +48% over the last month
-          - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 4.3× the 30d avg
-          - Volume highest in 4 years (HVE) — strongest possible breakout signal
+          - Volume highest in 1 year (HVY)
+          - Closed near the day's high (CLV +0.80) — buyers absorbed the volume
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹897.3cr daily turnover)
+          - Healthy liquidity (~₹91.1cr daily turnover)
         CONS (signals):
-          - High volatility (86% annualised)
-          - Delivery % falling — recent 17% vs 30d 31% (-14pp distribution)
+          - Lower third of 52-week range (17%)
+          - 36% off 52-week high
+          - -32% over the year
+          - Trading below the 200-day SMA
 
-  • LTM             (LTM                           )  close ₹4124.30  +2.16%  bias BUY
-        → BUY-LEAN (tech=BUY, signal net +2)
+  • CONCOR          (CONCOR                        )  close ₹493.15  +6.29%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +4)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹4118.93
+          - Entry zone (probable): above ₹483.44
+          - Strict stop-loss:      ₹421.45
+          - Target-1 (50.0%):      ₹618.25
+          - Target-2 (61.8%):      ₹664.69
+          - Target-3 (150%):       ₹1011.85
+          - Target-4 (161.8%):     ₹1058.29
+          - Target-5 (261.8%):     ₹1451.89
+          - Swing anchor:          low ₹421.45  ↔  high ₹815.05
         PROS (signals):
+          - Volume surge — 5d avg is 2.1× the 30d avg
           - Volume highest in 3 months (HVQ)
+          - Closed near the day's high (CLV +0.80) — buyers absorbed the volume
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹207.2cr daily turnover)
+          - Healthy liquidity (~₹102.2cr daily turnover)
         CONS (signals):
           - Trading below the 200-day SMA
 
-  • ANURAS          (ANURAS                        )  close ₹1269.70  +0.13%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +6)
+  • BIOCON          (BIOCON                        )  close ₹437.30  +6.41%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +5)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹1277.17
-          - Strict stop-loss:      ₹1240.80
-          - Best stop-loss:        ₹1191.96
-          - Target-3 (150%):       ₹1822.00
-          - Target-4 (161.8%):     ₹1918.05
-          - Target-5 (261.8%):     ₹2732.05
-          - Swing anchor:          low ₹601.00  ↔  high ₹1415.00
+          - Entry zone (probable): above ₹434.46
+          - Strict stop-loss:      ₹418.42
+          - Best stop-loss:        ₹412.26
+          - Target-3 (150%):       ₹491.75
+          - Target-4 (161.8%):     ₹503.87
+          - Target-5 (261.8%):     ₹606.57
+          - Swing anchor:          low ₹337.70  ↔  high ₹440.40
         PROS (signals):
-          - Trading above the 200-day SMA
-          - Low volatility (14% annualised) with uptrend
-          - Volume surge — 5d avg is 2.1× the 30d avg
+          - Trading near 52-week high (94% of range)
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Volume surge — 5d avg is 2.6× the 30d avg
           - Volume highest in 1 year (HVY)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹46.0cr daily turnover)
-
-  • CANHLIFE        (CANHLIFE                      )  close ₹147.30  +2.27%  bias NEUTRAL
-        → STRONG BUY (tech=NEUTRAL, signal net +5)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹153.02
-        PROS (signals):
-          - Upper third of 52-week range (78%)
-          - Bullish SMA stack (close > 20 > 50 > 200)
-          - Volume surge — 5d avg is 4.0× the 30d avg
-          - Volume highest in 3 months (HVQ)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹17.0cr daily turnover)
+          - Healthy liquidity (~₹231.1cr daily turnover)
         CONS (signals):
-          - Closed near the day's low (CLV -0.79) — sellers dumped into the volume
+          - Delivery % falling — recent 37% vs 30d 49% (-12pp distribution)
+
+  • NUVOCO          (NUVOCO                        )  close ₹341.40  +7.85%  bias BUY
+        → BUY-LEAN (tech=BUY, signal net +2)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹347.64
+          - Strict stop-loss:      ₹346.60
+          - Best stop-loss:        ₹341.23
+          - Target-3 (150%):       ₹410.50
+          - Target-4 (161.8%):     ₹421.06
+          - Target-5 (261.8%):     ₹510.56
+          - Swing anchor:          low ₹276.25  ↔  high ₹365.75
+        PROS (signals):
+          - Volume surge — 5d avg is 4.6× the 30d avg
+          - Volume highest in 4 years (HVE) — strongest possible breakout signal
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹31.1cr daily turnover)
+        CONS (signals):
+          - Trading below the 200-day SMA
+          - Delivery % falling — recent 33% vs 30d 48% (-15pp distribution)
 
 
 — BUY/SELL recommendations are based on the Pure_on_Volume screen (HVQ/HVY/HVE volume breakouts + liquidity gate).
