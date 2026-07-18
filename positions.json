@@ -46,7 +46,31 @@
     "exit_reason": "target_t3",
     "days_held": 9,
     "pnl_pct": 7.140810300800848,
-    "last_checked": "2026-05-29"
+    "last_checked": "2026-05-29",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 1110.4499999999998,
+        "exit_reason": "target_t3",
+        "exit_date": "2026-05-29"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "IGL",
@@ -87,7 +111,31 @@
     "pnl_pct": -2.4095192933059173,
     "last_checked": "2026-07-03",
     "stoploss_source": "weekly_fib_0.786",
-    "original_stoploss": 154.03644
+    "original_stoploss": 154.03644,
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 154.03644,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-07-03"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "ECLERX",
@@ -153,7 +201,31 @@
     "pnl_pct": -5.000000000000004,
     "last_checked": "2026-07-03",
     "stoploss_source": "weekly_fib_clamped",
-    "original_stoploss": 1499.9570519999997
+    "original_stoploss": 1499.9570519999997,
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 1499.9570519999997,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-07-03"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "GPIL",
@@ -192,8 +264,32 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
-    "stoploss_source": "best_stoploss"
+    "last_checked": "2026-07-17",
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "MANKIND",
@@ -242,7 +338,31 @@
     "exit_reason": "stoploss",
     "days_held": 8,
     "pnl_pct": -7.634624890607111,
-    "last_checked": "2026-05-29"
+    "last_checked": "2026-05-29",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 2401.1072,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-05-29"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "MOTHERSON",
@@ -286,8 +406,32 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
-    "stoploss_source": "best_stoploss"
+    "last_checked": "2026-07-17",
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "ENRIN",
@@ -331,8 +475,32 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
-    "stoploss_source": "best_stoploss"
+    "last_checked": "2026-07-17",
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "TATACOMM",
@@ -371,8 +539,32 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
-    "stoploss_source": "best_stoploss"
+    "last_checked": "2026-07-17",
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "GVT&D",
@@ -411,8 +603,32 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
-    "stoploss_source": "best_stoploss"
+    "last_checked": "2026-07-17",
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "ERIS",
@@ -461,8 +677,32 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
-    "stoploss_source": "best_stoploss"
+    "last_checked": "2026-07-17",
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "TIMKEN",
@@ -507,7 +747,31 @@
     "days_held": 43,
     "pnl_pct": -6.4910614635886095,
     "last_checked": "2026-07-03",
-    "stoploss_source": "best_stoploss"
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 3438.7266,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-07-03"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "IRB",
@@ -571,9 +835,33 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
+    "last_checked": "2026-07-17",
     "stoploss_source": "weekly_fib_clamped",
-    "original_stoploss": 21.698
+    "original_stoploss": 21.698,
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "GRASIM",
@@ -617,8 +905,32 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
-    "stoploss_source": "best_stoploss"
+    "last_checked": "2026-07-17",
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "SAMMAANCAP",
@@ -667,7 +979,31 @@
     "exit_reason": "target_t2",
     "days_held": 3,
     "pnl_pct": 8.251203332871704,
-    "last_checked": "2026-05-25"
+    "last_checked": "2026-05-25",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 168.5211,
+        "exit_reason": "target_t2",
+        "exit_date": "2026-05-25"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "JSWCEMENT",
@@ -736,7 +1072,31 @@
     "original_stoploss": 116.64059999999999,
     "hit_targets": [
       "P3"
-    ]
+    ],
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 132.6377041,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-06-23"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "IGIL",
@@ -785,7 +1145,31 @@
     "exit_reason": "stoploss",
     "days_held": 12,
     "pnl_pct": -4.289589233745749,
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-03",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 358.1117,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-06-03"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "RHIM",
@@ -826,7 +1210,31 @@
     "pnl_pct": -12.264946698464751,
     "last_checked": "2026-07-01",
     "stoploss_source": "weekly_fib_0.786",
-    "original_stoploss": 360.8317
+    "original_stoploss": 360.8317,
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 360.8317,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-07-01"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "TECHNOE",
@@ -875,7 +1283,31 @@
     "exit_reason": "stoploss",
     "days_held": 4,
     "pnl_pct": -5.13947068475209,
-    "last_checked": "2026-05-26"
+    "last_checked": "2026-05-26",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 1208.0256,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-05-26"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "APOLLOHOSP",
@@ -924,7 +1356,31 @@
     "exit_reason": "stoploss",
     "days_held": 11,
     "pnl_pct": -5.673178388898014,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-02",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 7862.531,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-06-02"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "WHIRLPOOL",
@@ -973,8 +1429,32 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
-    "stoploss_source": "best_stoploss"
+    "last_checked": "2026-07-17",
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "PAGEIND",
@@ -1022,7 +1502,31 @@
     "stoploss_source": "trailed_t3",
     "hit_targets": [
       "T3"
-    ]
+    ],
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 43372.5,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-07-02"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "NAUKRI",
@@ -1091,7 +1595,31 @@
     "original_stoploss": 918.9013130000001,
     "hit_targets": [
       "P3"
-    ]
+    ],
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 996.2824762000001,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-06-16"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "HONASA",
@@ -1140,7 +1668,31 @@
     "exit_reason": "target_t3",
     "days_held": 3,
     "pnl_pct": 6.560226562388771,
-    "last_checked": "2026-05-29"
+    "last_checked": "2026-05-29",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 422.85,
+        "exit_reason": "target_t3",
+        "exit_date": "2026-05-29"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "NYKAA",
@@ -1179,8 +1731,32 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
-    "stoploss_source": "best_stoploss"
+    "last_checked": "2026-07-17",
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "LICI",
@@ -1229,7 +1805,31 @@
     "exit_reason": "target_t1",
     "days_held": 1,
     "pnl_pct": 1.8006406374444506,
-    "last_checked": "2026-05-26"
+    "last_checked": "2026-05-26",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 850.75,
+        "exit_reason": "target_t1",
+        "exit_date": "2026-05-26"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "MINDACORP",
@@ -1277,7 +1877,31 @@
     "stoploss_source": "trailed_t3",
     "hit_targets": [
       "T3"
-    ]
+    ],
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 695.6750000000001,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-07-01"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "GAIL",
@@ -1326,7 +1950,31 @@
     "exit_reason": "target_t1",
     "days_held": 1,
     "pnl_pct": -0.31353264121979363,
-    "last_checked": "2026-05-27"
+    "last_checked": "2026-05-27",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 168.575,
+        "exit_reason": "target_t1",
+        "exit_date": "2026-05-27"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "NH",
@@ -1375,7 +2023,31 @@
     "exit_reason": "target_t1",
     "days_held": 1,
     "pnl_pct": 1.058121825719005,
-    "last_checked": "2026-06-04"
+    "last_checked": "2026-06-04",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 1979.6,
+        "exit_reason": "target_t1",
+        "exit_date": "2026-06-04"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "EICHERMOT",
@@ -1424,7 +2096,31 @@
     "exit_reason": "target_t1",
     "days_held": 1,
     "pnl_pct": -1.1635406313100782,
-    "last_checked": "2026-05-27"
+    "last_checked": "2026-05-27",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 7336.0,
+        "exit_reason": "target_t1",
+        "exit_date": "2026-05-27"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "TORNTPHARM",
@@ -1468,8 +2164,32 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
-    "stoploss_source": "best_stoploss"
+    "last_checked": "2026-07-17",
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "POWERINDIA",
@@ -1509,7 +2229,31 @@
     "days_held": 37,
     "pnl_pct": -13.140257516733577,
     "last_checked": "2026-07-03",
-    "stoploss_source": "best_stoploss"
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 31094.913999999997,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-07-03"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "JPPOWER",
@@ -1558,7 +2302,31 @@
     "exit_reason": "stoploss",
     "days_held": 3,
     "pnl_pct": -9.992039441818035,
-    "last_checked": "2026-06-01"
+    "last_checked": "2026-06-01",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 19.3594,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-06-01"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "COALINDIA",
@@ -1602,8 +2370,32 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
-    "stoploss_source": "best_stoploss"
+    "last_checked": "2026-07-17",
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "ATGL",
@@ -1652,7 +2444,31 @@
     "exit_reason": "target_t3",
     "days_held": 3,
     "pnl_pct": 1.1171388983360453,
-    "last_checked": "2026-06-01"
+    "last_checked": "2026-06-01",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 795.95,
+        "exit_reason": "target_t3",
+        "exit_date": "2026-06-01"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "AIAENG",
@@ -1701,7 +2517,31 @@
     "hit_targets": [
       "T3",
       "T4"
-    ]
+    ],
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 4950.790000000001,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-06-29"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "JKTYRE",
@@ -1742,7 +2582,31 @@
     "pnl_pct": -3.6112647700109357,
     "last_checked": "2026-07-08",
     "stoploss_source": "weekly_fib_0.786",
-    "original_stoploss": 406.83259999999996
+    "original_stoploss": 406.83259999999996,
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 406.83259999999996,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-07-08"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "ZEEL",
@@ -1791,7 +2655,31 @@
     "exit_reason": "target_t1",
     "days_held": 7,
     "pnl_pct": 22.54791768608646,
-    "last_checked": "2026-06-05"
+    "last_checked": "2026-06-05",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 109.85,
+        "exit_reason": "target_t1",
+        "exit_date": "2026-06-05"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "PINELABS",
@@ -1861,7 +2749,31 @@
     "hit_targets": [
       "P3",
       "P6"
-    ]
+    ],
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 151.94971528000002,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-06-16"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "EXIDEIND",
@@ -1900,8 +2812,32 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
-    "stoploss_source": "best_stoploss"
+    "last_checked": "2026-07-17",
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "GRANULES",
@@ -1940,8 +2876,32 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
-    "stoploss_source": "best_stoploss"
+    "last_checked": "2026-07-17",
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "CUMMINSIND",
@@ -1980,8 +2940,32 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
-    "stoploss_source": "best_stoploss"
+    "last_checked": "2026-07-17",
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "GILLETTE",
@@ -2027,7 +3011,31 @@
     "pnl_pct": -8.730451865524014,
     "last_checked": "2026-06-29",
     "stoploss_source": "weekly_fib_0.786",
-    "original_stoploss": 7573.866
+    "original_stoploss": 7573.866,
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 7573.866,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-06-29"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "FEDERALBNK",
@@ -2066,8 +3074,32 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
-    "stoploss_source": "best_stoploss"
+    "last_checked": "2026-07-17",
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "WIPRO",
@@ -2116,8 +3148,32 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
-    "stoploss_source": "best_stoploss"
+    "last_checked": "2026-07-17",
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "INFY",
@@ -2158,7 +3214,31 @@
     "pnl_pct": -5.000000000000016,
     "last_checked": "2026-06-15",
     "stoploss_source": "weekly_fib_clamped",
-    "original_stoploss": 1138.8936679999997
+    "original_stoploss": 1138.8936679999997,
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 1138.8936679999997,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-06-15"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "JUBLFOOD",
@@ -2199,7 +3279,31 @@
     "pnl_pct": -5.000000000000004,
     "last_checked": "2026-06-30",
     "stoploss_source": "weekly_fib_clamped",
-    "original_stoploss": 414.10382200000004
+    "original_stoploss": 414.10382200000004,
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 414.10382200000004,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-06-30"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "GMRAIRPORT",
@@ -2248,7 +3352,31 @@
     "exit_reason": "target_t2",
     "days_held": 4,
     "pnl_pct": -2.8764128162846347,
-    "last_checked": "2026-06-08"
+    "last_checked": "2026-06-08",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 100.3325,
+        "exit_reason": "target_t2",
+        "exit_date": "2026-06-08"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "HYUNDAI",
@@ -2287,8 +3415,32 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
-    "stoploss_source": "best_stoploss"
+    "last_checked": "2026-07-17",
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "ALKEM",
@@ -2332,8 +3484,32 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
-    "stoploss_source": "best_stoploss"
+    "last_checked": "2026-07-17",
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "KALYANKJIL",
@@ -2377,7 +3553,31 @@
     "original_stoploss": 345.09212649999995,
     "hit_targets": [
       "T1"
-    ]
+    ],
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 477.35,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-07-13"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "INDUSTOWER",
@@ -2426,8 +3626,32 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
-    "stoploss_source": "best_stoploss"
+    "last_checked": "2026-07-17",
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "NETWEB",
@@ -2466,8 +3690,32 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
-    "stoploss_source": "best_stoploss"
+    "last_checked": "2026-07-17",
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "HBLENGINE",
@@ -2506,8 +3754,32 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
-    "stoploss_source": "best_stoploss"
+    "last_checked": "2026-07-17",
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "NUVOCO",
@@ -2555,7 +3827,31 @@
     "stoploss_source": "trailed_t1",
     "hit_targets": [
       "T1"
-    ]
+    ],
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 376.875,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-07-16"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "ANTHEM",
@@ -2599,8 +3895,32 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
-    "stoploss_source": "best_stoploss"
+    "last_checked": "2026-07-17",
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "TEGA",
@@ -2649,7 +3969,31 @@
     "exit_reason": "target_t1",
     "days_held": 1,
     "pnl_pct": 6.975604139260461,
-    "last_checked": "2026-06-02"
+    "last_checked": "2026-06-02",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 1830.6,
+        "exit_reason": "target_t1",
+        "exit_date": "2026-06-02"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "OBEROIRLTY",
@@ -2697,7 +4041,31 @@
     "stoploss_source": "trailed_t2",
     "hit_targets": [
       "T2"
-    ]
+    ],
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 1770.5284000000001,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-06-25"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "NSLNISP",
@@ -2742,7 +4110,31 @@
     "days_held": 23,
     "pnl_pct": -14.102645737231201,
     "last_checked": "2026-06-25",
-    "stoploss_source": "best_stoploss"
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 43.70746,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-06-25"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "PTCIL",
@@ -2787,7 +4179,31 @@
     "days_held": 16,
     "pnl_pct": -5.133011709340652,
     "last_checked": "2026-06-18",
-    "stoploss_source": "best_stoploss"
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 17519.784,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-06-18"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "NMDC",
@@ -2832,7 +4248,31 @@
     "days_held": 21,
     "pnl_pct": -7.895790607311326,
     "last_checked": "2026-06-23",
-    "stoploss_source": "best_stoploss"
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 84.73671999999999,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-06-23"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "NBCC",
@@ -2881,7 +4321,31 @@
     "exit_reason": "target_t1",
     "days_held": 1,
     "pnl_pct": -2.3634874394615646,
-    "last_checked": "2026-06-03"
+    "last_checked": "2026-06-03",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 101.515,
+        "exit_reason": "target_t1",
+        "exit_date": "2026-06-03"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "CPPLUS",
@@ -2952,7 +4416,31 @@
       "P3",
       "P6",
       "P9"
-    ]
+    ],
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 3450.395632200001,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-06-18"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "ZENSARTECH",
@@ -2993,7 +4481,31 @@
     "pnl_pct": -2.81619592318747,
     "last_checked": "2026-07-06",
     "stoploss_source": "weekly_fib_0.786",
-    "original_stoploss": 505.6174
+    "original_stoploss": 505.6174,
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 505.6174,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-07-06"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "NEWGEN",
@@ -3059,7 +4571,31 @@
     "pnl_pct": -5.000000000000004,
     "last_checked": "2026-06-15",
     "stoploss_source": "weekly_fib_clamped",
-    "original_stoploss": 468.336396
+    "original_stoploss": 468.336396,
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 468.336396,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-06-15"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "JMFINANCIL",
@@ -3098,9 +4634,33 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
+    "last_checked": "2026-07-17",
     "stoploss_source": "weekly_fib_0.786",
-    "original_stoploss": 120.5386
+    "original_stoploss": 120.5386,
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "BSOFT",
@@ -3144,8 +4704,32 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
-    "stoploss_source": "best_stoploss"
+    "last_checked": "2026-07-17",
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "CONCORDBIO",
@@ -3179,9 +4763,33 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
+    "last_checked": "2026-07-17",
     "stoploss_source": "weekly_fib_0.786",
-    "original_stoploss": 1087.152
+    "original_stoploss": 1087.152,
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "ZENTEC",
@@ -3225,8 +4833,32 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
-    "stoploss_source": "best_stoploss"
+    "last_checked": "2026-07-17",
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "PWL",
@@ -3297,7 +4929,31 @@
       "P3",
       "P6",
       "P9"
-    ]
+    ],
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 110.36536016000001,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-06-17"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "VOLTAS",
@@ -3351,7 +5007,31 @@
     "original_stoploss": 1218.521623,
     "hit_targets": [
       "T1"
-    ]
+    ],
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 1384.65,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-07-16"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "ZEEL",
@@ -3399,7 +5079,31 @@
     "stoploss_source": "trailed_t3",
     "hit_targets": [
       "T3"
-    ]
+    ],
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 115.69999999999999,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-06-22"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "GODIGIT",
@@ -3449,7 +5153,31 @@
     "days_held": 17,
     "pnl_pct": -8.692027664554358,
     "last_checked": "2026-07-16",
-    "stoploss_source": "best_stoploss"
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 295.5,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-07-16"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "RITES",
@@ -3488,8 +5216,32 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
-    "stoploss_source": "best_stoploss"
+    "last_checked": "2026-07-17",
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "CCL",
@@ -3528,8 +5280,32 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
-    "stoploss_source": "best_stoploss"
+    "last_checked": "2026-07-17",
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "FORTIS",
@@ -3573,8 +5349,32 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
-    "stoploss_source": "best_stoploss"
+    "last_checked": "2026-07-17",
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "PFIZER",
@@ -3625,7 +5425,31 @@
     "pnl_pct": -1.425724693809871,
     "last_checked": "2026-07-03",
     "stoploss_source": "weekly_fib_0.786",
-    "original_stoploss": 4580.8042
+    "original_stoploss": 4580.8042,
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 4580.8042,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-07-03"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "BELRISE",
@@ -3694,7 +5518,31 @@
     "original_stoploss": 172.6375,
     "hit_targets": [
       "P3"
-    ]
+    ],
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 239.37901636,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-06-16"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "BANKBARODA",
@@ -3747,7 +5595,31 @@
     "stoploss_source": "trailed_t1",
     "hit_targets": [
       "T1"
-    ]
+    ],
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 283.25,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-06-22"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "EIDPARRY",
@@ -3788,7 +5660,31 @@
     "pnl_pct": -4.999999999999993,
     "last_checked": "2026-06-19",
     "stoploss_source": "weekly_fib_clamped",
-    "original_stoploss": 703.523678
+    "original_stoploss": 703.523678,
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 703.523678,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-06-19"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "CARTRADE",
@@ -3832,7 +5728,31 @@
     "hit_targets": [
       "T1",
       "T2"
-    ]
+    ],
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 2644.7290000000003,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-06-18"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "AEGISLOG",
@@ -3882,7 +5802,31 @@
       "T3",
       "T4",
       "T5"
-    ]
+    ],
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 1142.1115999999997,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-06-25"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "BLUEJET",
@@ -3921,8 +5865,32 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
-    "stoploss_source": "best_stoploss"
+    "last_checked": "2026-07-17",
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "AAVAS",
@@ -3961,9 +5929,33 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
+    "last_checked": "2026-07-17",
     "stoploss_source": "weekly_fib_0.786",
-    "original_stoploss": 1169.1976
+    "original_stoploss": 1169.1976,
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "APARINDS",
@@ -4002,8 +5994,32 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
-    "stoploss_source": "best_stoploss"
+    "last_checked": "2026-07-17",
+    "stoploss_source": "best_stoploss",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "AIIL",
@@ -4073,7 +6089,31 @@
     "hit_targets": [
       "P3",
       "P6"
-    ]
+    ],
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 548.4978268,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-06-17"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "TTML",
@@ -4107,9 +6147,33 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
+    "last_checked": "2026-07-17",
     "stoploss_source": "weekly_fib_0.786",
-    "original_stoploss": 36.24472
+    "original_stoploss": 36.24472,
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "GLAXO",
@@ -4148,9 +6212,33 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16",
+    "last_checked": "2026-07-17",
     "stoploss_source": "weekly_fib_clamped",
-    "original_stoploss": 2015.425
+    "original_stoploss": 2015.425,
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "AARTIIND",
@@ -4192,7 +6280,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "FIVESTAR",
@@ -4234,7 +6346,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "LTFOODS",
@@ -4286,7 +6422,31 @@
     "exit_reason": "stoploss",
     "days_held": 8,
     "pnl_pct": -4.6122721496795975,
-    "last_checked": "2026-06-24"
+    "last_checked": "2026-06-24",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 374.88349999999997,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-06-24"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "TBOTEK",
@@ -4335,7 +6495,31 @@
     "exit_reason": "stoploss",
     "days_held": 2,
     "pnl_pct": 0.5372426365622296,
-    "last_checked": "2026-06-19"
+    "last_checked": "2026-06-19",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 1474.2508,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-06-19"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "THELEELA",
@@ -4406,7 +6590,31 @@
     "exit_reason": "stoploss",
     "days_held": 6,
     "pnl_pct": 9.000000000000007,
-    "last_checked": "2026-06-22"
+    "last_checked": "2026-06-22",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 501.74972650000007,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-06-22"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "CHALET",
@@ -4448,7 +6656,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "LALPATHLAB",
@@ -4495,7 +6727,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "FACT",
@@ -4542,7 +6798,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "PGEL",
@@ -4584,7 +6864,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "KPIL",
@@ -4631,7 +6935,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "IDBI",
@@ -4668,7 +6996,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "UCOBANK",
@@ -4705,7 +7057,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "YESBANK",
@@ -4752,7 +7128,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "IOB",
@@ -4789,7 +7189,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "DOMS",
@@ -4843,7 +7267,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "TRENT",
@@ -4885,7 +7333,31 @@
     "exit_reason": "stoploss",
     "days_held": 19,
     "pnl_pct": 0.40258497107708013,
-    "last_checked": "2026-07-07"
+    "last_checked": "2026-07-07",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 3069.0519999999997,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-07-07"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "ICICIAMC",
@@ -4955,7 +7427,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "NIACL",
@@ -5002,7 +7498,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "TATACAP",
@@ -5069,7 +7589,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "TARIL",
@@ -5116,7 +7660,31 @@
     "exit_reason": "stoploss",
     "days_held": 16,
     "pnl_pct": -9.508950876499245,
-    "last_checked": "2026-07-08"
+    "last_checked": "2026-07-08",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 321.2977,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-07-08"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "LGEINDIA",
@@ -5183,7 +7751,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "AADHARHFC",
@@ -5230,7 +7822,31 @@
     "exit_reason": "stoploss",
     "days_held": 1,
     "pnl_pct": -2.7183178145281484,
-    "last_checked": "2026-06-23"
+    "last_checked": "2026-06-23",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 497.5591,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-06-23"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "DELHIVERY",
@@ -5277,7 +7893,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "NCC",
@@ -5324,7 +7964,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "KIRLOSENG",
@@ -5366,7 +8030,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "PPLPHARMA",
@@ -5415,7 +8103,31 @@
     "exit_reason": "stoploss",
     "days_held": 1,
     "pnl_pct": 1.1049096482198761,
-    "last_checked": "2026-06-25"
+    "last_checked": "2026-06-25",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 171.93852,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-06-25"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "JSWINFRA",
@@ -5464,7 +8176,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "ZFCVINDIA",
@@ -5511,7 +8247,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "KPRMILL",
@@ -5558,7 +8318,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "PINELABS",
@@ -5627,7 +8411,31 @@
     "exit_reason": "stoploss",
     "days_held": 20,
     "pnl_pct": 3.0000000000000027,
-    "last_checked": "2026-07-15"
+    "last_checked": "2026-07-15",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 163.50980140000001,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-07-15"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "TRIDENT",
@@ -5674,7 +8482,31 @@
     "exit_reason": "stoploss",
     "days_held": 13,
     "pnl_pct": -5.405856284727961,
-    "last_checked": "2026-07-08"
+    "last_checked": "2026-07-08",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 25.402720000000002,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-07-08"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "MSUMI",
@@ -5726,7 +8558,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "HEXT",
@@ -5796,7 +8652,31 @@
     "exit_reason": "stoploss",
     "days_held": 2,
     "pnl_pct": 6.000000000000005,
-    "last_checked": "2026-07-03"
+    "last_checked": "2026-07-03",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 561.30074,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-07-03"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "CHOICEIN",
@@ -5838,7 +8718,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "NTPC",
@@ -5895,7 +8799,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "LTF",
@@ -5942,7 +8870,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "LAURUSLABS",
@@ -5984,7 +8936,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "BHARATFORG",
@@ -6026,7 +9002,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "AJANTPHARM",
@@ -6073,7 +9073,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "JBCHEPHARM",
@@ -6120,7 +9144,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-16",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "CANFINHOME",
@@ -6174,7 +9222,31 @@
     "exit_reason": "stoploss",
     "days_held": 7,
     "pnl_pct": 1.4317335648321716,
-    "last_checked": "2026-07-08"
+    "last_checked": "2026-07-08",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 895.2909999999999,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-07-08"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "CGCL",
@@ -6223,7 +9295,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "VIJAYA",
@@ -6265,7 +9361,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "MARUTI",
@@ -6317,7 +9437,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "RPOWER",
@@ -6384,7 +9528,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "RHIM",
@@ -6426,7 +9594,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "RAMCOCEM",
@@ -6478,7 +9670,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "SAGILITY",
@@ -6520,7 +9736,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "ABFRL",
@@ -6587,7 +9827,31 @@
     "exit_reason": "stoploss",
     "days_held": 5,
     "pnl_pct": -5.524476166324355,
-    "last_checked": "2026-07-08"
+    "last_checked": "2026-07-08",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 58.87712,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-07-08"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "SUMICHEM",
@@ -6634,7 +9898,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "BAJAJHFL",
@@ -6701,7 +9989,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "AEGISVOPAK",
@@ -6750,7 +10062,31 @@
     "exit_reason": "stoploss",
     "days_held": 7,
     "pnl_pct": 17.36534634386655,
-    "last_checked": "2026-07-13"
+    "last_checked": "2026-07-13",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 295.145,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-07-13"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "ABDL",
@@ -6792,7 +10128,31 @@
     "exit_reason": "stoploss",
     "days_held": 7,
     "pnl_pct": -11.483077288079624,
-    "last_checked": "2026-07-14"
+    "last_checked": "2026-07-14",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 613.0661,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-07-14"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "WELCORP",
@@ -6834,7 +10194,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "PHOENIXLTD",
@@ -6881,7 +10265,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "OBEROIRLTY",
@@ -6928,7 +10336,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "SIGNATURE",
@@ -6970,7 +10402,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "LODHA",
@@ -7009,7 +10465,31 @@
     "exit_reason": "stoploss",
     "days_held": 4,
     "pnl_pct": 5.060975121826705,
-    "last_checked": "2026-07-13"
+    "last_checked": "2026-07-13",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 1194.7636,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-07-13"
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "BAYERCROP",
@@ -7066,7 +10546,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "J&KBANK",
@@ -7113,7 +10617,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "KALYANKJIL",
@@ -7155,7 +10683,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "ANURAS",
@@ -7197,7 +10749,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "SONATSOFTW",
@@ -7264,7 +10840,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "CANHLIFE",
@@ -7331,7 +10931,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "LTM",
@@ -7398,7 +11022,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "BIOCON",
@@ -7445,7 +11093,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "SBICARD",
@@ -7487,7 +11159,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "CONCOR",
@@ -7529,7 +11225,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "DIVISLAB",
@@ -7576,7 +11296,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "ATHERENERG",
@@ -7643,7 +11387,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "ICICIPRULI",
@@ -7695,7 +11463,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "LTTS",
@@ -7742,7 +11534,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "JUBLPHARMA",
@@ -7789,7 +11605,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "FLUOROCHEM",
@@ -7836,7 +11676,31 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "MRPL",
@@ -7866,19 +11730,43 @@
       {
         "name": "MAX",
         "ratio": 0.66,
-        "price": 287.72780000000006
+        "price": 286.25668808000006
       }
     ],
     "hit_targets": [],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-07-17",
+    "fill_price": 172.443788,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "RKFORGE",
@@ -7913,19 +11801,43 @@
       {
         "name": "MAX",
         "ratio": 0.66,
-        "price": 978.9020000000002
+        "price": 974.5131924000001
       }
     ],
     "hit_targets": [],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-07-17",
+    "fill_price": 587.05614,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "ABB",
@@ -7955,19 +11867,43 @@
       {
         "name": "MAX",
         "ratio": 0.66,
-        "price": 12728.050000000001
+        "price": 12758.026446000002
       }
     ],
     "hit_targets": [],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-07-17",
+    "fill_price": 7685.5581,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   },
   {
     "symbol": "SCHAEFFLER",
@@ -8014,6 +11950,30 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-16"
+    "last_checked": "2026-07-17",
+    "strategy_version": 1,
+    "tranches": [
+      {
+        "name": "FULL",
+        "qty_pct": 100,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "score_total": null,
+    "score_vol": null,
+    "score_delivery": null,
+    "score_trend": null,
+    "score_rs": null,
+    "score_momentum": null,
+    "score_sector": null,
+    "rs_rank_pct": null,
+    "reward_risk": null,
+    "atr_14_at_entry": null,
+    "dynamic_sl_source": null,
+    "supertrend_active": null
   }
 ]

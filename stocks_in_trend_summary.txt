@@ -3,113 +3,14 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-07-16 20:25 IST
+NSE bhavcopy analysis — generated 2026-07-18 21:07 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 4
-Recommendations: 4 BUY  +  5 SELL
+Pure_on_Volume hits (BUY): 2
+Recommendations: 0 BUY  +  1 SELL
 
-Top 4 BUY candidates:
+Top 1 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
-  • RKFORGE         (RKFORGE                       )  close ₹589.70  +4.65%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +6)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹580.10
-          - Strict stop-loss:      ₹566.35
-          - Best stop-loss:        ₹546.08
-          - Target-3 (150%):       ₹717.92
-          - Target-4 (161.8%):     ₹738.20
-          - Target-5 (261.8%):     ₹910.05
-          - Swing anchor:          low ₹460.15  ↔  high ₹632.00
-        PROS (signals):
-          - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 4.1× the 30d avg
-          - Delivery % rising — recent 66% vs 30d 60% (+7pp accumulation)
-          - Volume highest in 1 year (HVY)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹39.2cr daily turnover)
-
-  • MRPL            (MRPL                          )  close ₹173.33  +10.07%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +4)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹170.40
-          - Strict stop-loss:      ₹168.80
-          - Best stop-loss:        ₹155.46
-          - Target-3 (150%):       ₹268.54
-          - Target-4 (161.8%):     ₹281.88
-          - Target-5 (261.8%):     ₹394.96
-          - Swing anchor:          low ₹98.92  ↔  high ₹212.00
-        PROS (signals):
-          - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 3.9× the 30d avg
-          - Volume highest in 4 years (HVE) — strongest possible breakout signal
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹207.8cr daily turnover)
-        CONS (signals):
-          - Delivery % falling — recent 24% vs 30d 31% (-8pp distribution)
-
-  • ABB             (ABB                           )  close ₹7667.50  +6.43%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +6)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹7594.43
-          - Strict stop-loss:      ₹7140.91
-          - Best stop-loss:        ₹6949.81
-          - Target-3 (150%):       ₹9415.00
-          - Target-4 (161.8%):     ₹9790.83
-          - Target-5 (261.8%):     ₹12975.83
-          - Swing anchor:          low ₹4637.50  ↔  high ₹7822.50
-        PROS (signals):
-          - Trading near 52-week high (92% of range)
-          - Bullish SMA stack (close > 20 > 50 > 200)
-          - Volume surge — 5d avg is 2.1× the 30d avg
-          - Volume highest in 3 months (HVQ)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹342.6cr daily turnover)
-
-  • SCHAEFFLER      (SCHAEFFLER                    )  close ₹4131.70  +0.30%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +5)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹4159.87
-          - Strict stop-loss:      ₹4091.04
-          - Best stop-loss:        ₹3981.70
-          - Target-3 (150%):       ₹4908.30
-          - Target-4 (161.8%):     ₹5017.64
-          - Target-5 (261.8%):     ₹5944.24
-          - Swing anchor:          low ₹3518.40  ↔  high ₹4445.00
-        PROS (signals):
-          - Trading above the 200-day SMA
-          - Delivery % rising — recent 67% vs 30d 57% (+10pp accumulation)
-          - Volume highest in 3 months (HVQ)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹29.8cr daily turnover)
-
-Top 5 SELL candidates (high-volume distribution):
-------------------------------------------------------------
-  • HDFCAMC         (HDFCAMC                       )  close ₹2602.20  -4.65%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -4)
-        PROS (signals):
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹244.2cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (11% of range)
-          - 56% off 52-week high
-          - -49% over the year
-          - Trading below the 200-day SMA
-          - Closed near the day's low (CLV -0.79) — sellers dumped into the volume
-          - High-volume distribution — HV breakout on a down day
-
-  • RBLBANK         (RBLBANK                       )  close ₹362.80  -2.68%  bias STRONG_SELL
-        → HOLD / MIXED (tech=STRONG_SELL, signal net 3)
-        PROS (signals):
-          - Trading near 52-week high (86% of range)
-          - Trading above the 200-day SMA
-          - Delivery % rising — recent 55% vs 30d 46% (+8pp accumulation)
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹206.5cr daily turnover)
-        CONS (signals):
-          - Closed near the day's low (CLV -0.76) — sellers dumped into the volume
-          - High-volume distribution — HV breakout on a down day
-
   • JBCHEPHARM      (JBCHEPHARM                    )  close ₹2408.90  -3.87%  bias STRONG_SELL
         → STRONG BUY (tech=STRONG_SELL, signal net +6)
         PROS (signals):
@@ -120,31 +21,6 @@ Top 5 SELL candidates (high-volume distribution):
           - Delivery % rising — recent 72% vs 30d 61% (+10pp accumulation)
           - Volume highest in 1 year (HVY)
           - Healthy liquidity (~₹104.0cr daily turnover)
-        CONS (signals):
-          - High-volume distribution — HV breakout on a down day
-
-  • ICICIGI         (ICICIGI                       )  close ₹1623.80  -10.51%  bias SELL
-        → HOLD / MIXED (tech=SELL, signal net 0)
-        PROS (signals):
-          - Volume surge — 5d avg is 3.1× the 30d avg
-          - Volume highest in 4 years (HVE) — strongest possible breakout signal
-          - Healthy liquidity (~₹146.3cr daily turnover)
-        CONS (signals):
-          - Lower third of 52-week range (15%)
-          - Trading below the 200-day SMA
-          - High-volume distribution — HV breakout on a down day
-
-  • TORNTPHARM      (TORNTPHARM                    )  close ₹4987.60  -0.60%  bias SELL
-        → STRONG BUY (tech=SELL, signal net +7)
-        PROS (signals):
-          - Trading near 52-week high (94% of range)
-          - +50% over the year
-          - Bullish SMA stack (close > 20 > 50 > 200)
-          - Low volatility (14% annualised) with uptrend
-          - Volume surge — 5d avg is 2.4× the 30d avg
-          - Delivery % rising — recent 64% vs 30d 57% (+7pp accumulation)
-          - Volume highest in 4 years (HVE) — strongest possible breakout signal
-          - Healthy liquidity (~₹311.7cr daily turnover)
         CONS (signals):
           - High-volume distribution — HV breakout on a down day
 

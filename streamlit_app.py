@@ -558,6 +558,32 @@ def load_positions() -> list[dict]:
     return data if isinstance(data, list) else []
 
 
+def _tranches_summary(p: dict) -> tuple[str, int, int]:
+    """Returns (display_str, exited_qty_pct, open_qty_pct). Wave 1 v2
+    positions carry a `tranches: [{name, qty_pct, status, exit_price}]`
+    list; legacy v1 records auto-migrate to a single 100 % `FULL`
+    tranche in the pipeline loader."""
+    tr = p.get("tranches") or []
+    if not tr:
+        return ("", 0, 100)
+    parts = []
+    exited_qty = 0
+    open_qty = 0
+    for t in tr:
+        name = t.get("name") or "?"
+        qp = int(t.get("qty_pct") or 0)
+        status = t.get("status") or "open"
+        if status == "exited":
+            xp = t.get("exit_price")
+            xp_str = f"@₹{xp:,.2f}" if isinstance(xp, (int, float)) else ""
+            parts.append(f"{name}:{qp}% ✓{xp_str}")
+            exited_qty += qp
+        else:
+            parts.append(f"{name}:{qp}%")
+            open_qty += qp
+    return (" · ".join(parts), exited_qty, open_qty)
+
+
 def _positions_to_frame(positions: list[dict], status: str) -> pd.DataFrame:
     """Flatten the JSON position records into a tidy DataFrame for the
     selected status ('open', 'pending', 'closed')."""
@@ -576,9 +602,13 @@ def _positions_to_frame(positions: list[dict], status: str) -> pd.DataFrame:
             for t in targets if t.get("price") is not None
         )
         hit_str = ", ".join(sorted(already_hit)) if already_hit else ""
+        tr_str, exited_pct, open_pct = _tranches_summary(p)
         rows.append({
             "Symbol":     p.get("symbol"),
             "Name":       p.get("name"),
+            "V":          p.get("strategy_version") or 1,
+            "Score":      p.get("score_total"),
+            "R/R":        p.get("reward_risk"),
             "Suggested":  p.get("suggested_on"),
             "Entry":      p.get("entry"),
             "Fill ≥":     p.get("fill_trigger"),
@@ -588,6 +618,9 @@ def _positions_to_frame(positions: list[dict], status: str) -> pd.DataFrame:
             "SL src":     p.get("stoploss_source") or "",
             "Targets":    target_prices,
             "Hit":        hit_str,
+            "Tranches":   tr_str,
+            "Out %":      exited_pct,
+            "Open %":     open_pct,
             "Exit date":  p.get("exit_date"),
             "Exit px":    p.get("exit_price"),
             "Exit why":   p.get("exit_reason"),
@@ -622,6 +655,8 @@ def _signals_to_trades_frame(signals: list[dict], side: str) -> pd.DataFrame:
     rows = []
     for s in signals:
         tp = s.get("trade_plan") or {}
+        # Wave 1: score + R/R may be in the parsed summary (if the pipeline
+        # exposes them) or absent (older summary shapes) — fall back to None.
         rows.append({
             "Symbol":   s.get("symbol", ""),
             "Name":     s.get("name", ""),
@@ -630,6 +665,14 @@ def _signals_to_trades_frame(signals: list[dict], side: str) -> pd.DataFrame:
             "Verdict":  s.get("verdict") or s.get("bias", ""),
             "Bias":     s.get("bias", ""),
             "Net":      s.get("net", 0),
+            # Wave 1 diagnostic columns — surface when present
+            "Score":    s.get("score_total"),
+            "R/R":      s.get("reward_risk"),
+            "Vol":      s.get("score_vol"),
+            "Deliv":    s.get("score_delivery"),
+            "Trend":    s.get("score_trend"),
+            "RS":       s.get("score_rs"),
+            "Mom":      s.get("score_momentum"),
             "Entry":    _price_to_float(tp.get("entry")),
             "Strict SL":_price_to_float(tp.get("strict_sl")),
             "Best SL":  _price_to_float(tp.get("best_sl")),
@@ -777,9 +820,9 @@ with pos_tab:
             st.caption("No open positions right now.")
         else:
             open_cols = [
-                "Symbol", "Name", "Suggested", "Entry",
+                "Symbol", "Name", "V", "Score", "R/R", "Suggested", "Entry",
                 "Fill date", "Fill px", "Stop loss", "SL src",
-                "Targets", "Hit", "Days",
+                "Targets", "Hit", "Tranches", "Out %", "Days", "P&L %",
             ]
             view = open_df[[c for c in open_cols if c in open_df.columns]]
             st.dataframe(
@@ -791,6 +834,21 @@ with pos_tab:
                     "Fill px":   st.column_config.NumberColumn(format="₹%.2f"),
                     "Stop loss": st.column_config.NumberColumn(format="₹%.2f"),
                     "Days":      st.column_config.NumberColumn(format="%d"),
+                    "Score":     st.column_config.NumberColumn(format="%.0f",
+                                    help="Weighted 0–100 (Wave 1 scoring: "
+                                         "vol 25 + delivery 15 + trend 25 + "
+                                         "RS 15 + momentum 15 + sector 5). "
+                                         "≥ 80 = passes Strong_Buy gate."),
+                    "R/R":       st.column_config.NumberColumn(format="%.2f",
+                                    help="(T1 - entry) / (entry - dynamic SL); "
+                                         "Wave 1 requires ≥ 3.0"),
+                    "Out %":     st.column_config.NumberColumn(format="%d %%",
+                                    help="Percent of qty already exited via "
+                                         "partial-target tranches"),
+                    "V":         st.column_config.NumberColumn(format="%d",
+                                    help="Strategy version — 2 = Wave 1 rules "
+                                         "(trend + score + tranches); 1 = legacy"),
+                    "P&L %":     st.column_config.NumberColumn(format="%.2f %%"),
                 },
             )
 
@@ -801,8 +859,8 @@ with pos_tab:
             st.caption("No pending signals.")
         else:
             pend_cols = [
-                "Symbol", "Name", "Suggested", "Entry",
-                "Fill ≥", "Stop loss", "Targets",
+                "Symbol", "Name", "V", "Score", "R/R", "Suggested", "Entry",
+                "Fill ≥", "Stop loss", "SL src", "Targets", "Tranches",
             ]
             view = pend_df[[c for c in pend_cols if c in pend_df.columns]]
             st.dataframe(
@@ -813,6 +871,9 @@ with pos_tab:
                     "Entry":     st.column_config.NumberColumn(format="₹%.2f"),
                     "Fill ≥":    st.column_config.NumberColumn(format="₹%.2f"),
                     "Stop loss": st.column_config.NumberColumn(format="₹%.2f"),
+                    "Score":     st.column_config.NumberColumn(format="%.0f"),
+                    "R/R":       st.column_config.NumberColumn(format="%.2f"),
+                    "V":         st.column_config.NumberColumn(format="%d"),
                 },
             )
 
@@ -823,9 +884,9 @@ with pos_tab:
             st.caption("No closed positions yet.")
         else:
             closed_cols = [
-                "Symbol", "Name", "Suggested", "Entry",
+                "Symbol", "Name", "V", "Score", "R/R", "Suggested", "Entry",
                 "Fill date", "Fill px", "Exit date", "Exit px",
-                "Exit why", "Days", "P&L %",
+                "Exit why", "Tranches", "Days", "P&L %",
             ]
             view = closed_df[[c for c in closed_cols if c in closed_df.columns]]
             # Sort by most recent exit
@@ -942,17 +1003,16 @@ with raw_tab:
 # ─────────────────────────────────────────── Footer ────────────────────────────
 st.divider()
 st.caption(
-    "**Methodology.** BUY/SELL recommendations are based on the *Pure_on_Volume* "
-    "screen — HVQ / HVY / HVE volume breakouts gated by liquidity. Pros & cons "
-    "(signals) are derived from price/volume panel data: 52-week position, SMA "
-    "stack, returns, volatility, delivery & volume trend, CLV. Pros & cons "
-    "(screener.in) are scraped from the company's screener.in page. "
-    "**BUY trade plan** is anchored to the most recent ChartPrime zigzag swing "
-    "(lookback = 100 bars). Entry = fib-0.55 of today's range. Strict SL = "
-    "closest fib retracement level (0.236 / 0.382 / 0.500 / 0.618 / 0.726 / "
-    "0.786) below the entry zone (so SL < Entry by construction); Best SL = "
-    "the next fib level below the strict SL. Targets already cleared by "
-    "today's close are dropped. Targets: T1 = 50.0 % retracement, T2 = 61.8 % retracement, "
-    "T3 = 150 % extension, T4 = 161.8 % extension (golden), T5 = 261.8 % "
-    "extension (deep)."
+    "**Methodology (Wave 1 – v2).** BUY signals require ALL of: "
+    "HVQ/HVY/HVE volume breakout · trend (close > EMA-50, EMA-50 > EMA-200, "
+    "ADX ≥ 20, weekly bar bullish) · volume quality (vol ≥ 2.5× 20-day avg, "
+    "delivery ≥ 40 % and rising, OBV new 20-day high, CMF > 0.10) · not "
+    "extended (gap-up ≤ 5 %, ATR ≤ 8 % of price, close ≤ 20-EMA × 1.15) · "
+    "R/R ≥ 3.0 vs T1 · weighted score ≥ 80/100 (vol 25 · delivery 15 · trend "
+    "25 · RS-rank proxy 15 · momentum 15 · sector 5). "
+    "**Dynamic SL** = max(entry − ATR-14 × 1.5, swing_low, weekly-fib-0.786). "
+    "**Partial-exit tranches:** 25 % at T1 (SL → breakeven), 25 % at T2 "
+    "(SuperTrend(10, 3) trail activates), 30 % at T3, 20 % trails on "
+    "SuperTrend. All exits capped at fill × 1.66 (+66 %). Legacy trades "
+    "(strategy_version = 1) keep their original one-shot exit rules."
 )
