@@ -3,14 +3,34 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-07-20 09:11 IST
+NSE bhavcopy analysis — generated 2026-07-20 22:13 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 2
-Recommendations: 0 BUY  +  1 SELL
+Pure_on_Volume hits (BUY): 3
+Recommendations: 0 BUY  +  2 SELL
 
-Top 1 SELL candidates (high-volume distribution):
+Top 2 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
+  • AXISBANK        (Axis Bank Ltd                 )  close ₹1256.00  -5.46%  bias STRONG_SELL
+        → SELL-LEAN (tech=STRONG_SELL, signal net 0)
+        PROS (signals):
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹892.7cr daily turnover)
+        CONS (signals):
+          - Trading below the 200-day SMA
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 3,90,605 Cr. | P/E 14.1 | ROCE 6.24 % | ROE 13.1 % | DivYield 0.08 % | BookVal ₹ 712 | PEG 0.47 (5Y) | PEGY 0.47
+        PROS (screener.in):
+          - Company has delivered good profit growth of 29.6% CAGR over last 5 years
+          - Company's working capital requirements have reduced from 73.7 days to 43.2 days
+        CONS (screener.in):
+          - Company has low interest coverage ratio.
+          - Promoter holding is low: 7.87%
+          - Contingent liabilities of Rs.31,22,124 Cr.
+          - Company might be capitalizing the interest cost
+          - Earnings include an other income of Rs.29,292 Cr.
+        https://www.screener.in/company/AXISBANK/consolidated/
+
   • JBCHEPHARM      (JBCHEPHARM                    )  close ₹2408.90  -3.87%  bias STRONG_SELL
         → STRONG BUY (tech=STRONG_SELL, signal net +6)
         PROS (signals):
