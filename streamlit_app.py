@@ -264,6 +264,24 @@ def parse_block(block: str) -> dict | None:
 
     fund_match = re.search(r"FUNDAMENTALS \(screener\.in\):\s+(.+)", block)
     url_match = re.search(r"(https?://www\.screener\.in/\S+)", block)
+    fund_text = fund_match.group(1).strip() if fund_match else ""
+
+    # PEG / PEGY — pulled from the FUNDAMENTALS one-liner so the Trades
+    # table can render numeric columns instead of dumping the raw string.
+    # Emitted format:  "... | PEG 1.23 (5Y) | PEGY 0.95 | ..."
+    def _grab_float(pattern: str, src: str) -> float | None:
+        m = re.search(pattern, src)
+        if not m:
+            return None
+        try:
+            return float(m.group(1))
+        except (TypeError, ValueError):
+            return None
+
+    peg_val    = _grab_float(r"\bPEG\s+([\-0-9.]+)",  fund_text)
+    pegy_val   = _grab_float(r"\bPEGY\s+([\-0-9.]+)", fund_text)
+    peg_src_m  = re.search(r"\bPEG\s+[\-0-9.]+\s*\((\w+)\)", fund_text)
+    peg_source = peg_src_m.group(1) if peg_src_m else ""
 
     return {
         "symbol":          head.group(1),
@@ -279,7 +297,10 @@ def parse_block(block: str) -> dict | None:
         "signal_cons":     grab_section("CONS (signals):"),
         "screener_pros":   grab_section("PROS (screener.in):"),
         "screener_cons":   grab_section("CONS (screener.in):"),
-        "fundamentals":    fund_match.group(1).strip() if fund_match else "",
+        "fundamentals":    fund_text,
+        "peg":             peg_val,
+        "pegy":            pegy_val,
+        "peg_source":      peg_source,
         "url":             url_match.group(1) if url_match else "",
     }
 
@@ -476,10 +497,53 @@ def render_card(stock: dict, kind: str) -> None:
         with h2:
             st.metric("Close", f"₹{stock['price']:,.2f}", pct_str, delta_color=pct_color)
 
+        # PEG / PEGY chips — colour-coded by value band. Only rendered
+        # when the pipeline could compute them (needs positive PE and
+        # positive growth from screener.in).
+        peg_html  = ""
+        pegy_html = ""
+
+        def _peg_band(v: float | None) -> tuple[str, str]:
+            """Return (colour_class, formatted_label) for a PEG/PEGY value.
+              <1.0  → green   (attractive)
+              1–1.5 → blue    (fair)
+              1.5–2 → amber   (fully valued)
+              >2.0  → red     (expensive)
+            """
+            if v is None:
+                return ("", "")
+            if v < 1.0:
+                cls = "net-pos"      # green
+            elif v < 1.5:
+                cls = "v-default"    # neutral / blue
+            elif v < 2.0:
+                cls = "net-zero"     # amber
+            else:
+                cls = "net-neg"      # red
+            return (cls, f"{v:.2f}")
+
+        p_cls, p_lbl = _peg_band(stock.get("peg"))
+        y_cls, y_lbl = _peg_band(stock.get("pegy"))
+        if p_lbl:
+            src = stock.get("peg_source") or ""
+            src_suffix = f" ({src})" if src else ""
+            peg_html = (
+                f'<span class="meta-pill" title="P/E ÷ Growth% — '
+                f'&lt;1 undervalued · 1–1.5 fair · &gt;2 premium">'
+                f'PEG <span class="{p_cls}">{p_lbl}</span>{src_suffix}</span>'
+            )
+        if y_lbl:
+            pegy_html = (
+                f'<span class="meta-pill" title="Peter Lynch\'s PEGY = '
+                f'P/E ÷ (Growth% + DivYield%) — credits dividend income">'
+                f'PEGY <span class="{y_cls}">{y_lbl}</span></span>'
+            )
+
         st.markdown(
             f'<span class="verdict-badge {verdict_class}">{verdict}</span>'
             f'<span class="meta-pill">bias {stock["bias"]}</span>'
-            f'<span class="meta-pill">net <span class="{net_class}">{net_str}</span></span>',
+            f'<span class="meta-pill">net <span class="{net_class}">{net_str}</span></span>'
+            f'{peg_html}{pegy_html}',
             unsafe_allow_html=True,
         )
 
@@ -609,6 +673,9 @@ def _positions_to_frame(positions: list[dict], status: str) -> pd.DataFrame:
             "V":          p.get("strategy_version") or 1,
             "Score":      p.get("score_total"),
             "R/R":        p.get("reward_risk"),
+            "PEG":        p.get("peg_at_entry"),
+            "PEGY":       p.get("pegy_at_entry"),
+            "PEG src":    p.get("peg_source") or "",
             "Suggested":  p.get("suggested_on"),
             "Entry":      p.get("entry"),
             "Fill ≥":     p.get("fill_trigger"),
@@ -668,6 +735,11 @@ def _signals_to_trades_frame(signals: list[dict], side: str) -> pd.DataFrame:
             # Wave 1 diagnostic columns — surface when present
             "Score":    s.get("score_total"),
             "R/R":      s.get("reward_risk"),
+            # PEG  = P/E ÷ Growth% (5Y cascade → 3Y → TTM). Informational.
+            # PEGY = P/E ÷ (Growth% + DivYield%) — Peter Lynch's variant.
+            "PEG":      s.get("peg"),
+            "PEGY":     s.get("pegy"),
+            "PEG src":  s.get("peg_source") or "",
             "Vol":      s.get("score_vol"),
             "Deliv":    s.get("score_delivery"),
             "Trend":    s.get("score_trend"),
@@ -757,7 +829,7 @@ with trades_tab:
             # rows are easy to tell apart, then identity, then trade plan.
             base_cols = [
                 "Side", "Symbol", "Name", "Close", "% chg",
-                "Verdict", "Bias", "Net",
+                "Verdict", "Bias", "Net", "PEG", "PEGY",
                 "Entry", "Strict SL", "Best SL",
                 "T1", "T2", "T3", "T4", "T5",
             ]
@@ -774,6 +846,21 @@ with trades_tab:
                     "Close":     st.column_config.NumberColumn(format="₹%.2f"),
                     "% chg":     st.column_config.NumberColumn(format="%+.2f %%"),
                     "Net":       st.column_config.NumberColumn(format="%+d"),
+                    "PEG":       st.column_config.NumberColumn(format="%.2f",
+                                    help="Price-to-Earnings-Growth = P/E ÷ "
+                                         "5Y Compounded Profit Growth% (cascades "
+                                         "to 3Y then TTM if 5Y missing). "
+                                         "<1 = undervalued vs growth · "
+                                         "1–1.5 = fair · >2 = premium. "
+                                         "Blank = loss-making, no growth data, "
+                                         "or PE unavailable."),
+                    "PEGY":      st.column_config.NumberColumn(format="%.2f",
+                                    help="Peter Lynch's PEGY = P/E ÷ "
+                                         "(Growth% + DivYield%). Rewards "
+                                         "high-dividend payers — a 3% "
+                                         "yielder on 15% growth uses 18 in "
+                                         "the denominator vs PEG's 15. "
+                                         "<1 = attractive · >2 = expensive."),
                     "Entry":     st.column_config.NumberColumn(format="₹%.2f"),
                     "Strict SL": st.column_config.NumberColumn(format="₹%.2f"),
                     "Best SL":   st.column_config.NumberColumn(format="₹%.2f"),
@@ -820,7 +907,8 @@ with pos_tab:
             st.caption("No open positions right now.")
         else:
             open_cols = [
-                "Symbol", "Name", "V", "Score", "R/R", "Suggested", "Entry",
+                "Symbol", "Name", "V", "Score", "R/R", "PEG", "PEGY",
+                "Suggested", "Entry",
                 "Fill date", "Fill px", "Stop loss", "SL src",
                 "Targets", "Hit", "Tranches", "Out %", "Days", "P&L %",
             ]
@@ -842,6 +930,17 @@ with pos_tab:
                     "R/R":       st.column_config.NumberColumn(format="%.2f",
                                     help="(T1 - entry) / (entry - dynamic SL); "
                                          "Wave 1 requires ≥ 3.0"),
+                    "PEG":       st.column_config.NumberColumn(format="%.2f",
+                                    help="P/E ÷ Growth% (frozen at entry). "
+                                         "<1 undervalued · 1–1.5 fair · "
+                                         ">2 premium. Blank = loss-making or "
+                                         "growth data missing."),
+                    "PEGY":      st.column_config.NumberColumn(format="%.2f",
+                                    help="Peter Lynch's PEGY = P/E ÷ "
+                                         "(Growth% + DivYield%). Credits "
+                                         "dividend income — usually lower "
+                                         "than PEG for high-payout stocks. "
+                                         "<1 = attractive."),
                     "Out %":     st.column_config.NumberColumn(format="%d %%",
                                     help="Percent of qty already exited via "
                                          "partial-target tranches"),
@@ -859,7 +958,8 @@ with pos_tab:
             st.caption("No pending signals.")
         else:
             pend_cols = [
-                "Symbol", "Name", "V", "Score", "R/R", "Suggested", "Entry",
+                "Symbol", "Name", "V", "Score", "R/R", "PEG", "PEGY",
+                "Suggested", "Entry",
                 "Fill ≥", "Stop loss", "SL src", "Targets", "Tranches",
             ]
             view = pend_df[[c for c in pend_cols if c in pend_df.columns]]
@@ -873,6 +973,12 @@ with pos_tab:
                     "Stop loss": st.column_config.NumberColumn(format="₹%.2f"),
                     "Score":     st.column_config.NumberColumn(format="%.0f"),
                     "R/R":       st.column_config.NumberColumn(format="%.2f"),
+                    "PEG":       st.column_config.NumberColumn(format="%.2f",
+                                    help="P/E ÷ Growth% (5Y cascade)"),
+                    "PEGY":      st.column_config.NumberColumn(format="%.2f",
+                                    help="P/E ÷ (Growth% + DivYield%) — "
+                                         "Peter Lynch's variant that credits "
+                                         "dividend income. <1 = attractive."),
                     "V":         st.column_config.NumberColumn(format="%d"),
                 },
             )

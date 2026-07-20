@@ -70,7 +70,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "IGL",
@@ -135,7 +138,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "ECLERX",
@@ -225,7 +231,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "GPIL",
@@ -289,7 +298,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "MANKIND",
@@ -362,7 +374,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "MOTHERSON",
@@ -431,7 +446,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "ENRIN",
@@ -500,7 +518,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "TATACOMM",
@@ -564,7 +585,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "GVT&D",
@@ -628,7 +652,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "ERIS",
@@ -702,7 +729,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "TIMKEN",
@@ -771,7 +801,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "IRB",
@@ -861,7 +894,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "GRASIM",
@@ -930,7 +966,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "SAMMAANCAP",
@@ -1003,7 +1042,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "JSWCEMENT",
@@ -1096,7 +1138,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "IGIL",
@@ -1169,7 +1214,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "RHIM",
@@ -1234,7 +1282,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "TECHNOE",
@@ -1307,7 +1358,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "APOLLOHOSP",
@@ -1380,7 +1434,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "WHIRLPOOL",
@@ -1454,7 +1511,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "PAGEIND",
@@ -1526,7 +1586,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "NAUKRI",
@@ -1619,7 +1682,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "HONASA",
@@ -1692,7 +1758,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "NYKAA",
@@ -1756,7 +1825,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "LICI",
@@ -1829,7 +1901,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "MINDACORP",
@@ -1901,7 +1976,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "GAIL",
@@ -1974,7 +2052,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "NH",
@@ -2047,7 +2128,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "EICHERMOT",
@@ -2120,7 +2204,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "TORNTPHARM",
@@ -2189,7 +2276,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "POWERINDIA",
@@ -2253,7 +2343,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "JPPOWER",
@@ -2326,7 +2419,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "COALINDIA",
@@ -2395,7 +2491,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "ATGL",
@@ -2468,7 +2567,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "AIAENG",
@@ -2541,7 +2643,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "JKTYRE",
@@ -2606,7 +2711,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "ZEEL",
@@ -2679,7 +2787,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "PINELABS",
@@ -2773,7 +2884,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "EXIDEIND",
@@ -2837,7 +2951,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "GRANULES",
@@ -2901,7 +3018,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "CUMMINSIND",
@@ -2965,7 +3085,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "GILLETTE",
@@ -3035,7 +3158,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "FEDERALBNK",
@@ -3099,7 +3225,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "WIPRO",
@@ -3173,7 +3302,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "INFY",
@@ -3238,7 +3370,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "JUBLFOOD",
@@ -3303,7 +3438,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "GMRAIRPORT",
@@ -3376,7 +3514,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "HYUNDAI",
@@ -3440,7 +3581,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "ALKEM",
@@ -3509,7 +3653,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "KALYANKJIL",
@@ -3577,7 +3724,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "INDUSTOWER",
@@ -3651,7 +3801,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "NETWEB",
@@ -3715,7 +3868,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "HBLENGINE",
@@ -3779,7 +3935,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "NUVOCO",
@@ -3851,7 +4010,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "ANTHEM",
@@ -3920,7 +4082,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "TEGA",
@@ -3993,7 +4158,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "OBEROIRLTY",
@@ -4065,7 +4233,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "NSLNISP",
@@ -4134,7 +4305,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "PTCIL",
@@ -4203,7 +4377,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "NMDC",
@@ -4272,7 +4449,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "NBCC",
@@ -4345,7 +4525,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "CPPLUS",
@@ -4440,7 +4623,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "ZENSARTECH",
@@ -4505,7 +4691,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "NEWGEN",
@@ -4595,7 +4784,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "JMFINANCIL",
@@ -4660,7 +4852,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "BSOFT",
@@ -4729,7 +4924,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "CONCORDBIO",
@@ -4789,7 +4987,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "ZENTEC",
@@ -4858,7 +5059,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "PWL",
@@ -4953,7 +5157,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "VOLTAS",
@@ -5031,7 +5238,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "ZEEL",
@@ -5103,7 +5313,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "GODIGIT",
@@ -5177,7 +5390,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "RITES",
@@ -5241,7 +5457,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "CCL",
@@ -5305,7 +5524,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "FORTIS",
@@ -5374,7 +5596,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "PFIZER",
@@ -5449,7 +5674,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "BELRISE",
@@ -5542,7 +5770,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "BANKBARODA",
@@ -5619,7 +5850,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "EIDPARRY",
@@ -5684,7 +5918,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "CARTRADE",
@@ -5752,7 +5989,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "AEGISLOG",
@@ -5826,7 +6066,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "BLUEJET",
@@ -5890,7 +6133,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "AAVAS",
@@ -5955,7 +6201,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "APARINDS",
@@ -6019,7 +6268,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "AIIL",
@@ -6113,7 +6365,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "TTML",
@@ -6173,7 +6428,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "GLAXO",
@@ -6238,7 +6496,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "AARTIIND",
@@ -6304,7 +6565,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "FIVESTAR",
@@ -6370,7 +6634,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "LTFOODS",
@@ -6446,7 +6713,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "TBOTEK",
@@ -6519,7 +6789,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "THELEELA",
@@ -6614,7 +6887,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "CHALET",
@@ -6680,7 +6956,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "LALPATHLAB",
@@ -6751,7 +7030,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "FACT",
@@ -6822,7 +7104,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "PGEL",
@@ -6888,7 +7173,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "KPIL",
@@ -6959,7 +7247,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "IDBI",
@@ -7020,7 +7311,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "UCOBANK",
@@ -7081,7 +7375,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "YESBANK",
@@ -7152,7 +7449,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "IOB",
@@ -7213,7 +7513,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "DOMS",
@@ -7291,7 +7594,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "TRENT",
@@ -7357,7 +7663,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "ICICIAMC",
@@ -7451,7 +7760,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "NIACL",
@@ -7522,7 +7834,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "TATACAP",
@@ -7613,7 +7928,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "TARIL",
@@ -7684,7 +8002,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "LGEINDIA",
@@ -7775,7 +8096,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "AADHARHFC",
@@ -7846,7 +8170,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "DELHIVERY",
@@ -7917,7 +8244,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "NCC",
@@ -7988,7 +8318,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "KIRLOSENG",
@@ -8054,7 +8387,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "PPLPHARMA",
@@ -8127,7 +8463,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "JSWINFRA",
@@ -8200,7 +8539,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "ZFCVINDIA",
@@ -8271,7 +8613,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "KPRMILL",
@@ -8342,7 +8687,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "PINELABS",
@@ -8435,7 +8783,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "TRIDENT",
@@ -8506,7 +8857,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "MSUMI",
@@ -8582,7 +8936,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "HEXT",
@@ -8676,7 +9033,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "CHOICEIN",
@@ -8742,7 +9102,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "NTPC",
@@ -8823,7 +9186,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "LTF",
@@ -8894,7 +9260,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "LAURUSLABS",
@@ -8960,7 +9329,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "BHARATFORG",
@@ -9026,7 +9398,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "AJANTPHARM",
@@ -9097,7 +9472,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "JBCHEPHARM",
@@ -9168,7 +9546,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "CANFINHOME",
@@ -9246,7 +9627,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "CGCL",
@@ -9319,7 +9703,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "VIJAYA",
@@ -9385,7 +9772,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "MARUTI",
@@ -9461,7 +9851,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "RPOWER",
@@ -9552,7 +9945,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "RHIM",
@@ -9618,7 +10014,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "RAMCOCEM",
@@ -9694,7 +10093,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "SAGILITY",
@@ -9760,7 +10162,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "ABFRL",
@@ -9851,7 +10256,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "SUMICHEM",
@@ -9922,7 +10330,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "BAJAJHFL",
@@ -10013,7 +10424,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "AEGISVOPAK",
@@ -10086,7 +10500,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "ABDL",
@@ -10152,7 +10569,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "WELCORP",
@@ -10218,7 +10638,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "PHOENIXLTD",
@@ -10289,7 +10712,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "OBEROIRLTY",
@@ -10360,7 +10786,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "SIGNATURE",
@@ -10426,7 +10855,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "LODHA",
@@ -10489,7 +10921,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "BAYERCROP",
@@ -10570,7 +11005,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "J&KBANK",
@@ -10641,7 +11079,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "KALYANKJIL",
@@ -10707,7 +11148,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "ANURAS",
@@ -10773,7 +11217,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "SONATSOFTW",
@@ -10864,7 +11311,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "CANHLIFE",
@@ -10955,7 +11405,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "LTM",
@@ -11046,7 +11499,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "BIOCON",
@@ -11117,7 +11573,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "SBICARD",
@@ -11183,7 +11642,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "CONCOR",
@@ -11249,7 +11711,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "DIVISLAB",
@@ -11320,7 +11785,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "ATHERENERG",
@@ -11411,7 +11879,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "ICICIPRULI",
@@ -11487,7 +11958,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "LTTS",
@@ -11558,7 +12032,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "JUBLPHARMA",
@@ -11629,7 +12106,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "FLUOROCHEM",
@@ -11700,7 +12180,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "MRPL",
@@ -11766,7 +12249,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "RKFORGE",
@@ -11837,7 +12323,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "ABB",
@@ -11903,7 +12392,10 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   },
   {
     "symbol": "SCHAEFFLER",
@@ -11974,6 +12466,9 @@
     "reward_risk": null,
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
-    "supertrend_active": null
+    "supertrend_active": null,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": null
   }
 ]
