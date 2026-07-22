@@ -3,10 +3,72 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-07-22 09:15 IST
+NSE bhavcopy analysis — generated 2026-07-23 00:09 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 7
+Pure_on_Volume hits (BUY): 4
+Recommendations: 0 BUY  +  3 SELL
+
+Top 3 SELL candidates (high-volume distribution):
+------------------------------------------------------------
+  • BANDHANBNK      (Bandhan Bank Ltd              )  close ₹173.50  -16.92%  bias STRONG_SELL
+        → SELL-LEAN (tech=STRONG_SELL, signal net 0)
+        PROS (signals):
+          - Trading above the 200-day SMA
+          - Volume surge — 5d avg is 2.4× the 30d avg
+          - Volume highest in 4 years (HVE) — strongest possible breakout signal
+          - Healthy liquidity (~₹228.7cr daily turnover)
+        CONS (signals):
+          - -16% over the last month
+          - High volatility (71% annualised)
+          - 5-day losing streak
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ Cr. | ROCE % | ROE % | DivYield % | BookVal ₹
+        https://www.screener.in/company/BANDHANBNK/consolidated/
+
+  • INDIAMART       (Indiamart Intermesh Ltd       )  close ₹1820.00  -5.11%  bias SELL
+        → STRONG SELL (tech=SELL, signal net -4)
+        PROS (signals):
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹18.1cr daily turnover)
+        CONS (signals):
+          - Trading near 52-week low (5% of range)
+          - 32% off 52-week high
+          - -31% over the year
+          - Bearish SMA stack (close < 20 < 50 < 200)
+          - Delivery % falling — recent 54% vs 30d 59% (-5pp distribution)
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 10,940 Cr. | P/E 22.2 | ROCE 28.0 % | ROE 20.7 % | DivYield 1.65 % | BookVal ₹ 399 | PEG 2.02 (5Y) | PEGY 1.75
+        PROS (screener.in):
+          - Company has reduced debt.
+          - Company is almost debt free.
+          - Company has been maintaining a healthy dividend payout of 55.4%
+        CONS (screener.in):
+          - Earnings include an other income of Rs.218 Cr.
+        https://www.screener.in/company/INDIAMART/consolidated/
+
+  • JUBLINGREA      (Jubilant Ingrevia Ltd         )  close ₹743.75  -2.63%  bias SELL
+        → BUY-LEAN (tech=SELL, signal net +3)
+        PROS (signals):
+          - +18% over the last month
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Volume surge — 5d avg is 2.5× the 30d avg
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹33.6cr daily turnover)
+        CONS (signals):
+          - Delivery % falling — recent 45% vs 30d 55% (-10pp distribution)
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 11,840 Cr. | P/E 37.2 | ROCE 11.4 % | ROE 9.51 % | DivYield 0.67 % | BookVal ₹ 196 | PEG 1.06 (5Y) | PEGY 1.04
+        PROS (screener.in):
+          - Company has been maintaining a healthy dividend payout of 29.6%
+          - Company's working capital requirements have reduced from 29.4 days to 22.0 days
+        CONS (screener.in):
+          - Stock is trading at 3.79 times its book value
+          - Company has a low return on equity of 8.48% over last 3 years.
+          - Company might be capitalizing the interest cost
+          - Promoter holding has decreased over last 3 years: -6.24%
+        https://www.screener.in/company/JUBLINGREA/consolidated/
+
 
 — BUY/SELL recommendations are based on the Pure_on_Volume screen (HVQ/HVY/HVE volume breakouts + liquidity gate).
   PROS / CONS (signals)   = derived from price/volume panel data (52-w position, SMA stack, returns, volatility, delivery & volume trend, CLV).
