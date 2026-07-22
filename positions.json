@@ -273,7 +273,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -299,9 +299,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 4.1,
+    "pegy_at_entry": 3.79,
+    "peg_source": "5Y"
   },
   {
     "symbol": "MANKIND",
@@ -421,7 +421,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -447,9 +447,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 1.12,
+    "pegy_at_entry": 1.1,
+    "peg_source": "5Y"
   },
   {
     "symbol": "ENRIN",
@@ -493,7 +493,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -560,7 +560,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -627,7 +627,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -704,7 +704,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -730,9 +730,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 2.68,
+    "pegy_at_entry": 2.58,
+    "peg_source": "5Y"
   },
   {
     "symbol": "TIMKEN",
@@ -868,7 +868,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "weekly_fib_clamped",
     "original_stoploss": 21.698,
     "strategy_version": 1,
@@ -895,9 +895,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 0.55,
+    "pegy_at_entry": 0.54,
+    "peg_source": "5Y"
   },
   {
     "symbol": "GRASIM",
@@ -941,7 +941,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -967,9 +967,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 21.55,
+    "pegy_at_entry": 18.66,
+    "peg_source": "5Y"
   },
   {
     "symbol": "SAMMAANCAP",
@@ -1486,7 +1486,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -1512,9 +1512,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 2.38,
+    "pegy_at_entry": 2.27,
+    "peg_source": "3Y"
   },
   {
     "symbol": "PAGEIND",
@@ -1800,7 +1800,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -1826,9 +1826,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 16.18,
+    "pegy_at_entry": 16.18,
+    "peg_source": "5Y"
   },
   {
     "symbol": "LICI",
@@ -2251,7 +2251,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -2277,9 +2277,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 6.48,
+    "pegy_at_entry": 6.1,
+    "peg_source": "5Y"
   },
   {
     "symbol": "POWERINDIA",
@@ -2466,7 +2466,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -2492,9 +2492,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 0.43,
+    "pegy_at_entry": 0.33,
+    "peg_source": "5Y"
   },
   {
     "symbol": "ATGL",
@@ -2926,7 +2926,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -2952,9 +2952,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 45.4,
+    "pegy_at_entry": 31.31,
+    "peg_source": "5Y"
   },
   {
     "symbol": "GRANULES",
@@ -2993,7 +2993,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -3019,9 +3019,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 16.8,
+    "pegy_at_entry": 15.27,
+    "peg_source": "5Y"
   },
   {
     "symbol": "CUMMINSIND",
@@ -3060,7 +3060,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -3086,9 +3086,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 2.06,
+    "pegy_at_entry": 1.99,
+    "peg_source": "5Y"
   },
   {
     "symbol": "GILLETTE",
@@ -3200,7 +3200,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -3226,9 +3226,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 0.89,
+    "pegy_at_entry": 0.88,
+    "peg_source": "5Y"
   },
   {
     "symbol": "WIPRO",
@@ -3277,7 +3277,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -3303,9 +3303,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 3.27,
+    "pegy_at_entry": 1.27,
+    "peg_source": "5Y"
   },
   {
     "symbol": "INFY",
@@ -3556,7 +3556,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -3582,9 +3582,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 1.22,
+    "pegy_at_entry": 1.16,
+    "peg_source": "5Y"
   },
   {
     "symbol": "ALKEM",
@@ -3628,7 +3628,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -3654,9 +3654,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 3.12,
+    "pegy_at_entry": 2.87,
+    "peg_source": "5Y"
   },
   {
     "symbol": "KALYANKJIL",
@@ -3776,7 +3776,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -3802,9 +3802,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 1.0,
+    "pegy_at_entry": 1.0,
+    "peg_source": "5Y"
   },
   {
     "symbol": "NETWEB",
@@ -3843,7 +3843,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -3910,7 +3910,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -3936,9 +3936,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 0.2,
+    "pegy_at_entry": 0.2,
+    "peg_source": "5Y"
   },
   {
     "symbol": "NUVOCO",
@@ -4057,7 +4057,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -4083,9 +4083,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 3.29,
+    "pegy_at_entry": 3.25,
+    "peg_source": "5Y"
   },
   {
     "symbol": "TEGA",
@@ -4826,7 +4826,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "weekly_fib_0.786",
     "original_stoploss": 120.5386,
     "strategy_version": 1,
@@ -4899,7 +4899,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -4925,9 +4925,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 1.37,
+    "pegy_at_entry": 1.14,
+    "peg_source": "5Y"
   },
   {
     "symbol": "CONCORDBIO",
@@ -4961,7 +4961,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "weekly_fib_0.786",
     "original_stoploss": 1087.152,
     "strategy_version": 1,
@@ -4988,9 +4988,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 57.8,
+    "pegy_at_entry": 36.82,
+    "peg_source": "5Y"
   },
   {
     "symbol": "ZENTEC",
@@ -5034,7 +5034,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -5060,9 +5060,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 0.67,
+    "pegy_at_entry": 0.67,
+    "peg_source": "5Y"
   },
   {
     "symbol": "PWL",
@@ -5432,7 +5432,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -5458,9 +5458,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 3.67,
+    "pegy_at_entry": 2.46,
+    "peg_source": "TTM"
   },
   {
     "symbol": "CCL",
@@ -5499,7 +5499,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -5525,9 +5525,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 4.29,
+    "pegy_at_entry": 4.16,
+    "peg_source": "5Y"
   },
   {
     "symbol": "FORTIS",
@@ -5571,7 +5571,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -5597,9 +5597,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 1.08,
+    "pegy_at_entry": 1.07,
+    "peg_source": "5Y"
   },
   {
     "symbol": "PFIZER",
@@ -6108,7 +6108,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -6134,9 +6134,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 3.75,
+    "pegy_at_entry": 3.69,
+    "peg_source": "5Y"
   },
   {
     "symbol": "AAVAS",
@@ -6175,7 +6175,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "weekly_fib_0.786",
     "original_stoploss": 1169.1976,
     "strategy_version": 1,
@@ -6202,9 +6202,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 1.08,
+    "pegy_at_entry": 1.08,
+    "peg_source": "5Y"
   },
   {
     "symbol": "APARINDS",
@@ -6243,7 +6243,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -6269,9 +6269,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 1.27,
+    "pegy_at_entry": 1.26,
+    "peg_source": "5Y"
   },
   {
     "symbol": "AIIL",
@@ -6402,7 +6402,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "weekly_fib_0.786",
     "original_stoploss": 36.24472,
     "strategy_version": 1,
@@ -6470,7 +6470,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "stoploss_source": "weekly_fib_clamped",
     "original_stoploss": 2015.425,
     "strategy_version": 1,
@@ -6541,7 +6541,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -6566,9 +6566,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 1.76,
+    "pegy_at_entry": 1.75,
+    "peg_source": "TTM"
   },
   {
     "symbol": "FIVESTAR",
@@ -6610,7 +6610,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -6635,9 +6635,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 0.6,
+    "pegy_at_entry": 0.6,
+    "peg_source": "5Y"
   },
   {
     "symbol": "LTFOODS",
@@ -6932,7 +6932,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -6957,9 +6957,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 0.55,
+    "pegy_at_entry": 0.54,
+    "peg_source": "5Y"
   },
   {
     "symbol": "LALPATHLAB",
@@ -7006,7 +7006,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7031,9 +7031,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 4.61,
+    "pegy_at_entry": 4.32,
+    "peg_source": "5Y"
   },
   {
     "symbol": "FACT",
@@ -7080,7 +7080,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7149,7 +7149,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7174,9 +7174,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 1.18,
+    "pegy_at_entry": 1.18,
+    "peg_source": "5Y"
   },
   {
     "symbol": "KPIL",
@@ -7223,7 +7223,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7248,9 +7248,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 1.81,
+    "pegy_at_entry": 1.7,
+    "peg_source": "5Y"
   },
   {
     "symbol": "IDBI",
@@ -7287,7 +7287,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7312,9 +7312,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 0.23,
+    "pegy_at_entry": 0.22,
+    "peg_source": "5Y"
   },
   {
     "symbol": "UCOBANK",
@@ -7351,7 +7351,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7376,9 +7376,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 0.37,
+    "pegy_at_entry": 0.35,
+    "peg_source": "3Y"
   },
   {
     "symbol": "YESBANK",
@@ -7489,7 +7489,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7514,9 +7514,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 0.27,
+    "pegy_at_entry": 0.27,
+    "peg_source": "5Y"
   },
   {
     "symbol": "DOMS",
@@ -7570,7 +7570,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7595,9 +7595,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 0.66,
+    "pegy_at_entry": 0.66,
+    "peg_source": "5Y"
   },
   {
     "symbol": "TRENT",
@@ -7736,7 +7736,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7761,13 +7761,13 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 1.82,
+    "pegy_at_entry": 1.77,
+    "peg_source": "TTM"
   },
   {
     "symbol": "NIACL",
-    "name": "",
+    "name": "New India Assurance Company Ltd",
     "side": "BUY",
     "suggested_on": "2026-06-19",
     "suggested_close": 202.31,
@@ -7810,7 +7810,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7835,13 +7835,13 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 2.37,
+    "pegy_at_entry": 2.17,
+    "peg_source": "3Y"
   },
   {
     "symbol": "TATACAP",
-    "name": "",
+    "name": "Tata Capital Ltd",
     "side": "BUY",
     "suggested_on": "2026-06-19",
     "suggested_close": 366.8,
@@ -7904,7 +7904,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7929,9 +7929,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 0.9,
+    "pegy_at_entry": 0.9,
+    "peg_source": "5Y"
   },
   {
     "symbol": "TARIL",
@@ -8009,7 +8009,7 @@
   },
   {
     "symbol": "LGEINDIA",
-    "name": "",
+    "name": "LG Electronics India Ltd",
     "side": "BUY",
     "suggested_on": "2026-06-19",
     "suggested_close": 1647.8,
@@ -8072,7 +8072,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -8177,7 +8177,7 @@
   },
   {
     "symbol": "DELHIVERY",
-    "name": "",
+    "name": "Delhivery Ltd",
     "side": "BUY",
     "suggested_on": "2026-06-22",
     "suggested_close": 483.8,
@@ -8220,7 +8220,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -8245,13 +8245,13 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 10.1,
+    "pegy_at_entry": 10.1,
+    "peg_source": "5Y"
   },
   {
     "symbol": "NCC",
-    "name": "",
+    "name": "NCC Ltd",
     "side": "BUY",
     "suggested_on": "2026-06-22",
     "suggested_close": 159.55,
@@ -8294,7 +8294,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -8319,13 +8319,13 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 0.57,
+    "pegy_at_entry": 0.53,
+    "peg_source": "5Y"
   },
   {
     "symbol": "KIRLOSENG",
-    "name": "",
+    "name": "Kirloskar Oil Engines Ltd",
     "side": "BUY",
     "suggested_on": "2026-06-23",
     "suggested_close": 2504.4,
@@ -8363,7 +8363,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -8388,9 +8388,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 2.97,
+    "pegy_at_entry": 2.93,
+    "peg_source": "5Y"
   },
   {
     "symbol": "PPLPHARMA",
@@ -8515,7 +8515,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -8546,7 +8546,7 @@
   },
   {
     "symbol": "ZFCVINDIA",
-    "name": "",
+    "name": "ZF Commercial Vehicle Control System India Ltd",
     "side": "BUY",
     "suggested_on": "2026-06-23",
     "suggested_close": 16086.0,
@@ -8589,7 +8589,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -8614,13 +8614,13 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 3.21,
+    "pegy_at_entry": 3.18,
+    "peg_source": "3Y"
   },
   {
     "symbol": "KPRMILL",
-    "name": "",
+    "name": "K P R Mill Ltd",
     "side": "BUY",
     "suggested_on": "2026-06-24",
     "suggested_close": 1218.45,
@@ -8663,7 +8663,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -8688,9 +8688,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 10.73,
+    "pegy_at_entry": 9.98,
+    "peg_source": "5Y"
   },
   {
     "symbol": "PINELABS",
@@ -8864,7 +8864,7 @@
   },
   {
     "symbol": "MSUMI",
-    "name": "",
+    "name": "Motherson Sumi Wiring India Ltd",
     "side": "BUY",
     "suggested_on": "2026-06-25",
     "suggested_close": 41.26,
@@ -8912,7 +8912,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -9040,7 +9040,7 @@
   },
   {
     "symbol": "CHOICEIN",
-    "name": "",
+    "name": "Choice International Ltd",
     "side": "BUY",
     "suggested_on": "2026-06-29",
     "suggested_close": 745.2,
@@ -9078,7 +9078,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -9103,13 +9103,13 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 1.25,
+    "pegy_at_entry": 1.25,
+    "peg_source": "5Y"
   },
   {
     "symbol": "NTPC",
-    "name": "",
+    "name": "NTPC Ltd",
     "side": "BUY",
     "suggested_on": "2026-06-29",
     "suggested_close": 356.1,
@@ -9162,7 +9162,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -9187,13 +9187,13 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 1.04,
+    "pegy_at_entry": 0.87,
+    "peg_source": "5Y"
   },
   {
     "symbol": "LTF",
-    "name": "",
+    "name": "L&T Finance Ltd",
     "side": "BUY",
     "suggested_on": "2026-06-29",
     "suggested_close": 299.05,
@@ -9236,7 +9236,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -9261,13 +9261,13 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 0.75,
+    "pegy_at_entry": 0.73,
+    "peg_source": "5Y"
   },
   {
     "symbol": "LAURUSLABS",
-    "name": "",
+    "name": "Laurus Labs Ltd",
     "side": "BUY",
     "suggested_on": "2026-06-29",
     "suggested_close": 1500.3,
@@ -9305,7 +9305,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -9330,13 +9330,13 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 0.81,
+    "pegy_at_entry": 0.8,
+    "peg_source": "TTM"
   },
   {
     "symbol": "BHARATFORG",
-    "name": "",
+    "name": "Bharat Forge Ltd",
     "side": "BUY",
     "suggested_on": "2026-06-29",
     "suggested_close": 2170.9,
@@ -9374,7 +9374,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -9399,13 +9399,13 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 2.83,
+    "pegy_at_entry": 2.8,
+    "peg_source": "5Y"
   },
   {
     "symbol": "AJANTPHARM",
-    "name": "",
+    "name": "Ajanta Pharma Ltd",
     "side": "BUY",
     "suggested_on": "2026-06-29",
     "suggested_close": 3384.2,
@@ -9448,7 +9448,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -9473,13 +9473,13 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 6.83,
+    "pegy_at_entry": 6.15,
+    "peg_source": "5Y"
   },
   {
     "symbol": "JBCHEPHARM",
-    "name": "",
+    "name": "J B Chemicals & Pharmaceuticals Ltd",
     "side": "BUY",
     "suggested_on": "2026-06-29",
     "suggested_close": 2303.2,
@@ -9547,9 +9547,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 5.15,
+    "pegy_at_entry": 4.75,
+    "peg_source": "5Y"
   },
   {
     "symbol": "CANFINHOME",
@@ -9634,7 +9634,7 @@
   },
   {
     "symbol": "CGCL",
-    "name": "",
+    "name": "Capri Global Capital Ltd",
     "side": "BUY",
     "suggested_on": "2026-06-30",
     "suggested_close": 227.66,
@@ -9679,7 +9679,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -9704,13 +9704,13 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 0.64,
+    "pegy_at_entry": 0.63,
+    "peg_source": "5Y"
   },
   {
     "symbol": "VIJAYA",
-    "name": "",
+    "name": "Vijaya Diagnostic Centre Ltd",
     "side": "BUY",
     "suggested_on": "2026-06-30",
     "suggested_close": 1352.6,
@@ -9748,7 +9748,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -9773,13 +9773,13 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 5.28,
+    "pegy_at_entry": 5.23,
+    "peg_source": "5Y"
   },
   {
     "symbol": "MARUTI",
-    "name": "",
+    "name": "Maruti Suzuki India Ltd",
     "side": "BUY",
     "suggested_on": "2026-06-30",
     "suggested_close": 14115.0,
@@ -9827,7 +9827,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -9852,13 +9852,13 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 1.08,
+    "pegy_at_entry": 1.04,
+    "peg_source": "5Y"
   },
   {
     "symbol": "RPOWER",
-    "name": "",
+    "name": "Reliance Power Ltd",
     "side": "BUY",
     "suggested_on": "2026-07-01",
     "suggested_close": 27.17,
@@ -9921,7 +9921,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -9952,7 +9952,7 @@
   },
   {
     "symbol": "RHIM",
-    "name": "",
+    "name": "RHI Magnesita India Ltd",
     "side": "BUY",
     "suggested_on": "2026-07-01",
     "suggested_close": 387.7,
@@ -9990,7 +9990,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -10021,7 +10021,7 @@
   },
   {
     "symbol": "RAMCOCEM",
-    "name": "",
+    "name": "The Ramco Cements Ltd",
     "side": "BUY",
     "suggested_on": "2026-07-01",
     "suggested_close": 931.75,
@@ -10069,7 +10069,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -10094,13 +10094,13 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 0.57,
+    "pegy_at_entry": 0.57,
+    "peg_source": "TTM"
   },
   {
     "symbol": "SAGILITY",
-    "name": "",
+    "name": "Sagility Ltd",
     "side": "BUY",
     "suggested_on": "2026-07-02",
     "suggested_close": 41.25,
@@ -10138,7 +10138,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -10163,9 +10163,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 0.23,
+    "pegy_at_entry": 0.22,
+    "peg_source": "3Y"
   },
   {
     "symbol": "ABFRL",
@@ -10263,7 +10263,7 @@
   },
   {
     "symbol": "SUMICHEM",
-    "name": "",
+    "name": "Sumitomo Chemical India Ltd",
     "side": "BUY",
     "suggested_on": "2026-07-03",
     "suggested_close": 502.3,
@@ -10306,7 +10306,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -10331,13 +10331,13 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 6.61,
+    "pegy_at_entry": 6.42,
+    "peg_source": "5Y"
   },
   {
     "symbol": "BAJAJHFL",
-    "name": "",
+    "name": "Bajaj Housing Finance Ltd",
     "side": "BUY",
     "suggested_on": "2026-07-03",
     "suggested_close": 91.35,
@@ -10400,7 +10400,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -10576,7 +10576,7 @@
   },
   {
     "symbol": "WELCORP",
-    "name": "",
+    "name": "Welspun Corp Ltd",
     "side": "BUY",
     "suggested_on": "2026-07-06",
     "suggested_close": 1543.6,
@@ -10614,7 +10614,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -10639,13 +10639,13 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 1.27,
+    "pegy_at_entry": 1.25,
+    "peg_source": "5Y"
   },
   {
     "symbol": "PHOENIXLTD",
-    "name": "",
+    "name": "Phoenix Mills Ltd",
     "side": "BUY",
     "suggested_on": "2026-07-06",
     "suggested_close": 2105.8,
@@ -10688,7 +10688,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -10713,13 +10713,13 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 0.73,
+    "pegy_at_entry": 0.73,
+    "peg_source": "5Y"
   },
   {
     "symbol": "OBEROIRLTY",
-    "name": "",
+    "name": "Oberoi Realty Ltd",
     "side": "BUY",
     "suggested_on": "2026-07-06",
     "suggested_close": 1953.4,
@@ -10762,7 +10762,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -10787,13 +10787,13 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 0.95,
+    "pegy_at_entry": 0.93,
+    "peg_source": "5Y"
   },
   {
     "symbol": "SIGNATURE",
-    "name": "",
+    "name": "SignatureGlobal India Ltd",
     "side": "BUY",
     "suggested_on": "2026-07-06",
     "suggested_close": 788.75,
@@ -10831,7 +10831,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -10856,9 +10856,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 15.7,
+    "pegy_at_entry": 15.7,
+    "peg_source": "5Y"
   },
   {
     "symbol": "LODHA",
@@ -10928,7 +10928,7 @@
   },
   {
     "symbol": "BAYERCROP",
-    "name": "",
+    "name": "Bayer CropScience Ltd",
     "side": "BUY",
     "suggested_on": "2026-07-08",
     "suggested_close": 4163.5,
@@ -10969,19 +10969,19 @@
       {
         "name": "MAX",
         "ratio": 0.66,
-        "price": 6911.410000000001
+        "price": 7103.911302400001
       }
     ],
     "hit_targets": [],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-07-21",
+    "fill_price": 4279.46464,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11006,13 +11006,13 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 26.47,
+    "pegy_at_entry": 21.52,
+    "peg_source": "TTM"
   },
   {
     "symbol": "J&KBANK",
-    "name": "",
+    "name": "Jammu and Kashmir Bank Ltd",
     "side": "BUY",
     "suggested_on": "2026-07-10",
     "suggested_close": 192.65,
@@ -11055,7 +11055,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11080,13 +11080,13 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 0.21,
+    "pegy_at_entry": 0.21,
+    "peg_source": "5Y"
   },
   {
     "symbol": "KALYANKJIL",
-    "name": "",
+    "name": "Kalyan Jewellers India Ltd",
     "side": "BUY",
     "suggested_on": "2026-07-13",
     "suggested_close": 510.65,
@@ -11124,7 +11124,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11149,13 +11149,13 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 0.22,
+    "pegy_at_entry": 0.22,
+    "peg_source": "5Y"
   },
   {
     "symbol": "ANURAS",
-    "name": "",
+    "name": "Anupam Rasayan India Ltd",
     "side": "BUY",
     "suggested_on": "2026-07-13",
     "suggested_close": 1269.7,
@@ -11193,7 +11193,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11218,13 +11218,13 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 4.93,
+    "pegy_at_entry": 4.92,
+    "peg_source": "5Y"
   },
   {
     "symbol": "SONATSOFTW",
-    "name": "",
+    "name": "Sonata Software Ltd",
     "side": "BUY",
     "suggested_on": "2026-07-13",
     "suggested_close": 316.05,
@@ -11287,7 +11287,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11312,21 +11312,21 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 2.56,
+    "pegy_at_entry": 2.07,
+    "peg_source": "5Y"
   },
   {
     "symbol": "CANHLIFE",
-    "name": "",
+    "name": "Canara HSBC Life Insurance Company Ltd",
     "side": "BUY",
     "suggested_on": "2026-07-13",
     "suggested_close": 147.3,
     "entry": 153.0175,
     "fill_trigger": 154.85371,
-    "stoploss": 137.93519999999998,
+    "stoploss": 164.1449326,
     "original_stoploss": 137.93519999999998,
-    "stoploss_source": "weekly_fib_0.786",
+    "stoploss_source": "trailed_p6",
     "strict_stoploss": null,
     "swing_low": null,
     "swing_high": null,
@@ -11372,7 +11372,10 @@
         "price": 257.05715860000004
       }
     ],
-    "hit_targets": [],
+    "hit_targets": [
+      "P3",
+      "P6"
+    ],
     "status": "open",
     "fill_date": "2026-07-16",
     "fill_price": 154.85371,
@@ -11381,7 +11384,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11412,7 +11415,7 @@
   },
   {
     "symbol": "LTM",
-    "name": "",
+    "name": "LTM Ltd",
     "side": "BUY",
     "suggested_on": "2026-07-13",
     "suggested_close": 4124.3,
@@ -11475,7 +11478,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11500,13 +11503,13 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 0.88,
+    "pegy_at_entry": 0.83,
+    "peg_source": "5Y"
   },
   {
     "symbol": "BIOCON",
-    "name": "",
+    "name": "Biocon Ltd",
     "side": "BUY",
     "suggested_on": "2026-07-14",
     "suggested_close": 437.3,
@@ -11549,7 +11552,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11580,7 +11583,7 @@
   },
   {
     "symbol": "SBICARD",
-    "name": "",
+    "name": "SBI Cards & Payment Services Ltd",
     "side": "BUY",
     "suggested_on": "2026-07-14",
     "suggested_close": 638.85,
@@ -11618,7 +11621,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11649,7 +11652,7 @@
   },
   {
     "symbol": "CONCOR",
-    "name": "",
+    "name": "Container Corporation Of India Ltd",
     "side": "BUY",
     "suggested_on": "2026-07-14",
     "suggested_close": 493.15,
@@ -11687,7 +11690,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11712,9 +11715,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 1.79,
+    "pegy_at_entry": 1.61,
+    "peg_source": "5Y"
   },
   {
     "symbol": "DIVISLAB",
@@ -11761,7 +11764,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11792,7 +11795,7 @@
   },
   {
     "symbol": "ATHERENERG",
-    "name": "",
+    "name": "Ather Energy Ltd",
     "side": "BUY",
     "suggested_on": "2026-07-15",
     "suggested_close": 1296.4,
@@ -11857,7 +11860,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11888,7 +11891,7 @@
   },
   {
     "symbol": "ICICIPRULI",
-    "name": "",
+    "name": "ICICI Prudential Life Insurance Company Ltd",
     "side": "BUY",
     "suggested_on": "2026-07-15",
     "suggested_close": 525.15,
@@ -11936,7 +11939,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11961,13 +11964,13 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 3.95,
+    "pegy_at_entry": 3.84,
+    "peg_source": "5Y"
   },
   {
     "symbol": "LTTS",
-    "name": "",
+    "name": "L&T Technology Services Ltd",
     "side": "BUY",
     "suggested_on": "2026-07-15",
     "suggested_close": 3508.3,
@@ -12010,7 +12013,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -12035,13 +12038,13 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 1.64,
+    "pegy_at_entry": 1.48,
+    "peg_source": "5Y"
   },
   {
     "symbol": "JUBLPHARMA",
-    "name": "",
+    "name": "Jubilant Pharmova Ltd",
     "side": "BUY",
     "suggested_on": "2026-07-15",
     "suggested_close": 1028.4,
@@ -12084,7 +12087,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -12109,21 +12112,21 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 0.79,
+    "pegy_at_entry": 0.78,
+    "peg_source": "3Y"
   },
   {
     "symbol": "FLUOROCHEM",
-    "name": "",
+    "name": "Gujarat Fluorochemicals Ltd",
     "side": "BUY",
     "suggested_on": "2026-07-15",
     "suggested_close": 4131.6,
     "entry": 4047.6499999999996,
     "fill_trigger": 4096.221799999999,
-    "stoploss": 3798.0204,
+    "stoploss": 4598.7,
     "original_stoploss": 3798.0204,
-    "stoploss_source": "best_stoploss",
+    "stoploss_source": "trailed_t3",
     "strict_stoploss": 4038.0,
     "swing_low": 2916.6,
     "swing_high": 4038.0,
@@ -12149,7 +12152,9 @@
         "price": 6799.728187999999
       }
     ],
-    "hit_targets": [],
+    "hit_targets": [
+      "T3"
+    ],
     "status": "open",
     "fill_date": "2026-07-16",
     "fill_price": 4096.221799999999,
@@ -12158,7 +12163,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -12183,13 +12188,13 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 2.38,
+    "pegy_at_entry": 2.38,
+    "peg_source": "5Y"
   },
   {
     "symbol": "MRPL",
-    "name": "",
+    "name": "Mangalore Refinery And Petrochemicals Ltd",
     "side": "BUY",
     "suggested_on": "2026-07-16",
     "suggested_close": 173.33,
@@ -12227,7 +12232,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -12252,13 +12257,13 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 0.32,
+    "pegy_at_entry": 0.3,
+    "peg_source": "5Y"
   },
   {
     "symbol": "RKFORGE",
-    "name": "",
+    "name": "Ramkrishna Forgings Ltd",
     "side": "BUY",
     "suggested_on": "2026-07-16",
     "suggested_close": 589.7,
@@ -12301,7 +12306,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -12326,13 +12331,13 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 4.19,
+    "pegy_at_entry": 4.13,
+    "peg_source": "5Y"
   },
   {
     "symbol": "ABB",
-    "name": "",
+    "name": "ABB India Ltd",
     "side": "BUY",
     "suggested_on": "2026-07-16",
     "suggested_close": 7667.5,
@@ -12370,7 +12375,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -12401,7 +12406,7 @@
   },
   {
     "symbol": "SCHAEFFLER",
-    "name": "",
+    "name": "Schaeffler India Ltd",
     "side": "BUY",
     "suggested_on": "2026-07-16",
     "suggested_close": 4131.7,
@@ -12444,7 +12449,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-07-20",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -12469,8 +12474,8 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 5.41,
+    "pegy_at_entry": 4.99,
+    "peg_source": "3Y"
   }
 ]
