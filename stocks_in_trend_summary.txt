@@ -3,57 +3,30 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-07-23 22:26 IST
+NSE bhavcopy analysis — generated 2026-07-24 20:41 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 3
-Recommendations: 0 BUY  +  2 SELL
+Pure_on_Volume hits (BUY): 5
+Recommendations: 0 BUY  +  1 SELL
 
-Top 2 SELL candidates (high-volume distribution):
+Top 1 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
-  • CIEINDIA        (CIE Automotive India Ltd      )  close ₹419.00  -11.32%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -2)
+  • MOTILALOFS      (Motilal Oswal Financial Servic)  close ₹871.95  -7.26%  bias SELL
+        → BUY-LEAN (tech=SELL, signal net +3)
         PROS (signals):
-          - Volume surge — 5d avg is 3.4× the 30d avg
-          - Volume highest in 1 year (HVY)
-          - Healthy liquidity (~₹15.7cr daily turnover)
-        CONS (signals):
-          - Lower third of 52-week range (26%)
-          - Trading below the 200-day SMA
-          - Delivery % falling — recent 47% vs 30d 53% (-6pp distribution)
-          - Closed near the day's low (CLV -0.74) — sellers dumped into the volume
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 15,904 Cr. | P/E 17.7 | ROCE 14.7 % | ROE 11.8 % | DivYield 1.67 % | BookVal ₹ 204 | PEG 0.33 (5Y) | PEGY 0.32
-        PROS (screener.in):
-          - Company is almost debt free.
-          - Company has delivered good profit growth of 53.8% CAGR over last 5 years
-          - Company has been maintaining a healthy dividend payout of 27.0%
-        CONS (screener.in):
-          - The company has delivered a poor sales growth of 9.23% over past five years.
-        https://www.screener.in/company/CIEINDIA/consolidated/
-
-  • OFSS            (Oracle Financial Services Soft)  close ₹10843.00  -0.07%  bias SELL
-        → BUY-LEAN (tech=SELL, signal net +4)
-        PROS (signals):
-          - Upper third of 52-week range (80%)
           - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 2.1× the 30d avg
+          - Volume surge — 5d avg is 2.6× the 30d avg
           - Volume highest in 1 year (HVY)
-          - Healthy liquidity (~₹423.6cr daily turnover)
+          - Healthy liquidity (~₹100.2cr daily turnover)
         CONS (signals):
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 94,475 Cr. | P/E 27.7 | ROCE 45.3 % | ROE 32.6 % | DivYield 3.69 % | BookVal ₹ 899 | PEG 3.46 (5Y) | PEGY 2.37
+        FUNDAMENTALS (screener.in): MCap ₹ 52,527 Cr. | P/E 26.5 | ROCE 12.7 % | ROE 15.5 % | DivYield 0.69 % | BookVal ₹ 214 | PEG 3.79 (5Y) | PEGY 3.45
         PROS (screener.in):
-          - Company has reduced debt.
-          - Company is almost debt free.
-          - Stock is providing a good dividend yield of 3.69%.
           - Company is expected to give good quarter
-          - Company has a good return on equity (ROE) track record: 3 Years ROE 30.3%
-          - Company has been maintaining a healthy dividend payout of 107%
+          - Company's median sales growth is 18.2% of last 10 years
         CONS (screener.in):
-          - Stock is trading at 12.1 times its book value
-          - The company has delivered a poor sales growth of 9.01% over past five years.
-        https://www.screener.in/company/OFSS/consolidated/
+          - Company has high debtors of 158 days.
+        https://www.screener.in/company/MOTILALOFS/consolidated/
 
 
 — BUY/SELL recommendations are based on the Pure_on_Volume screen (HVQ/HVY/HVE volume breakouts + liquidity gate).
