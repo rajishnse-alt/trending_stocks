@@ -3,7 +3,7 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-07-24 22:22 IST
+NSE bhavcopy analysis — generated 2026-07-24 22:32 IST
 ============================================================
 
 Pure_on_Volume hits (BUY): 5
@@ -15,9 +15,9 @@ Top 1 SELL candidates (high-volume distribution):
         → BUY-LEAN (tech=SELL, signal net +3)
         PROS (signals):
           - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 2.6× the 30d avg
+          - Volume surge — 5d avg is 2.5× the 30d avg
           - Volume highest in 1 year (HVY)
-          - Healthy liquidity (~₹100.2cr daily turnover)
+          - Healthy liquidity (~₹97.2cr daily turnover)
         CONS (signals):
           - High-volume distribution — HV breakout on a down day
         FUNDAMENTALS (screener.in): MCap ₹ 52,527 Cr. | P/E 26.5 | ROCE 12.7 % | ROE 15.5 % | DivYield 0.69 % | BookVal ₹ 214 | PEG 3.79 (5Y) | PEGY 3.45
