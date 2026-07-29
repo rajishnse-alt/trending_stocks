@@ -3,93 +3,35 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-07-28 19:32 IST
+NSE bhavcopy analysis — generated 2026-07-29 19:32 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 5
-Recommendations: 0 BUY  +  4 SELL
+Pure_on_Volume hits (BUY): 7
+Recommendations: 0 BUY  +  1 SELL
 
-Top 4 SELL candidates (high-volume distribution):
+Top 1 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
-  • BEL             (Bharat Electronics Ltd        )  close ₹389.00  -4.46%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -2)
+  • J&KBANK         (Jammu and Kashmir Bank Ltd    )  close ₹154.63  -12.79%  bias STRONG_SELL
+        → SELL-LEAN (tech=STRONG_SELL, signal net 0)
         PROS (signals):
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹486.8cr daily turnover)
-        CONS (signals):
-          - Lower third of 52-week range (26%)
-          - Bearish SMA stack (close < 20 < 50 < 200)
-          - Closed near the day's low (CLV -0.89) — sellers dumped into the volume
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 2,84,385 Cr. | P/E 46.3 | ROCE 36.5 % | ROE 27.6 % | DivYield 0.62 % | BookVal ₹ 32.8 | PEG 1.93 (5Y) | PEGY 1.88
-        PROS (screener.in):
-          - Company is almost debt free.
-          - Company has delivered good profit growth of 23.6% CAGR over last 5 years
-          - Company has a good return on equity (ROE) track record: 3 Years ROE 27.8%
-          - Company has been maintaining a healthy dividend payout of 34.5%
-        CONS (screener.in):
-          - Stock is trading at 11.8 times its book value
-          - Company has high debtors of 170 days.
-          - Working capital days have increased from 79.4 days to 135 days
-        https://www.screener.in/company/BEL/consolidated/
-
-  • SPLPETRO        (Supreme Petrochem Ltd         )  close ₹740.40  -2.69%  bias STRONG_SELL
-        → HOLD / MIXED (tech=STRONG_SELL, signal net 1)
-        PROS (signals):
-          - Bullish SMA stack (close > 20 > 50 > 200)
-          - Volume surge — 5d avg is 2.6× the 30d avg
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹10.8cr daily turnover)
-        CONS (signals):
-          - Delivery % falling — recent 38% vs 30d 47% (-9pp distribution)
-          - Closed near the day's low (CLV -0.79) — sellers dumped into the volume
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 13,925 Cr. | P/E 28.3 | ROCE % | ROE 13.7 % | DivYield 1.42 % | BookVal ₹ 126
-        PROS (screener.in):
-          - Company is almost debt free.
-        CONS (screener.in):
-          - Stock is trading at 5.86 times its book value
-        https://www.screener.in/company/SPLPETRO/consolidated/
-
-  • VBL             (Varun Beverages Ltd           )  close ₹430.00  -7.43%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -2)
-        PROS (signals):
+          - Trading above the 200-day SMA
           - Volume highest in 1 year (HVY)
-          - Healthy liquidity (~₹292.6cr daily turnover)
+          - Healthy liquidity (~₹86.7cr daily turnover)
         CONS (signals):
-          - Lower third of 52-week range (28%)
-          - Trading below the 200-day SMA
-          - Closed near the day's low (CLV -0.70) — sellers dumped into the volume
+          - High volatility (80% annualised)
+          - Closed near the day's low (CLV -0.90) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 1,45,462 Cr. | P/E 49.3 | ROCE 19.1 % | ROE 14.6 % | DivYield 0.35 % | BookVal ₹ 55.5 | PEG 0.90 (5Y) | PEGY 0.89
+        FUNDAMENTALS (screener.in): MCap ₹ 17,029 Cr. | P/E 7.39 | ROCE 5.84 % | ROE 15.4 % | DivYield 1.39 % | BookVal ₹ 154 | PEG 0.18 (5Y) | PEGY 0.17
         PROS (screener.in):
-          - Company has reduced debt.
-          - Company is almost debt free.
-          - Company has delivered good profit growth of 55.4% CAGR over last 5 years
-          - Company has been maintaining a healthy dividend payout of 17.3%
+          - Stock is trading at 1.00 times its book value
+          - Company has delivered good profit growth of 40.7% CAGR over last 5 years
         CONS (screener.in):
-          - Stock is trading at 7.75 times its book value
-          - Promoter holding has decreased over last 3 years: -4.18%
-        https://www.screener.in/company/VBL/
-
-  • DMART           (Avenue Supermarts Ltd         )  close ₹3846.60  -4.50%  bias SELL
-        → SELL-LEAN (tech=SELL, signal net -2)
-        PROS (signals):
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹240.6cr daily turnover)
-        CONS (signals):
-          - Lower third of 52-week range (18%)
-          - Trading below the 200-day SMA
-          - Delivery % falling — recent 44% vs 30d 52% (-8pp distribution)
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 2,51,295 Cr. | P/E 82.2 | ROCE 17.2 % | ROE 12.9 % | DivYield 0.00 % | BookVal ₹ 375 | PEG 3.74 (5Y) | PEGY 3.74
-        PROS (screener.in):
-          - Company's median sales growth is 25.3% of last 10 years
-        CONS (screener.in):
-          - Stock is trading at 10.2 times its book value
-          - Though the company is reporting repeated profits, it is not paying out dividend
-          - Company has a low return on equity of 13.5% over last 3 years.
-        https://www.screener.in/company/DMART/consolidated/
+          - Company has low interest coverage ratio.
+          - The company has delivered a poor sales growth of 10.2% over past five years.
+          - Contingent liabilities of Rs.7,081 Cr.
+          - Company might be capitalizing the interest cost
+          - Promoter holding has decreased over last 3 years: -4.01%
+        https://www.screener.in/company/J&KBANK/consolidated/
 
 
 — BUY/SELL recommendations are based on the Pure_on_Volume screen (HVQ/HVY/HVE volume breakouts + liquidity gate).
