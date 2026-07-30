@@ -3,35 +3,31 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-07-29 19:32 IST
+NSE bhavcopy analysis — generated 2026-07-30 19:32 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 7
+Pure_on_Volume hits (BUY): 6
 Recommendations: 0 BUY  +  1 SELL
 
 Top 1 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
-  • J&KBANK         (Jammu and Kashmir Bank Ltd    )  close ₹154.63  -12.79%  bias STRONG_SELL
-        → SELL-LEAN (tech=STRONG_SELL, signal net 0)
+  • VTL             (Vardhman Textiles Ltd         )  close ₹602.10  -4.36%  bias STRONG_SELL
+        → HOLD / MIXED (tech=STRONG_SELL, signal net 2)
         PROS (signals):
+          - Upper third of 52-week range (72%)
           - Trading above the 200-day SMA
-          - Volume highest in 1 year (HVY)
-          - Healthy liquidity (~₹86.7cr daily turnover)
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹22.2cr daily turnover)
         CONS (signals):
-          - High volatility (80% annualised)
-          - Closed near the day's low (CLV -0.90) — sellers dumped into the volume
+          - Closed near the day's low (CLV -0.80) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 17,029 Cr. | P/E 7.39 | ROCE 5.84 % | ROE 15.4 % | DivYield 1.39 % | BookVal ₹ 154 | PEG 0.18 (5Y) | PEGY 0.17
+        FUNDAMENTALS (screener.in): MCap ₹ 17,424 Cr. | P/E 21.2 | ROCE 9.04 % | ROE 7.49 % | DivYield 0.83 % | BookVal ₹ 352 | PEG 1.25 (5Y) | PEGY 1.19
         PROS (screener.in):
-          - Stock is trading at 1.00 times its book value
-          - Company has delivered good profit growth of 40.7% CAGR over last 5 years
+          - Company has been maintaining a healthy dividend payout of 18.3%
         CONS (screener.in):
-          - Company has low interest coverage ratio.
           - The company has delivered a poor sales growth of 10.2% over past five years.
-          - Contingent liabilities of Rs.7,081 Cr.
-          - Company might be capitalizing the interest cost
-          - Promoter holding has decreased over last 3 years: -4.01%
-        https://www.screener.in/company/J&KBANK/consolidated/
+          - Company has a low return on equity of 7.66% over last 3 years.
+        https://www.screener.in/company/VTL/
 
 
 — BUY/SELL recommendations are based on the Pure_on_Volume screen (HVQ/HVY/HVE volume breakouts + liquidity gate).
