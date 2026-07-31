@@ -3,31 +3,31 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-07-30 19:32 IST
+NSE bhavcopy analysis — generated 2026-07-31 19:32 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 6
+Pure_on_Volume hits (BUY): 4
 Recommendations: 0 BUY  +  1 SELL
 
 Top 1 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
-  • VTL             (Vardhman Textiles Ltd         )  close ₹602.10  -4.36%  bias STRONG_SELL
-        → HOLD / MIXED (tech=STRONG_SELL, signal net 2)
+  • SHREECEM        (Shree Cement Ltd              )  close ₹26055.00  -1.51%  bias SELL
+        → HOLD / MIXED (tech=SELL, signal net 0)
         PROS (signals):
-          - Upper third of 52-week range (72%)
-          - Trading above the 200-day SMA
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹22.2cr daily turnover)
+          - Healthy liquidity (~₹68.7cr daily turnover)
         CONS (signals):
-          - Closed near the day's low (CLV -0.80) — sellers dumped into the volume
+          - Trading below the 200-day SMA
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 17,424 Cr. | P/E 21.2 | ROCE 9.04 % | ROE 7.49 % | DivYield 0.83 % | BookVal ₹ 352 | PEG 1.25 (5Y) | PEGY 1.19
+        FUNDAMENTALS (screener.in): MCap ₹ 94,052 Cr. | P/E 57.7 | ROCE 10.3 % | ROE 7.51 % | DivYield 0.58 % | BookVal ₹ 6,449 | PEG 5.77 (3Y) | PEGY 5.45
         PROS (screener.in):
-          - Company has been maintaining a healthy dividend payout of 18.3%
+          - Company is almost debt free.
+          - Company has been maintaining a healthy dividend payout of 27.4%
         CONS (screener.in):
-          - The company has delivered a poor sales growth of 10.2% over past five years.
-          - Company has a low return on equity of 7.66% over last 3 years.
-        https://www.screener.in/company/VTL/
+          - Stock is trading at 4.04 times its book value
+          - The company has delivered a poor sales growth of 9.08% over past five years.
+          - Company has a low return on equity of 8.23% over last 3 years.
+        https://www.screener.in/company/SHREECEM/consolidated/
 
 
 — BUY/SELL recommendations are based on the Pure_on_Volume screen (HVQ/HVY/HVE volume breakouts + liquidity gate).
