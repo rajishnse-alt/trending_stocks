@@ -265,15 +265,15 @@
         "price": 507.71100000000007
       }
     ],
-    "status": "pending",
+    "status": "expired",
     "fill_date": null,
     "fill_price": null,
     "exit_date": null,
     "exit_price": null,
-    "exit_reason": null,
+    "exit_reason": "unconfirmed",
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-03",
+    "last_checked": "2026-05-29",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -860,15 +860,15 @@
         "price": 37.9144
       }
     ],
-    "status": "pending",
+    "status": "expired",
     "fill_date": null,
     "fill_price": null,
     "exit_date": null,
     "exit_price": null,
-    "exit_reason": null,
+    "exit_reason": "unconfirmed",
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-03",
+    "last_checked": "2026-06-01",
     "stoploss_source": "weekly_fib_clamped",
     "original_stoploss": 21.698,
     "strategy_version": 1,
@@ -1481,15 +1481,15 @@
         "price": 1456.5670000000002
       }
     ],
-    "status": "pending",
+    "status": "expired",
     "fill_date": null,
     "fill_price": null,
     "exit_date": null,
     "exit_price": null,
-    "exit_reason": null,
+    "exit_reason": "unconfirmed",
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-03",
+    "last_checked": "2026-06-01",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -3275,15 +3275,15 @@
         "price": 339.055
       }
     ],
-    "status": "pending",
+    "status": "expired",
     "fill_date": null,
     "fill_price": null,
     "exit_date": null,
     "exit_price": null,
-    "exit_reason": null,
+    "exit_reason": "unconfirmed",
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-03",
+    "last_checked": "2026-06-08",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -3774,15 +3774,15 @@
         "price": 733.8030000000001
       }
     ],
-    "status": "pending",
+    "status": "expired",
     "fill_date": null,
     "fill_price": null,
     "exit_date": null,
     "exit_price": null,
-    "exit_reason": null,
+    "exit_reason": "unconfirmed",
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-03",
+    "last_checked": "2026-06-08",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -3908,15 +3908,15 @@
         "price": 1365.516
       }
     ],
-    "status": "pending",
+    "status": "expired",
     "fill_date": null,
     "fill_price": null,
     "exit_date": null,
     "exit_price": null,
-    "exit_reason": null,
+    "exit_reason": "unconfirmed",
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-03",
+    "last_checked": "2026-06-08",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -4897,15 +4897,15 @@
         "price": 572.368
       }
     ],
-    "status": "pending",
+    "status": "expired",
     "fill_date": null,
     "fill_price": null,
     "exit_date": null,
     "exit_price": null,
-    "exit_reason": null,
+    "exit_reason": "unconfirmed",
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-03",
+    "last_checked": "2026-06-10",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -7078,15 +7078,15 @@
       }
     ],
     "hit_targets": [],
-    "status": "pending",
+    "status": "expired",
     "fill_date": null,
     "fill_price": null,
     "exit_date": null,
     "exit_price": null,
-    "exit_reason": null,
+    "exit_reason": "unconfirmed",
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-03",
+    "last_checked": "2026-06-24",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7349,15 +7349,15 @@
       }
     ],
     "hit_targets": [],
-    "status": "pending",
+    "status": "expired",
     "fill_date": null,
     "fill_price": null,
     "exit_date": null,
     "exit_price": null,
-    "exit_reason": null,
+    "exit_reason": "unconfirmed",
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-03",
+    "last_checked": "2026-06-25",
     "strategy_version": 1,
     "tranches": [
       {
@@ -8070,15 +8070,15 @@
       }
     ],
     "hit_targets": [],
-    "status": "pending",
+    "status": "expired",
     "fill_date": null,
     "fill_price": null,
     "exit_date": null,
     "exit_price": null,
-    "exit_reason": null,
+    "exit_reason": "unconfirmed",
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-03",
+    "last_checked": "2026-06-30",
     "strategy_version": 1,
     "tranches": [
       {
@@ -8292,15 +8292,15 @@
       }
     ],
     "hit_targets": [],
-    "status": "pending",
+    "status": "expired",
     "fill_date": null,
     "fill_price": null,
     "exit_date": null,
     "exit_price": null,
-    "exit_reason": null,
+    "exit_reason": "unconfirmed",
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-03",
+    "last_checked": "2026-07-01",
     "strategy_version": 1,
     "tranches": [
       {
@@ -8361,15 +8361,15 @@
       }
     ],
     "hit_targets": [],
-    "status": "pending",
+    "status": "expired",
     "fill_date": null,
     "fill_price": null,
     "exit_date": null,
     "exit_price": null,
-    "exit_reason": null,
+    "exit_reason": "unconfirmed",
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-03",
+    "last_checked": "2026-07-02",
     "strategy_version": 1,
     "tranches": [
       {
@@ -8587,15 +8587,15 @@
       }
     ],
     "hit_targets": [],
-    "status": "pending",
+    "status": "expired",
     "fill_date": null,
     "fill_price": null,
     "exit_date": null,
     "exit_price": null,
-    "exit_reason": null,
+    "exit_reason": "unconfirmed",
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-03",
+    "last_checked": "2026-07-02",
     "strategy_version": 1,
     "tranches": [
       {
@@ -8661,15 +8661,15 @@
       }
     ],
     "hit_targets": [],
-    "status": "pending",
+    "status": "expired",
     "fill_date": null,
     "fill_price": null,
     "exit_date": null,
     "exit_price": null,
-    "exit_reason": null,
+    "exit_reason": "unconfirmed",
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-03",
+    "last_checked": "2026-07-03",
     "strategy_version": 1,
     "tranches": [
       {
@@ -10398,15 +10398,15 @@
       }
     ],
     "hit_targets": [],
-    "status": "pending",
+    "status": "expired",
     "fill_date": null,
     "fill_price": null,
     "exit_date": null,
     "exit_price": null,
-    "exit_reason": null,
+    "exit_reason": "unconfirmed",
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-03",
+    "last_checked": "2026-07-13",
     "strategy_version": 1,
     "tranches": [
       {
@@ -10760,15 +10760,15 @@
       }
     ],
     "hit_targets": [],
-    "status": "pending",
+    "status": "expired",
     "fill_date": null,
     "fill_price": null,
     "exit_date": null,
     "exit_price": null,
-    "exit_reason": null,
+    "exit_reason": "unconfirmed",
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-03",
+    "last_checked": "2026-07-14",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11191,15 +11191,15 @@
       }
     ],
     "hit_targets": [],
-    "status": "pending",
+    "status": "expired",
     "fill_date": null,
     "fill_price": null,
     "exit_date": null,
     "exit_price": null,
-    "exit_reason": null,
+    "exit_reason": "unconfirmed",
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-03",
+    "last_checked": "2026-07-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -12992,6 +12992,102 @@
     "rs_rank_pct": 97.6,
     "peg_at_entry": 0.48,
     "pegy_at_entry": 0.46,
+    "peg_source": "5Y",
+    "supertrend_active": false,
+    "last_checked": "2026-08-03",
+    "dynamic_sl_source": null
+  },
+  {
+    "symbol": "LLOYDSME",
+    "name": "Lloyds Metals & Energy Ltd",
+    "side": "BUY",
+    "strategy_version": 2,
+    "suggested_on": "2026-08-03",
+    "suggested_close": 2050.6,
+    "entry": 2053.195,
+    "fill_trigger": 2077.83334,
+    "stoploss": 1955.0314252313904,
+    "original_stoploss": 1955.0314252313904,
+    "stoploss_source": "dynamic_atr",
+    "strict_stoploss": 1873.7806,
+    "swing_low": 1042.9,
+    "swing_high": 2100.0,
+    "targets": [
+      {
+        "name": "T3",
+        "ratio": 1.5,
+        "price": 2628.55
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 2753.2878
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 3403.996
+      }
+    ],
+    "hit_targets": [],
+    "tranches": [
+      {
+        "name": "T1",
+        "qty_pct": 25,
+        "trigger": "T1",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T2",
+        "qty_pct": 25,
+        "trigger": "T2",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T3",
+        "qty_pct": 30,
+        "trigger": "T3",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "TRAIL",
+        "qty_pct": 20,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "atr_14_at_entry": 65.44238317907323,
+    "reward_risk": 4.48459342867488,
+    "score_total": 77.2,
+    "score_vol": 0.0,
+    "score_delivery": 12.9,
+    "score_trend": 27.1,
+    "score_rs": 22.1,
+    "score_momentum": 13.2,
+    "score_sector": 1.9,
+    "rs_rank_pct": 93.2,
+    "peg_at_entry": 0.06,
+    "pegy_at_entry": 0.06,
     "peg_source": "5Y",
     "supertrend_active": false,
     "last_checked": "2026-08-03",

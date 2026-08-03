@@ -3,88 +3,36 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-08-03 22:00 IST
+NSE bhavcopy analysis — generated 2026-08-03 22:17 IST
 ============================================================
 
 Pure_on_Volume hits (BUY): 9
-Recommendations: 5 BUY  +  1 SELL
+Recommendations: 5 BUY  +  0 SELL
 
 Top 5 BUY candidates:
 ------------------------------------------------------------
-  • M&MFIN          (Mahindra & Mahindra Financial )  close ₹405.50  +5.12%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +6)
+  • ABB             (ABB India Ltd                 )  close ₹7601.00  +4.34%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +4)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹399.99
-          - Strict stop-loss:      ₹382.34
-          - Best stop-loss:        ₹373.96
-          - Target-3 (150%):       ₹481.98
-          - Target-4 (161.8%):     ₹498.44
-          - Target-5 (261.8%):     ₹637.99
-          - Swing anchor:          low ₹272.65  ↔  high ₹412.20
+          - Entry zone (probable): above ₹7470.70
+          - Strict stop-loss:      ₹7221.08
+          - Best stop-loss:        ₹7023.86
+          - Target-3 (150%):       ₹9568.00
+          - Target-4 (161.8%):     ₹9955.87
+          - Target-5 (261.8%):     ₹13242.87
+          - Swing anchor:          low ₹4637.50  ↔  high ₹7924.50
         PROS (signals):
-          - Trading near 52-week high (96% of range)
-          - +21% over the last month
-          - +33% over the last 3 months
-          - +56% over the year
-          - Trading above the 200-day SMA
-          - Healthy liquidity (~₹206.2cr daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ 56,320 Cr. | P/E 16.8 | ROCE 8.72 % | ROE 12.3 % | DivYield 1.85 % | BookVal ₹ 192 | PEG 0.48 (5Y) | PEGY 0.46
-        PROS (screener.in):
-          - Company has been maintaining a healthy dividend payout of 37.4%
-        CONS (screener.in):
-          - Company has low interest coverage ratio.
-          - Company has a low return on equity of 11.1% over last 3 years.
-          - Company might be capitalizing the interest cost
-        https://www.screener.in/company/M&MFIN/consolidated/
-
-  • INDGN           (Indegene Ltd                  )  close ₹545.25  +5.84%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +6)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹535.70
-          - Strict stop-loss:      ₹524.04
-          - Best stop-loss:        ₹515.64
-          - Target-3 (150%):       ₹624.00
-          - Target-4 (161.8%):     ₹640.52
-          - Target-5 (261.8%):     ₹780.52
-          - Swing anchor:          low ₹414.00  ↔  high ₹554.00
-        PROS (signals):
-          - Upper third of 52-week range (72%)
-          - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 2.7× the 30d avg
-          - Volume highest in 3 months (HVQ)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹13.9cr daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ 13,142 Cr. | P/E 31.6 | ROCE 18.8 % | ROE 14.4 % | DivYield 0.41 % | BookVal ₹ 130 | PEG 1.37 (5Y) | PEGY 1.35
+          - Trading near 52-week high (90% of range)
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Closed near the day's high (CLV +0.73) — buyers absorbed the volume
+          - Healthy liquidity (~₹299.8cr daily turnover)
+        FUNDAMENTALS (screener.in): MCap ₹ 1,61,040 Cr. | P/E 104 | ROCE 29.9 % | ROE 22.4 % | DivYield 0.52 % | BookVal ₹ 441
         PROS (screener.in):
           - Company is almost debt free.
-          - Company is expected to give good quarter
-        https://www.screener.in/company/INDGN/consolidated/
-
-  • REDINGTON       (Redington Ltd                 )  close ₹347.85  +8.15%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +7)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹340.56
-          - Strict stop-loss:      ₹338.50
-          - Best stop-loss:        ₹307.00
-          - Target-3 (150%):       ₹412.10
-          - Target-4 (161.8%):     ₹429.46
-          - Target-5 (261.8%):     ₹576.65
-          - Swing anchor:          low ₹191.31  ↔  high ₹338.50
-        PROS (signals):
-          - Trading near 52-week high (94% of range)
-          - +26% over the last month
-          - +57% over the last 3 months
-          - Bullish SMA stack (close > 20 > 50 > 200)
-          - Volume surge — 5d avg is 4.2× the 30d avg
-          - Volume highest in 3 months (HVQ)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹272.5cr daily turnover)
-        CONS (signals):
-          - Delivery % falling — recent 28% vs 30d 39% (-12pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 27,194 Cr. | P/E 15.1 | ROCE 18.4 % | ROE 16.9 % | DivYield 1.72 % | BookVal ₹ 130 | PEG 0.94 (5Y) | PEGY 0.85
-        PROS (screener.in):
-          - Company has been maintaining a healthy dividend payout of 34.8%
-        https://www.screener.in/company/REDINGTON/consolidated/
+        CONS (screener.in):
+          - Stock is trading at 17.2 times its book value
+          - Earnings include an other income of Rs.1,799 Cr.
+        https://www.screener.in/company/ABB/consolidated/
 
   • BALRAMCHIN      (Balrampur Chini Mills Ltd     )  close ₹646.80  +10.34%  bias BUY
         → STRONG BUY (tech=BUY, signal net +5)
@@ -113,6 +61,32 @@ Top 5 BUY candidates:
           - Dividend payout has been low at 14.6% of profits over last 3 years
         https://www.screener.in/company/BALRAMCHIN/consolidated/
 
+  • LLOYDSME        (Lloyds Metals & Energy Ltd    )  close ₹2050.60  +0.18%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +4)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹2053.20
+          - Strict stop-loss:      ₹1873.78
+          - Best stop-loss:        ₹1810.35
+          - Target-3 (150%):       ₹2628.55
+          - Target-4 (161.8%):     ₹2753.29
+          - Target-5 (261.8%):     ₹3810.39
+          - Swing anchor:          low ₹1042.90  ↔  high ₹2100.00
+        PROS (signals):
+          - Trading near 52-week high (95% of range)
+          - +15% over the last month
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Healthy liquidity (~₹111.8cr daily turnover)
+        FUNDAMENTALS (screener.in): MCap ₹ 1,15,633 Cr. | P/E 36.2 | ROCE 35.9 % | ROE 35.1 % | DivYield 0.05 % | BookVal ₹ 209 | PEG 0.06 (5Y) | PEGY 0.06
+        PROS (screener.in):
+          - Company is expected to give good quarter
+          - Company has delivered good profit growth of 655% CAGR over last 5 years
+          - Company has a good return on equity (ROE) track record: 3 Years ROE 37.1%
+        CONS (screener.in):
+          - Stock is trading at 9.80 times its book value
+          - Company might be capitalizing the interest cost
+          - Promoter holding has decreased over last 3 years: -4.12%
+        https://www.screener.in/company/LLOYDSME/
+
   • MANAPPURAM      (Manappuram Finance Ltd        )  close ₹365.00  -1.84%  bias SELL
         → BUY-LEAN (tech=SELL, signal net +3)
         TRADE PLAN (BUY):
@@ -140,10 +114,16 @@ Top 5 BUY candidates:
           - Company has a low return on equity of 11.9% over last 3 years.
         https://www.screener.in/company/MANAPPURAM/consolidated/
 
-Top 1 SELL candidates (high-volume distribution):
-------------------------------------------------------------
   • BLUEJET         (Blue Jet Healthcare Ltd       )  close ₹589.50  -5.87%  bias STRONG_SELL
         → HOLD / MIXED (tech=STRONG_SELL, signal net 1)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹615.96
+          - Strict stop-loss:      ₹564.73
+          - Best stop-loss:        ₹546.43
+          - Target-3 (150%):       ₹782.50
+          - Target-4 (161.8%):     ₹818.49
+          - Target-5 (261.8%):     ₹1123.49
+          - Swing anchor:          low ₹325.00  ↔  high ₹630.00
         PROS (signals):
           - Trading above the 200-day SMA
           - Delivery % rising — recent 50% vs 30d 44% (+6pp accumulation)
