@@ -1,0 +1,23 @@
+# Policy: all analysis runs local. Only BUY/SELL results are published.
+#
+# publish_to_github.sh runs `git add -A`, so anything that lands in this
+# folder gets pushed to a PUBLIC repo. This is an allowlist, not a
+# blocklist: ignore everything, then name the files that may go out.
+# A stray panel.parquet, bhavcopy CSV or pipeline .py copied here is
+# ignored by default instead of published by default.
+*
+!.gitignore
+!.nojekyll
+!README.md
+!index.html
+
+# Streamlit Cloud entry point + its deps
+!streamlit_app.py
+!requirements.txt
+!.devcontainer/
+!.devcontainer/devcontainer.json
+
+# The results themselves
+!stocks_in_trend_summary.txt
+!positions.json
+!bulk_deals.csv
