@@ -3,31 +3,48 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-07-31 19:32 IST
+NSE bhavcopy analysis — generated 2026-08-03 19:32 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 4
-Recommendations: 0 BUY  +  1 SELL
+Pure_on_Volume hits (BUY): 9
+Recommendations: 0 BUY  +  2 SELL
 
-Top 1 SELL candidates (high-volume distribution):
+Top 2 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
-  • SHREECEM        (Shree Cement Ltd              )  close ₹26055.00  -1.51%  bias SELL
-        → HOLD / MIXED (tech=SELL, signal net 0)
+  • BLUEJET         (Blue Jet Healthcare Ltd       )  close ₹589.50  -5.87%  bias STRONG_SELL
+        → HOLD / MIXED (tech=STRONG_SELL, signal net 1)
         PROS (signals):
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹68.7cr daily turnover)
+          - Trading above the 200-day SMA
+          - Delivery % rising — recent 50% vs 30d 44% (+6pp accumulation)
+          - Volume highest in 1 year (HVY)
+          - Healthy liquidity (~₹67.9cr daily turnover)
         CONS (signals):
-          - Trading below the 200-day SMA
+          - 43% off 52-week high
+          - -42% over the year
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 94,052 Cr. | P/E 57.7 | ROCE 10.3 % | ROE 7.51 % | DivYield 0.58 % | BookVal ₹ 6,449 | PEG 5.77 (3Y) | PEGY 5.45
+        FUNDAMENTALS (screener.in): MCap ₹ 11,144 Cr. | P/E 79.1 | ROCE 57.3 % | ROE 52.1 % | DivYield 0.20 % | BookVal ₹
         PROS (screener.in):
-          - Company is almost debt free.
-          - Company has been maintaining a healthy dividend payout of 27.4%
+          - Company has reduced debt.
+        https://www.screener.in/company/BLUEJET/consolidated/
+
+  • MANAPPURAM      (Manappuram Finance Ltd        )  close ₹365.00  -1.84%  bias SELL
+        → BUY-LEAN (tech=SELL, signal net +3)
+        PROS (signals):
+          - Trading near 52-week high (88% of range)
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹143.9cr daily turnover)
+        CONS (signals):
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 34,281 Cr. | P/E 34.5 | ROCE 8.25 % | ROE 6.97 % | DivYield 0.96 % | BookVal ₹ 171
+        PROS (screener.in):
+          - Company has been maintaining a healthy dividend payout of 19.8%
+          - Promoter holding has increased by 9.89% over last quarter.
         CONS (screener.in):
-          - Stock is trading at 4.04 times its book value
-          - The company has delivered a poor sales growth of 9.08% over past five years.
-          - Company has a low return on equity of 8.23% over last 3 years.
-        https://www.screener.in/company/SHREECEM/consolidated/
+          - Company has low interest coverage ratio.
+          - The company has delivered a poor sales growth of 8.48% over past five years.
+          - Company has a low return on equity of 11.9% over last 3 years.
+        https://www.screener.in/company/MANAPPURAM/consolidated/
 
 
 — BUY/SELL recommendations are based on the Pure_on_Volume screen (HVQ/HVY/HVE volume breakouts + liquidity gate).
