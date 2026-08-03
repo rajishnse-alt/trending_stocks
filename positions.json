@@ -12491,5 +12491,106 @@
     "peg_at_entry": 5.41,
     "pegy_at_entry": 4.99,
     "peg_source": "3Y"
+  },
+  {
+    "symbol": "BALRAMCHIN",
+    "name": "Balrampur Chini Mills Ltd",
+    "side": "BUY",
+    "strategy_version": 2,
+    "suggested_on": "2026-08-03",
+    "suggested_close": 646.8,
+    "entry": 633.325,
+    "fill_trigger": 640.9249000000001,
+    "stoploss": 599.8389453365893,
+    "original_stoploss": 599.8389453365893,
+    "stoploss_source": "dynamic_atr",
+    "strict_stoploss": 588.7924,
+    "swing_low": 393.55,
+    "swing_high": 641.95,
+    "targets": [
+      {
+        "name": "T3",
+        "ratio": 1.5,
+        "price": 766.1500000000001
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 795.4612000000001
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 1043.8612
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 1073.688
+      }
+    ],
+    "hit_targets": [],
+    "tranches": [
+      {
+        "name": "T1",
+        "qty_pct": 25,
+        "trigger": "T1",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T2",
+        "qty_pct": 25,
+        "trigger": "T2",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T3",
+        "qty_pct": 30,
+        "trigger": "T3",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "TRAIL",
+        "qty_pct": 20,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "atr_14_at_entry": 22.32403644227386,
+    "reward_risk": 3.9665765744906967,
+    "score_total": 78.7,
+    "score_vol": 21.5,
+    "score_delivery": 0.0,
+    "score_trend": 26.8,
+    "score_rs": 21.6,
+    "score_momentum": 6.8,
+    "score_sector": 2.0,
+    "rs_rank_pct": 93.0,
+    "peg_at_entry": 3.61,
+    "pegy_at_entry": 3.43,
+    "peg_source": "3Y",
+    "supertrend_active": false,
+    "last_checked": "2026-08-03",
+    "dynamic_sl_source": null
   }
 ]

@@ -3,11 +3,40 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-08-03 19:32 IST
+NSE bhavcopy analysis — generated 2026-08-03 20:43 IST
 ============================================================
 
 Pure_on_Volume hits (BUY): 9
-Recommendations: 0 BUY  +  2 SELL
+Recommendations: 1 BUY  +  2 SELL
+
+Top 1 BUY candidates:
+------------------------------------------------------------
+  • BALRAMCHIN      (Balrampur Chini Mills Ltd     )  close ₹646.80  +10.34%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +5)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹633.33
+          - Strict stop-loss:      ₹588.79
+          - Best stop-loss:        ₹573.89
+          - Target-3 (150%):       ₹766.15
+          - Target-4 (161.8%):     ₹795.46
+          - Target-5 (261.8%):     ₹1043.86
+          - Swing anchor:          low ₹393.55  ↔  high ₹641.95
+        PROS (signals):
+          - Trading near 52-week high (93% of range)
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹43.6cr daily turnover)
+        FUNDAMENTALS (screener.in): MCap ₹ 13,657 Cr. | P/E 36.1 | ROCE 9.28 % | ROE 9.54 % | DivYield 0.54 % | BookVal ₹ 205 | PEG 3.61 (3Y) | PEGY 3.43
+        PROS (screener.in):
+          - Company's working capital requirements have reduced from 43.8 days to 21.8 days
+        CONS (screener.in):
+          - Stock is trading at 3.16 times its book value
+          - The company has delivered a poor sales growth of 5.44% over past five years.
+          - Company has a low return on equity of 11.3% over last 3 years.
+          - Company might be capitalizing the interest cost
+          - Dividend payout has been low at 14.6% of profits over last 3 years
+        https://www.screener.in/company/BALRAMCHIN/consolidated/
 
 Top 2 SELL candidates (high-volume distribution):
 ------------------------------------------------------------

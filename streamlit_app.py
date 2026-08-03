@@ -1109,13 +1109,16 @@ with raw_tab:
 # ─────────────────────────────────────────── Footer ────────────────────────────
 st.divider()
 st.caption(
-    "**Methodology (Wave 1 – v2).** BUY signals require ALL of: "
-    "HVQ/HVY/HVE volume breakout · trend (close > EMA-50, EMA-50 > EMA-200, "
-    "ADX ≥ 20, weekly bar bullish) · volume quality (vol ≥ 2.5× 20-day avg, "
-    "delivery ≥ 40 % and rising, OBV new 20-day high, CMF > 0.10) · not "
-    "extended (gap-up ≤ 5 %, ATR ≤ 8 % of price, close ≤ 20-EMA × 1.15) · "
-    "R/R ≥ 3.0 vs T1 · weighted score ≥ 80/100 (vol 25 · delivery 15 · trend "
-    "25 · RS-rank proxy 15 · momentum 15 · sector 5). "
+    "**Methodology (v4).** BUY signals require ALL of: HVQ/HVY/HVE volume "
+    "breakout · trend (close > EMA-50, EMA-50 > EMA-200, ADX ≥ 20, weekly "
+    "bar bullish) · not extended (gap-up ≤ 5 %, ATR ≤ 8 % of price, close ≤ "
+    "20-EMA × 1.15) · R/R ≥ 3.0 against the first target ABOVE entry. "
+    "The weighted score (vol · delivery · trend · RS-rank proxy · momentum · "
+    "sector) ranks candidates and keeps the top 5 per day; it no longer "
+    "gates. The active gate, per-day cap and score weights live in "
+    "`strategy_config.json`, refit from realized outcomes by `learn.py`. "
+    "The five-condition volume-quality filter is retained as a diagnostic "
+    "only — its 5-way AND has never fired on a live run. "
     "**Dynamic SL** = max(entry − ATR-14 × 1.5, swing_low, weekly-fib-0.786). "
     "**Partial-exit tranches:** 25 % at T1 (SL → breakeven), 25 % at T2 "
     "(SuperTrend(10, 3) trail activates), 30 % at T3, 20 % trails on "
