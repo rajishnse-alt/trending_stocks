@@ -12592,5 +12592,409 @@
     "supertrend_active": false,
     "last_checked": "2026-08-03",
     "dynamic_sl_source": null
+  },
+  {
+    "symbol": "REDINGTON",
+    "name": "Redington Ltd",
+    "side": "BUY",
+    "strategy_version": 2,
+    "suggested_on": "2026-08-03",
+    "suggested_close": 347.85,
+    "entry": 340.565,
+    "fill_trigger": 344.65178,
+    "stoploss": 317.788162854849,
+    "original_stoploss": 317.788162854849,
+    "stoploss_source": "dynamic_atr",
+    "strict_stoploss": 338.5,
+    "swing_low": 191.31,
+    "swing_high": 338.5,
+    "targets": [
+      {
+        "name": "T3",
+        "ratio": 1.5,
+        "price": 412.095
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 429.46342000000004
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 576.65342
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 577.431
+      }
+    ],
+    "hit_targets": [],
+    "tranches": [
+      {
+        "name": "T1",
+        "qty_pct": 25,
+        "trigger": "T1",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T2",
+        "qty_pct": 25,
+        "trigger": "T2",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T3",
+        "qty_pct": 30,
+        "trigger": "T3",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "TRAIL",
+        "qty_pct": 20,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "atr_14_at_entry": 15.184558096767317,
+    "reward_risk": 3.1404711525203246,
+    "score_total": 78.7,
+    "score_vol": 21.5,
+    "score_delivery": 0.0,
+    "score_trend": 26.8,
+    "score_rs": 21.6,
+    "score_momentum": 6.8,
+    "score_sector": 2.0,
+    "rs_rank_pct": 98.8,
+    "peg_at_entry": 0.94,
+    "pegy_at_entry": 0.85,
+    "peg_source": "5Y",
+    "supertrend_active": false,
+    "last_checked": "2026-08-03",
+    "dynamic_sl_source": null
+  },
+  {
+    "symbol": "INDGN",
+    "name": "Indegene Ltd",
+    "side": "BUY",
+    "strategy_version": 2,
+    "suggested_on": "2026-08-03",
+    "suggested_close": 545.25,
+    "entry": 535.7025,
+    "fill_trigger": 542.13093,
+    "stoploss": 507.6506921479135,
+    "original_stoploss": 507.6506921479135,
+    "stoploss_source": "dynamic_atr",
+    "strict_stoploss": 524.04,
+    "swing_low": 414.0,
+    "swing_high": 554.0,
+    "targets": [
+      {
+        "name": "T3",
+        "ratio": 1.5,
+        "price": 624.0
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 640.52
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 780.52
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 905.1150000000001
+      }
+    ],
+    "hit_targets": [],
+    "tranches": [
+      {
+        "name": "T1",
+        "qty_pct": 25,
+        "trigger": "T1",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T2",
+        "qty_pct": 25,
+        "trigger": "T2",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T3",
+        "qty_pct": 30,
+        "trigger": "T3",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "TRAIL",
+        "qty_pct": 20,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "atr_14_at_entry": 18.70120523472433,
+    "reward_risk": 3.147658092682696,
+    "score_total": 79.6,
+    "score_vol": 21.5,
+    "score_delivery": 6.3,
+    "score_trend": 20.1,
+    "score_rs": 16.2,
+    "score_momentum": 13.6,
+    "score_sector": 2.0,
+    "rs_rank_pct": 79.80000000000001,
+    "peg_at_entry": 1.37,
+    "pegy_at_entry": 1.35,
+    "peg_source": "5Y",
+    "supertrend_active": false,
+    "last_checked": "2026-08-03",
+    "dynamic_sl_source": null
+  },
+  {
+    "symbol": "MANAPPURAM",
+    "name": "Manappuram Finance Ltd",
+    "side": "BUY",
+    "strategy_version": 2,
+    "suggested_on": "2026-08-03",
+    "suggested_close": 365.0,
+    "entry": 364.835,
+    "fill_trigger": 369.21302,
+    "stoploss": 348.5095990985372,
+    "original_stoploss": 348.5095990985372,
+    "stoploss_source": "dynamic_atr",
+    "strict_stoploss": 352.3604,
+    "swing_low": 245.15,
+    "swing_high": 381.55,
+    "targets": [
+      {
+        "name": "T3",
+        "ratio": 1.5,
+        "price": 449.75
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 465.84520000000003
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 602.2452
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 605.9000000000001
+      }
+    ],
+    "hit_targets": [],
+    "tranches": [
+      {
+        "name": "T1",
+        "qty_pct": 25,
+        "trigger": "T1",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T2",
+        "qty_pct": 25,
+        "trigger": "T2",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T3",
+        "qty_pct": 30,
+        "trigger": "T3",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "TRAIL",
+        "qty_pct": 20,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "atr_14_at_entry": 10.883600600975178,
+    "reward_risk": 5.201403660010057,
+    "score_total": 92.6,
+    "score_vol": 21.5,
+    "score_delivery": 12.6,
+    "score_trend": 26.8,
+    "score_rs": 16.2,
+    "score_momentum": 13.6,
+    "score_sector": 2.0,
+    "rs_rank_pct": 88.0,
+    "peg_at_entry": null,
+    "pegy_at_entry": null,
+    "peg_source": "",
+    "supertrend_active": false,
+    "last_checked": "2026-08-03",
+    "dynamic_sl_source": null
+  },
+  {
+    "symbol": "M&MFIN",
+    "name": "Mahindra & Mahindra Financial Services Ltd",
+    "side": "BUY",
+    "strategy_version": 2,
+    "suggested_on": "2026-08-03",
+    "suggested_close": 405.5,
+    "entry": 399.985,
+    "fill_trigger": 404.78482,
+    "stoploss": 375.79834371212513,
+    "original_stoploss": 375.79834371212513,
+    "stoploss_source": "dynamic_atr",
+    "strict_stoploss": 382.3363,
+    "swing_low": 272.65,
+    "swing_high": 412.2,
+    "targets": [
+      {
+        "name": "T3",
+        "ratio": 1.5,
+        "price": 481.975
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 498.44190000000003
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 637.9919
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 673.1300000000001
+      }
+    ],
+    "hit_targets": [],
+    "tranches": [
+      {
+        "name": "T1",
+        "qty_pct": 25,
+        "trigger": "T1",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T2",
+        "qty_pct": 25,
+        "trigger": "T2",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T3",
+        "qty_pct": 30,
+        "trigger": "T3",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "TRAIL",
+        "qty_pct": 20,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "atr_14_at_entry": 16.12443752524993,
+    "reward_risk": 3.3898856883786275,
+    "score_total": 76.5,
+    "score_vol": 0.0,
+    "score_delivery": 12.6,
+    "score_trend": 26.8,
+    "score_rs": 21.6,
+    "score_momentum": 13.6,
+    "score_sector": 2.0,
+    "rs_rank_pct": 97.6,
+    "peg_at_entry": 0.48,
+    "pegy_at_entry": 0.46,
+    "peg_source": "5Y",
+    "supertrend_active": false,
+    "last_checked": "2026-08-03",
+    "dynamic_sl_source": null
   }
 ]

@@ -3,14 +3,89 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-08-03 20:43 IST
+NSE bhavcopy analysis — generated 2026-08-03 21:51 IST
 ============================================================
 
 Pure_on_Volume hits (BUY): 9
-Recommendations: 1 BUY  +  2 SELL
+Recommendations: 5 BUY  +  1 SELL
 
-Top 1 BUY candidates:
+Top 5 BUY candidates:
 ------------------------------------------------------------
+  • M&MFIN          (Mahindra & Mahindra Financial )  close ₹405.50  +5.12%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +6)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹399.99
+          - Strict stop-loss:      ₹382.34
+          - Best stop-loss:        ₹373.96
+          - Target-3 (150%):       ₹481.98
+          - Target-4 (161.8%):     ₹498.44
+          - Target-5 (261.8%):     ₹637.99
+          - Swing anchor:          low ₹272.65  ↔  high ₹412.20
+        PROS (signals):
+          - Trading near 52-week high (96% of range)
+          - +21% over the last month
+          - +33% over the last 3 months
+          - +56% over the year
+          - Trading above the 200-day SMA
+          - Healthy liquidity (~₹206.2cr daily turnover)
+        FUNDAMENTALS (screener.in): MCap ₹ 56,320 Cr. | P/E 16.8 | ROCE 8.72 % | ROE 12.3 % | DivYield 1.85 % | BookVal ₹ 192 | PEG 0.48 (5Y) | PEGY 0.46
+        PROS (screener.in):
+          - Company has been maintaining a healthy dividend payout of 37.4%
+        CONS (screener.in):
+          - Company has low interest coverage ratio.
+          - Company has a low return on equity of 11.1% over last 3 years.
+          - Company might be capitalizing the interest cost
+        https://www.screener.in/company/M&MFIN/consolidated/
+
+  • INDGN           (Indegene Ltd                  )  close ₹545.25  +5.84%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +6)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹535.70
+          - Strict stop-loss:      ₹524.04
+          - Best stop-loss:        ₹515.64
+          - Target-3 (150%):       ₹624.00
+          - Target-4 (161.8%):     ₹640.52
+          - Target-5 (261.8%):     ₹780.52
+          - Swing anchor:          low ₹414.00  ↔  high ₹554.00
+        PROS (signals):
+          - Upper third of 52-week range (72%)
+          - Trading above the 200-day SMA
+          - Volume surge — 5d avg is 2.7× the 30d avg
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹13.9cr daily turnover)
+        FUNDAMENTALS (screener.in): MCap ₹ 13,142 Cr. | P/E 31.6 | ROCE 18.8 % | ROE 14.4 % | DivYield 0.41 % | BookVal ₹ 130 | PEG 1.37 (5Y) | PEGY 1.35
+        PROS (screener.in):
+          - Company is almost debt free.
+          - Company is expected to give good quarter
+        https://www.screener.in/company/INDGN/consolidated/
+
+  • REDINGTON       (Redington Ltd                 )  close ₹347.85  +8.15%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +7)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹340.56
+          - Strict stop-loss:      ₹338.50
+          - Best stop-loss:        ₹307.00
+          - Target-3 (150%):       ₹412.10
+          - Target-4 (161.8%):     ₹429.46
+          - Target-5 (261.8%):     ₹576.65
+          - Swing anchor:          low ₹191.31  ↔  high ₹338.50
+        PROS (signals):
+          - Trading near 52-week high (94% of range)
+          - +26% over the last month
+          - +57% over the last 3 months
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Volume surge — 5d avg is 4.2× the 30d avg
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹272.5cr daily turnover)
+        CONS (signals):
+          - Delivery % falling — recent 28% vs 30d 39% (-12pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 27,194 Cr. | P/E 15.1 | ROCE 18.4 % | ROE 16.9 % | DivYield 1.72 % | BookVal ₹ 130 | PEG 0.94 (5Y) | PEGY 0.85
+        PROS (screener.in):
+          - Company has been maintaining a healthy dividend payout of 34.8%
+        https://www.screener.in/company/REDINGTON/consolidated/
+
   • BALRAMCHIN      (Balrampur Chini Mills Ltd     )  close ₹646.80  +10.34%  bias BUY
         → STRONG BUY (tech=BUY, signal net +5)
         TRADE PLAN (BUY):
@@ -38,26 +113,16 @@ Top 1 BUY candidates:
           - Dividend payout has been low at 14.6% of profits over last 3 years
         https://www.screener.in/company/BALRAMCHIN/consolidated/
 
-Top 2 SELL candidates (high-volume distribution):
-------------------------------------------------------------
-  • BLUEJET         (Blue Jet Healthcare Ltd       )  close ₹589.50  -5.87%  bias STRONG_SELL
-        → HOLD / MIXED (tech=STRONG_SELL, signal net 1)
-        PROS (signals):
-          - Trading above the 200-day SMA
-          - Delivery % rising — recent 50% vs 30d 44% (+6pp accumulation)
-          - Volume highest in 1 year (HVY)
-          - Healthy liquidity (~₹67.9cr daily turnover)
-        CONS (signals):
-          - 43% off 52-week high
-          - -42% over the year
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 11,144 Cr. | P/E 79.1 | ROCE 57.3 % | ROE 52.1 % | DivYield 0.20 % | BookVal ₹
-        PROS (screener.in):
-          - Company has reduced debt.
-        https://www.screener.in/company/BLUEJET/consolidated/
-
   • MANAPPURAM      (Manappuram Finance Ltd        )  close ₹365.00  -1.84%  bias SELL
         → BUY-LEAN (tech=SELL, signal net +3)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹364.83
+          - Strict stop-loss:      ₹352.36
+          - Best stop-loss:        ₹344.18
+          - Target-3 (150%):       ₹449.75
+          - Target-4 (161.8%):     ₹465.85
+          - Target-5 (261.8%):     ₹602.25
+          - Swing anchor:          low ₹245.15  ↔  high ₹381.55
         PROS (signals):
           - Trading near 52-week high (88% of range)
           - Bullish SMA stack (close > 20 > 50 > 200)
@@ -75,8 +140,26 @@ Top 2 SELL candidates (high-volume distribution):
           - Company has a low return on equity of 11.9% over last 3 years.
         https://www.screener.in/company/MANAPPURAM/consolidated/
 
+Top 1 SELL candidates (high-volume distribution):
+------------------------------------------------------------
+  • BLUEJET         (Blue Jet Healthcare Ltd       )  close ₹589.50  -5.87%  bias STRONG_SELL
+        → HOLD / MIXED (tech=STRONG_SELL, signal net 1)
+        PROS (signals):
+          - Trading above the 200-day SMA
+          - Delivery % rising — recent 50% vs 30d 44% (+6pp accumulation)
+          - Volume highest in 1 year (HVY)
+          - Healthy liquidity (~₹67.9cr daily turnover)
+        CONS (signals):
+          - 43% off 52-week high
+          - -42% over the year
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 11,144 Cr. | P/E 79.1 | ROCE 57.3 % | ROE 52.1 % | DivYield 0.20 % | BookVal ₹
+        PROS (screener.in):
+          - Company has reduced debt.
+        https://www.screener.in/company/BLUEJET/consolidated/
 
-— BUY/SELL recommendations are based on the Pure_on_Volume screen (HVQ/HVY/HVE volume breakouts + liquidity gate).
+
+— BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).
   PROS / CONS (signals)   = derived from price/volume panel data (52-w position, SMA stack, returns, volatility, delivery & volume trend, CLV).
   PROS / CONS (screener.in) = scraped from the company's screener.in page — fundamentals & qualitative notes.
 
