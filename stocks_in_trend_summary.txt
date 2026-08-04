@@ -3,68 +3,83 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-08-03 22:17 IST
+NSE bhavcopy analysis — generated 2026-08-04 19:37 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 9
-Recommendations: 5 BUY  +  0 SELL
+Pure_on_Volume hits (BUY): 4
+Recommendations: 5 BUY  +  1 SELL
 
 Top 5 BUY candidates:
 ------------------------------------------------------------
-  • ABB             (ABB India Ltd                 )  close ₹7601.00  +4.34%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +4)
+  • GRAPHITE        (Graphite India Ltd            )  close ₹710.05  +7.92%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +5)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹7470.70
-          - Strict stop-loss:      ₹7221.08
-          - Best stop-loss:        ₹7023.86
-          - Target-3 (150%):       ₹9568.00
-          - Target-4 (161.8%):     ₹9955.87
-          - Target-5 (261.8%):     ₹13242.87
-          - Swing anchor:          low ₹4637.50  ↔  high ₹7924.50
+          - Entry zone (probable): above ₹690.60
+          - Strict stop-loss:      ₹682.76
+          - Best stop-loss:        ₹635.60
+          - Target-3 (150%):       ₹1020.72
+          - Target-4 (161.8%):     ₹1072.25
+          - Target-5 (261.8%):     ₹1508.90
+          - Swing anchor:          low ₹365.75  ↔  high ₹802.40
         PROS (signals):
-          - Trading near 52-week high (90% of range)
-          - Bullish SMA stack (close > 20 > 50 > 200)
-          - Closed near the day's high (CLV +0.73) — buyers absorbed the volume
-          - Healthy liquidity (~₹299.8cr daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ 1,61,040 Cr. | P/E 104 | ROCE 29.9 % | ROE 22.4 % | DivYield 0.52 % | BookVal ₹ 441
+          - Trading above the 200-day SMA
+          - Volume highest in 3 months (HVQ)
+          - Closed near the day's high (CLV +0.74) — buyers absorbed the volume
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹84.0cr daily turnover)
+        FUNDAMENTALS (screener.in): MCap ₹ 13,890 Cr. | P/E 63.4 | ROCE 4.58 % | ROE 3.11 % | DivYield 0.99 % | BookVal ₹ 300 | PEG 1.24 (5Y) | PEGY 1.22
         PROS (screener.in):
           - Company is almost debt free.
+          - Company has been maintaining a healthy dividend payout of 50.4%
+          - Company's working capital requirements have reduced from 88.2 days to 62.4 days
         CONS (screener.in):
-          - Stock is trading at 17.2 times its book value
-          - Earnings include an other income of Rs.1,799 Cr.
-        https://www.screener.in/company/ABB/consolidated/
+          - The company has delivered a poor sales growth of 7.81% over past five years.
+          - Company has a low return on equity of 4.12% over last 3 years.
+          - Earnings include an other income of Rs.322 Cr.
+        https://www.screener.in/company/GRAPHITE/consolidated/
 
-  • BALRAMCHIN      (Balrampur Chini Mills Ltd     )  close ₹646.80  +10.34%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +5)
+  • WELCORP         (WELCORP                       )  close ₹1736.60  +1.24%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +5)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹633.33
-          - Strict stop-loss:      ₹588.79
-          - Best stop-loss:        ₹573.89
-          - Target-3 (150%):       ₹766.15
-          - Target-4 (161.8%):     ₹795.46
-          - Target-5 (261.8%):     ₹1043.86
-          - Swing anchor:          low ₹393.55  ↔  high ₹641.95
+          - Entry zone (probable): above ₹1724.38
+          - Strict stop-loss:      ₹1700.00
+          - Best stop-loss:        ₹1488.14
+          - Target-3 (150%):       ₹2195.00
+          - Target-4 (161.8%):     ₹2311.82
+          - Target-5 (261.8%):     ₹3301.82
+          - Swing anchor:          low ₹710.00  ↔  high ₹1700.00
         PROS (signals):
-          - Trading near 52-week high (93% of range)
+          - Trading near 52-week high (99% of range)
+          - +38% over the last 3 months
+          - +86% over the year
           - Bullish SMA stack (close > 20 > 50 > 200)
-          - Volume highest in 3 months (HVQ)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹43.6cr daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ 13,657 Cr. | P/E 36.1 | ROCE 9.28 % | ROE 9.54 % | DivYield 0.54 % | BookVal ₹ 205 | PEG 3.61 (3Y) | PEGY 3.43
-        PROS (screener.in):
-          - Company's working capital requirements have reduced from 43.8 days to 21.8 days
-        CONS (screener.in):
-          - Stock is trading at 3.16 times its book value
-          - The company has delivered a poor sales growth of 5.44% over past five years.
-          - Company has a low return on equity of 11.3% over last 3 years.
-          - Company might be capitalizing the interest cost
-          - Dividend payout has been low at 14.6% of profits over last 3 years
-        https://www.screener.in/company/BALRAMCHIN/consolidated/
+          - Delivery % rising — recent 56% vs 30d 51% (+5pp accumulation)
+          - Healthy liquidity (~₹179.5cr daily turnover)
+        CONS (signals):
+          - Volume drying up — 5d avg is 0.5× the 30d avg
 
-  • LLOYDSME        (Lloyds Metals & Energy Ltd    )  close ₹2050.60  +0.18%  bias BUY
+  • RRKABEL         (RRKABEL                       )  close ₹2641.10  +0.35%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +6)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹2633.74
+          - Strict stop-loss:      ₹2455.35
+          - Best stop-loss:        ₹2365.73
+          - Target-3 (150%):       ₹3521.85
+          - Target-4 (161.8%):     ₹3698.11
+          - Target-5 (261.8%):     ₹5191.81
+          - Swing anchor:          low ₹1281.30  ↔  high ₹2775.00
+        PROS (signals):
+          - Trading near 52-week high (92% of range)
+          - +15% over the last month
+          - +48% over the last 3 months
+          - +84% over the year
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Healthy liquidity (~₹201.1cr daily turnover)
+
+  • LLOYDSME        (LLOYDSME                      )  close ₹2053.00  +0.12%  bias BUY
         → STRONG BUY (tech=BUY, signal net +4)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹2053.20
+          - Entry zone (probable): above ₹2055.56
           - Strict stop-loss:      ₹1873.78
           - Best stop-loss:        ₹1810.35
           - Target-3 (150%):       ₹2628.55
@@ -72,71 +87,47 @@ Top 5 BUY candidates:
           - Target-5 (261.8%):     ₹3810.39
           - Swing anchor:          low ₹1042.90  ↔  high ₹2100.00
         PROS (signals):
-          - Trading near 52-week high (95% of range)
-          - +15% over the last month
+          - Trading near 52-week high (96% of range)
+          - +17% over the last month
           - Bullish SMA stack (close > 20 > 50 > 200)
           - Healthy liquidity (~₹111.8cr daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ 1,15,633 Cr. | P/E 36.2 | ROCE 35.9 % | ROE 35.1 % | DivYield 0.05 % | BookVal ₹ 209 | PEG 0.06 (5Y) | PEGY 0.06
-        PROS (screener.in):
-          - Company is expected to give good quarter
-          - Company has delivered good profit growth of 655% CAGR over last 5 years
-          - Company has a good return on equity (ROE) track record: 3 Years ROE 37.1%
-        CONS (screener.in):
-          - Stock is trading at 9.80 times its book value
-          - Company might be capitalizing the interest cost
-          - Promoter holding has decreased over last 3 years: -4.12%
-        https://www.screener.in/company/LLOYDSME/
 
-  • MANAPPURAM      (Manappuram Finance Ltd        )  close ₹365.00  -1.84%  bias SELL
-        → BUY-LEAN (tech=SELL, signal net +3)
+  • KARURVYSYA      (Karur Vysya Bank Ltd          )  close ₹341.45  -1.91%  bias STRONG_SELL
+        → HOLD / MIXED (tech=STRONG_SELL, signal net 2)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹364.83
-          - Strict stop-loss:      ₹352.36
-          - Best stop-loss:        ₹344.18
-          - Target-3 (150%):       ₹449.75
-          - Target-4 (161.8%):     ₹465.85
-          - Target-5 (261.8%):     ₹602.25
-          - Swing anchor:          low ₹245.15  ↔  high ₹381.55
+          - Entry zone (probable): above ₹345.69
+          - Strict stop-loss:      ₹319.70
+          - Best stop-loss:        ₹310.71
+          - Target-3 (150%):       ₹426.79
+          - Target-4 (161.8%):     ₹444.49
+          - Target-5 (261.8%):     ₹594.47
+          - Swing anchor:          low ₹201.82  ↔  high ₹351.80
         PROS (signals):
-          - Trading near 52-week high (88% of range)
+          - Trading near 52-week high (93% of range)
           - Bullish SMA stack (close > 20 > 50 > 200)
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹143.9cr daily turnover)
+          - Delivery % rising — recent 57% vs 30d 52% (+5pp accumulation)
+          - Healthy liquidity (~₹158.9cr daily turnover)
         CONS (signals):
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 34,281 Cr. | P/E 34.5 | ROCE 8.25 % | ROE 6.97 % | DivYield 0.96 % | BookVal ₹ 171
-        PROS (screener.in):
-          - Company has been maintaining a healthy dividend payout of 19.8%
-          - Promoter holding has increased by 9.89% over last quarter.
-        CONS (screener.in):
-          - Company has low interest coverage ratio.
-          - The company has delivered a poor sales growth of 8.48% over past five years.
-          - Company has a low return on equity of 11.9% over last 3 years.
-        https://www.screener.in/company/MANAPPURAM/consolidated/
+          - Volume drying up — 5d avg is 0.4× the 30d avg
+          - Closed near the day's low (CLV -0.85) — sellers dumped into the volume
+        FUNDAMENTALS (screener.in): MCap ₹ Cr. | ROCE % | ROE % | DivYield % | BookVal ₹
+        https://www.screener.in/company/KARURVYSYA/consolidated/
 
-  • BLUEJET         (Blue Jet Healthcare Ltd       )  close ₹589.50  -5.87%  bias STRONG_SELL
-        → HOLD / MIXED (tech=STRONG_SELL, signal net 1)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹615.96
-          - Strict stop-loss:      ₹564.73
-          - Best stop-loss:        ₹546.43
-          - Target-3 (150%):       ₹782.50
-          - Target-4 (161.8%):     ₹818.49
-          - Target-5 (261.8%):     ₹1123.49
-          - Swing anchor:          low ₹325.00  ↔  high ₹630.00
+Top 1 SELL candidates (high-volume distribution):
+------------------------------------------------------------
+  • LICI            (LICI                          )  close ₹391.30  -8.68%  bias STRONG_SELL
+        → STRONG SELL (tech=STRONG_SELL, signal net -3)
         PROS (signals):
-          - Trading above the 200-day SMA
-          - Delivery % rising — recent 50% vs 30d 44% (+6pp accumulation)
-          - Volume highest in 1 year (HVY)
-          - Healthy liquidity (~₹67.9cr daily turnover)
+          - Volume surge — 5d avg is 2.6× the 30d avg
+          - Volume highest in 4 years (HVE) — strongest possible breakout signal
+          - Healthy liquidity (~₹175.0cr daily turnover)
         CONS (signals):
-          - 43% off 52-week high
-          - -42% over the year
+          - Trading near 52-week low (0% of range)
+          - 58% off 52-week high
+          - -51% over the last 3 months
+          - -58% over the year
+          - Bearish SMA stack (close < 20 < 50 < 200)
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 11,144 Cr. | P/E 79.1 | ROCE 57.3 % | ROE 52.1 % | DivYield 0.20 % | BookVal ₹
-        PROS (screener.in):
-          - Company has reduced debt.
-        https://www.screener.in/company/BLUEJET/consolidated/
 
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).
