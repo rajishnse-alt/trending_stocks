@@ -3,102 +3,65 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-08-05 19:37 IST
+NSE bhavcopy analysis — generated 2026-08-06 19:37 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 7
-Recommendations: 5 BUY  +  0 SELL
+Pure_on_Volume hits (BUY): 8
+Recommendations: 5 BUY  +  2 SELL
 
 Top 5 BUY candidates:
 ------------------------------------------------------------
-  • BAJAJ-AUTO      (BAJAJ-AUTO                    )  close ₹11800.00  +1.72%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +6)
+  • NAVINFLUOR      (Navin Fluorine International L)  close ₹8650.00  +13.67%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +8)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹11701.00
-          - Strict stop-loss:      ₹10835.94
-          - Best stop-loss:        ₹10549.94
-          - Target-3 (150%):       ₹14239.33
-          - Target-4 (161.8%):     ₹14801.79
-          - Target-5 (261.8%):     ₹19568.44
-          - Swing anchor:          low ₹7089.35  ↔  high ₹11856.00
+          - Entry zone (probable): above ₹8352.05
+          - Strict stop-loss:      ₹7936.00
+          - Best stop-loss:        ₹6853.15
+          - Target-3 (150%):       ₹10466.03
+          - Target-4 (161.8%):     ₹11063.11
+          - Target-5 (261.8%):     ₹16123.16
+          - Swing anchor:          low ₹2875.95  ↔  high ₹7936.00
         PROS (signals):
-          - Trading near 52-week high (99% of range)
+          - Trading near 52-week high (97% of range)
           - +17% over the last month
+          - +71% over the year
           - Bullish SMA stack (close > 20 > 50 > 200)
-          - Delivery % rising — recent 58% vs 30d 52% (+6pp accumulation)
-          - Closed near the day's high (CLV +1.00) — buyers absorbed the volume
-          - Healthy liquidity (~₹504.4cr daily turnover)
-
-  • SAPPHIRE        (Sapphire Foods India Ltd      )  close ₹202.52  +5.31%  bias STRONG_BUY
-        → BUY-LEAN (tech=STRONG_BUY, signal net +0)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹198.46
-          - Strict stop-loss:      ₹193.74
-          - Best stop-loss:        ₹139.91
-          - Target-1 (50.0%):      ₹253.95
-          - Target-2 (61.8%):      ₹280.87
-          - Target-3 (150%):       ₹482.04
-          - Target-4 (161.8%):     ₹508.96
-          - Target-5 (261.8%):     ₹737.05
-          - Swing anchor:          low ₹139.91  ↔  high ₹368.00
-        PROS (signals):
-          - Volume surge — 5d avg is 2.6× the 30d avg
+          - Volume surge — 5d avg is 3.6× the 30d avg
           - Volume highest in 3 months (HVQ)
+          - Closed near the day's high (CLV +0.73) — buyers absorbed the volume
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹31.3cr daily turnover)
+          - Healthy liquidity (~₹178.5cr daily turnover)
         CONS (signals):
-          - Lower third of 52-week range (29%)
-          - 43% off 52-week high
-          - -40% over the year
-          - Trading below the 200-day SMA
-        FUNDAMENTALS (screener.in): MCap ₹ 6,505 Cr. | P/E 2,643 | ROCE 3.98 % | ROE -1.03 % | DivYield 0.00 % | BookVal ₹ 43.3 | PEG 203.31 (5Y) | PEGY 203.31
+          - Delivery % falling — recent 46% vs 30d 55% (-9pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 44,428 Cr. | P/E 55.9 | ROCE 21.0 % | ROE 19.6 % | DivYield 0.17 % | BookVal ₹ 775 | PEG 2.66 (5Y) | PEGY 2.64
+        PROS (screener.in):
+          - Company is expected to give good quarter
+          - Company has delivered good profit growth of 21.4% CAGR over last 5 years
         CONS (screener.in):
-          - Stock is trading at 4.68 times its book value
-          - Company has low interest coverage ratio.
-          - Promoter holding is low: 26.1%
-          - Company has a low return on equity of 1.65% over last 3 years.
-          - Promoter holding has decreased over last 3 years: -18.8%
-        https://www.screener.in/company/SAPPHIRE/consolidated/
+          - Stock is trading at 11.2 times its book value
+        https://www.screener.in/company/NAVINFLUOR/consolidated/
 
-  • LLOYDSME        (LLOYDSME                      )  close ₹2087.10  +1.66%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +4)
+  • IIFL            (IIFL                          )  close ₹609.35  -0.14%  bias SELL
+        → STRONG BUY (tech=SELL, signal net +5)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹2076.54
-          - Strict stop-loss:      ₹1873.78
-          - Best stop-loss:        ₹1810.35
-          - Target-3 (150%):       ₹2628.55
-          - Target-4 (161.8%):     ₹2753.29
-          - Target-5 (261.8%):     ₹3810.39
-          - Swing anchor:          low ₹1042.90  ↔  high ₹2100.00
+          - Entry zone (probable): above ₹610.69
+          - Strict stop-loss:      ₹577.23
+          - Best stop-loss:        ₹564.39
+          - Target-3 (150%):       ₹729.95
+          - Target-4 (161.8%):     ₹755.19
+          - Target-5 (261.8%):     ₹969.09
+          - Swing anchor:          low ₹409.10  ↔  high ₹623.00
         PROS (signals):
-          - Trading near 52-week high (99% of range)
-          - +19% over the last month
+          - Upper third of 52-week range (75%)
+          - +18% over the last month
+          - +31% over the last 3 months
           - Bullish SMA stack (close > 20 > 50 > 200)
-          - Healthy liquidity (~₹111.2cr daily turnover)
+          - Healthy liquidity (~₹150.6cr daily turnover)
 
-  • CRAFTSMAN       (CRAFTSMAN                     )  close ₹10408.50  +2.29%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +4)
+  • CHENNPETRO      (CHENNPETRO                    )  close ₹1292.30  -0.89%  bias SELL
+        → STRONG BUY (tech=SELL, signal net +6)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹10363.90
-          - Strict stop-loss:      ₹8966.20
-          - Best stop-loss:        ₹8564.20
-          - Target-3 (150%):       ₹13750.00
-          - Target-4 (161.8%):     ₹14540.60
-          - Target-5 (261.8%):     ₹21240.60
-          - Swing anchor:          low ₹3700.00  ↔  high ₹10400.00
-        PROS (signals):
-          - Trading near 52-week high (99% of range)
-          - +34% over the last 3 months
-          - +59% over the year
-          - Bullish SMA stack (close > 20 > 50 > 200)
-          - Healthy liquidity (~₹82.9cr daily turnover)
-        CONS (signals):
-          - Delivery % falling — recent 45% vs 30d 51% (-6pp distribution)
-
-  • CHENNPETRO      (Chennai Petroleum Corporation )  close ₹1303.90  -1.64%  bias STRONG_SELL
-        → BUY-LEAN (tech=STRONG_SELL, signal net +5)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹1325.80
+          - Entry zone (probable): above ₹1300.00
           - Strict stop-loss:      ₹1156.93
           - Best stop-loss:        ₹1101.67
           - Target-3 (150%):       ₹1814.45
@@ -106,19 +69,77 @@ Top 5 BUY candidates:
           - Target-5 (261.8%):     ₹2844.02
           - Swing anchor:          low ₹433.10  ↔  high ₹1354.00
         PROS (signals):
-          - Trading near 52-week high (93% of range)
-          - +20% over the last month
+          - Trading near 52-week high (92% of range)
+          - +16% over the last month
           - +66% over the year
           - Bullish SMA stack (close > 20 > 50 > 200)
-          - Healthy liquidity (~₹202.1cr daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ 19,402 Cr. | P/E 4.69 | ROCE 35.4 % | ROE 32.4 % | DivYield 4.75 % | BookVal ₹ 725 | PEG 0.07 (5Y) | PEGY 0.07
-        PROS (screener.in):
-          - Company has reduced debt.
-          - Stock is providing a good dividend yield of 4.75%.
-          - Company is expected to give good quarter
-          - Company has a good return on equity (ROE) track record: 3 Years ROE 23.7%
-          - Company has been maintaining a healthy dividend payout of 34.4%
-        https://www.screener.in/company/CHENNPETRO/
+          - Delivery % rising — recent 38% vs 30d 32% (+5pp accumulation)
+          - Healthy liquidity (~₹203.0cr daily turnover)
+
+  • RRKABEL         (RRKABEL                       )  close ₹2764.40  -1.02%  bias SELL
+        → STRONG BUY (tech=SELL, signal net +6)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹2780.84
+          - Strict stop-loss:      ₹2486.79
+          - Best stop-loss:        ₹2394.77
+          - Target-3 (150%):       ₹3581.85
+          - Target-4 (161.8%):     ₹3762.83
+          - Target-5 (261.8%):     ₹5296.53
+          - Swing anchor:          low ₹1281.30  ↔  high ₹2815.00
+        PROS (signals):
+          - Trading near 52-week high (97% of range)
+          - +26% over the last month
+          - +43% over the last 3 months
+          - +88% over the year
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Healthy liquidity (~₹211.8cr daily turnover)
+
+  • GABRIEL         (GABRIEL                       )  close ₹1531.80  -3.52%  bias SELL
+        → STRONG BUY (tech=SELL, signal net +6)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹1552.96
+          - Strict stop-loss:      ₹1427.88
+          - Best stop-loss:        ₹1379.62
+          - Target-3 (150%):       ₹2002.15
+          - Target-4 (161.8%):     ₹2097.06
+          - Target-5 (261.8%):     ₹2901.36
+          - Swing anchor:          low ₹795.70  ↔  high ₹1600.00
+        PROS (signals):
+          - Trading near 52-week high (92% of range)
+          - +24% over the last month
+          - +36% over the last 3 months
+          - +52% over the year
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Healthy liquidity (~₹100.2cr daily turnover)
+
+Top 2 SELL candidates (high-volume distribution):
+------------------------------------------------------------
+  • LICI            (LICI                          )  close ₹387.55  -1.39%  bias STRONG_SELL
+        → STRONG SELL (tech=STRONG_SELL, signal net -3)
+        PROS (signals):
+          - Volume surge — 5d avg is 4.3× the 30d avg
+          - Delivery % rising — recent 57% vs 30d 50% (+7pp accumulation)
+          - Volume highest in 4 years (HVE) — strongest possible breakout signal
+          - Healthy liquidity (~₹246.9cr daily turnover)
+        CONS (signals):
+          - Trading near 52-week low (0% of range)
+          - 59% off 52-week high
+          - -52% over the last 3 months
+          - -58% over the year
+          - Bearish SMA stack (close < 20 < 50 < 200)
+          - Closed near the day's low (CLV -0.86) — sellers dumped into the volume
+          - High-volume distribution — HV breakout on a down day
+
+  • BLUESTARCO      (BLUESTARCO                    )  close ₹1571.00  -5.65%  bias STRONG_SELL
+        → SELL-LEAN (tech=STRONG_SELL, signal net 0)
+        PROS (signals):
+          - Volume surge — 5d avg is 2.2× the 30d avg
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹67.0cr daily turnover)
+        CONS (signals):
+          - Lower third of 52-week range (21%)
+          - Trading below the 200-day SMA
+          - High-volume distribution — HV breakout on a down day
 
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).
