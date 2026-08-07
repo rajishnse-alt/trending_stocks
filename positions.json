@@ -387,7 +387,7 @@
     "suggested_close": 132.17,
     "entry": 133.0795,
     "fill_trigger": 134.676454,
-    "stoploss": 123.4227,
+    "stoploss": 164.85610000000003,
     "strict_stoploss": 126.2097,
     "swing_low": 89.7,
     "swing_high": 136.15,
@@ -421,8 +421,8 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
-    "stoploss_source": "best_stoploss",
+    "last_checked": "2026-08-07",
+    "stoploss_source": "trailed_t4",
     "strategy_version": 1,
     "tranches": [
       {
@@ -449,7 +449,11 @@
     "supertrend_active": null,
     "peg_at_entry": 1.12,
     "pegy_at_entry": 1.1,
-    "peg_source": "5Y"
+    "peg_source": "5Y",
+    "hit_targets": [
+      "T3",
+      "T4"
+    ]
   },
   {
     "symbol": "ENRIN",
@@ -493,7 +497,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -560,7 +564,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -704,7 +708,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -933,15 +937,15 @@
         "price": 5221.947324
       }
     ],
-    "status": "open",
+    "status": "closed",
     "fill_date": "2026-05-22",
     "fill_price": 3145.7513999999996,
-    "exit_date": null,
-    "exit_price": null,
-    "exit_reason": null,
-    "days_held": null,
-    "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "exit_date": "2026-08-07",
+    "exit_price": 3259.7000000000003,
+    "exit_reason": "stoploss",
+    "days_held": 77,
+    "pnl_pct": 3.622301495280289,
+    "last_checked": "2026-08-07",
     "stoploss_source": "trailed_t3",
     "strategy_version": 1,
     "tranches": [
@@ -1803,7 +1807,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -2254,7 +2258,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -2929,7 +2933,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -2996,7 +3000,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -3063,7 +3067,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -3203,7 +3207,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "stoploss_source": "trailed_t3",
     "strategy_version": 1,
     "tranches": [
@@ -3562,7 +3566,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -3849,7 +3853,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -4063,7 +4067,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -4967,7 +4971,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "stoploss_source": "weekly_fib_0.786",
     "original_stoploss": 1087.152,
     "strategy_version": 1,
@@ -5438,7 +5442,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -5505,7 +5509,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -6114,7 +6118,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -6181,7 +6185,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "stoploss_source": "weekly_fib_0.786",
     "original_stoploss": 1169.1976,
     "strategy_version": 1,
@@ -6249,7 +6253,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "stoploss_source": "best_stoploss",
     "strategy_version": 1,
     "tranches": [
@@ -6408,7 +6412,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "stoploss_source": "weekly_fib_0.786",
     "original_stoploss": 36.24472,
     "strategy_version": 1,
@@ -6476,7 +6480,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "stoploss_source": "weekly_fib_clamped",
     "original_stoploss": 2015.425,
     "strategy_version": 1,
@@ -6547,7 +6551,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -6616,7 +6620,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -6938,7 +6942,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7157,7 +7161,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7295,7 +7299,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7497,7 +7501,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7578,7 +7582,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7744,7 +7748,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7915,7 +7919,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -8231,7 +8235,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -8526,7 +8530,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -8923,7 +8927,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -9089,7 +9093,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -9173,7 +9177,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -9247,7 +9251,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -9316,7 +9320,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -9385,7 +9389,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -9459,7 +9463,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -9690,7 +9694,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -9759,7 +9763,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -9838,7 +9842,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -10001,7 +10005,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -10080,7 +10084,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -10149,7 +10153,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -10317,7 +10321,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -10625,7 +10629,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -10842,7 +10846,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -10992,7 +10996,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11135,7 +11139,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11397,7 +11401,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11568,7 +11572,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11706,7 +11710,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11783,7 +11787,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11961,7 +11965,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -12035,7 +12039,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -12109,7 +12113,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -12254,7 +12258,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -12322,15 +12326,15 @@
     "hit_targets": [
       "T3"
     ],
-    "status": "open",
+    "status": "closed",
     "fill_date": "2026-07-17",
     "fill_price": 587.05614,
-    "exit_date": null,
-    "exit_price": null,
-    "exit_reason": null,
-    "days_held": null,
-    "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "exit_date": "2026-08-07",
+    "exit_price": 717.925,
+    "exit_reason": "stoploss",
+    "days_held": 21,
+    "pnl_pct": 22.29239268326193,
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -12399,7 +12403,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "strategy_version": 1,
     "tranches": [
       {
@@ -12600,7 +12604,7 @@
     "pegy_at_entry": 3.43,
     "peg_source": "3Y",
     "supertrend_active": false,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "dynamic_sl_source": null
   },
   {
@@ -12696,7 +12700,7 @@
     "pegy_at_entry": 0.85,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "dynamic_sl_source": null
   },
   {
@@ -12797,7 +12801,7 @@
     "pegy_at_entry": 1.35,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "dynamic_sl_source": null
   },
   {
@@ -12898,7 +12902,7 @@
     "pegy_at_entry": 3.17,
     "peg_source": "3Y",
     "supertrend_active": false,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "dynamic_sl_source": null
   },
   {
@@ -12935,7 +12939,7 @@
       {
         "name": "MAX",
         "ratio": 0.66,
-        "price": 673.1300000000001
+        "price": 671.9428012000001
       }
     ],
     "hit_targets": [],
@@ -12977,9 +12981,9 @@
         "exit_date": null
       }
     ],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-08-07",
+    "fill_price": 404.78482,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
@@ -12999,7 +13003,7 @@
     "pegy_at_entry": 0.46,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "dynamic_sl_source": null
   },
   {
@@ -13095,7 +13099,7 @@
     "pegy_at_entry": 0.06,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "dynamic_sl_source": null
   },
   {
@@ -13191,7 +13195,7 @@
     "pegy_at_entry": 1.22,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "dynamic_sl_source": null
   },
   {
@@ -13287,7 +13291,7 @@
     "pegy_at_entry": null,
     "peg_source": "",
     "supertrend_active": false,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "dynamic_sl_source": null
   },
   {
@@ -13383,7 +13387,7 @@
     "pegy_at_entry": null,
     "peg_source": "",
     "supertrend_active": false,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "dynamic_sl_source": null
   },
   {
@@ -13479,7 +13483,7 @@
     "pegy_at_entry": 203.31,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "dynamic_sl_source": null
   },
   {
@@ -13575,7 +13579,7 @@
     "pegy_at_entry": 0.07,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "dynamic_sl_source": null
   },
   {
@@ -13671,7 +13675,7 @@
     "pegy_at_entry": null,
     "peg_source": "",
     "supertrend_active": false,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "dynamic_sl_source": null
   },
   {
@@ -13767,7 +13771,7 @@
     "pegy_at_entry": null,
     "peg_source": "",
     "supertrend_active": false,
-    "last_checked": "2026-08-06",
+    "last_checked": "2026-08-07",
     "dynamic_sl_source": null
   },
   {
@@ -13799,7 +13803,7 @@
       {
         "name": "MAX",
         "ratio": 0.66,
-        "price": 14359.000000000002
+        "price": 14030.775835999999
       }
     ],
     "hit_targets": [],
@@ -13841,9 +13845,9 @@
         "exit_date": null
       }
     ],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-08-07",
+    "fill_price": 8452.274599999999,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
@@ -13863,7 +13867,8 @@
     "pegy_at_entry": 2.64,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-08-06"
+    "last_checked": "2026-08-07",
+    "dynamic_sl_source": null
   },
   {
     "symbol": "IIFL",
@@ -13899,7 +13904,7 @@
       {
         "name": "MAX",
         "ratio": 0.66,
-        "price": 1011.5210000000001
+        "price": 1025.9145446
       }
     ],
     "hit_targets": [],
@@ -13941,9 +13946,9 @@
         "exit_date": null
       }
     ],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-08-07",
+    "fill_price": 618.02081,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
@@ -13963,7 +13968,8 @@
     "pegy_at_entry": null,
     "peg_source": "",
     "supertrend_active": false,
-    "last_checked": "2026-08-06"
+    "last_checked": "2026-08-07",
+    "dynamic_sl_source": null
   },
   {
     "symbol": "GABRIEL",
@@ -14058,6 +14064,7 @@
     "pegy_at_entry": null,
     "peg_source": "",
     "supertrend_active": false,
-    "last_checked": "2026-08-06"
+    "last_checked": "2026-08-07",
+    "dynamic_sl_source": null
   }
 ]

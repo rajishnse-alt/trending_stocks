@@ -3,48 +3,73 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-08-06 19:37 IST
+NSE bhavcopy analysis — generated 2026-08-07 19:38 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 8
+Pure_on_Volume hits (BUY): 6
 Recommendations: 5 BUY  +  2 SELL
 
 Top 5 BUY candidates:
 ------------------------------------------------------------
-  • NAVINFLUOR      (Navin Fluorine International L)  close ₹8650.00  +13.67%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +8)
+  • APARINDS        (APARINDS                      )  close ₹16631.00  +3.13%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +7)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹8352.05
-          - Strict stop-loss:      ₹7936.00
-          - Best stop-loss:        ₹6853.15
-          - Target-3 (150%):       ₹10466.03
-          - Target-4 (161.8%):     ₹11063.11
-          - Target-5 (261.8%):     ₹16123.16
-          - Swing anchor:          low ₹2875.95  ↔  high ₹7936.00
+          - Entry zone (probable): above ₹16427.25
+          - Strict stop-loss:      ₹14940.82
+          - Best stop-loss:        ₹14319.46
+          - Target-3 (150%):       ₹22335.00
+          - Target-4 (161.8%):     ₹23557.01
+          - Target-5 (261.8%):     ₹33913.01
+          - Swing anchor:          low ₹6801.00  ↔  high ₹17157.00
         PROS (signals):
-          - Trading near 52-week high (97% of range)
-          - +17% over the last month
-          - +71% over the year
-          - Bullish SMA stack (close > 20 > 50 > 200)
-          - Volume surge — 5d avg is 3.6× the 30d avg
-          - Volume highest in 3 months (HVQ)
-          - Closed near the day's high (CLV +0.73) — buyers absorbed the volume
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹178.5cr daily turnover)
-        CONS (signals):
-          - Delivery % falling — recent 46% vs 30d 55% (-9pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 44,428 Cr. | P/E 55.9 | ROCE 21.0 % | ROE 19.6 % | DivYield 0.17 % | BookVal ₹ 775 | PEG 2.66 (5Y) | PEGY 2.64
-        PROS (screener.in):
-          - Company is expected to give good quarter
-          - Company has delivered good profit growth of 21.4% CAGR over last 5 years
-        CONS (screener.in):
-          - Stock is trading at 11.2 times its book value
-        https://www.screener.in/company/NAVINFLUOR/consolidated/
+          - Trading near 52-week high (95% of range)
+          - +18% over the last month
+          - +82% over the year
+          - Trading above the 200-day SMA
+          - 6-day winning streak
+          - Closed near the day's high (CLV +0.78) — buyers absorbed the volume
+          - Healthy liquidity (~₹287.3cr daily turnover)
 
-  • IIFL            (IIFL                          )  close ₹609.35  -0.14%  bias SELL
-        → STRONG BUY (tech=SELL, signal net +5)
+  • LLOYDSME        (LLOYDSME                      )  close ₹2101.20  +2.05%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +4)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹610.69
+          - Entry zone (probable): above ₹2085.47
+          - Strict stop-loss:      ₹1873.78
+          - Best stop-loss:        ₹1810.35
+          - Target-3 (150%):       ₹2628.55
+          - Target-4 (161.8%):     ₹2753.29
+          - Target-5 (261.8%):     ₹3810.39
+          - Swing anchor:          low ₹1042.90  ↔  high ₹2100.00
+        PROS (signals):
+          - Trading near 52-week high (99% of range)
+          - +20% over the last month
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Healthy liquidity (~₹109.5cr daily turnover)
+
+  • ENRIN           (Siemens Energy India Ltd      )  close ₹3648.80  +12.19%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +6)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹3596.13
+          - Strict stop-loss:      ₹3571.46
+          - Best stop-loss:        ₹3460.28
+          - Target-3 (150%):       ₹4894.50
+          - Target-4 (161.8%):     ₹5113.15
+          - Target-5 (261.8%):     ₹6966.15
+          - Swing anchor:          low ₹2115.00  ↔  high ₹3968.00
+        PROS (signals):
+          - Upper third of 52-week range (83%)
+          - Trading above the 200-day SMA
+          - Volume surge — 5d avg is 2.7× the 30d avg
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹239.8cr daily turnover)
+        FUNDAMENTALS (screener.in): MCap ₹ Cr. | ROCE % | ROE % | DivYield % | BookVal ₹
+        https://www.screener.in/company/ENRIN/consolidated/
+
+  • IIFL            (IIFL                          )  close ₹611.75  +0.39%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +5)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹612.66
           - Strict stop-loss:      ₹577.23
           - Best stop-loss:        ₹564.39
           - Target-3 (150%):       ₹729.95
@@ -52,92 +77,51 @@ Top 5 BUY candidates:
           - Target-5 (261.8%):     ₹969.09
           - Swing anchor:          low ₹409.10  ↔  high ₹623.00
         PROS (signals):
-          - Upper third of 52-week range (75%)
-          - +18% over the last month
-          - +31% over the last 3 months
+          - Upper third of 52-week range (76%)
+          - +33% over the last 3 months
           - Bullish SMA stack (close > 20 > 50 > 200)
-          - Healthy liquidity (~₹150.6cr daily turnover)
+          - Delivery % rising — recent 57% vs 30d 49% (+8pp accumulation)
+          - Healthy liquidity (~₹146.2cr daily turnover)
 
-  • CHENNPETRO      (CHENNPETRO                    )  close ₹1292.30  -0.89%  bias SELL
-        → STRONG BUY (tech=SELL, signal net +6)
+  • DIVISLAB        (DIVISLAB                      )  close ₹8275.00  -0.89%  bias SELL
+        → BUY-LEAN (tech=SELL, signal net +4)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹1300.00
-          - Strict stop-loss:      ₹1156.93
-          - Best stop-loss:        ₹1101.67
-          - Target-3 (150%):       ₹1814.45
-          - Target-4 (161.8%):     ₹1923.12
-          - Target-5 (261.8%):     ₹2844.02
-          - Swing anchor:          low ₹433.10  ↔  high ₹1354.00
+          - Entry zone (probable): above ₹8288.77
+          - Strict stop-loss:      ₹7956.38
+          - Best stop-loss:        ₹7780.12
+          - Target-3 (150%):       ₹10053.75
+          - Target-4 (161.8%):     ₹10400.38
+          - Target-5 (261.8%):     ₹13337.88
+          - Swing anchor:          low ₹5647.50  ↔  high ₹8585.00
         PROS (signals):
-          - Trading near 52-week high (92% of range)
-          - +16% over the last month
-          - +66% over the year
+          - Trading near 52-week high (89% of range)
+          - +21% over the last month
           - Bullish SMA stack (close > 20 > 50 > 200)
-          - Delivery % rising — recent 38% vs 30d 32% (+5pp accumulation)
-          - Healthy liquidity (~₹203.0cr daily turnover)
-
-  • RRKABEL         (RRKABEL                       )  close ₹2764.40  -1.02%  bias SELL
-        → STRONG BUY (tech=SELL, signal net +6)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹2780.84
-          - Strict stop-loss:      ₹2486.79
-          - Best stop-loss:        ₹2394.77
-          - Target-3 (150%):       ₹3581.85
-          - Target-4 (161.8%):     ₹3762.83
-          - Target-5 (261.8%):     ₹5296.53
-          - Swing anchor:          low ₹1281.30  ↔  high ₹2815.00
-        PROS (signals):
-          - Trading near 52-week high (97% of range)
-          - +26% over the last month
-          - +43% over the last 3 months
-          - +88% over the year
-          - Bullish SMA stack (close > 20 > 50 > 200)
-          - Healthy liquidity (~₹211.8cr daily turnover)
-
-  • GABRIEL         (GABRIEL                       )  close ₹1531.80  -3.52%  bias SELL
-        → STRONG BUY (tech=SELL, signal net +6)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹1552.96
-          - Strict stop-loss:      ₹1427.88
-          - Best stop-loss:        ₹1379.62
-          - Target-3 (150%):       ₹2002.15
-          - Target-4 (161.8%):     ₹2097.06
-          - Target-5 (261.8%):     ₹2901.36
-          - Swing anchor:          low ₹795.70  ↔  high ₹1600.00
-        PROS (signals):
-          - Trading near 52-week high (92% of range)
-          - +24% over the last month
-          - +36% over the last 3 months
-          - +52% over the year
-          - Bullish SMA stack (close > 20 > 50 > 200)
-          - Healthy liquidity (~₹100.2cr daily turnover)
+          - Healthy liquidity (~₹378.1cr daily turnover)
 
 Top 2 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
-  • LICI            (LICI                          )  close ₹387.55  -1.39%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -3)
+  • CROMPTON        (CROMPTON                      )  close ₹249.95  -7.43%  bias STRONG_SELL
+        → STRONG SELL (tech=STRONG_SELL, signal net -4)
         PROS (signals):
-          - Volume surge — 5d avg is 4.3× the 30d avg
-          - Delivery % rising — recent 57% vs 30d 50% (+7pp accumulation)
-          - Volume highest in 4 years (HVE) — strongest possible breakout signal
-          - Healthy liquidity (~₹246.9cr daily turnover)
+          - Volume highest in 1 year (HVY)
+          - Healthy liquidity (~₹78.2cr daily turnover)
         CONS (signals):
-          - Trading near 52-week low (0% of range)
-          - 59% off 52-week high
-          - -52% over the last 3 months
-          - -58% over the year
-          - Bearish SMA stack (close < 20 < 50 < 200)
-          - Closed near the day's low (CLV -0.86) — sellers dumped into the volume
+          - Lower third of 52-week range (27%)
+          - -25% over the year
+          - Trading below the 200-day SMA
+          - Delivery % falling — recent 42% vs 30d 49% (-7pp distribution)
+          - Closed near the day's low (CLV -0.85) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
 
-  • BLUESTARCO      (BLUESTARCO                    )  close ₹1571.00  -5.65%  bias STRONG_SELL
+  • BLUESTARCO      (BLUESTARCO                    )  close ₹1514.00  -3.63%  bias STRONG_SELL
         → SELL-LEAN (tech=STRONG_SELL, signal net 0)
         PROS (signals):
-          - Volume surge — 5d avg is 2.2× the 30d avg
+          - Volume surge — 5d avg is 2.8× the 30d avg
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹67.0cr daily turnover)
+          - Healthy liquidity (~₹71.2cr daily turnover)
         CONS (signals):
-          - Lower third of 52-week range (21%)
+          - Trading near 52-week low (11% of range)
           - Trading below the 200-day SMA
           - High-volume distribution — HV breakout on a down day
 
