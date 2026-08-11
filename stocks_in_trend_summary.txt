@@ -3,127 +3,141 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-08-10 19:38 IST
+NSE bhavcopy analysis — generated 2026-08-11 19:37 IST
 ============================================================
 
 Pure_on_Volume hits (BUY): 6
-Recommendations: 5 BUY  +  2 SELL
+Recommendations: 5 BUY  +  0 SELL
 
 Top 5 BUY candidates:
 ------------------------------------------------------------
-  • APARINDS        (APARINDS                      )  close ₹16631.00  +3.13%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +7)
+  • FINCABLES       (Finolex Cables Ltd            )  close ₹1207.85  +14.16%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +6)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹16427.25
-          - Strict stop-loss:      ₹14940.82
-          - Best stop-loss:        ₹14319.46
-          - Target-3 (150%):       ₹22335.00
-          - Target-4 (161.8%):     ₹23557.01
-          - Target-5 (261.8%):     ₹33913.01
-          - Swing anchor:          low ₹6801.00  ↔  high ₹17157.00
+          - Entry zone (probable): above ₹1147.17
+          - Strict stop-loss:      ₹1096.24
+          - Best stop-loss:        ₹1066.05
+          - Target-3 (150%):       ₹1455.45
+          - Target-4 (161.8%):     ₹1514.82
+          - Target-5 (261.8%):     ₹2017.92
+          - Swing anchor:          low ₹700.80  ↔  high ₹1203.90
         PROS (signals):
-          - Trading near 52-week high (95% of range)
-          - +18% over the last month
-          - +82% over the year
+          - Trading near 52-week high (97% of range)
           - Trading above the 200-day SMA
-          - 6-day winning streak
-          - Closed near the day's high (CLV +0.78) — buyers absorbed the volume
-          - Healthy liquidity (~₹287.3cr daily turnover)
-
-  • LLOYDSME        (LLOYDSME                      )  close ₹2101.20  +2.05%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +4)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹2085.47
-          - Strict stop-loss:      ₹1873.78
-          - Best stop-loss:        ₹1810.35
-          - Target-3 (150%):       ₹2628.55
-          - Target-4 (161.8%):     ₹2753.29
-          - Target-5 (261.8%):     ₹3810.39
-          - Swing anchor:          low ₹1042.90  ↔  high ₹2100.00
-        PROS (signals):
-          - Trading near 52-week high (99% of range)
-          - +20% over the last month
-          - Bullish SMA stack (close > 20 > 50 > 200)
-          - Healthy liquidity (~₹109.5cr daily turnover)
-
-  • ENRIN           (Siemens Energy India Ltd      )  close ₹3648.80  +12.19%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +6)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹3596.13
-          - Strict stop-loss:      ₹3571.46
-          - Best stop-loss:        ₹3460.28
-          - Target-3 (150%):       ₹4894.50
-          - Target-4 (161.8%):     ₹5113.15
-          - Target-5 (261.8%):     ₹6966.15
-          - Swing anchor:          low ₹2115.00  ↔  high ₹3968.00
-        PROS (signals):
-          - Upper third of 52-week range (83%)
-          - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 2.7× the 30d avg
-          - Volume highest in 3 months (HVQ)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹239.8cr daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ Cr. | ROCE % | ROE % | DivYield % | BookVal ₹
-        https://www.screener.in/company/ENRIN/consolidated/
-
-  • IIFL            (IIFL                          )  close ₹611.75  +0.39%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +5)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹612.66
-          - Strict stop-loss:      ₹577.23
-          - Best stop-loss:        ₹564.39
-          - Target-3 (150%):       ₹729.95
-          - Target-4 (161.8%):     ₹755.19
-          - Target-5 (261.8%):     ₹969.09
-          - Swing anchor:          low ₹409.10  ↔  high ₹623.00
-        PROS (signals):
-          - Upper third of 52-week range (76%)
-          - +33% over the last 3 months
-          - Bullish SMA stack (close > 20 > 50 > 200)
-          - Delivery % rising — recent 57% vs 30d 49% (+8pp accumulation)
-          - Healthy liquidity (~₹146.2cr daily turnover)
-
-  • DIVISLAB        (DIVISLAB                      )  close ₹8275.00  -0.89%  bias SELL
-        → BUY-LEAN (tech=SELL, signal net +4)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹8288.77
-          - Strict stop-loss:      ₹7956.38
-          - Best stop-loss:        ₹7780.12
-          - Target-3 (150%):       ₹10053.75
-          - Target-4 (161.8%):     ₹10400.38
-          - Target-5 (261.8%):     ₹13337.88
-          - Swing anchor:          low ₹5647.50  ↔  high ₹8585.00
-        PROS (signals):
-          - Trading near 52-week high (89% of range)
-          - +21% over the last month
-          - Bullish SMA stack (close > 20 > 50 > 200)
-          - Healthy liquidity (~₹378.1cr daily turnover)
-
-Top 2 SELL candidates (high-volume distribution):
-------------------------------------------------------------
-  • CROMPTON        (CROMPTON                      )  close ₹249.95  -7.43%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -4)
-        PROS (signals):
+          - Volume surge — 5d avg is 3.9× the 30d avg
           - Volume highest in 1 year (HVY)
-          - Healthy liquidity (~₹78.2cr daily turnover)
+          - Closed near the day's high (CLV +0.81) — buyers absorbed the volume
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹66.1cr daily turnover)
         CONS (signals):
-          - Lower third of 52-week range (27%)
-          - -25% over the year
-          - Trading below the 200-day SMA
-          - Delivery % falling — recent 42% vs 30d 49% (-7pp distribution)
-          - Closed near the day's low (CLV -0.85) — sellers dumped into the volume
-          - High-volume distribution — HV breakout on a down day
+          - Delivery % falling — recent 40% vs 30d 46% (-6pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 18,460 Cr. | P/E 23.1 | ROCE 16.0 % | ROE 12.3 % | DivYield 0.66 % | BookVal ₹ 398 | PEG 2.57 (5Y) | PEGY 2.39
+        PROS (screener.in):
+          - Company is almost debt free.
+          - Company is expected to give good quarter
+          - Company has been maintaining a healthy dividend payout of 18.5%
+        CONS (screener.in):
+          - Company has a low return on equity of 13.2% over last 3 years.
+          - Earnings include an other income of Rs.382 Cr.
+          - Working capital days have increased from 99.1 days to 170 days
+        https://www.screener.in/company/FINCABLES/consolidated/
 
-  • BLUESTARCO      (BLUESTARCO                    )  close ₹1514.00  -3.63%  bias STRONG_SELL
-        → SELL-LEAN (tech=STRONG_SELL, signal net 0)
+  • CHENNPETRO      (Chennai Petroleum Corporation )  close ₹1426.10  +15.00%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +9)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹1353.60
+          - Strict stop-loss:      ₹1156.93
+          - Best stop-loss:        ₹1101.67
+          - Target-3 (150%):       ₹1814.45
+          - Target-4 (161.8%):     ₹1923.12
+          - Target-5 (261.8%):     ₹2844.02
+          - Swing anchor:          low ₹433.10  ↔  high ₹1354.00
         PROS (signals):
-          - Volume surge — 5d avg is 2.8× the 30d avg
+          - Trading near 52-week high (97% of range)
+          - +23% over the last month
+          - +41% over the last 3 months
+          - +98% over the year
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Delivery % rising — recent 37% vs 30d 31% (+5pp accumulation)
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹71.2cr daily turnover)
+          - Closed near the day's high (CLV +0.78) — buyers absorbed the volume
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹268.0cr daily turnover)
         CONS (signals):
-          - Trading near 52-week low (11% of range)
-          - Trading below the 200-day SMA
-          - High-volume distribution — HV breakout on a down day
+          - High volatility (73% annualised)
+        FUNDAMENTALS (screener.in): MCap ₹ 21,226 Cr. | P/E 5.09 | ROCE 34.9 % | ROE 31.8 % | DivYield 4.35 % | BookVal ₹ 746 | PEG 0.08 (5Y) | PEGY 0.07
+        PROS (screener.in):
+          - Company has reduced debt.
+          - Stock is providing a good dividend yield of 4.35%.
+          - Company is expected to give good quarter
+          - Company has a good return on equity (ROE) track record: 3 Years ROE 23.4%
+          - Company has been maintaining a healthy dividend payout of 31.5%
+        https://www.screener.in/company/CHENNPETRO/consolidated/
+
+  • RADICO          (RADICO                        )  close ₹4545.00  -0.11%  bias SELL
+        → STRONG BUY (tech=SELL, signal net +6)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹4540.07
+          - Strict stop-loss:      ₹4142.98
+          - Best stop-loss:        ₹4017.56
+          - Target-3 (150%):       ₹5635.45
+          - Target-4 (161.8%):     ₹5882.11
+          - Target-5 (261.8%):     ₹7972.41
+          - Swing anchor:          low ₹2500.00  ↔  high ₹4590.30
+        PROS (signals):
+          - Trading near 52-week high (98% of range)
+          - +33% over the last 3 months
+          - +70% over the year
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Delivery % rising — recent 57% vs 30d 52% (+6pp accumulation)
+          - Healthy liquidity (~₹183.8cr daily turnover)
+
+  • ABB             (ABB                           )  close ₹7611.50  -0.50%  bias SELL
+        → HOLD / MIXED (tech=SELL, signal net 2)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹7645.38
+          - Strict stop-loss:      ₹7221.08
+          - Best stop-loss:        ₹7023.86
+          - Target-3 (150%):       ₹9568.00
+          - Target-4 (161.8%):     ₹9955.87
+          - Target-5 (261.8%):     ₹13242.87
+          - Swing anchor:          low ₹4637.50  ↔  high ₹7924.50
+        PROS (signals):
+          - Trading near 52-week high (90% of range)
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Healthy liquidity (~₹279.6cr daily turnover)
+        CONS (signals):
+          - Volume drying up — 5d avg is 0.5× the 30d avg
+
+  • SONACOMS        (Sona BLW Precision Forgings Lt)  close ₹800.00  -1.54%  bias STRONG_SELL
+        → BUY-LEAN (tech=STRONG_SELL, signal net +5)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹810.65
+          - Strict stop-loss:      ₹743.90
+          - Best stop-loss:        ₹717.82
+          - Target-3 (150%):       ₹1054.20
+          - Target-4 (161.8%):     ₹1105.48
+          - Target-5 (261.8%):     ₹1540.08
+          - Swing anchor:          low ₹402.30  ↔  high ₹836.90
+        PROS (signals):
+          - Trading near 52-week high (92% of range)
+          - +19% over the last month
+          - +37% over the last 3 months
+          - +72% over the year
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Healthy liquidity (~₹198.7cr daily turnover)
+        CONS (signals):
+          - Closed near the day's low (CLV -0.83) — sellers dumped into the volume
+        FUNDAMENTALS (screener.in): MCap ₹ 49,909 Cr. | P/E 64.2 | ROCE 15.1 % | ROE 11.7 % | DivYield 0.42 % | BookVal ₹ 93.9 | PEG 2.68 (5Y) | PEGY 2.63
+        PROS (screener.in):
+          - Company is almost debt free.
+          - Company is expected to give good quarter
+          - Company has delivered good profit growth of 23.7% CAGR over last 5 years
+          - Company has been maintaining a healthy dividend payout of 34.7%
+          - Company's median sales growth is 24.3% of last 10 years
+        CONS (screener.in):
+          - Stock is trading at 8.52 times its book value
+        https://www.screener.in/company/SONACOMS/
 
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).
