@@ -10030,9 +10030,9 @@
     "atr_14_at_entry": null,
     "dynamic_sl_source": null,
     "supertrend_active": null,
-    "peg_at_entry": null,
-    "pegy_at_entry": null,
-    "peg_source": null
+    "peg_at_entry": 3.73,
+    "pegy_at_entry": 3.53,
+    "peg_source": "TTM"
   },
   {
     "symbol": "RAMCOCEM",
@@ -14160,7 +14160,8 @@
     "pegy_at_entry": 2.39,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-08-11"
+    "last_checked": "2026-08-11",
+    "dynamic_sl_source": null
   },
   {
     "symbol": "SONACOMS",
@@ -14255,7 +14256,8 @@
     "pegy_at_entry": 2.63,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-08-11"
+    "last_checked": "2026-08-11",
+    "dynamic_sl_source": null
   },
   {
     "symbol": "RADICO",
@@ -14350,6 +14352,7 @@
     "pegy_at_entry": null,
     "peg_source": "",
     "supertrend_active": false,
-    "last_checked": "2026-08-11"
+    "last_checked": "2026-08-11",
+    "dynamic_sl_source": null
   }
 ]

@@ -3,7 +3,7 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-08-11 19:37 IST
+NSE bhavcopy analysis — generated 2026-08-12 07:18 IST
 ============================================================
 
 Pure_on_Volume hits (BUY): 6
@@ -31,7 +31,7 @@ Top 5 BUY candidates:
           - Healthy liquidity (~₹66.1cr daily turnover)
         CONS (signals):
           - Delivery % falling — recent 40% vs 30d 46% (-6pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 18,460 Cr. | P/E 23.1 | ROCE 16.0 % | ROE 12.3 % | DivYield 0.66 % | BookVal ₹ 398 | PEG 2.57 (5Y) | PEGY 2.39
+        FUNDAMENTALS (screener.in): MCap ₹ 18,473 Cr. | P/E 23.1 | ROCE 16.0 % | ROE 12.3 % | DivYield 0.66 % | BookVal ₹ 398 | PEG 2.57 (5Y) | PEGY 2.39
         PROS (screener.in):
           - Company is almost debt free.
           - Company is expected to give good quarter
@@ -65,7 +65,7 @@ Top 5 BUY candidates:
           - Healthy liquidity (~₹268.0cr daily turnover)
         CONS (signals):
           - High volatility (73% annualised)
-        FUNDAMENTALS (screener.in): MCap ₹ 21,226 Cr. | P/E 5.09 | ROCE 34.9 % | ROE 31.8 % | DivYield 4.35 % | BookVal ₹ 746 | PEG 0.08 (5Y) | PEGY 0.07
+        FUNDAMENTALS (screener.in): MCap ₹ 21,236 Cr. | P/E 5.09 | ROCE 34.9 % | ROE 31.8 % | DivYield 4.35 % | BookVal ₹ 746 | PEG 0.08 (5Y) | PEGY 0.07
         PROS (screener.in):
           - Company has reduced debt.
           - Stock is providing a good dividend yield of 4.35%.
@@ -128,7 +128,7 @@ Top 5 BUY candidates:
           - Healthy liquidity (~₹198.7cr daily turnover)
         CONS (signals):
           - Closed near the day's low (CLV -0.83) — sellers dumped into the volume
-        FUNDAMENTALS (screener.in): MCap ₹ 49,909 Cr. | P/E 64.2 | ROCE 15.1 % | ROE 11.7 % | DivYield 0.42 % | BookVal ₹ 93.9 | PEG 2.68 (5Y) | PEGY 2.63
+        FUNDAMENTALS (screener.in): MCap ₹ 49,884 Cr. | P/E 64.2 | ROCE 15.1 % | ROE 11.7 % | DivYield 0.42 % | BookVal ₹ 93.9 | PEG 2.68 (5Y) | PEGY 2.63
         PROS (screener.in):
           - Company is almost debt free.
           - Company is expected to give good quarter
