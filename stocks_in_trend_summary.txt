@@ -3,18 +3,61 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-08-12 19:31 IST
+NSE bhavcopy analysis — generated 2026-08-13 19:37 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 4
-Recommendations: 5 BUY  +  3 SELL
+Pure_on_Volume hits (BUY): 6
+Recommendations: 5 BUY  +  1 SELL
 
 Top 5 BUY candidates:
 ------------------------------------------------------------
-  • SONACOMS        (Sona BLW Precision Forgings Lt)  close ₹804.50  +0.56%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +6)
+  • IIFL            (IIFL Finance Ltd              )  close ₹635.95  +1.63%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +7)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹803.07
+          - Entry zone (probable): above ₹630.36
+          - Strict stop-loss:      ₹630.25
+          - Best stop-loss:        ₹582.92
+          - Target-3 (150%):       ₹740.83
+          - Target-4 (161.8%):     ₹766.92
+          - Target-5 (261.8%):     ₹988.07
+          - Swing anchor:          low ₹409.10  ↔  high ₹630.25
+        PROS (signals):
+          - Trading near 52-week high (85% of range)
+          - +17% over the last month
+          - +38% over the last 3 months
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Delivery % rising — recent 55% vs 30d 50% (+6pp accumulation)
+          - Closed near the day's high (CLV +0.77) — buyers absorbed the volume
+          - Healthy liquidity (~₹140.1cr daily turnover)
+        FUNDAMENTALS (screener.in): MCap ₹ 27,080 Cr. | P/E 12.9 | ROCE 10.9 % | ROE 12.6 % | DivYield 0.63 % | BookVal ₹ 327 | PEG 0.76 (5Y) | PEGY 0.73
+        PROS (screener.in):
+          - Company is expected to give good quarter
+        CONS (screener.in):
+          - Company has low interest coverage ratio.
+          - Company has a low return on equity of 11.5% over last 3 years.
+          - Dividend payout has been low at 6.30% of profits over last 3 years
+        https://www.screener.in/company/IIFL/consolidated/
+
+  • GRAPHITE        (GRAPHITE                      )  close ₹734.85  +1.18%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +4)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹734.69
+          - Strict stop-loss:      ₹708.96
+          - Best stop-loss:        ₹682.76
+          - Target-3 (150%):       ₹1020.72
+          - Target-4 (161.8%):     ₹1072.25
+          - Target-5 (261.8%):     ₹1508.90
+          - Swing anchor:          low ₹365.75  ↔  high ₹802.40
+        PROS (signals):
+          - Upper third of 52-week range (77%)
+          - +18% over the last month
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Healthy liquidity (~₹90.5cr daily turnover)
+
+  • SONACOMS        (Sona BLW Precision Forgings Lt)  close ₹799.90  -0.57%  bias SELL
+        → STRONG BUY (tech=SELL, signal net +6)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹802.77
           - Strict stop-loss:      ₹743.90
           - Best stop-loss:        ₹717.82
           - Target-3 (150%):       ₹1054.20
@@ -22,13 +65,13 @@ Top 5 BUY candidates:
           - Target-5 (261.8%):     ₹1540.08
           - Swing anchor:          low ₹402.30  ↔  high ₹836.90
         PROS (signals):
-          - Trading near 52-week high (93% of range)
-          - +21% over the last month
+          - Trading near 52-week high (91% of range)
+          - +20% over the last month
           - +36% over the last 3 months
-          - +71% over the year
+          - +73% over the year
           - Bullish SMA stack (close > 20 > 50 > 200)
           - Healthy liquidity (~₹200.3cr daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ 49,884 Cr. | P/E 64.2 | ROCE 15.1 % | ROE 11.7 % | DivYield 0.42 % | BookVal ₹ 93.9 | PEG 2.68 (5Y) | PEGY 2.63
+        FUNDAMENTALS (screener.in): MCap ₹ 50,159 Cr. | P/E 64.5 | ROCE 15.1 % | ROE 11.7 % | DivYield 0.43 % | BookVal ₹ 93.9 | PEG 2.69 (5Y) | PEGY 2.64
         PROS (screener.in):
           - Company is almost debt free.
           - Company is expected to give good quarter
@@ -39,10 +82,10 @@ Top 5 BUY candidates:
           - Stock is trading at 8.52 times its book value
         https://www.screener.in/company/SONACOMS/
 
-  • EXIDEIND        (Exide Industries Ltd          )  close ₹490.65  +1.51%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +6)
+  • EXIDEIND        (Exide Industries Ltd          )  close ₹485.50  -1.05%  bias SELL
+        → STRONG BUY (tech=SELL, signal net +6)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹489.44
+          - Entry zone (probable): above ₹488.28
           - Strict stop-loss:      ₹451.59
           - Best stop-loss:        ₹439.02
           - Target-3 (150%):       ₹601.10
@@ -50,143 +93,66 @@ Top 5 BUY candidates:
           - Target-5 (261.8%):     ₹835.21
           - Swing anchor:          low ₹287.00  ↔  high ₹496.40
         PROS (signals):
-          - Trading near 52-week high (97% of range)
-          - +17% over the last month
-          - +40% over the last 3 months
-          - Bullish SMA stack (close > 20 > 50 > 200)
-          - Delivery % rising — recent 47% vs 30d 41% (+6pp accumulation)
-          - Healthy liquidity (~₹244.1cr daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ 41,085 Cr. | P/E 43.8 | ROCE 8.54 % | ROE 5.97 % | DivYield 0.41 % | BookVal ₹ 164 | PEG 43.80 (5Y) | PEGY 31.06
-        PROS (screener.in):
-          - Company has reduced debt.
-          - Company has been maintaining a healthy dividend payout of 20.2%
-        CONS (screener.in):
-          - Stock is trading at 2.95 times its book value
-          - The company has delivered a poor sales growth of 11.7% over past five years.
-          - Company has a low return on equity of 6.22% over last 3 years.
-        https://www.screener.in/company/EXIDEIND/consolidated/
-
-  • FLUOROCHEM      (Gujarat Fluorochemicals Ltd   )  close ₹4565.80  +3.39%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +5)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹4566.75
-          - Strict stop-loss:      ₹4281.57
-          - Best stop-loss:        ₹4177.37
-          - Target-3 (150%):       ₹5521.50
-          - Target-4 (161.8%):     ₹5726.42
-          - Target-5 (261.8%):     ₹7463.02
-          - Swing anchor:          low ₹2916.60  ↔  high ₹4653.20
-        PROS (signals):
-          - Trading near 52-week high (93% of range)
+          - Trading near 52-week high (95% of range)
           - +16% over the last month
+          - +39% over the last 3 months
           - Bullish SMA stack (close > 20 > 50 > 200)
-          - Volume highest in 3 months (HVQ)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹73.0cr daily turnover)
-        CONS (signals):
-          - Delivery % falling — recent 42% vs 30d 50% (-8pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 50,178 Cr. | P/E 81.2 | ROCE 9.86 % | ROE 7.60 % | DivYield 0.07 % | BookVal ₹ 716 | PEG 2.26 (5Y) | PEGY 2.25
-        CONS (screener.in):
-          - Stock is trading at 6.38 times its book value
-          - Company has a low return on equity of 7.85% over last 3 years.
-          - Company might be capitalizing the interest cost
-          - Dividend payout has been low at 6.50% of profits over last 3 years
-        https://www.screener.in/company/FLUOROCHEM/consolidated/
-
-  • HINDCOPPER      (Hindustan Copper Ltd          )  close ₹547.70  +2.70%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +6)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹551.76
-          - Strict stop-loss:      ₹539.93
-          - Best stop-loss:        ₹471.94
-          - Target-3 (150%):       ₹1048.16
-          - Target-4 (161.8%):     ₹1116.16
-          - Target-5 (261.8%):     ₹1692.39
-          - Swing anchor:          low ₹183.82  ↔  high ₹760.05
-        PROS (signals):
-          - +142% off 52-week low (turnaround)
-          - +112% over the year
-          - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 2.8× the 30d avg
-          - Volume highest in 3 months (HVQ)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹277.3cr daily turnover)
-        CONS (signals):
-          - Delivery % falling — recent 29% vs 30d 38% (-9pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 51,571 Cr. | P/E 42.7 | ROCE 42.5 % | ROE 32.9 % | DivYield 0.19 % | BookVal ₹ 34.6 | PEG 0.78 (5Y) | PEGY 0.77
+          - Delivery % rising — recent 47% vs 30d 42% (+5pp accumulation)
+          - Healthy liquidity (~₹239.6cr daily turnover)
+        FUNDAMENTALS (screener.in): MCap ₹ 41,268 Cr. | P/E 34.3 | ROCE 10.1 % | ROE 7.49 % | DivYield 0.41 % | BookVal ₹ 173 | PEG 4.29 (5Y) | PEGY 4.08
         PROS (screener.in):
-          - Company has reduced debt.
           - Company is almost debt free.
-          - Company is expected to give good quarter
-          - Company has delivered good profit growth of 55.0% CAGR over last 5 years
-          - Company has been maintaining a healthy dividend payout of 30.2%
-          - Debtor days have improved from 25.0 to 15.8 days.
+          - Company's working capital requirements have reduced from 32.5 days to 23.1 days
         CONS (screener.in):
-          - Stock is trading at 15.4 times its book value
-        https://www.screener.in/company/HINDCOPPER/consolidated/
+          - Stock is trading at 2.81 times its book value
+          - The company has delivered a poor sales growth of 11.4% over past five years.
+          - Company has a low return on equity of 7.76% over last 3 years.
+        https://www.screener.in/company/EXIDEIND/
 
-  • TVSMOTOR        (TVSMOTOR                      )  close ₹4375.00  -0.57%  bias SELL
-        → STRONG BUY (tech=SELL, signal net +5)
+  • MOTHERSON       (Samvardhana Motherson Internat)  close ₹167.40  -1.24%  bias STRONG_SELL
+        → BUY-LEAN (tech=STRONG_SELL, signal net +4)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹4391.53
-          - Strict stop-loss:      ₹4208.14
-          - Best stop-loss:        ₹4133.32
-          - Target-3 (150%):       ₹5098.50
-          - Target-4 (161.8%):     ₹5245.65
-          - Target-5 (261.8%):     ₹6492.65
-          - Swing anchor:          low ₹3228.00  ↔  high ₹4475.00
+          - Entry zone (probable): above ₹169.41
+          - Strict stop-loss:      ₹154.39
+          - Best stop-loss:        ₹149.45
+          - Target-3 (150%):       ₹213.15
+          - Target-4 (161.8%):     ₹222.86
+          - Target-5 (261.8%):     ₹305.16
+          - Swing anchor:          low ₹89.70  ↔  high ₹172.00
         PROS (signals):
           - Trading near 52-week high (94% of range)
-          - +21% over the last month
-          - +56% over the year
+          - +18% over the last month
+          - +33% over the last 3 months
+          - +69% over the year
           - Bullish SMA stack (close > 20 > 50 > 200)
-          - Healthy liquidity (~₹546.3cr daily turnover)
-
-Top 3 SELL candidates (high-volume distribution):
-------------------------------------------------------------
-  • GODREJCP        (GODREJCP                      )  close ₹910.00  -11.22%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -2)
-        PROS (signals):
-          - Volume surge — 5d avg is 3.7× the 30d avg
-          - Volume highest in 4 years (HVE) — strongest possible breakout signal
-          - Healthy liquidity (~₹118.6cr daily turnover)
+          - Healthy liquidity (~₹359.3cr daily turnover)
         CONS (signals):
-          - Trading near 52-week low (1% of range)
-          - 30% off 52-week high
-          - Trading below the 200-day SMA
-          - Closed near the day's low (CLV -0.90) — sellers dumped into the volume
-          - High-volume distribution — HV breakout on a down day
+          - Delivery % falling — recent 43% vs 30d 48% (-5pp distribution)
+          - Closed near the day's low (CLV -0.87) — sellers dumped into the volume
+        FUNDAMENTALS (screener.in): MCap ₹ 1,77,204 Cr. | P/E 38.8 | ROCE 13.4 % | ROE 11.2 % | DivYield 0.36 % | BookVal ₹ 38.8 | PEG 1.21 (5Y) | PEGY 1.20
+        PROS (screener.in):
+          - Company has delivered good profit growth of 31.9% CAGR over last 5 years
+          - Company has been maintaining a healthy dividend payout of 17.4%
+        CONS (screener.in):
+          - Stock is trading at 4.31 times its book value
+          - Company has a low return on equity of 11.6% over last 3 years.
+          - Promoter holding has decreased over last 3 years: -16.2%
+        https://www.screener.in/company/MOTHERSON/consolidated/
 
-  • MANAPPURAM      (Manappuram Finance Ltd        )  close ₹352.60  -2.06%  bias STRONG_SELL
+Top 1 SELL candidates (high-volume distribution):
+------------------------------------------------------------
+  • ABBOTINDIA      (Abbott India Ltd              )  close ₹27620.00  -1.85%  bias STRONG_SELL
         → HOLD / MIXED (tech=STRONG_SELL, signal net 2)
         PROS (signals):
-          - Upper third of 52-week range (79%)
           - Trading above the 200-day SMA
-          - Volume highest in 1 year (HVY)
-          - Healthy liquidity (~₹172.9cr daily turnover)
-        CONS (signals):
-          - Closed near the day's low (CLV -0.83) — sellers dumped into the volume
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 33,816 Cr. | P/E 23.3 | ROCE 8.25 % | ROE 6.97 % | DivYield 0.56 % | BookVal ₹ 171 | PEG 0.29 (TTM) | PEGY 0.29
-        PROS (screener.in):
-          - Company has been maintaining a healthy dividend payout of 19.8%
-          - Promoter holding has increased by 9.89% over last quarter.
-        CONS (screener.in):
-          - Company has low interest coverage ratio.
-          - The company has delivered a poor sales growth of 8.48% over past five years.
-          - Company has a low return on equity of 11.9% over last 3 years.
-        https://www.screener.in/company/MANAPPURAM/consolidated/
-
-  • TENNIND         (TENNIND                       )  close ₹540.65  -1.81%  bias SELL
-        → HOLD / MIXED (tech=SELL, signal net 0)
-        PROS (signals):
-          - Volume surge — 5d avg is 4.8× the 30d avg
+          - Low volatility (17% annualised) with uptrend
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹109.7cr daily turnover)
+          - Healthy liquidity (~₹31.1cr daily turnover)
         CONS (signals):
-          - Trading below the 200-day SMA
-          - 5-day losing streak
+          - Lower third of 52-week range (25%)
           - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ Cr. | ROCE % | ROE % | DivYield % | BookVal ₹
+        https://www.screener.in/company/ABBOTINDIA/consolidated/
 
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).
