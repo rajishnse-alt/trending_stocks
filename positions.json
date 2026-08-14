@@ -12627,9 +12627,19 @@
     "swing_high": 338.5,
     "targets": [
       {
+        "name": "T1",
+        "ratio": 1.0,
+        "price": 371.5153971451509
+      },
+      {
+        "name": "T2",
+        "ratio": 2.0,
+        "price": 398.3790142903019
+      },
+      {
         "name": "T3",
-        "ratio": 1.5,
-        "price": 412.095
+        "ratio": 3.0,
+        "price": 425.24263143545284
       },
       {
         "name": "T4",
@@ -12723,14 +12733,19 @@
     "swing_high": 554.0,
     "targets": [
       {
-        "name": "T3",
-        "ratio": 1.5,
-        "price": 624.0
+        "name": "T1",
+        "ratio": 1.0,
+        "price": 576.6111678520865
       },
       {
-        "name": "T4",
-        "ratio": 1.618,
-        "price": 640.52
+        "name": "T2",
+        "ratio": 2.0,
+        "price": 611.0914057041731
+      },
+      {
+        "name": "T3",
+        "ratio": 3.0,
+        "price": 645.5716435562597
       },
       {
         "name": "T5",
@@ -12925,9 +12940,19 @@
     "swing_high": 412.2,
     "targets": [
       {
+        "name": "T1",
+        "ratio": 1.0,
+        "price": 433.7712962878749
+      },
+      {
+        "name": "T2",
+        "ratio": 2.0,
+        "price": 462.7577725757498
+      },
+      {
         "name": "T3",
-        "ratio": 1.5,
-        "price": 481.975
+        "ratio": 3.0,
+        "price": 491.7442488636247
       },
       {
         "name": "T4",
@@ -13122,9 +13147,19 @@
     "swing_high": 802.4,
     "targets": [
       {
+        "name": "T1",
+        "ratio": 1.0,
+        "price": 746.3710685792485
+      },
+      {
+        "name": "T2",
+        "ratio": 2.0,
+        "price": 793.8599971584969
+      },
+      {
         "name": "T3",
-        "ratio": 1.5,
-        "price": 1020.7249999999999
+        "ratio": 3.0,
+        "price": 841.3489257377453
       },
       {
         "name": "T4",
@@ -13314,9 +13349,19 @@
     "swing_high": 2775.0,
     "targets": [
       {
+        "name": "T1",
+        "ratio": 1.0,
+        "price": 2855.0650713165774
+      },
+      {
+        "name": "T2",
+        "ratio": 2.0,
+        "price": 3044.7903226331546
+      },
+      {
         "name": "T3",
-        "ratio": 1.5,
-        "price": 3521.8500000000004
+        "ratio": 3.0,
+        "price": 3234.515573949732
       },
       {
         "name": "T4",
@@ -13411,13 +13456,18 @@
     "targets": [
       {
         "name": "T1",
-        "ratio": 0.5,
-        "price": 253.95499999999998
+        "ratio": 1.0,
+        "price": 216.2352251688585
       },
       {
         "name": "T2",
-        "ratio": 0.618,
-        "price": 280.86962
+        "ratio": 2.0,
+        "price": 231.63095433771701
+      },
+      {
+        "name": "T3",
+        "ratio": 3.0,
+        "price": 247.02668350657552
       },
       {
         "name": "MAX",
@@ -13506,9 +13556,19 @@
     "swing_high": 1354.0,
     "targets": [
       {
+        "name": "T1",
+        "ratio": 1.0,
+        "price": 1451.704778594876
+      },
+      {
+        "name": "T2",
+        "ratio": 2.0,
+        "price": 1561.699957189752
+      },
+      {
         "name": "T3",
-        "ratio": 1.5,
-        "price": 1814.4499999999998
+        "ratio": 3.0,
+        "price": 1671.695135784628
       },
       {
         "name": "T4",
@@ -13602,9 +13662,19 @@
     "swing_high": 11856.0,
     "targets": [
       {
+        "name": "T1",
+        "ratio": 1.0,
+        "price": 12365.187442290568
+      },
+      {
+        "name": "T2",
+        "ratio": 2.0,
+        "price": 12888.962884581135
+      },
+      {
         "name": "T3",
-        "ratio": 1.5,
-        "price": 14239.325
+        "ratio": 3.0,
+        "price": 13412.738326871702
       },
       {
         "name": "T4",
@@ -13698,9 +13768,19 @@
     "swing_high": 10400.0,
     "targets": [
       {
+        "name": "T1",
+        "ratio": 1.0,
+        "price": 11103.599958700188
+      },
+      {
+        "name": "T2",
+        "ratio": 2.0,
+        "price": 11718.933117400376
+      },
+      {
         "name": "T3",
-        "ratio": 1.5,
-        "price": 13750.0
+        "ratio": 3.0,
+        "price": 12334.266276100565
       },
       {
         "name": "T4",
@@ -13794,9 +13874,19 @@
     "swing_high": 7936.0,
     "targets": [
       {
+        "name": "T1",
+        "ratio": 1.0,
+        "price": 8967.216623718115
+      },
+      {
+        "name": "T2",
+        "ratio": 2.0,
+        "price": 9482.158647436232
+      },
+      {
         "name": "T3",
-        "ratio": 1.5,
-        "price": 10466.025000000001
+        "ratio": 3.0,
+        "price": 9997.100671154349
       },
       {
         "name": "T4",
@@ -13890,9 +13980,19 @@
     "swing_high": 623.0,
     "targets": [
       {
+        "name": "T1",
+        "ratio": 1.0,
+        "price": 653.7678990464835
+      },
+      {
+        "name": "T2",
+        "ratio": 2.0,
+        "price": 689.5149880929671
+      },
+      {
         "name": "T3",
-        "ratio": 1.5,
-        "price": 729.95
+        "ratio": 3.0,
+        "price": 725.2620771394506
       },
       {
         "name": "T4",
@@ -14087,9 +14187,19 @@
     "swing_high": 1203.9,
     "targets": [
       {
+        "name": "T1",
+        "ratio": 1.0,
+        "price": 1239.4639357706408
+      },
+      {
+        "name": "T2",
+        "ratio": 2.0,
+        "price": 1317.9943615412815
+      },
+      {
         "name": "T3",
-        "ratio": 1.5,
-        "price": 1455.4500000000003
+        "ratio": 3.0,
+        "price": 1396.5247873119222
       },
       {
         "name": "T4",
@@ -14183,9 +14293,19 @@
     "swing_high": 836.9,
     "targets": [
       {
+        "name": "T1",
+        "ratio": 1.0,
+        "price": 866.1895342222334
+      },
+      {
+        "name": "T2",
+        "ratio": 2.0,
+        "price": 912.0012684444669
+      },
+      {
         "name": "T3",
-        "ratio": 1.5,
-        "price": 1054.2
+        "ratio": 3.0,
+        "price": 957.8130026667003
       },
       {
         "name": "T4",
@@ -14279,9 +14399,19 @@
     "swing_high": 4590.3,
     "targets": [
       {
+        "name": "T1",
+        "ratio": 1.0,
+        "price": 4810.423760828904
+      },
+      {
+        "name": "T2",
+        "ratio": 2.0,
+        "price": 5026.301741657808
+      },
+      {
         "name": "T3",
-        "ratio": 1.5,
-        "price": 5635.450000000001
+        "ratio": 3.0,
+        "price": 5242.179722486711
       },
       {
         "name": "T4",
@@ -14496,9 +14626,19 @@
     "swing_high": 4653.2,
     "targets": [
       {
+        "name": "T1",
+        "ratio": 1.0,
+        "price": 4905.249756048064
+      },
+      {
+        "name": "T2",
+        "ratio": 2.0,
+        "price": 5188.948512096128
+      },
+      {
         "name": "T3",
-        "ratio": 1.5,
-        "price": 5521.5
+        "ratio": 3.0,
+        "price": 5472.647268144192
       },
       {
         "name": "T4",
@@ -14597,9 +14737,19 @@
     "swing_high": 4475.0,
     "targets": [
       {
+        "name": "T1",
+        "ratio": 1.0,
+        "price": 4640.444182894648
+      },
+      {
+        "name": "T2",
+        "ratio": 2.0,
+        "price": 4836.6600057892965
+      },
+      {
         "name": "T3",
-        "ratio": 1.5,
-        "price": 5098.5
+        "ratio": 3.0,
+        "price": 5032.875828683945
       },
       {
         "name": "T4",
@@ -14698,9 +14848,19 @@
     "swing_high": 5055.0,
     "targets": [
       {
+        "name": "T1",
+        "ratio": 1.0,
+        "price": 5280.489177036924
+      },
+      {
+        "name": "T2",
+        "ratio": 2.0,
+        "price": 5509.337474073848
+      },
+      {
         "name": "T3",
-        "ratio": 1.5,
-        "price": 5842.950000000001
+        "ratio": 3.0,
+        "price": 5738.185771110772
       },
       {
         "name": "T4",
@@ -14779,7 +14939,8 @@
     "pegy_at_entry": 1.52,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-08-14"
+    "last_checked": "2026-08-14",
+    "dynamic_sl_source": null
   },
   {
     "symbol": "RKFORGE",
@@ -14798,9 +14959,19 @@
     "swing_high": 763.5,
     "targets": [
       {
+        "name": "T1",
+        "ratio": 1.0,
+        "price": 788.8286613807385
+      },
+      {
+        "name": "T2",
+        "ratio": 2.0,
+        "price": 833.080852761477
+      },
+      {
         "name": "T3",
-        "ratio": 1.5,
-        "price": 915.175
+        "ratio": 3.0,
+        "price": 877.3330441422155
       },
       {
         "name": "T4",
@@ -14874,6 +15045,7 @@
     "pegy_at_entry": null,
     "peg_source": "",
     "supertrend_active": false,
-    "last_checked": "2026-08-14"
+    "last_checked": "2026-08-14",
+    "dynamic_sl_source": null
   }
 ]
