@@ -648,6 +648,28 @@ def _tranches_summary(p: dict) -> tuple[str, int, int]:
     return (" · ".join(parts), exited_qty, open_qty)
 
 
+def _capital_view(df: pd.DataFrame, capital: float, risk_pct: float) -> pd.DataFrame:
+    """Add whole-share sizing to a positions frame, computed live.
+
+    Deliberately recomputed from Fill/Stop rather than read from the record:
+    most positions in the ledger predate capital-aware sizing and carry no
+    qty, so reading the stored field would blank out exactly the rows you
+    most want to see re-sized.
+    """
+    out = df.copy()
+    fill = pd.to_numeric(out.get("Fill px", out.get("Fill \u2265")), errors="coerce")
+    stop = pd.to_numeric(out.get("Stop loss"), errors="coerce")
+    risk_ps = (fill - stop).where(fill > stop)
+    budget = capital * risk_pct / 100.0
+    qty = (budget / risk_ps).replace([float("inf")], 0).fillna(0)
+    qty = qty.clip(upper=(capital * 0.25 / fill)).fillna(0).astype(int)   # 25 % cap
+    out["Qty"] = qty
+    out["Deployed"] = (qty * fill).round(0)
+    out["Risk \u20b9"] = (qty * risk_ps).round(0)
+    out["Risk %"] = (qty * risk_ps / capital * 100).round(2)
+    return out
+
+
 def _positions_to_frame(positions: list[dict], status: str) -> pd.DataFrame:
     """Flatten the JSON position records into a tidy DataFrame for the
     selected status ('open', 'pending', 'closed')."""
@@ -901,8 +923,42 @@ with pos_tab:
         )
 
         # ── Open positions ──────────────────────────────────────────────
+        # ── Capital switch ──────────────────────────────────────────────
+        cap_on = st.toggle(
+            "Capital view", value=False,
+            help="On: size every position to your trading capital and show "
+                 "whole shares, rupees deployed and rupees at risk. "
+                 "Off: the book exactly as it stands today, unsized.")
+        if cap_on:
+            c1, c2 = st.columns(2)
+            capital = c1.number_input("Trading capital (₹)", min_value=10_000,
+                                      value=150_000, step=10_000)
+            risk_pct = c2.number_input("Risk per trade (%)", min_value=0.1,
+                                       max_value=5.0, value=0.75, step=0.05)
+            _live = _positions_to_frame(positions_data, "open")
+            _sized = _capital_view(_live, capital, risk_pct)
+            deployed = float(_sized["Deployed"].sum())
+            at_risk = float(_sized["Risk ₹"].sum())
+            m1, m2, m3, m4 = st.columns(4)
+            m1.metric("Open names", f"{len(_sized)}")
+            m2.metric("Would deploy", f"₹{deployed:,.0f}",
+                      f"{deployed / capital * 100:.0f}% of capital")
+            m3.metric("Total at risk", f"₹{at_risk:,.0f}",
+                      f"{at_risk / capital * 100:.1f}% of capital")
+            m4.metric("Cash free", f"₹{capital - deployed:,.0f}")
+            if deployed > capital:
+                st.error(
+                    f"This book needs ₹{deployed:,.0f} — "
+                    f"{deployed / capital:.1f}× your ₹{capital:,.0f}. "
+                    f"At {risk_pct:.2f}% risk the capital carries about "
+                    f"{int(capital / (deployed / max(len(_sized), 1)))} names, "
+                    f"not {len(_sized)}. Positions below are sized as if each "
+                    f"were taken alone; they could not all have been held.")
+
         st.markdown("### 🟢 Open (filled, still live)")
         open_df = _positions_to_frame(positions_data, "open")
+        if cap_on and not open_df.empty:
+            open_df = _capital_view(open_df, capital, risk_pct)
         if open_df.empty:
             st.caption("No open positions right now.")
         else:
@@ -952,7 +1008,7 @@ with pos_tab:
             )
 
         # ── Pending positions ───────────────────────────────────────────
-        st.markdown("### 🟡 Pending (waiting for 1.2 % confirmation)")
+        st.markdown("### 🟡 Pending (waiting for ATR confirmation)")
         pend_df = _positions_to_frame(positions_data, "pending")
         if pend_df.empty:
             st.caption("No pending signals.")
