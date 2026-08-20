@@ -3,66 +3,10 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-08-19 19:30 IST
+NSE bhavcopy analysis — generated 2026-08-20 19:30 IST
 ============================================================
 
 Pure_on_Volume hits (BUY): 4
-Recommendations: 0 BUY  +  3 SELL
-
-Top 3 SELL candidates (high-volume distribution):
-------------------------------------------------------------
-  • SBFC            (SBFC Finance Ltd              )  close ₹92.77  -0.96%  bias SELL
-        → HOLD / MIXED (tech=SELL, signal net 0)
-        PROS (signals):
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹12.7cr daily turnover)
-        CONS (signals):
-          - Trading below the 200-day SMA
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 10,275 Cr. | P/E 29.7 | ROCE 11.6 % | ROE 11.6 % | DivYield 0.00 % | BookVal ₹ 29.4 | PEG 0.40 (3Y) | PEGY 0.40
-        CONS (screener.in):
-          - Stock is trading at 3.16 times its book value
-          - Though the company is reporting repeated profits, it is not paying out dividend
-          - Company has a low return on equity of 10.9% over last 3 years.
-        https://www.screener.in/company/SBFC/consolidated/
-
-  • ASTERDM         (Aster DM Quality Care Ltd     )  close ₹800.20  -2.18%  bias SELL
-        → BUY-LEAN (tech=SELL, signal net +3)
-        PROS (signals):
-          - Upper third of 52-week range (76%)
-          - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 4.9× the 30d avg
-          - Volume highest in 4 years (HVE) — strongest possible breakout signal
-          - Healthy liquidity (~₹172.9cr daily turnover)
-        CONS (signals):
-          - 8-day losing streak
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 69,768 Cr. | P/E 193 | ROCE 11.4 % | ROE 10.7 % | DivYield 0.37 % | BookVal ₹ 88.3 | PEG 8.39 (5Y) | PEGY 8.26
-        PROS (screener.in):
-          - Company has been maintaining a healthy dividend payout of 1,560%
-          - Promoter holding has increased by 13.3% over last quarter.
-        CONS (screener.in):
-          - Stock is trading at 9.06 times its book value
-          - Company has a low return on equity of 7.23% over last 3 years.
-        https://www.screener.in/company/ASTERDM/consolidated/
-
-  • HSCL            (Himadri Speciality Chemical Lt)  close ₹750.25  -4.04%  bias SELL
-        → BUY-LEAN (tech=SELL, signal net +4)
-        PROS (signals):
-          - Upper third of 52-week range (83%)
-          - +59% over the year
-          - Trading above the 200-day SMA
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹811.5cr daily turnover)
-        CONS (signals):
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 37,885 Cr. | P/E 47.4 | ROCE 22.1 % | ROE 17.8 % | DivYield 0.11 % | BookVal ₹ 93.3 | PEG 0.64 (5Y) | PEGY 0.64
-        PROS (screener.in):
-          - Company has delivered good profit growth of 73.7% CAGR over last 5 years
-        CONS (screener.in):
-          - Stock is trading at 8.04 times its book value
-        https://www.screener.in/company/HSCL/consolidated/
-
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).
   PROS / CONS (signals)   = derived from price/volume panel data (52-w position, SMA stack, returns, volatility, delivery & volume trend, CLV).
