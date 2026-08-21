@@ -3,10 +3,44 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-08-20 19:30 IST
+NSE bhavcopy analysis — generated 2026-08-21 19:30 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 4
+Pure_on_Volume hits (BUY): 6
+Recommendations: 1 BUY  +  0 SELL
+
+Top 1 BUY candidates:
+------------------------------------------------------------
+  • WELCORP         (Welspun Corp Ltd              )  close ₹2311.90  +15.30%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +9)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹2251.74
+          - Strict stop-loss:      ₹2008.66
+          - Best stop-loss:        ₹1913.27
+          - Target-3 (150%):       ₹3143.85
+          - Target-4 (161.8%):     ₹3331.46
+          - Target-5 (261.8%):     ₹4921.36
+          - Swing anchor:          low ₹759.00  ↔  high ₹2348.90
+        PROS (signals):
+          - Trading near 52-week high (98% of range)
+          - +43% over the last month
+          - +81% over the last 3 months
+          - +165% over the year
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Volume surge — 5d avg is 3.0× the 30d avg
+          - 5-day winning streak
+          - Volume highest in 4 years (HVE) — strongest possible breakout signal
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹322.0cr daily turnover)
+        CONS (signals):
+          - Delivery % falling — recent 43% vs 30d 52% (-10pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 61,019 Cr. | P/E 26.4 | ROCE 22.9 % | ROE 19.4 % | DivYield 0.22 % | BookVal ₹ 347 | PEG 1.26 (5Y) | PEGY 1.24
+        PROS (screener.in):
+          - Company has delivered good profit growth of 20.9% CAGR over last 5 years
+        CONS (screener.in):
+          - Earnings include an other income of Rs.1,078 Cr.
+        https://www.screener.in/company/WELCORP/consolidated/
+
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).
   PROS / CONS (signals)   = derived from price/volume panel data (52-w position, SMA stack, returns, volatility, delivery & volume trend, CLV).
