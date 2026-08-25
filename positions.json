@@ -3207,7 +3207,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-24",
+    "last_checked": "2026-08-25",
     "stoploss_source": "trailed_t3",
     "strategy_version": 1,
     "tranches": [
@@ -4067,7 +4067,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-24",
+    "last_checked": "2026-08-25",
     "stoploss_source": "atr_trail_backfill",
     "strategy_version": 1,
     "tranches": [
@@ -7585,7 +7585,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-24",
+    "last_checked": "2026-08-25",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7751,7 +7751,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-24",
+    "last_checked": "2026-08-25",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7922,7 +7922,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-24",
+    "last_checked": "2026-08-25",
     "strategy_version": 1,
     "tranches": [
       {
@@ -9697,7 +9697,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-24",
+    "last_checked": "2026-08-25",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11406,7 +11406,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-24",
+    "last_checked": "2026-08-25",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11752,7 +11752,7 @@
     "suggested_close": 7188.5,
     "entry": 7073.725,
     "fill_trigger": 7158.609700000001,
-    "stoploss": 8380.73155592506,
+    "stoploss": 8495.979197303075,
     "original_stoploss": 6685.4130000000005,
     "stoploss_source": "atr_trail_backfill",
     "strict_stoploss": 6968.0,
@@ -11792,7 +11792,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-24",
+    "last_checked": "2026-08-25",
     "strategy_version": 1,
     "tranches": [
       {
@@ -13661,7 +13661,7 @@
     "suggested_close": 11800.0,
     "entry": 11701.0,
     "fill_trigger": 11841.412,
-    "stoploss": 11539.156863112868,
+    "stoploss": 11627.538515747663,
     "original_stoploss": 11317.636557709433,
     "stoploss_source": "atr_trail_backfill",
     "strict_stoploss": 10835.9369,
@@ -13755,7 +13755,7 @@
     "pegy_at_entry": 1.49,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-08-24",
+    "last_checked": "2026-08-25",
     "dynamic_sl_source": null
   },
   {
