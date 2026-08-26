@@ -3,36 +3,66 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-08-25 19:30 IST
+NSE bhavcopy analysis — generated 2026-08-26 19:30 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 5
-Recommendations: 0 BUY  +  1 SELL
+Pure_on_Volume hits (BUY): 6
+Recommendations: 1 BUY  +  1 SELL
+
+Top 1 BUY candidates:
+------------------------------------------------------------
+  • HINDZINC        (Hindustan Zinc Ltd            )  close ₹626.50  +5.72%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +5)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹617.67
+          - Strict stop-loss:      ₹597.45
+          - Best stop-loss:        ₹555.58
+          - Target-3 (150%):       ₹910.43
+          - Target-4 (161.8%):     ₹952.30
+          - Target-5 (261.8%):     ₹1307.15
+          - Swing anchor:          low ₹378.15  ↔  high ₹733.00
+        PROS (signals):
+          - +19% over the last month
+          - Trading above the 200-day SMA
+          - Volume surge — 5d avg is 2.2× the 30d avg
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹308.1cr daily turnover)
+        CONS (signals):
+          - Delivery % falling — recent 36% vs 30d 42% (-6pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 2,65,074 Cr. | P/E 15.6 | ROCE 69.5 % | ROE 76.6 % | DivYield 1.76 % | BookVal ₹ 53.6 | PEG 1.30 (5Y) | PEGY 1.13
+        PROS (screener.in):
+          - Company has reduced debt.
+          - Company is expected to give good quarter
+          - Company has a good return on equity (ROE) track record: 3 Years ROE 69.0%
+        CONS (screener.in):
+          - Stock is trading at 11.7 times its book value
+          - Promoter holding has decreased over last 3 years: -4.21%
+        https://www.screener.in/company/HINDZINC/consolidated/
 
 Top 1 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
-  • HINDCOPPER      (Hindustan Copper Ltd          )  close ₹532.65  -7.23%  bias STRONG_SELL
-        → HOLD / MIXED (tech=STRONG_SELL, signal net 3)
+  • GROWW           (Billionbrains Garage Ventures )  close ₹196.24  -3.33%  bias STRONG_SELL
+        → BUY-LEAN (tech=STRONG_SELL, signal net +5)
         PROS (signals):
-          - +135% off 52-week low (turnaround)
-          - +124% over the year
+          - Upper third of 52-week range (73%)
           - Trading above the 200-day SMA
+          - Volume surge — 5d avg is 2.1× the 30d avg
+          - Delivery % rising — recent 54% vs 30d 49% (+5pp accumulation)
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹401.2cr daily turnover)
+          - Healthy liquidity (~₹677.5cr daily turnover)
         CONS (signals):
-          - Closed near the day's low (CLV -0.71) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 51,562 Cr. | P/E 42.7 | ROCE 42.5 % | ROE 32.9 % | DivYield 0.19 % | BookVal ₹ 34.6 | PEG 0.78 (5Y) | PEGY 0.77
+        FUNDAMENTALS (screener.in): MCap ₹ 1,23,089 Cr. | P/E 50.4 | ROCE 37.3 % | ROE 28.8 % | DivYield 0.00 % | BookVal ₹ 15.4 | PEG 0.76 (3Y) | PEGY 0.76
         PROS (screener.in):
           - Company has reduced debt.
           - Company is almost debt free.
           - Company is expected to give good quarter
-          - Company has delivered good profit growth of 55.0% CAGR over last 5 years
-          - Company has been maintaining a healthy dividend payout of 30.2%
-          - Debtor days have improved from 25.0 to 15.8 days.
+          - Company has a good return on equity (ROE) track record: 3 Years ROE 33.9%
         CONS (screener.in):
-          - Stock is trading at 15.4 times its book value
-        https://www.screener.in/company/HINDCOPPER/consolidated/
+          - Stock is trading at 12.8 times its book value
+          - Though the company is reporting repeated profits, it is not paying out dividend
+        https://www.screener.in/company/GROWW/consolidated/
 
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).
