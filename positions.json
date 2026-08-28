@@ -3207,7 +3207,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-27",
+    "last_checked": "2026-08-28",
     "stoploss_source": "trailed_t3",
     "strategy_version": 1,
     "tranches": [
@@ -7585,7 +7585,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-27",
+    "last_checked": "2026-08-28",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7751,7 +7751,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-27",
+    "last_checked": "2026-08-28",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7922,7 +7922,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-27",
+    "last_checked": "2026-08-28",
     "strategy_version": 1,
     "tranches": [
       {
@@ -9689,15 +9689,15 @@
     "hit_targets": [
       "T3"
     ],
-    "status": "open",
+    "status": "closed",
     "fill_date": "2026-07-01",
     "fill_price": 227.28710400000003,
-    "exit_date": null,
-    "exit_price": null,
-    "exit_reason": null,
-    "days_held": null,
-    "pnl_pct": null,
-    "last_checked": "2026-08-27",
+    "exit_date": "2026-08-28",
+    "exit_price": 263.435,
+    "exit_reason": "stoploss",
+    "days_held": 58,
+    "pnl_pct": 15.904068186816245,
+    "last_checked": "2026-08-28",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11406,7 +11406,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-08-27",
+    "last_checked": "2026-08-28",
     "strategy_version": 1,
     "tranches": [
       {

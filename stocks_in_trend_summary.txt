@@ -3,46 +3,40 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-08-27 19:30 IST
+NSE bhavcopy analysis — generated 2026-08-28 19:30 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 4
-Recommendations: 0 BUY  +  2 SELL
+Pure_on_Volume hits (BUY): 2
+Recommendations: 1 BUY  +  0 SELL
 
-Top 2 SELL candidates (high-volume distribution):
+Top 1 BUY candidates:
 ------------------------------------------------------------
-  • TATAPOWER       (Tata Power Company Ltd        )  close ₹352.00  -3.30%  bias SELL
-        → SELL-LEAN (tech=SELL, signal net -1)
+  • SHYAMMETL       (Shyam Metalics & Energy Ltd   )  close ₹1099.80  +5.51%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +7)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹1078.87
+          - Strict stop-loss:      ₹1016.38
+          - Best stop-loss:        ₹995.74
+          - Target-3 (150%):       ₹1262.00
+          - Target-4 (161.8%):     ₹1302.59
+          - Target-5 (261.8%):     ₹1646.59
+          - Swing anchor:          low ₹746.00  ↔  high ₹1090.00
         PROS (signals):
-          - Delivery % rising — recent 54% vs 30d 48% (+6pp accumulation)
+          - Trading near 52-week high (97% of range)
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Delivery % rising — recent 63% vs 30d 43% (+20pp accumulation)
+          - 5-day winning streak
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹160.4cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (8% of range)
-          - Bearish SMA stack (close < 20 < 50 < 200)
-          - 10-day losing streak
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 1,12,060 Cr. | P/E 28.6 | ROCE 10.5 % | ROE 10.2 % | DivYield 0.71 % | BookVal ₹ 124 | PEG 1.06 (5Y) | PEGY 1.03
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹62.1cr daily turnover)
+        FUNDAMENTALS (screener.in): MCap ₹ 30,730 Cr. | P/E 27.4 | ROCE 13.0 % | ROE 9.70 % | DivYield 0.41 % | BookVal ₹ 413 | PEG 5.48 (5Y) | PEGY 5.06
         PROS (screener.in):
-          - Company has been maintaining a healthy dividend payout of 18.9%
-          - Debtor days have improved from 33.9 to 25.9 days.
+          - Company is almost debt free.
         CONS (screener.in):
-          - Stock is trading at 2.85 times its book value
-          - Company has a low return on equity of 11.0% over last 3 years.
-          - Earnings include an other income of Rs.4,318 Cr.
-        https://www.screener.in/company/TATAPOWER/consolidated/
-
-  • ICICIAMC        (ICICI Prudential Asset Managem)  close ₹3093.60  -4.01%  bias SELL
-        → BUY-LEAN (tech=SELL, signal net +3)
-        PROS (signals):
-          - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 2.8× the 30d avg
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹161.0cr daily turnover)
-        CONS (signals):
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 1,52,866 Cr. | P/E 52.0 | ROCE % | ROE % | DivYield 0.88 % | BookVal ₹ | PEG 1.79 (TTM) | PEGY 1.74
-        https://www.screener.in/company/ICICIAMC/consolidated/
+          - Stock is trading at 2.66 times its book value
+          - Company has a low return on equity of 10.2% over last 3 years.
+          - Dividend payout has been low at 12.5% of profits over last 3 years
+        https://www.screener.in/company/SHYAMMETL/consolidated/
 
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).
