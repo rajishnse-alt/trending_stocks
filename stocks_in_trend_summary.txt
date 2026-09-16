@@ -3,33 +3,53 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-09-16 13:47 IST
+NSE bhavcopy analysis — generated 2026-09-16 18:44 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 3
-Recommendations: 0 BUY  +  1 SELL
+Pure_on_Volume hits (BUY): 0
+Recommendations: 0 BUY  +  2 SELL
 
-Top 1 SELL candidates (high-volume distribution):
+Top 2 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
-  • GODREJPROP      (Godrej Properties Ltd         )  close ₹1748.00  -6.62%  bias STRONG_SELL
-        → SELL-LEAN (tech=STRONG_SELL, signal net 0)
+  • PREMIERENE      (Premier Energies Ltd          )  close ₹899.00  -4.87%  bias STRONG_SELL
+        → HOLD / MIXED (tech=STRONG_SELL, signal net 1)
         PROS (signals):
+          - Delivery % rising — recent 51% vs 30d 43% (+8pp accumulation)
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹131.7cr daily turnover)
+          - Healthy liquidity (~₹106.8cr daily turnover)
         CONS (signals):
           - Trading below the 200-day SMA
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 49,983 Cr. | P/E 30.9 | ROCE 7.63 % | ROE 8.82 % | DivYield 0.60 % | BookVal ₹ 636 | PEG 0.55 (5Y) | PEGY 0.55
+        FUNDAMENTALS (screener.in): MCap ₹ 40,724 Cr. | P/E 24.5 | ROCE 33.3 % | ROE 42.4 % | DivYield 0.11 % | BookVal ₹ 95.1 | PEG 0.18 (5Y) | PEGY 0.18
         PROS (screener.in):
           - Company is expected to give good quarter
-          - Company has delivered good profit growth of 56.1% CAGR over last 5 years
+          - Company has delivered good profit growth of 133% CAGR over last 5 years
+          - Company has a good return on equity (ROE) track record: 3 Years ROE 45.8%
         CONS (screener.in):
-          - Stock is trading at 2.61 times its book value
-          - Company has a low return on equity of 8.20% over last 3 years.
+          - Stock is trading at 9.45 times its book value
+          - Promoter holding has decreased over last quarter: -5.46%
           - Company might be capitalizing the interest cost
-          - Earnings include an other income of Rs.2,997 Cr.
-          - Promoter holding has decreased over last 3 years: -6.82%
-        https://www.screener.in/company/GODREJPROP/consolidated/
+        https://www.screener.in/company/PREMIERENE/consolidated/
+
+  • TATACHEM        (Tata Chemicals Ltd            )  close ₹731.80  -0.42%  bias SELL
+        → HOLD / MIXED (tech=SELL, signal net 2)
+        PROS (signals):
+          - Trading above the 200-day SMA
+          - Volume surge — 5d avg is 3.8× the 30d avg
+          - Volume highest in 1 year (HVY)
+          - Healthy liquidity (~₹79.6cr daily turnover)
+        CONS (signals):
+          - High volatility (74% annualised)
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 18,661 Cr. | ROCE 3.42 % | ROE 1.27 % | DivYield 1.50 % | BookVal ₹ 832
+        PROS (screener.in):
+          - Stock is trading at 0.88 times its book value
+          - Company has been maintaining a healthy dividend payout of 82.4%
+        CONS (screener.in):
+          - Company has low interest coverage ratio.
+          - The company has delivered a poor sales growth of 7.41% over past five years.
+          - Company has a low return on equity of 1.59% over last 3 years.
+        https://www.screener.in/company/TATACHEM/consolidated/
 
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).
