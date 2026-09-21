@@ -3207,7 +3207,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-09-18",
+    "last_checked": "2026-09-21",
     "stoploss_source": "trailed_t3",
     "strategy_version": 1,
     "tranches": [
@@ -7585,7 +7585,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-09-18",
+    "last_checked": "2026-09-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7751,7 +7751,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-09-18",
+    "last_checked": "2026-09-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7922,7 +7922,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-09-18",
+    "last_checked": "2026-09-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11406,7 +11406,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-09-18",
+    "last_checked": "2026-09-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -15070,9 +15070,9 @@
     "position_pct": 10.036,
     "risk_pct": 0.75,
     "stop_pct": 7.473,
-    "stoploss": 309.9035692472045,
+    "stoploss": 333.55847297335487,
     "original_stoploss": 309.9035692472045,
-    "stoploss_source": "dynamic_atr",
+    "stoploss_source": "atr_trail_backfill",
     "strict_stoploss": 321.93796,
     "swing_low": 202.54,
     "swing_high": 367.0,
@@ -15164,7 +15164,7 @@
     "pegy_at_entry": 2.75,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-09-18",
+    "last_checked": "2026-09-21",
     "dynamic_sl_source": null
   },
   {
@@ -15212,7 +15212,7 @@
       {
         "name": "MAX",
         "ratio": 0.66,
-        "price": 722.5150000000001
+        "price": 716.9122917575662
       }
     ],
     "hit_targets": [],
@@ -15254,9 +15254,9 @@
         "exit_date": null
       }
     ],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-09-21",
+    "fill_price": 431.8748745527507,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
@@ -15276,7 +15276,8 @@
     "pegy_at_entry": 1.01,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-09-18"
+    "last_checked": "2026-09-21",
+    "dynamic_sl_source": null
   },
   {
     "symbol": "ANTHEM",
@@ -15323,7 +15324,7 @@
       {
         "name": "MAX",
         "ratio": 0.66,
-        "price": 1541.3100000000002
+        "price": 1567.3022797374022
       }
     ],
     "hit_targets": [],
@@ -15365,9 +15366,9 @@
         "exit_date": null
       }
     ],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-09-21",
+    "fill_price": 944.1579998418084,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
@@ -15387,7 +15388,8 @@
     "pegy_at_entry": 5.12,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-09-18"
+    "last_checked": "2026-09-21",
+    "dynamic_sl_source": null
   },
   {
     "symbol": "HOMEFIRST",
@@ -15439,7 +15441,7 @@
       {
         "name": "MAX",
         "ratio": 0.66,
-        "price": 2060.558
+        "price": 2036.1383014635096
       }
     ],
     "hit_targets": [],
@@ -15481,9 +15483,9 @@
         "exit_date": null
       }
     ],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-09-21",
+    "fill_price": 1226.5893382310298,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
@@ -15503,6 +15505,7 @@
     "pegy_at_entry": null,
     "peg_source": "",
     "supertrend_active": false,
-    "last_checked": "2026-09-18"
+    "last_checked": "2026-09-21",
+    "dynamic_sl_source": null
   }
 ]
