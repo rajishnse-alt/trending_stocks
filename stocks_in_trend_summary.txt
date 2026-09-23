@@ -3,10 +3,46 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-09-22 19:30 IST
+NSE bhavcopy analysis — generated 2026-09-23 22:31 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 3
+Pure_on_Volume hits (BUY): 5
+Recommendations: 1 BUY  +  0 SELL
+
+Top 1 BUY candidates:
+------------------------------------------------------------
+  • PFOCUS          (Prime Focus Ltd               )  close ₹337.15  -5.68%  bias STRONG_SELL
+        → BUY-LEAN (tech=STRONG_SELL, signal net +4)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹349.46
+          - Strict stop-loss:      ₹331.81
+          - Best stop-loss:        ₹321.94
+          - Target-3 (150%):       ₹449.23
+          - Target-4 (161.8%):     ₹468.64
+          - Target-5 (261.8%):     ₹633.10
+          - Swing anchor:          low ₹202.54  ↔  high ₹367.00
+        PROS (signals):
+          - Trading near 52-week high (86% of range)
+          - +58% over the last 3 months
+          - +77% over the year
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Volume surge — 5d avg is 3.0× the 30d avg
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹49.7cr daily turnover)
+        CONS (signals):
+          - Delivery % falling — recent 17% vs 30d 39% (-22pp distribution)
+          - Closed near the day's low (CLV -0.73) — sellers dumped into the volume
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 26,253 Cr. | P/E 147 | ROCE 11.3 % | ROE 15.7 % | DivYield 0.00 % | BookVal ₹ 26.9 | PEG 2.77 (5Y) | PEGY 2.77
+        PROS (screener.in):
+          - Company is expected to give good quarter
+        CONS (screener.in):
+          - Stock is trading at 12.5 times its book value
+          - Company has low interest coverage ratio.
+          - Company has a low return on equity of -14.5% over last 3 years.
+          - Promoter holding has decreased over last 3 years: -9.22%
+        https://www.screener.in/company/PFOCUS/consolidated/
+
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).
   PROS / CONS (signals)   = derived from price/volume panel data (52-w position, SMA stack, returns, volatility, delivery & volume trend, CLV).
