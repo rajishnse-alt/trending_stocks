@@ -3207,7 +3207,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-09-23",
+    "last_checked": "2026-09-24",
     "stoploss_source": "trailed_t3",
     "strategy_version": 1,
     "tranches": [
@@ -7585,7 +7585,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-09-23",
+    "last_checked": "2026-09-24",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7751,7 +7751,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-09-23",
+    "last_checked": "2026-09-24",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7922,7 +7922,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-09-23",
+    "last_checked": "2026-09-24",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11406,7 +11406,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-09-23",
+    "last_checked": "2026-09-24",
     "strategy_version": 1,
     "tranches": [
       {
@@ -15619,6 +15619,229 @@
     "pegy_at_entry": 2.77,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-09-23"
+    "last_checked": "2026-09-24",
+    "dynamic_sl_source": null
+  },
+  {
+    "symbol": "ABDL",
+    "name": "Allied Blenders & Distillers Ltd",
+    "side": "BUY",
+    "strategy_version": 2,
+    "suggested_on": "2026-09-24",
+    "suggested_close": 712.15,
+    "entry": 689.6,
+    "fill_trigger": 695.876796868214,
+    "qty": 25,
+    "position_value": 17396.92,
+    "actual_risk_pct": 0.732,
+    "position_pct": 11.878,
+    "risk_pct": 0.75,
+    "stop_pct": 6.314,
+    "stoploss": 651.9392187907163,
+    "original_stoploss": 651.9392187907163,
+    "stoploss_source": "dynamic_atr",
+    "strict_stoploss": 641.1656,
+    "swing_low": 382.1,
+    "swing_high": 711.7,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 1.0,
+        "price": 739.8143749457117
+      },
+      {
+        "name": "T2",
+        "ratio": 2.0,
+        "price": 783.7519530232095
+      },
+      {
+        "name": "T3",
+        "ratio": 3.0,
+        "price": 827.6895311007072
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 915.3928000000001
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 1182.169
+      }
+    ],
+    "hit_targets": [],
+    "tranches": [
+      {
+        "name": "T1",
+        "qty_pct": 25,
+        "trigger": "T1",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T2",
+        "qty_pct": 25,
+        "trigger": "T2",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T3",
+        "qty_pct": 30,
+        "trigger": "T3",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "TRAIL",
+        "qty_pct": 20,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "atr_14_at_entry": 25.107187472855834,
+    "reward_risk": 4.110904857186261,
+    "score_total": 78.3,
+    "score_vol": 14.8,
+    "score_delivery": 0.0,
+    "score_trend": 31.7,
+    "score_rs": 20.6,
+    "score_momentum": 9.8,
+    "score_sector": 1.4,
+    "rs_rank_pct": 99.0,
+    "peg_at_entry": 0.61,
+    "pegy_at_entry": 0.6,
+    "peg_source": "5Y",
+    "supertrend_active": false,
+    "last_checked": "2026-09-24"
+  },
+  {
+    "symbol": "CAPLIPOINT",
+    "name": "Caplin Point Laboratories Ltd",
+    "side": "BUY",
+    "strategy_version": 2,
+    "suggested_on": "2026-09-24",
+    "suggested_close": 2867.4,
+    "entry": 2891.0,
+    "fill_trigger": 2918.152626419467,
+    "qty": 5,
+    "position_value": 14590.76,
+    "actual_risk_pct": 0.634,
+    "position_pct": 11.515,
+    "risk_pct": 0.75,
+    "stop_pct": 6.513,
+    "stoploss": 2728.0842414831977,
+    "original_stoploss": 2728.0842414831977,
+    "stoploss_source": "dynamic_atr",
+    "strict_stoploss": 2877.3,
+    "swing_low": 1500.3,
+    "swing_high": 2877.3,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 1.0,
+        "price": 3108.2210113557367
+      },
+      {
+        "name": "T2",
+        "ratio": 2.0,
+        "price": 3298.289396292006
+      },
+      {
+        "name": "T3",
+        "ratio": 3.0,
+        "price": 3488.3577812282756
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 3728.286
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 4759.884000000001
+      }
+    ],
+    "hit_targets": [],
+    "tranches": [
+      {
+        "name": "T1",
+        "qty_pct": 25,
+        "trigger": "T1",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T2",
+        "qty_pct": 25,
+        "trigger": "T2",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T3",
+        "qty_pct": 30,
+        "trigger": "T3",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "TRAIL",
+        "qty_pct": 20,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "atr_14_at_entry": 108.6105056778681,
+    "reward_risk": 3.4074439775857055,
+    "score_total": 78.3,
+    "score_vol": 14.8,
+    "score_delivery": 0.0,
+    "score_trend": 31.7,
+    "score_rs": 20.6,
+    "score_momentum": 9.8,
+    "score_sector": 1.4,
+    "rs_rank_pct": 97.8,
+    "peg_at_entry": 1.56,
+    "pegy_at_entry": 1.54,
+    "peg_source": "5Y",
+    "supertrend_active": false,
+    "last_checked": "2026-09-24"
   }
 ]
