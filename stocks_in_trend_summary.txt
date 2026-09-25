@@ -3,90 +3,47 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-09-24 20:34 IST
+NSE bhavcopy analysis — generated 2026-09-25 19:30 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 3
-Recommendations: 2 BUY  +  6 SELL
+Pure_on_Volume hits (BUY): 1
+Recommendations: 0 BUY  +  2 SELL
 
-Top 2 BUY candidates:
+Top 2 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
-  • ABDL            (Allied Blenders & Distillers L)  close ₹712.15  +8.49%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +7)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹689.60
-          - Strict stop-loss:      ₹641.17
-          - Best stop-loss:        ₹621.39
-          - Target-3 (150%):       ₹876.50
-          - Target-4 (161.8%):     ₹915.39
-          - Target-5 (261.8%):     ₹1244.99
-          - Swing anchor:          low ₹382.10  ↔  high ₹711.70
+  • RAINBOW         (Rainbow Childrens Medicare Ltd)  close ₹1374.20  -2.72%  bias SELL
+        → BUY-LEAN (tech=SELL, signal net +4)
         PROS (signals):
-          - Trading near 52-week high (97% of range)
-          - +17% over the last month
-          - Bullish SMA stack (close > 20 > 50 > 200)
-          - Volume surge — 5d avg is 3.1× the 30d avg
-          - Volume highest in 1 year (HVY)
-          - Closed near the day's high (CLV +0.73) — buyers absorbed the volume
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹38.5cr daily turnover)
-        CONS (signals):
-          - Delivery % falling — recent 40% vs 30d 47% (-7pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 19,888 Cr. | P/E 89.2 | ROCE 18.4 % | ROE 14.3 % | DivYield 0.76 % | BookVal ₹ 59.4 | PEG 0.61 (5Y) | PEGY 0.60
-        PROS (screener.in):
-          - Company has delivered good profit growth of 147% CAGR over last 5 years
-          - Company has been maintaining a healthy dividend payout of 39.3%
-        CONS (screener.in):
-          - Stock is trading at 12.0 times its book value
-          - The company has delivered a poor sales growth of 10.8% over past five years.
-          - Company has high debtors of 168 days.
-        https://www.screener.in/company/ABDL/consolidated/
-
-  • CAPLIPOINT      (Caplin Point Laboratories Ltd )  close ₹2867.40  +2.63%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +5)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹2891.00
-          - Strict stop-loss:      ₹2877.30
-          - Best stop-loss:        ₹2582.62
-          - Target-3 (150%):       ₹3565.80
-          - Target-4 (161.8%):     ₹3728.29
-          - Target-5 (261.8%):     ₹5105.29
-          - Swing anchor:          low ₹1500.30  ↔  high ₹2877.30
-        PROS (signals):
-          - Trading near 52-week high (92% of range)
-          - Bullish SMA stack (close > 20 > 50 > 200)
-          - 7-day winning streak
+          - Trading above the 200-day SMA
+          - Low volatility (18% annualised) with uptrend
+          - Delivery % rising — recent 61% vs 30d 56% (+5pp accumulation)
           - Volume highest in 3 months (HVQ)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹44.8cr daily turnover)
+          - Healthy liquidity (~₹13.5cr daily turnover)
         CONS (signals):
-          - Delivery % falling — recent 33% vs 30d 39% (-6pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 21,815 Cr. | P/E 32.8 | ROCE 24.2 % | ROE 20.9 % | DivYield 0.28 % | BookVal ₹ 443 | PEG 1.56 (5Y) | PEGY 1.54
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 13,965 Cr. | P/E 48.8 | ROCE 17.4 % | ROE 15.9 % | DivYield 0.25 % | BookVal ₹ 162 | PEG 1.11 (5Y) | PEGY 1.10
         PROS (screener.in):
-          - Company is almost debt free.
-          - Company has delivered good profit growth of 21.4% CAGR over last 5 years
-          - Company's median sales growth is 19.9% of last 10 years
-        https://www.screener.in/company/CAPLIPOINT/consolidated/
+          - Company's median sales growth is 22.8% of last 10 years
+        CONS (screener.in):
+          - Stock is trading at 8.47 times its book value
+        https://www.screener.in/company/RAINBOW/consolidated/
 
-Top 6 SELL candidates (high-volume distribution):
-------------------------------------------------------------
-  • POLICYBZR       (PB Fintech Ltd                )  close ₹1207.20  -36.00%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -6)
+  • POLICYBZR       (PB Fintech Ltd                )  close ₹1166.00  -3.41%  bias SELL
+        → STRONG SELL (tech=SELL, signal net -5)
         PROS (signals):
-          - Volume surge — 5d avg is 3.0× the 30d avg
-          - Volume highest in 1 year (HVY)
-          - Healthy liquidity (~₹221.4cr daily turnover)
+          - Volume surge — 5d avg is 4.1× the 30d avg
+          - Volume highest in 4 years (HVE) — strongest possible breakout signal
+          - Healthy liquidity (~₹306.3cr daily turnover)
         CONS (signals):
-          - Trading near 52-week low (0% of range)
-          - 39% off 52-week high
-          - -32% over the last month
-          - -26% over the last 3 months
-          - -34% over the year
+          - Trading near 52-week low (6% of range)
+          - 41% off 52-week high
+          - -35% over the last month
+          - -28% over the last 3 months
+          - -36% over the year
           - Trading below the 200-day SMA
           - High volatility (131% annualised)
-          - Closed near the day's low (CLV -1.00) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 55,754 Cr. | P/E 74.5 | ROCE 10.3 % | ROE 9.75 % | DivYield 0.00 % | BookVal ₹ 158 | PEG 1.77 (5Y) | PEGY 1.77
+        FUNDAMENTALS (screener.in): MCap ₹ 53,832 Cr. | P/E 71.9 | ROCE 10.3 % | ROE 9.75 % | DivYield 0.00 % | BookVal ₹ 158 | PEG 1.71 (5Y) | PEGY 1.71
         PROS (screener.in):
           - Company is almost debt free.
           - Company is expected to give good quarter
@@ -94,118 +51,12 @@ Top 6 SELL candidates (high-volume distribution):
           - Company's median sales growth is 46.1% of last 10 years
           - Company's working capital requirements have reduced from 171 days to 68.1 days
         CONS (screener.in):
-          - Stock is trading at 7.64 times its book value
+          - Stock is trading at 7.38 times its book value
           - Though the company is reporting repeated profits, it is not paying out dividend
           - Tax rate seems low
           - Company has a low return on equity of 5.58% over last 3 years.
           - Earnings include an other income of Rs.370 Cr.
         https://www.screener.in/company/POLICYBZR/consolidated/
-
-  • LTF             (L&T Finance Ltd               )  close ₹282.00  -9.03%  bias SELL
-        → HOLD / MIXED (tech=SELL, signal net 1)
-        PROS (signals):
-          - Volume surge — 5d avg is 2.0× the 30d avg
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹141.1cr daily turnover)
-        CONS (signals):
-          - Trading below the 200-day SMA
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 70,520 Cr. | P/E 22.0 | ROCE 8.40 % | ROE 11.2 % | DivYield 0.98 % | BookVal ₹ 112 | PEG 0.69 (5Y) | PEGY 0.67
-        PROS (screener.in):
-          - Company has delivered good profit growth of 32.4% CAGR over last 5 years
-          - Company has been maintaining a healthy dividend payout of 25.3%
-        CONS (screener.in):
-          - Stock is trading at 2.52 times its book value
-          - Company has low interest coverage ratio.
-          - The company has delivered a poor sales growth of 6.05% over past five years.
-          - Company has a low return on equity of 10.8% over last 3 years.
-          - Company might be capitalizing the interest cost
-        https://www.screener.in/company/LTF/consolidated/
-
-  • AIAENG          (AIA Engineering Ltd           )  close ₹3953.40  -0.42%  bias SELL
-        → HOLD / MIXED (tech=SELL, signal net 1)
-        PROS (signals):
-          - Delivery % rising — recent 61% vs 30d 53% (+8pp accumulation)
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹23.9cr daily turnover)
-        CONS (signals):
-          - Trading below the 200-day SMA
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 36,886 Cr. | P/E 29.1 | ROCE 21.1 % | ROE 17.0 % | DivYield 0.40 % | BookVal ₹ 860 | PEG 1.53 (5Y) | PEGY 1.50
-        PROS (screener.in):
-          - Company has reduced debt.
-          - Company is almost debt free.
-        CONS (screener.in):
-          - The company has delivered a poor sales growth of 8.93% over past five years.
-          - Earnings include an other income of Rs.487 Cr.
-          - Dividend payout has been low at 13.0% of profits over last 3 years
-          - Debtor days have increased from 77.7 to 96.5 days.
-        https://www.screener.in/company/AIAENG/consolidated/
-
-  • HDFCLIFE        (HDFC Life Insurance Company Lt)  close ₹526.90  -6.16%  bias SELL
-        → STRONG SELL (tech=SELL, signal net -4)
-        PROS (signals):
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹199.1cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (6% of range)
-          - 34% off 52-week high
-          - -32% over the year
-          - Bearish SMA stack (close < 20 < 50 < 200)
-          - Delivery % falling — recent 50% vs 30d 56% (-5pp distribution)
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 1,14,352 Cr. | P/E 57.9 | ROCE 10.3 % | ROE 11.3 % | DivYield 0.40 % | BookVal ₹ 90.0 | PEG 8.27 (5Y) | PEGY 7.82
-        PROS (screener.in):
-          - Company has been maintaining a healthy dividend payout of 25.3%
-        CONS (screener.in):
-          - Stock is trading at 5.85 times its book value
-          - The company has delivered a poor sales growth of 6.81% over past five years.
-          - Tax rate seems low
-          - Company has a low return on equity of 11.1% over last 3 years.
-          - Earnings include an other income of Rs.931 Cr.
-        https://www.screener.in/company/HDFCLIFE/consolidated/
-
-  • ICICIPRULI      (ICICI Prudential Life Insuranc)  close ₹464.50  -4.13%  bias SELL
-        → SELL-LEAN (tech=SELL, signal net -2)
-        PROS (signals):
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹81.3cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (7% of range)
-          - 34% off 52-week high
-          - Bearish SMA stack (close < 20 < 50 < 200)
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 67,340 Cr. | P/E 41.9 | ROCE 10.1 % | ROE 12.6 % | DivYield 0.36 % | BookVal ₹ 94.0 | PEG 3.81 (5Y) | PEGY 3.69
-        PROS (screener.in):
-          - Company is expected to give good quarter
-        CONS (screener.in):
-          - Stock is trading at 4.94 times its book value
-          - The company has delivered a poor sales growth of -5.30% over past five years.
-          - Tax rate seems low
-          - Company has a low return on equity of 8.75% over last 3 years.
-        https://www.screener.in/company/ICICIPRULI/consolidated/
-
-  • MFSL            (Max Financial Services Ltd    )  close ₹1410.00  -9.78%  bias SELL
-        → HOLD / MIXED (tech=SELL, signal net 0)
-        PROS (signals):
-          - Volume surge — 5d avg is 2.6× the 30d avg
-          - Volume highest in 1 year (HVY)
-          - Healthy liquidity (~₹125.9cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (9% of range)
-          - Bearish SMA stack (close < 20 < 50 < 200)
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 48,890 Cr. | P/E 451 | ROCE 2.87 % | ROE 1.52 % | DivYield 0.00 % | BookVal ₹ 153
-        CONS (screener.in):
-          - Stock is trading at 9.21 times its book value
-          - Though the company is reporting repeated profits, it is not paying out dividend
-          - The company has delivered a poor sales growth of 8.80% over past five years.
-          - Promoter holding is low: 1.25%
-          - Tax rate seems low
-          - Company has a low return on equity of 5.57% over last 3 years.
-          - Promoters have pledged 26.9% of their holding.
-          - Promoter holding has decreased over last 3 years: -8.89%
-        https://www.screener.in/company/MFSL/consolidated/
 
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).

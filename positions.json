@@ -3207,7 +3207,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "stoploss_source": "trailed_t3",
     "strategy_version": 1,
     "tranches": [
@@ -7585,7 +7585,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7751,7 +7751,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7922,7 +7922,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11406,7 +11406,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "strategy_version": 1,
     "tranches": [
       {
@@ -15619,7 +15619,7 @@
     "pegy_at_entry": 2.77,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-09-24",
+    "last_checked": "2026-09-25",
     "dynamic_sl_source": null
   },
   {
@@ -15667,7 +15667,7 @@
       {
         "name": "MAX",
         "ratio": 0.66,
-        "price": 1182.169
+        "price": 1155.1554828012354
       }
     ],
     "hit_targets": [],
@@ -15709,9 +15709,9 @@
         "exit_date": null
       }
     ],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-09-25",
+    "fill_price": 695.876796868214,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
@@ -15731,7 +15731,8 @@
     "pegy_at_entry": 0.6,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-09-24"
+    "last_checked": "2026-09-25",
+    "dynamic_sl_source": null
   },
   {
     "symbol": "CAPLIPOINT",
@@ -15842,6 +15843,7 @@
     "pegy_at_entry": 1.54,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-09-24"
+    "last_checked": "2026-09-25",
+    "dynamic_sl_source": null
   }
 ]
