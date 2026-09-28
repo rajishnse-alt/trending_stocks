@@ -3,61 +3,10 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-09-25 19:30 IST
+NSE bhavcopy analysis — generated 2026-09-28 19:30 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 1
-Recommendations: 0 BUY  +  2 SELL
-
-Top 2 SELL candidates (high-volume distribution):
-------------------------------------------------------------
-  • RAINBOW         (Rainbow Childrens Medicare Ltd)  close ₹1374.20  -2.72%  bias SELL
-        → BUY-LEAN (tech=SELL, signal net +4)
-        PROS (signals):
-          - Trading above the 200-day SMA
-          - Low volatility (18% annualised) with uptrend
-          - Delivery % rising — recent 61% vs 30d 56% (+5pp accumulation)
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹13.5cr daily turnover)
-        CONS (signals):
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 13,965 Cr. | P/E 48.8 | ROCE 17.4 % | ROE 15.9 % | DivYield 0.25 % | BookVal ₹ 162 | PEG 1.11 (5Y) | PEGY 1.10
-        PROS (screener.in):
-          - Company's median sales growth is 22.8% of last 10 years
-        CONS (screener.in):
-          - Stock is trading at 8.47 times its book value
-        https://www.screener.in/company/RAINBOW/consolidated/
-
-  • POLICYBZR       (PB Fintech Ltd                )  close ₹1166.00  -3.41%  bias SELL
-        → STRONG SELL (tech=SELL, signal net -5)
-        PROS (signals):
-          - Volume surge — 5d avg is 4.1× the 30d avg
-          - Volume highest in 4 years (HVE) — strongest possible breakout signal
-          - Healthy liquidity (~₹306.3cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (6% of range)
-          - 41% off 52-week high
-          - -35% over the last month
-          - -28% over the last 3 months
-          - -36% over the year
-          - Trading below the 200-day SMA
-          - High volatility (131% annualised)
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 53,832 Cr. | P/E 71.9 | ROCE 10.3 % | ROE 9.75 % | DivYield 0.00 % | BookVal ₹ 158 | PEG 1.71 (5Y) | PEGY 1.71
-        PROS (screener.in):
-          - Company is almost debt free.
-          - Company is expected to give good quarter
-          - Company has delivered good profit growth of 41.9% CAGR over last 5 years
-          - Company's median sales growth is 46.1% of last 10 years
-          - Company's working capital requirements have reduced from 171 days to 68.1 days
-        CONS (screener.in):
-          - Stock is trading at 7.38 times its book value
-          - Though the company is reporting repeated profits, it is not paying out dividend
-          - Tax rate seems low
-          - Company has a low return on equity of 5.58% over last 3 years.
-          - Earnings include an other income of Rs.370 Cr.
-        https://www.screener.in/company/POLICYBZR/consolidated/
-
+Pure_on_Volume hits (BUY): 2
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).
   PROS / CONS (signals)   = derived from price/volume panel data (52-w position, SMA stack, returns, volatility, delivery & volume trend, CLV).

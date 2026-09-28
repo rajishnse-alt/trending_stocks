@@ -3207,7 +3207,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-09-25",
+    "last_checked": "2026-09-28",
     "stoploss_source": "trailed_t3",
     "strategy_version": 1,
     "tranches": [
@@ -7585,7 +7585,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-09-25",
+    "last_checked": "2026-09-28",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7751,7 +7751,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-09-25",
+    "last_checked": "2026-09-28",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7922,7 +7922,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-09-25",
+    "last_checked": "2026-09-28",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11406,7 +11406,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-09-25",
+    "last_checked": "2026-09-28",
     "strategy_version": 1,
     "tranches": [
       {
@@ -15619,7 +15619,7 @@
     "pegy_at_entry": 2.77,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-09-25",
+    "last_checked": "2026-09-28",
     "dynamic_sl_source": null
   },
   {
@@ -15637,9 +15637,9 @@
     "position_pct": 11.878,
     "risk_pct": 0.75,
     "stop_pct": 6.314,
-    "stoploss": 651.9392187907163,
+    "stoploss": 713.6864174485222,
     "original_stoploss": 651.9392187907163,
-    "stoploss_source": "dynamic_atr",
+    "stoploss_source": "atr_trail_backfill",
     "strict_stoploss": 641.1656,
     "swing_low": 382.1,
     "swing_high": 711.7,
@@ -15731,7 +15731,7 @@
     "pegy_at_entry": 0.6,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-09-25",
+    "last_checked": "2026-09-28",
     "dynamic_sl_source": null
   },
   {
@@ -15843,7 +15843,7 @@
     "pegy_at_entry": 1.54,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-09-25",
+    "last_checked": "2026-09-28",
     "dynamic_sl_source": null
   }
 ]
