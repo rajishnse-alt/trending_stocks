@@ -3,66 +3,31 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-10-02 19:30 IST
+NSE bhavcopy analysis — generated 2026-10-05 19:30 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 4
-Recommendations: 0 BUY  +  3 SELL
+Pure_on_Volume hits (BUY): 3
+Recommendations: 0 BUY  +  1 SELL
 
-Top 3 SELL candidates (high-volume distribution):
+Top 1 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
-  • BAJAJ-AUTO      (Bajaj Auto Ltd                )  close ₹10045.00  -7.62%  bias STRONG_SELL
-        → SELL-LEAN (tech=STRONG_SELL, signal net 0)
-        PROS (signals):
-          - Volume surge — 5d avg is 2.1× the 30d avg
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹304.4cr daily turnover)
-        CONS (signals):
-          - -17% over the last month
-          - Trading below the 200-day SMA
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 2,76,040 Cr. | P/E 23.4 | ROCE 28.2 % | ROE 29.2 % | DivYield 1.49 % | BookVal ₹ 1,389 | PEG 1.38 (5Y) | PEGY 1.27
-        PROS (screener.in):
-          - Company is expected to give good quarter
-          - Company has a good return on equity (ROE) track record: 3 Years ROE 26.3%
-          - Company has been maintaining a healthy dividend payout of 49.4%
-        CONS (screener.in):
-          - Stock is trading at 7.23 times its book value
-        https://www.screener.in/company/BAJAJ-AUTO/consolidated/
-
-  • TATASTEEL       (Tata Steel Ltd                )  close ₹178.00  -3.42%  bias STRONG_SELL
-        → SELL-LEAN (tech=STRONG_SELL, signal net -1)
+  • DMART           (Avenue Supermarts Ltd         )  close ₹3567.00  -6.45%  bias STRONG_SELL
+        → STRONG SELL (tech=STRONG_SELL, signal net -3)
         PROS (signals):
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹447.7cr daily turnover)
+          - Healthy liquidity (~₹197.8cr daily turnover)
         CONS (signals):
-          - Lower third of 52-week range (28%)
+          - Trading near 52-week low (2% of range)
+          - -25% over the year
           - Bearish SMA stack (close < 20 < 50 < 200)
+          - Closed near the day's low (CLV -0.84) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 2,22,207 Cr. | P/E 18.8 | ROCE 12.5 % | ROE 11.7 % | DivYield 2.25 % | BookVal ₹ 81.8 | PEG 2.35 (5Y) | PEGY 1.83
-        PROS (screener.in):
-          - Company has been maintaining a healthy dividend payout of 25.4%
+        FUNDAMENTALS (screener.in): MCap ₹ 2,32,858 Cr. | P/E 76.1 | ROCE 17.2 % | ROE 12.9 % | DivYield 0.00 % | BookVal ₹ 375 | PEG 3.46 (5Y) | PEGY 3.46
         CONS (screener.in):
-          - The company has delivered a poor sales growth of 8.21% over past five years.
-          - Company has a low return on equity of 7.44% over last 3 years.
-        https://www.screener.in/company/TATASTEEL/consolidated/
-
-  • JKCEMENT        (J K Cements Ltd               )  close ₹4952.00  -2.44%  bias SELL
-        → SELL-LEAN (tech=SELL, signal net -1)
-        PROS (signals):
-          - Volume surge — 5d avg is 2.1× the 30d avg
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹23.2cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (12% of range)
-          - -27% over the year
-          - Bearish SMA stack (close < 20 < 50 < 200)
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 38,263 Cr. | P/E 39.2 | ROCE 15.1 % | ROE 15.6 % | DivYield 0.40 % | BookVal ₹ 911 | PEG 5.60 (5Y) | PEGY 5.30
-        CONS (screener.in):
-          - Stock is trading at 5.44 times its book value
-          - Company might be capitalizing the interest cost
-        https://www.screener.in/company/JKCEMENT/consolidated/
+          - Stock is trading at 9.51 times its book value
+          - Though the company is reporting repeated profits, it is not paying out dividend
+          - Company has a low return on equity of 13.5% over last 3 years.
+        https://www.screener.in/company/DMART/consolidated/
 
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).
