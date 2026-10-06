@@ -3,31 +3,35 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-10-05 19:30 IST
+NSE bhavcopy analysis — generated 2026-10-06 19:06 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 3
+Pure_on_Volume hits (BUY): 1
 Recommendations: 0 BUY  +  1 SELL
 
 Top 1 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
-  • DMART           (Avenue Supermarts Ltd         )  close ₹3567.00  -6.45%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -3)
+  • HUDCO           (Housing & Urban Development Co)  close ₹161.04  -0.65%  bias SELL
+        → STRONG SELL (tech=SELL, signal net -3)
         PROS (signals):
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹197.8cr daily turnover)
+          - Healthy liquidity (~₹34.0cr daily turnover)
         CONS (signals):
-          - Trading near 52-week low (2% of range)
-          - -25% over the year
+          - Trading near 52-week low (6% of range)
+          - 35% off 52-week high
+          - -30% over the year
           - Bearish SMA stack (close < 20 < 50 < 200)
-          - Closed near the day's low (CLV -0.84) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 2,32,858 Cr. | P/E 76.1 | ROCE 17.2 % | ROE 12.9 % | DivYield 0.00 % | BookVal ₹ 375 | PEG 3.46 (5Y) | PEGY 3.46
+        FUNDAMENTALS (screener.in): MCap ₹ 32,326 Cr. | P/E 7.60 | ROCE 8.41 % | ROE 20.0 % | DivYield 3.76 % | BookVal ₹ 110 | PEG 0.38 (5Y) | PEGY 0.32
+        PROS (screener.in):
+          - Stock is providing a good dividend yield of 3.76%.
+          - Company has delivered good profit growth of 20.5% CAGR over last 5 years
+          - Company has been maintaining a healthy dividend payout of 33.3%
         CONS (screener.in):
-          - Stock is trading at 9.51 times its book value
-          - Though the company is reporting repeated profits, it is not paying out dividend
-          - Company has a low return on equity of 13.5% over last 3 years.
-        https://www.screener.in/company/DMART/consolidated/
+          - Company has low interest coverage ratio.
+          - Tax rate seems low
+          - Company might be capitalizing the interest cost
+        https://www.screener.in/company/HUDCO/consolidated/
 
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).
