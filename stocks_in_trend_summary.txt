@@ -3,35 +3,55 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-10-06 19:30 IST
+NSE bhavcopy analysis — generated 2026-10-07 19:30 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 1
-Recommendations: 0 BUY  +  1 SELL
+Pure_on_Volume hits (BUY): 5
+Recommendations: 0 BUY  +  2 SELL
 
-Top 1 SELL candidates (high-volume distribution):
+Top 2 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
-  • HUDCO           (Housing & Urban Development Co)  close ₹161.04  -0.65%  bias SELL
-        → STRONG SELL (tech=SELL, signal net -3)
+  • PFOCUS          (Prime Focus Ltd               )  close ₹284.00  -2.97%  bias SELL
+        → HOLD / MIXED (tech=SELL, signal net 2)
         PROS (signals):
+          - +52% over the year
+          - Trading above the 200-day SMA
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹34.0cr daily turnover)
+          - Healthy liquidity (~₹59.8cr daily turnover)
+        CONS (signals):
+          - Delivery % falling — recent 12% vs 30d 29% (-16pp distribution)
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 22,079 Cr. | P/E 124 | ROCE 11.3 % | ROE 15.7 % | DivYield 0.00 % | BookVal ₹ 26.9 | PEG 2.34 (5Y) | PEGY 2.34
+        PROS (screener.in):
+          - Company is expected to give good quarter
+        CONS (screener.in):
+          - Stock is trading at 10.6 times its book value
+          - Company has low interest coverage ratio.
+          - Company has a low return on equity of -14.5% over last 3 years.
+          - Promoter holding has decreased over last 3 years: -9.22%
+        https://www.screener.in/company/PFOCUS/consolidated/
+
+  • ITC             (ITC Ltd                       )  close ₹265.70  -0.37%  bias SELL
+        → SELL-LEAN (tech=SELL, signal net -2)
+        PROS (signals):
+          - Volume surge — 5d avg is 2.1× the 30d avg
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹399.6cr daily turnover)
         CONS (signals):
           - Trading near 52-week low (6% of range)
-          - 35% off 52-week high
-          - -30% over the year
-          - Bearish SMA stack (close < 20 < 50 < 200)
+          - 38% off 52-week high
+          - -35% over the year
+          - Trading below the 200-day SMA
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 32,326 Cr. | P/E 7.60 | ROCE 8.41 % | ROE 20.0 % | DivYield 3.76 % | BookVal ₹ 110 | PEG 0.38 (5Y) | PEGY 0.32
+        FUNDAMENTALS (screener.in): MCap ₹ 3,33,186 Cr. | P/E 16.9 | ROCE 38.9 % | ROE 29.3 % | DivYield 5.46 % | BookVal ₹ 57.9 | PEG 1.69 (5Y) | PEGY 1.09
         PROS (screener.in):
-          - Stock is providing a good dividend yield of 3.76%.
-          - Company has delivered good profit growth of 20.5% CAGR over last 5 years
-          - Company has been maintaining a healthy dividend payout of 33.3%
+          - Company is almost debt free.
+          - Stock is providing a good dividend yield of 5.46%.
+          - Company has a good return on equity (ROE) track record: 3 Years ROE 35.2%
+          - Company has been maintaining a healthy dividend payout of 74.5%
         CONS (screener.in):
-          - Company has low interest coverage ratio.
-          - Tax rate seems low
-          - Company might be capitalizing the interest cost
-        https://www.screener.in/company/HUDCO/consolidated/
+          - The company has delivered a poor sales growth of 9.87% over past five years.
+        https://www.screener.in/company/ITC/consolidated/
 
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).
