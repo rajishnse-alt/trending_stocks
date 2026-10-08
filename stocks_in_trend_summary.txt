@@ -3,50 +3,30 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-10-07 19:30 IST
+NSE bhavcopy analysis — generated 2026-10-08 22:57 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 5
-Recommendations: 0 BUY  +  2 SELL
+Pure_on_Volume hits (BUY): 1
+Recommendations: 0 BUY  +  1 SELL
 
-Top 2 SELL candidates (high-volume distribution):
+Top 1 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
-  • PFOCUS          (Prime Focus Ltd               )  close ₹284.00  -2.97%  bias SELL
-        → HOLD / MIXED (tech=SELL, signal net 2)
+  • ITC             (ITC Ltd                       )  close ₹255.00  -4.03%  bias STRONG_SELL
+        → STRONG SELL (tech=STRONG_SELL, signal net -2)
         PROS (signals):
-          - +52% over the year
-          - Trading above the 200-day SMA
+          - Volume surge — 5d avg is 2.3× the 30d avg
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹59.8cr daily turnover)
+          - Healthy liquidity (~₹401.0cr daily turnover)
         CONS (signals):
-          - Delivery % falling — recent 12% vs 30d 29% (-16pp distribution)
+          - Trading near 52-week low (1% of range)
+          - 40% off 52-week high
+          - -37% over the year
+          - Bearish SMA stack (close < 20 < 50 < 200)
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 22,079 Cr. | P/E 124 | ROCE 11.3 % | ROE 15.7 % | DivYield 0.00 % | BookVal ₹ 26.9 | PEG 2.34 (5Y) | PEGY 2.34
-        PROS (screener.in):
-          - Company is expected to give good quarter
-        CONS (screener.in):
-          - Stock is trading at 10.6 times its book value
-          - Company has low interest coverage ratio.
-          - Company has a low return on equity of -14.5% over last 3 years.
-          - Promoter holding has decreased over last 3 years: -9.22%
-        https://www.screener.in/company/PFOCUS/consolidated/
-
-  • ITC             (ITC Ltd                       )  close ₹265.70  -0.37%  bias SELL
-        → SELL-LEAN (tech=SELL, signal net -2)
-        PROS (signals):
-          - Volume surge — 5d avg is 2.1× the 30d avg
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹399.6cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (6% of range)
-          - 38% off 52-week high
-          - -35% over the year
-          - Trading below the 200-day SMA
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 3,33,186 Cr. | P/E 16.9 | ROCE 38.9 % | ROE 29.3 % | DivYield 5.46 % | BookVal ₹ 57.9 | PEG 1.69 (5Y) | PEGY 1.09
+        FUNDAMENTALS (screener.in): MCap ₹ 3,20,010 Cr. | P/E 16.2 | ROCE 38.9 % | ROE 29.3 % | DivYield 5.69 % | BookVal ₹ 57.9 | PEG 1.62 (5Y) | PEGY 1.03
         PROS (screener.in):
           - Company is almost debt free.
-          - Stock is providing a good dividend yield of 5.46%.
+          - Stock is providing a good dividend yield of 5.69%.
           - Company has a good return on equity (ROE) track record: 3 Years ROE 35.2%
           - Company has been maintaining a healthy dividend payout of 74.5%
         CONS (screener.in):
