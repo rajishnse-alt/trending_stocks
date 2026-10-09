@@ -3207,7 +3207,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-08",
+    "last_checked": "2026-10-09",
     "stoploss_source": "trailed_t3",
     "strategy_version": 1,
     "tranches": [
@@ -7585,7 +7585,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-08",
+    "last_checked": "2026-10-09",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7751,7 +7751,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-08",
+    "last_checked": "2026-10-09",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7922,7 +7922,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-08",
+    "last_checked": "2026-10-09",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11406,7 +11406,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-08",
+    "last_checked": "2026-10-09",
     "strategy_version": 1,
     "tranches": [
       {
@@ -15845,5 +15845,116 @@
     "supertrend_active": false,
     "last_checked": "2026-10-05",
     "dynamic_sl_source": null
+  },
+  {
+    "symbol": "BBOX",
+    "name": "Black Box Ltd",
+    "side": "BUY",
+    "strategy_version": 2,
+    "suggested_on": "2026-10-09",
+    "suggested_close": 892.1,
+    "entry": 900.35,
+    "fill_trigger": 911.8450903400725,
+    "qty": 13,
+    "position_value": 11853.99,
+    "actual_risk_pct": 0.697,
+    "position_pct": 8.499,
+    "risk_pct": 0.75,
+    "stop_pct": 8.824,
+    "stoploss": 831.3794579595652,
+    "original_stoploss": 831.3794579595652,
+    "stoploss_source": "dynamic_atr",
+    "strict_stoploss": 874.182,
+    "swing_low": 504.0,
+    "swing_high": 1103.0,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 1.0,
+        "price": 992.3107227205797
+      },
+      {
+        "name": "T2",
+        "ratio": 2.0,
+        "price": 1072.7763551010871
+      },
+      {
+        "name": "T3",
+        "ratio": 3.0,
+        "price": 1153.2419874815942
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 1473.182
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 1480.8860000000002
+      }
+    ],
+    "hit_targets": [],
+    "tranches": [
+      {
+        "name": "T1",
+        "qty_pct": 25,
+        "trigger": "T1",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T2",
+        "qty_pct": 25,
+        "trigger": "T2",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T3",
+        "qty_pct": 30,
+        "trigger": "T3",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "TRAIL",
+        "qty_pct": 20,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "atr_14_at_entry": 45.980361360289834,
+    "reward_risk": 6.097695315929541,
+    "score_total": 78.3,
+    "score_vol": 14.8,
+    "score_delivery": 0.0,
+    "score_trend": 31.7,
+    "score_rs": 20.6,
+    "score_momentum": 9.8,
+    "score_sector": 1.4,
+    "rs_rank_pct": 98.99193548387096,
+    "peg_at_entry": 4.27,
+    "pegy_at_entry": 4.23,
+    "peg_source": "5Y",
+    "supertrend_active": false,
+    "last_checked": "2026-10-09"
   }
 ]

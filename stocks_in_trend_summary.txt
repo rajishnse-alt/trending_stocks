@@ -3,35 +3,44 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-10-08 22:57 IST
+NSE bhavcopy analysis — generated 2026-10-09 18:47 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 1
-Recommendations: 0 BUY  +  1 SELL
+Pure_on_Volume hits (BUY): 7
+Recommendations: 1 BUY  +  0 SELL
 
-Top 1 SELL candidates (high-volume distribution):
+Top 1 BUY candidates:
 ------------------------------------------------------------
-  • ITC             (ITC Ltd                       )  close ₹255.00  -4.03%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -2)
+  • BBOX            (Black Box Ltd                 )  close ₹892.10  +4.15%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +7)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹900.35
+          - Strict stop-loss:      ₹874.18
+          - Best stop-loss:        ₹803.50
+          - Target-3 (150%):       ₹1402.50
+          - Target-4 (161.8%):     ₹1473.18
+          - Target-5 (261.8%):     ₹2072.18
+          - Swing anchor:          low ₹504.00  ↔  high ₹1103.00
         PROS (signals):
-          - Volume surge — 5d avg is 2.3× the 30d avg
+          - +101% off 52-week low (turnaround)
+          - +16% over the last month
+          - +87% over the year
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Volume surge — 5d avg is 2.7× the 30d avg
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹401.0cr daily turnover)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹65.9cr daily turnover)
         CONS (signals):
-          - Trading near 52-week low (1% of range)
-          - 40% off 52-week high
-          - -37% over the year
-          - Bearish SMA stack (close < 20 < 50 < 200)
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 3,20,010 Cr. | P/E 16.2 | ROCE 38.9 % | ROE 29.3 % | DivYield 5.69 % | BookVal ₹ 57.9 | PEG 1.62 (5Y) | PEGY 1.03
+          - Delivery % falling — recent 29% vs 30d 37% (-8pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 15,846 Cr. | P/E 55.5 | ROCE 21.6 % | ROE 25.7 % | DivYield 0.11 % | BookVal ₹ 72.5 | PEG 4.27 (5Y) | PEGY 4.23
         PROS (screener.in):
-          - Company is almost debt free.
-          - Stock is providing a good dividend yield of 5.69%.
-          - Company has a good return on equity (ROE) track record: 3 Years ROE 35.2%
-          - Company has been maintaining a healthy dividend payout of 74.5%
+          - Company has a good return on equity (ROE) track record: 3 Years ROE 34.6%
         CONS (screener.in):
-          - The company has delivered a poor sales growth of 9.87% over past five years.
-        https://www.screener.in/company/ITC/consolidated/
+          - Stock is trading at 12.3 times its book value
+          - The company has delivered a poor sales growth of 6.23% over past five years.
+          - Tax rate seems low
+          - Debtor days have increased from 41.2 to 66.6 days.
+        https://www.screener.in/company/BBOX/consolidated/
 
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).
