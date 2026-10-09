@@ -15955,6 +15955,7 @@
     "pegy_at_entry": 4.23,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-10-09"
+    "last_checked": "2026-10-09",
+    "dynamic_sl_source": null
   }
 ]
