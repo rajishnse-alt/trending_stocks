@@ -3,44 +3,73 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-10-09 19:30 IST
+NSE bhavcopy analysis — generated 2026-10-12 21:53 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 7
-Recommendations: 1 BUY  +  0 SELL
+Pure_on_Volume hits (BUY): 5
+Recommendations: 0 BUY  +  3 SELL
 
-Top 1 BUY candidates:
+Top 3 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
-  • BBOX            (Black Box Ltd                 )  close ₹892.10  +4.15%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +7)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹900.35
-          - Strict stop-loss:      ₹874.18
-          - Best stop-loss:        ₹803.50
-          - Target-3 (150%):       ₹1402.50
-          - Target-4 (161.8%):     ₹1473.18
-          - Target-5 (261.8%):     ₹2072.18
-          - Swing anchor:          low ₹504.00  ↔  high ₹1103.00
+  • DMART           (Avenue Supermarts Ltd         )  close ₹3364.90  -4.32%  bias STRONG_SELL
+        → STRONG SELL (tech=STRONG_SELL, signal net -4)
         PROS (signals):
-          - +101% off 52-week low (turnaround)
-          - +16% over the last month
-          - +87% over the year
-          - Bullish SMA stack (close > 20 > 50 > 200)
-          - Volume surge — 5d avg is 2.7× the 30d avg
-          - Volume highest in 3 months (HVQ)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹65.9cr daily turnover)
+          - Volume highest in 1 year (HVY)
+          - Healthy liquidity (~₹191.5cr daily turnover)
         CONS (signals):
-          - Delivery % falling — recent 29% vs 30d 37% (-8pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 15,846 Cr. | P/E 55.5 | ROCE 21.6 % | ROE 25.7 % | DivYield 0.11 % | BookVal ₹ 72.5 | PEG 4.27 (5Y) | PEGY 4.23
-        PROS (screener.in):
-          - Company has a good return on equity (ROE) track record: 3 Years ROE 34.6%
+          - Trading near 52-week low (1% of range)
+          - -26% over the year
+          - Bearish SMA stack (close < 20 < 50 < 200)
+          - Delivery % falling — recent 46% vs 30d 57% (-11pp distribution)
+          - Closed near the day's low (CLV -0.71) — sellers dumped into the volume
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 2,19,296 Cr. | P/E 70.4 | ROCE 17.2 % | ROE 12.9 % | DivYield 0.00 % | BookVal ₹ 400 | PEG 3.20 (5Y) | PEGY 3.20
         CONS (screener.in):
-          - Stock is trading at 12.3 times its book value
-          - The company has delivered a poor sales growth of 6.23% over past five years.
+          - Stock is trading at 8.41 times its book value
+          - Though the company is reporting repeated profits, it is not paying out dividend
+          - Company has a low return on equity of 13.5% over last 3 years.
+        https://www.screener.in/company/DMART/consolidated/
+
+  • ADANIPORTS      (Adani Ports & Special Economic)  close ₹1754.00  -0.40%  bias STRONG_SELL
+        → BUY-LEAN (tech=STRONG_SELL, signal net +4)
+        PROS (signals):
+          - Upper third of 52-week range (77%)
+          - Trading above the 200-day SMA
+          - Delivery % rising — recent 66% vs 30d 60% (+5pp accumulation)
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹453.8cr daily turnover)
+        CONS (signals):
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 4,04,344 Cr. | P/E 30.4 | ROCE 14.1 % | ROE 16.4 % | DivYield 0.43 % | BookVal ₹ 416 | PEG 1.45 (5Y) | PEGY 1.42
+        PROS (screener.in):
+          - Company has delivered good profit growth of 21.0% CAGR over last 5 years
+          - Company's median sales growth is 20.3% of last 10 years
+        CONS (screener.in):
+          - Stock is trading at 4.21 times its book value
           - Tax rate seems low
-          - Debtor days have increased from 41.2 to 66.6 days.
-        https://www.screener.in/company/BBOX/consolidated/
+        https://www.screener.in/company/ADANIPORTS/consolidated/
+
+  • UBL             (United Breweries Ltd          )  close ₹1164.80  -0.29%  bias SELL
+        → SELL-LEAN (tech=SELL, signal net -2)
+        PROS (signals):
+          - Volume surge — 5d avg is 2.1× the 30d avg
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹17.8cr daily turnover)
+        CONS (signals):
+          - Trading near 52-week low (3% of range)
+          - 37% off 52-week high
+          - -35% over the year
+          - Bearish SMA stack (close < 20 < 50 < 200)
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 30,814 Cr. | P/E 89.2 | ROCE 10.7 % | ROE 7.69 % | DivYield 0.86 % | BookVal ₹ 171 | PEG 3.72 (5Y) | PEGY 3.59
+        PROS (screener.in):
+          - Company has been maintaining a healthy dividend payout of 62.8%
+          - Company's working capital requirements have reduced from 45.6 days to 24.6 days
+        CONS (screener.in):
+          - Stock is trading at 6.81 times its book value
+          - Company has a low return on equity of 9.47% over last 3 years.
+          - Company might be capitalizing the interest cost
+        https://www.screener.in/company/UBL/consolidated/
 
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).

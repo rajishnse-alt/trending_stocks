@@ -3207,7 +3207,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-09",
+    "last_checked": "2026-10-12",
     "stoploss_source": "trailed_t3",
     "strategy_version": 1,
     "tranches": [
@@ -7585,7 +7585,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-09",
+    "last_checked": "2026-10-12",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7751,7 +7751,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-09",
+    "last_checked": "2026-10-12",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7922,7 +7922,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-09",
+    "last_checked": "2026-10-12",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11406,7 +11406,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-09",
+    "last_checked": "2026-10-12",
     "strategy_version": 1,
     "tranches": [
       {
@@ -15891,7 +15891,7 @@
       {
         "name": "MAX",
         "ratio": 0.66,
-        "price": 1480.8860000000002
+        "price": 1513.6628499645205
       }
     ],
     "hit_targets": [],
@@ -15933,9 +15933,9 @@
         "exit_date": null
       }
     ],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-10-12",
+    "fill_price": 911.8450903400725,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
@@ -15955,7 +15955,7 @@
     "pegy_at_entry": 4.23,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-10-09",
+    "last_checked": "2026-10-12",
     "dynamic_sl_source": null
   }
 ]
