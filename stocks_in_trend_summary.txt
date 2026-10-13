@@ -3,73 +3,35 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-10-12 21:53 IST
+NSE bhavcopy analysis — generated 2026-10-13 17:59 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 5
-Recommendations: 0 BUY  +  3 SELL
+Pure_on_Volume hits (BUY): 3
+Recommendations: 0 BUY  +  1 SELL
 
-Top 3 SELL candidates (high-volume distribution):
+Top 1 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
-  • DMART           (Avenue Supermarts Ltd         )  close ₹3364.90  -4.32%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -4)
+  • RBLBANK         (RBL Bank Ltd                  )  close ₹388.05  -7.10%  bias SELL
+        → HOLD / MIXED (tech=SELL, signal net 2)
         PROS (signals):
-          - Volume highest in 1 year (HVY)
-          - Healthy liquidity (~₹191.5cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (1% of range)
-          - -26% over the year
-          - Bearish SMA stack (close < 20 < 50 < 200)
-          - Delivery % falling — recent 46% vs 30d 57% (-11pp distribution)
-          - Closed near the day's low (CLV -0.71) — sellers dumped into the volume
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 2,19,296 Cr. | P/E 70.4 | ROCE 17.2 % | ROE 12.9 % | DivYield 0.00 % | BookVal ₹ 400 | PEG 3.20 (5Y) | PEGY 3.20
-        CONS (screener.in):
-          - Stock is trading at 8.41 times its book value
-          - Though the company is reporting repeated profits, it is not paying out dividend
-          - Company has a low return on equity of 13.5% over last 3 years.
-        https://www.screener.in/company/DMART/consolidated/
-
-  • ADANIPORTS      (Adani Ports & Special Economic)  close ₹1754.00  -0.40%  bias STRONG_SELL
-        → BUY-LEAN (tech=STRONG_SELL, signal net +4)
-        PROS (signals):
-          - Upper third of 52-week range (77%)
+          - Upper third of 52-week range (75%)
           - Trading above the 200-day SMA
-          - Delivery % rising — recent 66% vs 30d 60% (+5pp accumulation)
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹453.8cr daily turnover)
+          - Healthy liquidity (~₹159.4cr daily turnover)
         CONS (signals):
+          - Delivery % falling — recent 36% vs 30d 43% (-7pp distribution)
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 4,04,344 Cr. | P/E 30.4 | ROCE 14.1 % | ROE 16.4 % | DivYield 0.43 % | BookVal ₹ 416 | PEG 1.45 (5Y) | PEGY 1.42
-        PROS (screener.in):
-          - Company has delivered good profit growth of 21.0% CAGR over last 5 years
-          - Company's median sales growth is 20.3% of last 10 years
+        FUNDAMENTALS (screener.in): MCap ₹ 59,906 Cr. | P/E 49.7 | ROCE 5.81 % | ROE 5.43 % | DivYield 0.26 % | BookVal ₹ 279 | PEG 4.52 (5Y) | PEGY 4.41
         CONS (screener.in):
-          - Stock is trading at 4.21 times its book value
-          - Tax rate seems low
-        https://www.screener.in/company/ADANIPORTS/consolidated/
-
-  • UBL             (United Breweries Ltd          )  close ₹1164.80  -0.29%  bias SELL
-        → SELL-LEAN (tech=SELL, signal net -2)
-        PROS (signals):
-          - Volume surge — 5d avg is 2.1× the 30d avg
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹17.8cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (3% of range)
-          - 37% off 52-week high
-          - -35% over the year
-          - Bearish SMA stack (close < 20 < 50 < 200)
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 30,814 Cr. | P/E 89.2 | ROCE 10.7 % | ROE 7.69 % | DivYield 0.86 % | BookVal ₹ 171 | PEG 3.72 (5Y) | PEGY 3.59
-        PROS (screener.in):
-          - Company has been maintaining a healthy dividend payout of 62.8%
-          - Company's working capital requirements have reduced from 45.6 days to 24.6 days
-        CONS (screener.in):
-          - Stock is trading at 6.81 times its book value
-          - Company has a low return on equity of 9.47% over last 3 years.
+          - Company has low interest coverage ratio.
+          - The company has delivered a poor sales growth of 10.6% over past five years.
+          - Company has a low return on equity of 6.26% over last 3 years.
+          - Contingent liabilities of Rs.1,45,506 Cr.
           - Company might be capitalizing the interest cost
-        https://www.screener.in/company/UBL/consolidated/
+          - Earnings include an other income of Rs.4,124 Cr.
+          - Dividend payout has been low at 7.57% of profits over last 3 years
+          - Working capital days have increased from 179 days to 280 days
+        https://www.screener.in/company/RBLBANK/consolidated/
 
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).
