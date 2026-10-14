@@ -3,35 +3,67 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-10-13 19:30 IST
+NSE bhavcopy analysis — generated 2026-10-14 19:30 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 3
-Recommendations: 0 BUY  +  1 SELL
+Pure_on_Volume hits (BUY): 10
+Recommendations: 1 BUY  +  1 SELL
+
+Top 1 BUY candidates:
+------------------------------------------------------------
+  • AEGISLOG        (Aegis Logistics Ltd           )  close ₹1489.10  +6.98%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +5)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹1450.94
+          - Strict stop-loss:      ₹1339.81
+          - Best stop-loss:        ₹1286.85
+          - Target-3 (150%):       ₹1970.03
+          - Target-4 (161.8%):     ₹2074.18
+          - Target-5 (261.8%):     ₹2956.83
+          - Swing anchor:          low ₹646.05  ↔  high ₹1528.70
+        PROS (signals):
+          - Trading near 52-week high (96% of range)
+          - +102% over the year
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹159.9cr daily turnover)
+        CONS (signals):
+          - High volatility (62% annualised)
+        FUNDAMENTALS (screener.in): MCap ₹ 52,267 Cr. | P/E 41.8 | ROCE 13.3 % | ROE 16.3 % | DivYield 0.58 % | BookVal ₹ 173 | PEG 1.35 (5Y) | PEGY 1.32
+        PROS (screener.in):
+          - Company is expected to give good quarter
+          - Company has delivered good profit growth of 31.2% CAGR over last 5 years
+          - Company has been maintaining a healthy dividend payout of 38.8%
+          - Debtor days have improved from 28.4 to 21.1 days.
+        CONS (screener.in):
+          - Stock is trading at 8.63 times its book value
+          - Company might be capitalizing the interest cost
+        https://www.screener.in/company/AEGISLOG/consolidated/
 
 Top 1 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
-  • RBLBANK         (RBL Bank Ltd                  )  close ₹388.05  -7.10%  bias SELL
-        → HOLD / MIXED (tech=SELL, signal net 2)
+  • BANKBARODA      (Bank of Baroda                )  close ₹229.00  -3.96%  bias STRONG_SELL
+        → STRONG SELL (tech=STRONG_SELL, signal net -3)
         PROS (signals):
-          - Upper third of 52-week range (75%)
-          - Trading above the 200-day SMA
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹159.4cr daily turnover)
+          - Healthy liquidity (~₹170.2cr daily turnover)
         CONS (signals):
-          - Delivery % falling — recent 36% vs 30d 43% (-7pp distribution)
+          - Trading near 52-week low (5% of range)
+          - Bearish SMA stack (close < 20 < 50 < 200)
+          - Delivery % falling — recent 46% vs 30d 52% (-6pp distribution)
+          - Closed near the day's low (CLV -0.95) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 59,906 Cr. | P/E 49.7 | ROCE 5.81 % | ROE 5.43 % | DivYield 0.26 % | BookVal ₹ 279 | PEG 4.52 (5Y) | PEGY 4.41
+        FUNDAMENTALS (screener.in): MCap ₹ 1,18,838 Cr. | P/E 5.38 | ROCE 5.63 % | ROE 12.7 % | DivYield 3.71 % | BookVal ₹ 326 | PEG 0.07 (5Y) | PEGY 0.07
+        PROS (screener.in):
+          - Stock is trading at 0.70 times its book value
+          - Stock is providing a good dividend yield of 3.71%.
+          - Company has been maintaining a healthy dividend payout of 21.3%
         CONS (screener.in):
           - Company has low interest coverage ratio.
-          - The company has delivered a poor sales growth of 10.6% over past five years.
-          - Company has a low return on equity of 6.26% over last 3 years.
-          - Contingent liabilities of Rs.1,45,506 Cr.
+          - Contingent liabilities of Rs.8,63,069 Cr.
           - Company might be capitalizing the interest cost
-          - Earnings include an other income of Rs.4,124 Cr.
-          - Dividend payout has been low at 7.57% of profits over last 3 years
-          - Working capital days have increased from 179 days to 280 days
-        https://www.screener.in/company/RBLBANK/consolidated/
+        https://www.screener.in/company/BANKBARODA/consolidated/
 
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).

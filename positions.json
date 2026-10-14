@@ -3207,7 +3207,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-13",
+    "last_checked": "2026-10-14",
     "stoploss_source": "trailed_t3",
     "strategy_version": 1,
     "tranches": [
@@ -7585,7 +7585,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-13",
+    "last_checked": "2026-10-14",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7751,7 +7751,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-13",
+    "last_checked": "2026-10-14",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7922,7 +7922,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-13",
+    "last_checked": "2026-10-14",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11406,7 +11406,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-13",
+    "last_checked": "2026-10-14",
     "strategy_version": 1,
     "tranches": [
       {
@@ -15861,7 +15861,7 @@
     "position_pct": 8.499,
     "risk_pct": 0.75,
     "stop_pct": 8.824,
-    "stoploss": 865.475910179421,
+    "stoploss": 887.2169165951767,
     "original_stoploss": 831.3794579595652,
     "stoploss_source": "atr_trail_backfill",
     "strict_stoploss": 874.182,
@@ -15955,7 +15955,118 @@
     "pegy_at_entry": 4.23,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-10-13",
+    "last_checked": "2026-10-14",
     "dynamic_sl_source": null
+  },
+  {
+    "symbol": "AEGISLOG",
+    "name": "Aegis Logistics Ltd",
+    "side": "BUY",
+    "strategy_version": 2,
+    "suggested_on": "2026-10-14",
+    "suggested_close": 1489.1,
+    "entry": 1450.94,
+    "fill_trigger": 1469.8352838131063,
+    "qty": 8,
+    "position_value": 11758.68,
+    "actual_risk_pct": 0.705,
+    "position_pct": 8.334,
+    "risk_pct": 0.75,
+    "stop_pct": 8.999,
+    "stoploss": 1337.568297121362,
+    "original_stoploss": 1337.568297121362,
+    "stoploss_source": "dynamic_atr",
+    "strict_stoploss": 1339.8129,
+    "swing_low": 646.05,
+    "swing_high": 1528.7,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 1.0,
+        "price": 1602.1022705048506
+      },
+      {
+        "name": "T2",
+        "ratio": 2.0,
+        "price": 1734.3692571965948
+      },
+      {
+        "name": "T3",
+        "ratio": 3.0,
+        "price": 1866.636243888339
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 2074.1777
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 2471.906
+      }
+    ],
+    "hit_targets": [],
+    "tranches": [
+      {
+        "name": "T1",
+        "qty_pct": 25,
+        "trigger": "T1",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T2",
+        "qty_pct": 25,
+        "trigger": "T2",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T3",
+        "qty_pct": 30,
+        "trigger": "T3",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "TRAIL",
+        "qty_pct": 20,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "atr_14_at_entry": 75.58113525242534,
+    "reward_risk": 3.78166713174327,
+    "score_total": 78.3,
+    "score_vol": 14.8,
+    "score_delivery": 0.0,
+    "score_trend": 31.7,
+    "score_rs": 20.6,
+    "score_momentum": 9.8,
+    "score_sector": 1.4,
+    "rs_rank_pct": 96.57258064516128,
+    "peg_at_entry": 1.35,
+    "pegy_at_entry": 1.32,
+    "peg_source": "5Y",
+    "supertrend_active": false,
+    "last_checked": "2026-10-14"
   }
 ]
