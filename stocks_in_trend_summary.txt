@@ -3,125 +3,82 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-10-15 19:30 IST
+NSE bhavcopy analysis — generated 2026-10-16 19:30 IST
 ============================================================
 
 Pure_on_Volume hits (BUY): 4
-Recommendations: 0 BUY  +  5 SELL
+Recommendations: 1 BUY  +  2 SELL
 
-Top 5 SELL candidates (high-volume distribution):
+Top 1 BUY candidates:
 ------------------------------------------------------------
-  • CANBK           (Canara Bank                   )  close ₹117.12  -6.12%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -3)
+  • PERSISTENT      (Persistent Systems Ltd        )  close ₹5741.00  -1.70%  bias NEUTRAL
+        → STRONG BUY (tech=NEUTRAL, signal net +5)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹5636.65
+          - Strict stop-loss:      ₹5575.62
+          - Best stop-loss:        ₹5377.60
+          - Target-3 (150%):       ₹6994.75
+          - Target-4 (161.8%):     ₹7211.10
+          - Target-5 (261.8%):     ₹9044.60
+          - Swing anchor:          low ₹4244.50  ↔  high ₹6078.00
         PROS (signals):
+          - Trading above the 200-day SMA
+          - Volume surge — 5d avg is 2.0× the 30d avg
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹181.1cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (1% of range)
-          - Bearish SMA stack (close < 20 < 50 < 200)
-          - Delivery % falling — recent 38% vs 30d 46% (-8pp distribution)
-          - Closed near the day's low (CLV -0.88) — sellers dumped into the volume
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 1,06,159 Cr. | P/E 5.21 | ROCE 6.52 % | ROE 16.1 % | DivYield 3.59 % | BookVal ₹ 141 | PEG 0.12 (5Y) | PEGY 0.11
+          - Closed near the day's high (CLV +0.89) — buyers absorbed the volume
+          - Healthy liquidity (~₹294.1cr daily turnover)
+        FUNDAMENTALS (screener.in): MCap ₹ 90,597 Cr. | P/E 48.4 | ROCE 34.4 % | ROE 27.2 % | DivYield 0.70 % | BookVal ₹ 544 | PEG 1.34 (5Y) | PEGY 1.32
         PROS (screener.in):
-          - Stock is trading at 0.83 times its book value
-          - Stock is providing a good dividend yield of 3.59%.
-          - Company has been maintaining a healthy dividend payout of 20.4%
+          - Company is almost debt free.
+          - Company has delivered good profit growth of 35.8% CAGR over last 5 years
+          - Company has a good return on equity (ROE) track record: 3 Years ROE 25.6%
+          - Company has been maintaining a healthy dividend payout of 36.5%
+          - Company's median sales growth is 19.6% of last 10 years
         CONS (screener.in):
-          - Company has low interest coverage ratio.
-          - Contingent liabilities of Rs.6,04,935 Cr.
-          - Company might be capitalizing the interest cost
-          - Working capital days have increased from 258 days to 423 days
-        https://www.screener.in/company/CANBK/consolidated/
+          - Stock is trading at 10.5 times its book value
+        https://www.screener.in/company/PERSISTENT/consolidated/
 
-  • HDBFS           (HDB Financial Services Ltd    )  close ₹539.10  -7.65%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -6)
+Top 2 SELL candidates (high-volume distribution):
+------------------------------------------------------------
+  • SJVN            (SJVN Ltd                      )  close ₹53.88  -2.73%  bias SELL
+        → STRONG SELL (tech=SELL, signal net -4)
         PROS (signals):
-          - Volume surge — 5d avg is 2.8× the 30d avg
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹38.0cr daily turnover)
+          - Healthy liquidity (~₹14.0cr daily turnover)
         CONS (signals):
-          - Trading near 52-week low (1% of range)
-          - 32% off 52-week high
-          - -19% over the last month
-          - -28% over the last 3 months
-          - -28% over the year
+          - Trading near 52-week low (2% of range)
+          - 42% off 52-week high
+          - -16% over the last month
+          - -41% over the year
           - Bearish SMA stack (close < 20 < 50 < 200)
-          - Delivery % falling — recent 53% vs 30d 62% (-8pp distribution)
-          - Closed near the day's low (CLV -0.87) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 44,803 Cr. | P/E 20.6 | ROCE 9.79 % | ROE 14.7 % | DivYield 0.74 % | BookVal ₹
+        FUNDAMENTALS (screener.in): MCap ₹ 21,185 Cr. | P/E 33.1 | ROCE 5.73 % | ROE 4.58 % | DivYield 2.78 % | BookVal ₹ 36.2
+        PROS (screener.in):
+          - Company is expected to give good quarter
+          - Company has been maintaining a healthy dividend payout of 79.8%
         CONS (screener.in):
           - Company has low interest coverage ratio.
-        https://www.screener.in/company/HDBFS/consolidated/
+          - Company has a low return on equity of 5.43% over last 3 years.
+          - Company might be capitalizing the interest cost
+          - Company has high debtors of 162 days.
+        https://www.screener.in/company/SJVN/consolidated/
 
-  • NESTLEIND       (Nestle India Ltd              )  close ₹1275.80  -7.76%  bias STRONG_SELL
-        → SELL-LEAN (tech=STRONG_SELL, signal net -1)
+  • CCL             (CCL Products (India) Ltd      )  close ₹1008.30  -7.10%  bias SELL
+        → HOLD / MIXED (tech=SELL, signal net 1)
         PROS (signals):
-          - Volume surge — 5d avg is 2.3× the 30d avg
+          - Volume surge — 5d avg is 2.0× the 30d avg
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹213.7cr daily turnover)
+          - Healthy liquidity (~₹17.3cr daily turnover)
         CONS (signals):
           - Trading below the 200-day SMA
-          - Delivery % falling — recent 54% vs 30d 60% (-6pp distribution)
-          - Closed near the day's low (CLV -0.76) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 2,45,845 Cr. | P/E 61.8 | ROCE 85.3 % | ROE 74.2 % | DivYield 0.94 % | BookVal ₹ 30.0 | PEG 1.77 (TTM) | PEGY 1.72
+        FUNDAMENTALS (screener.in): MCap ₹ 13,492 Cr. | P/E 29.2 | ROCE 15.8 % | ROE 18.0 % | DivYield 0.57 % | BookVal ₹ 199 | PEG 1.82 (5Y) | PEGY 1.76
         PROS (screener.in):
           - Company has reduced debt.
-          - Company is almost debt free.
-          - Company has a good return on equity (ROE) track record: 3 Years ROE 89.6%
-          - Company has been maintaining a healthy dividend payout of 75.4%
+          - Company has been maintaining a healthy dividend payout of 21.8%
         CONS (screener.in):
-          - Stock is trading at 42.6 times its book value
-        https://www.screener.in/company/NESTLEIND/consolidated/
-
-  • UCOBANK         (UCO Bank                      )  close ₹23.56  -1.67%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -4)
-        PROS (signals):
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹9.2cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (11% of range)
-          - 31% off 52-week high
-          - Trading below the 200-day SMA
-          - Delivery % falling — recent 34% vs 30d 42% (-8pp distribution)
-          - Closed near the day's low (CLV -0.75) — sellers dumped into the volume
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 29,556 Cr. | P/E 12.0 | ROCE 5.76 % | ROE 8.50 % | DivYield 1.87 % | BookVal ₹ 24.6 | PEG 0.32 (3Y) | PEGY 0.31
-        PROS (screener.in):
-          - Stock is trading at 0.96 times its book value
-        CONS (screener.in):
-          - Company has low interest coverage ratio.
-          - Company has a low return on equity of 7.46% over last 3 years.
-          - Contingent liabilities of Rs.1,36,430 Cr.
-          - Company might be capitalizing the interest cost
-        https://www.screener.in/company/UCOBANK/consolidated/
-
-  • YESBANK         (Yes Bank Ltd                  )  close ₹18.12  -14.53%  bias SELL
-        → STRONG SELL (tech=SELL, signal net -3)
-        PROS (signals):
-          - Volume highest in 1 year (HVY)
-          - Healthy liquidity (~₹138.9cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (13% of range)
-          - -21% over the last month
-          - Trading below the 200-day SMA
-          - Delivery % falling — recent 39% vs 30d 47% (-8pp distribution)
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 56,851 Cr. | P/E 15.1 | ROCE 5.98 % | ROE 7.10 % | DivYield 0.00 % | BookVal ₹ 16.7 | PEG 0.60 (5Y) | PEGY 0.60
-        PROS (screener.in):
-          - Stock is trading at 1.08 times its book value
-          - Company has delivered good profit growth of 24.6% CAGR over last 5 years
-        CONS (screener.in):
-          - Though the company is reporting repeated profits, it is not paying out dividend
-          - Company has low interest coverage ratio.
-          - The company has delivered a poor sales growth of 8.55% over past five years.
-          - Company has a low return on equity of 5.33% over last 3 years.
-          - Contingent liabilities of Rs.12,24,826 Cr.
-          - Company might be capitalizing the interest cost
-          - Earnings include an other income of Rs.7,130 Cr.
-        https://www.screener.in/company/YESBANK/consolidated/
+          - Stock is trading at 5.06 times its book value
+        https://www.screener.in/company/CCL/consolidated/
 
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).

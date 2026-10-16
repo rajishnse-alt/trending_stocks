@@ -3207,7 +3207,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-15",
+    "last_checked": "2026-10-16",
     "stoploss_source": "trailed_t3",
     "strategy_version": 1,
     "tranches": [
@@ -7585,7 +7585,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-15",
+    "last_checked": "2026-10-16",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7751,7 +7751,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-15",
+    "last_checked": "2026-10-16",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7922,7 +7922,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-15",
+    "last_checked": "2026-10-16",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11406,7 +11406,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-15",
+    "last_checked": "2026-10-16",
     "strategy_version": 1,
     "tranches": [
       {
@@ -16012,6 +16012,123 @@
         "name": "T1",
         "qty_pct": 25,
         "trigger": "T1",
+        "status": "exited",
+        "exit_price": 1383.2477044698362,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-10-16"
+      },
+      {
+        "name": "T2",
+        "qty_pct": 25,
+        "trigger": "T2",
+        "status": "exited",
+        "exit_price": 1383.2477044698362,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-10-16"
+      },
+      {
+        "name": "T3",
+        "qty_pct": 30,
+        "trigger": "T3",
+        "status": "exited",
+        "exit_price": 1383.2477044698362,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-10-16"
+      },
+      {
+        "name": "TRAIL",
+        "qty_pct": 20,
+        "trigger": null,
+        "status": "exited",
+        "exit_price": 1383.2477044698362,
+        "exit_reason": "stoploss",
+        "exit_date": "2026-10-16"
+      }
+    ],
+    "status": "closed",
+    "fill_date": "2026-10-15",
+    "fill_price": 1469.8352838131063,
+    "exit_date": "2026-10-16",
+    "exit_price": 1383.2477044698362,
+    "exit_reason": "stoploss",
+    "days_held": 1,
+    "pnl_pct": -5.891,
+    "atr_14_at_entry": 75.58113525242534,
+    "reward_risk": 3.78166713174327,
+    "score_total": 78.3,
+    "score_vol": 14.8,
+    "score_delivery": 0.0,
+    "score_trend": 31.7,
+    "score_rs": 20.6,
+    "score_momentum": 9.8,
+    "score_sector": 1.4,
+    "rs_rank_pct": 96.57258064516128,
+    "peg_at_entry": 1.35,
+    "pegy_at_entry": 1.32,
+    "peg_source": "5Y",
+    "supertrend_active": false,
+    "last_checked": "2026-10-16",
+    "dynamic_sl_source": null
+  },
+  {
+    "symbol": "PERSISTENT",
+    "name": "Persistent Systems Ltd",
+    "side": "BUY",
+    "strategy_version": 2,
+    "suggested_on": "2026-10-16",
+    "suggested_close": 5741.0,
+    "entry": 5636.65,
+    "fill_trigger": 5682.510520631306,
+    "qty": 3,
+    "position_value": 17047.53,
+    "actual_risk_pct": 0.642,
+    "position_pct": 13.276,
+    "risk_pct": 0.75,
+    "stop_pct": 5.649,
+    "stoploss": 5361.486876212165,
+    "original_stoploss": 5361.486876212165,
+    "stoploss_source": "dynamic_atr",
+    "strict_stoploss": 5575.621,
+    "swing_low": 4244.5,
+    "swing_high": 6078.0,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 1.0,
+        "price": 6003.534165050446
+      },
+      {
+        "name": "T2",
+        "ratio": 2.0,
+        "price": 6324.557809469587
+      },
+      {
+        "name": "T3",
+        "ratio": 3.0,
+        "price": 6645.581453888727
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 7211.103
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 9044.603
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 9530.060000000001
+      }
+    ],
+    "hit_targets": [],
+    "tranches": [
+      {
+        "name": "T1",
+        "qty_pct": 25,
+        "trigger": "T1",
         "status": "open",
         "exit_price": null,
         "exit_reason": null,
@@ -16045,29 +16162,28 @@
         "exit_date": null
       }
     ],
-    "status": "open",
-    "fill_date": "2026-10-15",
-    "fill_price": 1469.8352838131063,
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "atr_14_at_entry": 75.58113525242534,
-    "reward_risk": 3.78166713174327,
-    "score_total": 78.3,
+    "atr_14_at_entry": 183.44208252522301,
+    "reward_risk": 4.08767236364492,
+    "score_total": 73.2,
     "score_vol": 14.8,
     "score_delivery": 0.0,
     "score_trend": 31.7,
-    "score_rs": 20.6,
+    "score_rs": 15.5,
     "score_momentum": 9.8,
     "score_sector": 1.4,
-    "rs_rank_pct": 96.57258064516128,
-    "peg_at_entry": 1.35,
+    "rs_rank_pct": 86.49193548387096,
+    "peg_at_entry": 1.34,
     "pegy_at_entry": 1.32,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-10-15",
-    "dynamic_sl_source": null
+    "last_checked": "2026-10-16"
   }
 ]
