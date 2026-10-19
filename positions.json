@@ -3207,7 +3207,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-16",
+    "last_checked": "2026-10-19",
     "stoploss_source": "trailed_t3",
     "strategy_version": 1,
     "tranches": [
@@ -7585,7 +7585,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-16",
+    "last_checked": "2026-10-19",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7751,7 +7751,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-16",
+    "last_checked": "2026-10-19",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7922,7 +7922,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-16",
+    "last_checked": "2026-10-19",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11406,7 +11406,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-16",
+    "last_checked": "2026-10-19",
     "strategy_version": 1,
     "tranches": [
       {
@@ -16120,7 +16120,124 @@
       {
         "name": "MAX",
         "ratio": 0.66,
-        "price": 9530.060000000001
+        "price": 9432.967464247968
+      }
+    ],
+    "hit_targets": [],
+    "tranches": [
+      {
+        "name": "T1",
+        "qty_pct": 25,
+        "trigger": "T1",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T2",
+        "qty_pct": 25,
+        "trigger": "T2",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T3",
+        "qty_pct": 30,
+        "trigger": "T3",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "TRAIL",
+        "qty_pct": 20,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "status": "open",
+    "fill_date": "2026-10-19",
+    "fill_price": 5682.510520631306,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "atr_14_at_entry": 183.44208252522301,
+    "reward_risk": 4.08767236364492,
+    "score_total": 73.2,
+    "score_vol": 14.8,
+    "score_delivery": 0.0,
+    "score_trend": 31.7,
+    "score_rs": 15.5,
+    "score_momentum": 9.8,
+    "score_sector": 1.4,
+    "rs_rank_pct": 86.49193548387096,
+    "peg_at_entry": 1.34,
+    "pegy_at_entry": 1.32,
+    "peg_source": "5Y",
+    "supertrend_active": false,
+    "last_checked": "2026-10-19",
+    "dynamic_sl_source": null
+  },
+  {
+    "symbol": "ICICIBANK",
+    "name": "ICICI Bank Ltd",
+    "side": "BUY",
+    "strategy_version": 2,
+    "suggested_on": "2026-10-19",
+    "suggested_close": 1381.0,
+    "entry": 1396.545,
+    "fill_trigger": 1402.883127173972,
+    "qty": 25,
+    "position_value": 35072.08,
+    "actual_risk_pct": 0.739,
+    "position_pct": 23.715,
+    "risk_pct": 0.75,
+    "stop_pct": 3.163,
+    "stoploss": 1358.5162369561683,
+    "original_stoploss": 1358.5162369561683,
+    "stoploss_source": "dynamic_atr",
+    "strict_stoploss": 1368.3032,
+    "swing_low": 1187.6,
+    "swing_high": 1480.0,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 1.0,
+        "price": 1447.2500173917758
+      },
+      {
+        "name": "T2",
+        "ratio": 2.0,
+        "price": 1491.6169076095796
+      },
+      {
+        "name": "T3",
+        "ratio": 3.0,
+        "price": 1535.9837978273833
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 1660.7032000000002
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 1953.1032
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 2292.46
       }
     ],
     "hit_targets": [],
@@ -16170,21 +16287,20 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "atr_14_at_entry": 183.44208252522301,
-    "reward_risk": 4.08767236364492,
-    "score_total": 73.2,
-    "score_vol": 14.8,
-    "score_delivery": 0.0,
+    "atr_14_at_entry": 25.352508695887856,
+    "reward_risk": 5.033412793408142,
+    "score_total": 75.9,
+    "score_vol": 7.4,
+    "score_delivery": 10.1,
     "score_trend": 31.7,
     "score_rs": 15.5,
     "score_momentum": 9.8,
     "score_sector": 1.4,
-    "rs_rank_pct": 86.49193548387096,
-    "peg_at_entry": 1.34,
-    "pegy_at_entry": 1.32,
+    "rs_rank_pct": 84.2741935483871,
+    "peg_at_entry": 0.7,
+    "pegy_at_entry": 0.68,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-10-16",
-    "dynamic_sl_source": null
+    "last_checked": "2026-10-19"
   }
 ]
