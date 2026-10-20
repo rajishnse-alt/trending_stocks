@@ -3,7 +3,7 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-10-19 19:30 IST
+NSE bhavcopy analysis — generated 2026-10-20 19:31 IST
 ============================================================
 
 Pure_on_Volume hits (BUY): 2
@@ -28,7 +28,7 @@ Top 1 BUY candidates:
         CONS (signals):
           - Closed near the day's low (CLV -0.82) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 9,92,403 Cr. | P/E 16.8 | ROCE 7.18 % | ROE 15.9 % | DivYield 0.87 % | BookVal ₹ 540 | PEG 0.70 (5Y) | PEGY 0.68
+        FUNDAMENTALS (screener.in): MCap ₹ 9,91,543 Cr. | P/E 16.8 | ROCE 7.18 % | ROE 15.9 % | DivYield 0.87 % | BookVal ₹ 540 | PEG 0.70 (5Y) | PEGY 0.68
         CONS (screener.in):
           - Stock is trading at 2.56 times its book value
           - Company has low interest coverage ratio.
@@ -52,7 +52,7 @@ Top 1 SELL candidates (high-volume distribution):
           - -28% over the last 3 months
           - Bearish SMA stack (close < 20 < 50 < 200)
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 9,148 Cr. | P/E 57.5 | ROCE 1.24 % | ROE 0.37 % | DivYield 0.00 % | BookVal ₹ 329 | PEG 2.05 (3Y) | PEGY 2.05
+        FUNDAMENTALS (screener.in): MCap ₹ 9,122 Cr. | P/E 57.4 | ROCE 1.24 % | ROE 0.37 % | DivYield 0.00 % | BookVal ₹ 329 | PEG 2.05 (3Y) | PEGY 2.05
         PROS (screener.in):
           - Stock is trading at 0.90 times its book value
           - Debtor days have improved from 44.5 to 20.2 days.
