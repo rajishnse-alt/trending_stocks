@@ -3,64 +3,10 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-10-20 19:31 IST
+NSE bhavcopy analysis — generated 2026-10-21 19:20 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 2
-Recommendations: 1 BUY  +  1 SELL
-
-Top 1 BUY candidates:
-------------------------------------------------------------
-  • ICICIBANK       (ICICI Bank Ltd                )  close ₹1381.00  -1.15%  bias STRONG_SELL
-        → HOLD / MIXED (tech=STRONG_SELL, signal net 1)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹1396.55
-          - Strict stop-loss:      ₹1368.30
-          - Best stop-loss:        ₹1333.80
-          - Target-3 (150%):       ₹1626.20
-          - Target-4 (161.8%):     ₹1660.70
-          - Target-5 (261.8%):     ₹1953.10
-          - Swing anchor:          low ₹1187.60  ↔  high ₹1480.00
-        PROS (signals):
-          - Trading above the 200-day SMA
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹1390.4cr daily turnover)
-        CONS (signals):
-          - Closed near the day's low (CLV -0.82) — sellers dumped into the volume
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 9,91,543 Cr. | P/E 16.8 | ROCE 7.18 % | ROE 15.9 % | DivYield 0.87 % | BookVal ₹ 540 | PEG 0.70 (5Y) | PEGY 0.68
-        CONS (screener.in):
-          - Stock is trading at 2.56 times its book value
-          - Company has low interest coverage ratio.
-          - Contingent liabilities of Rs.65,46,110 Cr.
-          - Company might be capitalizing the interest cost
-          - Earnings include an other income of Rs.1,23,056 Cr.
-          - Working capital days have increased from 55.4 days to 108 days
-        https://www.screener.in/company/ICICIBANK/consolidated/
-
-Top 1 SELL candidates (high-volume distribution):
-------------------------------------------------------------
-  • INDIACEM        (India Cements Ltd             )  close ₹294.35  -2.63%  bias SELL
-        → STRONG SELL (tech=SELL, signal net -4)
-        PROS (signals):
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹6.5cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (4% of range)
-          - 39% off 52-week high
-          - -16% over the last month
-          - -28% over the last 3 months
-          - Bearish SMA stack (close < 20 < 50 < 200)
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 9,122 Cr. | P/E 57.4 | ROCE 1.24 % | ROE 0.37 % | DivYield 0.00 % | BookVal ₹ 329 | PEG 2.05 (3Y) | PEGY 2.05
-        PROS (screener.in):
-          - Stock is trading at 0.90 times its book value
-          - Debtor days have improved from 44.5 to 20.2 days.
-        CONS (screener.in):
-          - The company has delivered a poor sales growth of -0.11% over past five years.
-          - Company has a low return on equity of -4.51% over last 3 years.
-        https://www.screener.in/company/INDIACEM/consolidated/
-
+Pure_on_Volume hits (BUY): 3
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).
   PROS / CONS (signals)   = derived from price/volume panel data (52-w position, SMA stack, returns, volatility, delivery & volume trend, CLV).

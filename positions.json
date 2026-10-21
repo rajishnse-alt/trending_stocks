@@ -3207,7 +3207,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-19",
+    "last_checked": "2026-10-21",
     "stoploss_source": "trailed_t3",
     "strategy_version": 1,
     "tranches": [
@@ -7585,7 +7585,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-19",
+    "last_checked": "2026-10-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7751,7 +7751,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-19",
+    "last_checked": "2026-10-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7922,7 +7922,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-19",
+    "last_checked": "2026-10-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11406,7 +11406,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-19",
+    "last_checked": "2026-10-21",
     "strategy_version": 1,
     "tranches": [
       {
@@ -16184,7 +16184,7 @@
     "pegy_at_entry": 1.32,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-10-19",
+    "last_checked": "2026-10-21",
     "dynamic_sl_source": null
   },
   {
@@ -16237,7 +16237,7 @@
       {
         "name": "MAX",
         "ratio": 0.66,
-        "price": 2292.46
+        "price": 2328.785991108794
       }
     ],
     "hit_targets": [],
@@ -16279,9 +16279,9 @@
         "exit_date": null
       }
     ],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-10-21",
+    "fill_price": 1402.883127173972,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
@@ -16301,7 +16301,7 @@
     "pegy_at_entry": 0.68,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-10-19",
+    "last_checked": "2026-10-21",
     "dynamic_sl_source": null
   }
 ]
