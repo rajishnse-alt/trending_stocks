@@ -3,7 +3,7 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-10-23 19:30 IST
+NSE bhavcopy analysis — generated 2026-10-25 15:26 IST
 ============================================================
 
 Pure_on_Volume hits (BUY): 3
@@ -20,7 +20,7 @@ Top 2 SELL candidates (high-volume distribution):
           - Healthy liquidity (~₹88.0cr daily turnover)
         CONS (signals):
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 20,655 Cr. | P/E 19.5 | ROCE 13.4 % | ROE 10.6 % | DivYield 0.34 % | BookVal ₹ 21.8 | PEG 0.23 (3Y) | PEGY 0.23
+        FUNDAMENTALS (screener.in): MCap ₹ 20,682 Cr. | P/E 19.5 | ROCE 13.4 % | ROE 10.6 % | DivYield 0.34 % | BookVal ₹ 21.8 | PEG 0.23 (3Y) | PEGY 0.23
         PROS (screener.in):
           - Company has reduced debt.
           - Company is almost debt free.
@@ -40,7 +40,7 @@ Top 2 SELL candidates (high-volume distribution):
           - Bearish SMA stack (close < 20 < 50 < 200)
           - Delivery % falling — recent 39% vs 30d 52% (-13pp distribution)
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 64,545 Cr. | P/E 38.0 | ROCE 24.9 % | ROE 19.0 % | DivYield 0.97 % | BookVal ₹ 156 | PEG 3.45 (5Y) | PEGY 3.17
+        FUNDAMENTALS (screener.in): MCap ₹ 64,702 Cr. | P/E 38.1 | ROCE 24.9 % | ROE 19.0 % | DivYield 0.97 % | BookVal ₹ 156 | PEG 3.46 (5Y) | PEGY 3.18
         PROS (screener.in):
           - Company has reduced debt.
           - Company is almost debt free.
