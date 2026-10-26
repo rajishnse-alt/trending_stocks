@@ -3,49 +3,46 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-10-25 15:26 IST
+NSE bhavcopy analysis — generated 2026-10-26 19:30 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 3
+Pure_on_Volume hits (BUY): 8
 Recommendations: 0 BUY  +  2 SELL
 
 Top 2 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
-  • SAGILITY        (Sagility Ltd                  )  close ₹44.18  -2.67%  bias STRONG_SELL
-        → HOLD / MIXED (tech=STRONG_SELL, signal net 3)
-        PROS (signals):
-          - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 2.1× the 30d avg
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹88.0cr daily turnover)
-        CONS (signals):
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 20,682 Cr. | P/E 19.5 | ROCE 13.4 % | ROE 10.6 % | DivYield 0.34 % | BookVal ₹ 21.8 | PEG 0.23 (3Y) | PEGY 0.23
-        PROS (screener.in):
-          - Company has reduced debt.
-          - Company is almost debt free.
-        CONS (screener.in):
-          - Company has a low return on equity of 7.59% over last 3 years.
-        https://www.screener.in/company/SAGILITY/consolidated/
-
-  • HAVELLS         (Havells India Ltd             )  close ₹1031.00  -3.91%  bias SELL
-        → STRONG SELL (tech=SELL, signal net -4)
+  • SUPREMEIND      (Supreme Industries Ltd        )  close ₹3250.00  -4.13%  bias STRONG_SELL
+        → STRONG SELL (tech=STRONG_SELL, signal net -2)
         PROS (signals):
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹87.5cr daily turnover)
+          - Healthy liquidity (~₹64.9cr daily turnover)
         CONS (signals):
-          - Trading near 52-week low (5% of range)
-          - 32% off 52-week high
-          - -31% over the year
+          - Trading near 52-week low (10% of range)
           - Bearish SMA stack (close < 20 < 50 < 200)
-          - Delivery % falling — recent 39% vs 30d 52% (-13pp distribution)
+          - Closed near the day's low (CLV -0.96) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 64,702 Cr. | P/E 38.1 | ROCE 24.9 % | ROE 19.0 % | DivYield 0.97 % | BookVal ₹ 156 | PEG 3.46 (5Y) | PEGY 3.18
+        FUNDAMENTALS (screener.in): MCap ₹ 40,566 Cr. | P/E 35.9 | ROCE 20.7 % | ROE 15.8 % | DivYield 1.11 % | BookVal ₹ 503 | PEG 11.97 (3Y) | PEGY 8.73
         PROS (screener.in):
-          - Company has reduced debt.
           - Company is almost debt free.
-          - Company has been maintaining a healthy dividend payout of 41.4%
-        https://www.screener.in/company/HAVELLS/consolidated/
+          - Company has been maintaining a healthy dividend payout of 42.8%
+        https://www.screener.in/company/SUPREMEIND/consolidated/
+
+  • AUBANK          (AU Small Finance Bank Ltd     )  close ₹869.00  -6.85%  bias SELL
+        → STRONG SELL (tech=SELL, signal net -3)
+        PROS (signals):
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹143.6cr daily turnover)
+        CONS (signals):
+          - Lower third of 52-week range (29%)
+          - -17% over the last month
+          - Trading below the 200-day SMA
+          - 6-day losing streak
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 65,252 Cr. | P/E 192 | ROCE 12.4 % | ROE 22.3 % | DivYield 0.12 % | BookVal ₹ | PEG 3.92 (3Y) | PEGY 3.91
+        CONS (screener.in):
+          - Company has low interest coverage ratio.
+          - Earnings include an other income of Rs.612 Cr.
+        https://www.screener.in/company/AUBANK/consolidated/
 
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).
