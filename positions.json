@@ -3207,7 +3207,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-26",
+    "last_checked": "2026-10-27",
     "stoploss_source": "trailed_t3",
     "strategy_version": 1,
     "tranches": [
@@ -7585,7 +7585,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-26",
+    "last_checked": "2026-10-27",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7751,7 +7751,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-26",
+    "last_checked": "2026-10-27",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7922,7 +7922,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-26",
+    "last_checked": "2026-10-27",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11406,7 +11406,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-10-26",
+    "last_checked": "2026-10-27",
     "strategy_version": 1,
     "tranches": [
       {
@@ -16301,7 +16301,7 @@
     "pegy_at_entry": 0.68,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-10-26",
+    "last_checked": "2026-10-27",
     "dynamic_sl_source": null
   }
 ]

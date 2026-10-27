@@ -3,46 +3,74 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-10-26 19:30 IST
+NSE bhavcopy analysis — generated 2026-10-27 19:30 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 8
-Recommendations: 0 BUY  +  2 SELL
+Pure_on_Volume hits (BUY): 7
+Recommendations: 0 BUY  +  3 SELL
 
-Top 2 SELL candidates (high-volume distribution):
+Top 3 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
-  • SUPREMEIND      (Supreme Industries Ltd        )  close ₹3250.00  -4.13%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -2)
+  • AMBUJACEM       (Ambuja Cements Ltd            )  close ₹348.80  -5.22%  bias STRONG_SELL
+        → STRONG SELL (tech=STRONG_SELL, signal net -5)
         PROS (signals):
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹64.9cr daily turnover)
+          - Healthy liquidity (~₹79.7cr daily turnover)
         CONS (signals):
-          - Trading near 52-week low (10% of range)
+          - Trading near 52-week low (3% of range)
+          - 41% off 52-week high
+          - -39% over the year
           - Bearish SMA stack (close < 20 < 50 < 200)
-          - Closed near the day's low (CLV -0.96) — sellers dumped into the volume
+          - Delivery % falling — recent 36% vs 30d 44% (-8pp distribution)
+          - Closed near the day's low (CLV -1.00) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 40,566 Cr. | P/E 35.9 | ROCE 20.7 % | ROE 15.8 % | DivYield 1.11 % | BookVal ₹ 503 | PEG 11.97 (3Y) | PEGY 8.73
+        FUNDAMENTALS (screener.in): MCap ₹ 88,180 Cr. | P/E 18.7 | ROCE 5.61 % | ROE 8.85 % | DivYield 0.57 % | BookVal ₹ 240 | PEG 1.25 (5Y) | PEGY 1.20
         PROS (screener.in):
           - Company is almost debt free.
-          - Company has been maintaining a healthy dividend payout of 42.8%
-        https://www.screener.in/company/SUPREMEIND/consolidated/
+        CONS (screener.in):
+          - The company has delivered a poor sales growth of 10.6% over past five years.
+          - Tax rate seems low
+          - Company has a low return on equity of 9.00% over last 3 years.
+        https://www.screener.in/company/AMBUJACEM/consolidated/
 
-  • AUBANK          (AU Small Finance Bank Ltd     )  close ₹869.00  -6.85%  bias SELL
-        → STRONG SELL (tech=SELL, signal net -3)
+  • SUMICHEM        (Sumitomo Chemical India Ltd   )  close ₹339.50  -4.18%  bias SELL
+        → STRONG SELL (tech=SELL, signal net -6)
         PROS (signals):
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹143.6cr daily turnover)
+          - Healthy liquidity (~₹11.6cr daily turnover)
         CONS (signals):
-          - Lower third of 52-week range (29%)
-          - -17% over the last month
+          - Trading near 52-week low (2% of range)
+          - 41% off 52-week high
+          - -25% over the last month
+          - -35% over the last 3 months
+          - -36% over the year
           - Trading below the 200-day SMA
-          - 6-day losing streak
+          - 7-day losing streak
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 65,252 Cr. | P/E 192 | ROCE 12.4 % | ROE 22.3 % | DivYield 0.12 % | BookVal ₹ | PEG 3.92 (3Y) | PEGY 3.91
+        FUNDAMENTALS (screener.in): MCap ₹ 16,929 Cr. | P/E 30.7 | ROCE 22.1 % | ROE 16.2 % | DivYield 0.38 % | BookVal ₹ 74.1 | PEG 3.84 (5Y) | PEGY 3.66
+        PROS (screener.in):
+          - Company is almost debt free.
+          - Company has been maintaining a healthy dividend payout of 34.5%
         CONS (screener.in):
-          - Company has low interest coverage ratio.
-          - Earnings include an other income of Rs.612 Cr.
-        https://www.screener.in/company/AUBANK/consolidated/
+          - The company has delivered a poor sales growth of 4.13% over past five years.
+        https://www.screener.in/company/SUMICHEM/consolidated/
+
+  • CIPLA           (Cipla Ltd                     )  close ₹1350.00  -0.37%  bias SELL
+        → HOLD / MIXED (tech=SELL, signal net 0)
+        PROS (signals):
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹129.0cr daily turnover)
+        CONS (signals):
+          - Trading below the 200-day SMA
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 1,09,224 Cr. | P/E 35.2 | ROCE 15.5 % | ROE 11.6 % | DivYield 0.96 % | BookVal ₹ 438 | PEG 3.52 (5Y) | PEGY 3.21
+        PROS (screener.in):
+          - Company is almost debt free.
+          - Company has been maintaining a healthy dividend payout of 25.7%
+        CONS (screener.in):
+          - The company has delivered a poor sales growth of 8.01% over past five years.
+          - Promoter holding has decreased over last 3 years: -4.26%
+        https://www.screener.in/company/CIPLA/consolidated/
 
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).
