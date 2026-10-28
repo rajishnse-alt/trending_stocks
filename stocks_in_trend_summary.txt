@@ -3,74 +3,35 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-10-27 19:30 IST
+NSE bhavcopy analysis — generated 2026-10-28 19:30 IST
 ============================================================
 
 Pure_on_Volume hits (BUY): 7
-Recommendations: 0 BUY  +  3 SELL
+Recommendations: 0 BUY  +  1 SELL
 
-Top 3 SELL candidates (high-volume distribution):
+Top 1 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
-  • AMBUJACEM       (Ambuja Cements Ltd            )  close ₹348.80  -5.22%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -5)
+  • CARTRADE        (Cartrade Tech Ltd             )  close ₹2464.50  -12.64%  bias SELL
+        → HOLD / MIXED (tech=SELL, signal net 1)
         PROS (signals):
+          - Trading above the 200-day SMA
+          - Volume surge — 5d avg is 2.6× the 30d avg
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹79.7cr daily turnover)
+          - Healthy liquidity (~₹112.7cr daily turnover)
         CONS (signals):
-          - Trading near 52-week low (3% of range)
-          - 41% off 52-week high
-          - -39% over the year
-          - Bearish SMA stack (close < 20 < 50 < 200)
-          - Delivery % falling — recent 36% vs 30d 44% (-8pp distribution)
-          - Closed near the day's low (CLV -1.00) — sellers dumped into the volume
+          - -18% over the last month
+          - High volatility (66% annualised)
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 88,180 Cr. | P/E 18.7 | ROCE 5.61 % | ROE 8.85 % | DivYield 0.57 % | BookVal ₹ 240 | PEG 1.25 (5Y) | PEGY 1.20
+        FUNDAMENTALS (screener.in): MCap ₹ 11,983 Cr. | P/E 50.4 | ROCE 11.8 % | ROE 9.65 % | DivYield 0.00 % | BookVal ₹ 541 | PEG 2.52 (5Y) | PEGY 2.52
         PROS (screener.in):
           - Company is almost debt free.
+          - Company has delivered good profit growth of 19.7% CAGR over last 5 years
+          - Company's median sales growth is 23.9% of last 10 years
         CONS (screener.in):
-          - The company has delivered a poor sales growth of 10.6% over past five years.
-          - Tax rate seems low
-          - Company has a low return on equity of 9.00% over last 3 years.
-        https://www.screener.in/company/AMBUJACEM/consolidated/
-
-  • SUMICHEM        (Sumitomo Chemical India Ltd   )  close ₹339.50  -4.18%  bias SELL
-        → STRONG SELL (tech=SELL, signal net -6)
-        PROS (signals):
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹11.6cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (2% of range)
-          - 41% off 52-week high
-          - -25% over the last month
-          - -35% over the last 3 months
-          - -36% over the year
-          - Trading below the 200-day SMA
-          - 7-day losing streak
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 16,929 Cr. | P/E 30.7 | ROCE 22.1 % | ROE 16.2 % | DivYield 0.38 % | BookVal ₹ 74.1 | PEG 3.84 (5Y) | PEGY 3.66
-        PROS (screener.in):
-          - Company is almost debt free.
-          - Company has been maintaining a healthy dividend payout of 34.5%
-        CONS (screener.in):
-          - The company has delivered a poor sales growth of 4.13% over past five years.
-        https://www.screener.in/company/SUMICHEM/consolidated/
-
-  • CIPLA           (Cipla Ltd                     )  close ₹1350.00  -0.37%  bias SELL
-        → HOLD / MIXED (tech=SELL, signal net 0)
-        PROS (signals):
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹129.0cr daily turnover)
-        CONS (signals):
-          - Trading below the 200-day SMA
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 1,09,224 Cr. | P/E 35.2 | ROCE 15.5 % | ROE 11.6 % | DivYield 0.96 % | BookVal ₹ 438 | PEG 3.52 (5Y) | PEGY 3.21
-        PROS (screener.in):
-          - Company is almost debt free.
-          - Company has been maintaining a healthy dividend payout of 25.7%
-        CONS (screener.in):
-          - The company has delivered a poor sales growth of 8.01% over past five years.
-          - Promoter holding has decreased over last 3 years: -4.26%
-        https://www.screener.in/company/CIPLA/consolidated/
+          - Stock is trading at 4.55 times its book value
+          - Though the company is reporting repeated profits, it is not paying out dividend
+          - Company has a low return on equity of 5.63% over last 3 years.
+        https://www.screener.in/company/CARTRADE/consolidated/
 
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).
