@@ -3,35 +3,122 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-10-29 19:30 IST
+NSE bhavcopy analysis — generated 2026-10-30 19:30 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 7
-Recommendations: 0 BUY  +  1 SELL
+Pure_on_Volume hits (BUY): 6
+Recommendations: 0 BUY  +  5 SELL
 
-Top 1 SELL candidates (high-volume distribution):
+Top 5 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
-  • CARTRADE        (Cartrade Tech Ltd             )  close ₹2464.50  -12.64%  bias SELL
-        → HOLD / MIXED (tech=SELL, signal net 1)
+  • CAMS            (Computer Age Management Servic)  close ₹653.60  -6.22%  bias STRONG_SELL
+        → STRONG SELL (tech=STRONG_SELL, signal net -4)
         PROS (signals):
-          - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 2.6× the 30d avg
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹112.7cr daily turnover)
+          - Healthy liquidity (~₹86.8cr daily turnover)
         CONS (signals):
-          - -18% over the last month
-          - High volatility (66% annualised)
+          - Trading near 52-week low (1% of range)
+          - 84% off 52-week high
+          - -83% over the year
+          - Bearish SMA stack (close < 20 < 50 < 200)
+          - Closed near the day's low (CLV -0.93) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 11,310 Cr. | P/E 47.5 | ROCE 11.8 % | ROE 9.65 % | DivYield 0.00 % | BookVal ₹ 541 | PEG 2.38 (5Y) | PEGY 2.38
+        FUNDAMENTALS (screener.in): MCap ₹ 16,282 Cr. | P/E 31.8 | ROCE 47.0 % | ROE 36.3 % | DivYield 1.91 % | BookVal ₹ 58.0 | PEG 1.51 (5Y) | PEGY 1.39
+        PROS (screener.in):
+          - Company has reduced debt.
+          - Company is almost debt free.
+          - Company has a good return on equity (ROE) track record: 3 Years ROE 39.9%
+          - Company has been maintaining a healthy dividend payout of 68.6%
+          - Company's working capital requirements have reduced from 20.1 days to 12.0 days
+        CONS (screener.in):
+          - Stock is trading at 11.3 times its book value
+        https://www.screener.in/company/CAMS/consolidated/
+
+  • INTELLECT       (Intellect Design Arena Ltd    )  close ₹504.55  -16.31%  bias STRONG_SELL
+        → STRONG SELL (tech=STRONG_SELL, signal net -7)
+        PROS (signals):
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹19.7cr daily turnover)
+        CONS (signals):
+          - Trading near 52-week low (1% of range)
+          - 59% off 52-week high
+          - -18% over the last month
+          - -30% over the last 3 months
+          - -49% over the year
+          - Bearish SMA stack (close < 20 < 50 < 200)
+          - High volatility (70% annualised)
+          - Closed near the day's low (CLV -0.83) — sellers dumped into the volume
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 7,088 Cr. | P/E 19.1 | ROCE 16.0 % | ROE 12.4 % | DivYield 0.79 % | BookVal ₹ 237 | PEG 2.73 (5Y) | PEGY 2.45
         PROS (screener.in):
           - Company is almost debt free.
-          - Company has delivered good profit growth of 19.7% CAGR over last 5 years
-          - Company's median sales growth is 23.9% of last 10 years
+          - Company has been maintaining a healthy dividend payout of 24.1%
+          - Company's working capital requirements have reduced from 70.7 days to 53.3 days
         CONS (screener.in):
-          - Stock is trading at 4.30 times its book value
+          - Promoter holding is low: 29.6%
+          - Company has a low return on equity of 13.0% over last 3 years.
+        https://www.screener.in/company/INTELLECT/consolidated/
+
+  • SAGILITY        (Sagility Ltd                  )  close ₹42.08  -5.78%  bias STRONG_SELL
+        → HOLD / MIXED (tech=STRONG_SELL, signal net 1)
+        PROS (signals):
+          - Volume surge — 5d avg is 4.0× the 30d avg
+          - Delivery % rising — recent 54% vs 30d 44% (+10pp accumulation)
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹151.5cr daily turnover)
+        CONS (signals):
+          - Lower third of 52-week range (28%)
+          - Trading below the 200-day SMA
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 19,686 Cr. | P/E 18.6 | ROCE 13.4 % | ROE 10.6 % | DivYield 0.36 % | BookVal ₹ 21.8 | PEG 0.22 (3Y) | PEGY 0.22
+        PROS (screener.in):
+          - Company has reduced debt.
+          - Company is almost debt free.
+        CONS (screener.in):
+          - Company has a low return on equity of 7.59% over last 3 years.
+        https://www.screener.in/company/SAGILITY/consolidated/
+
+  • SUZLON          (Suzlon Energy Ltd             )  close ₹33.90  -7.86%  bias STRONG_SELL
+        → STRONG SELL (tech=STRONG_SELL, signal net -4)
+        PROS (signals):
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹219.0cr daily turnover)
+        CONS (signals):
+          - Trading near 52-week low (3% of range)
+          - 45% off 52-week high
+          - -29% over the last 3 months
+          - -37% over the year
+          - Bearish SMA stack (close < 20 < 50 < 200)
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 46,227 Cr. | P/E 20.5 | ROCE 34.2 % | ROE 39.7 % | DivYield 0.00 % | BookVal ₹ 7.54 | PEG 0.46 (5Y) | PEGY 0.46
+        PROS (screener.in):
+          - Company is almost debt free.
+          - Company is expected to give good quarter
+          - Company has delivered good profit growth of 45.2% CAGR over last 5 years
+          - Company has a good return on equity (ROE) track record: 3 Years ROE 38.5%
+        CONS (screener.in):
           - Though the company is reporting repeated profits, it is not paying out dividend
-          - Company has a low return on equity of 5.63% over last 3 years.
-        https://www.screener.in/company/CARTRADE/consolidated/
+          - Promoter holding is low: 11.7%
+          - Tax rate seems low
+        https://www.screener.in/company/SUZLON/consolidated/
+
+  • ECLERX          (eClerx Services Ltd           )  close ₹1556.70  -6.26%  bias SELL
+        → STRONG SELL (tech=SELL, signal net -3)
+        PROS (signals):
+          - Volume surge — 5d avg is 2.5× the 30d avg
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹37.1cr daily turnover)
+        CONS (signals):
+          - Trading near 52-week low (6% of range)
+          - 69% off 52-week high
+          - -62% over the year
+          - Bearish SMA stack (close < 20 < 50 < 200)
+          - Delivery % falling — recent 40% vs 30d 47% (-6pp distribution)
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 14,644 Cr. | P/E 20.2 | ROCE 34.4 % | ROE 28.4 % | DivYield 0.06 % | BookVal ₹ 310 | PEG 0.96 (5Y) | PEGY 0.96
+        PROS (screener.in):
+          - Company has a good return on equity (ROE) track record: 3 Years ROE 25.4%
+        https://www.screener.in/company/ECLERX/consolidated/
 
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).
