@@ -3,10 +3,62 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-11-03 19:31 IST
+NSE bhavcopy analysis — generated 2026-11-04 19:30 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 15
+Pure_on_Volume hits (BUY): 10
+Recommendations: 0 BUY  +  2 SELL
+
+Top 2 SELL candidates (high-volume distribution):
+------------------------------------------------------------
+  • MTARTECH        (MTAR Technologies Ltd         )  close ₹6036.50  -4.37%  bias STRONG_SELL
+        → HOLD / MIXED (tech=STRONG_SELL, signal net 1)
+        PROS (signals):
+          - +181% off 52-week low (turnaround)
+          - +177% over the year
+          - Trading above the 200-day SMA
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹97.4cr daily turnover)
+        CONS (signals):
+          - 31% off 52-week high
+          - -21% over the last month
+          - Closed near the day's low (CLV -0.79) — sellers dumped into the volume
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 18,573 Cr. | P/E 136 | ROCE 15.1 % | ROE 12.4 % | DivYield 0.00 % | BookVal ₹ 267 | PEG 8.50 (5Y) | PEGY 8.50
+        PROS (screener.in):
+          - Company is expected to give good quarter
+          - Company's working capital requirements have reduced from 143 days to 68.7 days
+        CONS (screener.in):
+          - Stock is trading at 22.6 times its book value
+          - Though the company is reporting repeated profits, it is not paying out dividend
+          - Company has a low return on equity of 9.49% over last 3 years.
+          - Debtor days have increased from 115 to 140 days.
+          - Promoter holding has decreased over last 3 years: -9.91%
+        https://www.screener.in/company/MTARTECH/consolidated/
+
+  • MCX             (Multi Commodity Exchange of In)  close ₹3315.00  -5.02%  bias SELL
+        → SELL-LEAN (tech=SELL, signal net -1)
+        PROS (signals):
+          - Trading above the 200-day SMA
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹666.0cr daily turnover)
+        CONS (signals):
+          - Trading near 52-week low (13% of range)
+          - 70% off 52-week high
+          - -64% over the year
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 84,460 Cr. | P/E 47.0 | ROCE 71.4 % | ROE 56.3 % | DivYield 0.24 % | BookVal ₹ 138 | PEG 0.96 (5Y) | PEGY 0.95
+        PROS (screener.in):
+          - Company is almost debt free.
+          - Company is expected to give good quarter
+          - Company has delivered good profit growth of 48.7% CAGR over last 5 years
+          - Company has a good return on equity (ROE) track record: 3 Years ROE 36.4%
+          - Company has been maintaining a healthy dividend payout of 29.8%
+          - Company's median sales growth is 24.0% of last 10 years
+        CONS (screener.in):
+          - Stock is trading at 24.1 times its book value
+        https://www.screener.in/company/MCX/consolidated/
+
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).
   PROS / CONS (signals)   = derived from price/volume panel data (52-w position, SMA stack, returns, volatility, delivery & volume trend, CLV).
