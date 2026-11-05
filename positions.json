@@ -3207,7 +3207,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-11-04",
+    "last_checked": "2026-11-05",
     "stoploss_source": "trailed_t3",
     "strategy_version": 1,
     "tranches": [
@@ -7585,7 +7585,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-11-04",
+    "last_checked": "2026-11-05",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7751,7 +7751,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-11-04",
+    "last_checked": "2026-11-05",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7922,7 +7922,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-11-04",
+    "last_checked": "2026-11-05",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11406,7 +11406,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-11-04",
+    "last_checked": "2026-11-05",
     "strategy_version": 1,
     "tranches": [
       {
@@ -16303,5 +16303,121 @@
     "supertrend_active": false,
     "last_checked": "2026-10-28",
     "dynamic_sl_source": null
+  },
+  {
+    "symbol": "AUROPHARMA",
+    "name": "Aurobindo Pharma Ltd",
+    "side": "BUY",
+    "strategy_version": 2,
+    "suggested_on": "2026-11-05",
+    "suggested_close": 1785.0,
+    "entry": 1751.44,
+    "fill_trigger": 1762.734882083639,
+    "qty": 14,
+    "position_value": 24678.29,
+    "actual_risk_pct": 0.738,
+    "position_pct": 16.721,
+    "risk_pct": 0.75,
+    "stop_pct": 4.485,
+    "stoploss": 1683.6707074981664,
+    "original_stoploss": 1683.6707074981664,
+    "stoploss_source": "dynamic_atr",
+    "strict_stoploss": 1740.0,
+    "swing_low": 1010.0,
+    "swing_high": 1740.0,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 1.0,
+        "price": 1841.7990566691115
+      },
+      {
+        "name": "T2",
+        "ratio": 2.0,
+        "price": 1920.863231254584
+      },
+      {
+        "name": "T3",
+        "ratio": 3.0,
+        "price": 1999.9274058400565
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 2191.1400000000003
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 2921.14
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 2963.1000000000004
+      }
+    ],
+    "hit_targets": [],
+    "tranches": [
+      {
+        "name": "T1",
+        "qty_pct": 25,
+        "trigger": "T1",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T2",
+        "qty_pct": 25,
+        "trigger": "T2",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T3",
+        "qty_pct": 30,
+        "trigger": "T3",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "TRAIL",
+        "qty_pct": 20,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "atr_14_at_entry": 45.1795283345558,
+    "reward_risk": 4.328953280178173,
+    "score_total": 73.2,
+    "score_vol": 14.8,
+    "score_delivery": 0.0,
+    "score_trend": 31.7,
+    "score_rs": 15.5,
+    "score_momentum": 9.8,
+    "score_sector": 1.4,
+    "rs_rank_pct": 74.59677419354838,
+    "peg_at_entry": 25.4,
+    "pegy_at_entry": 20.82,
+    "peg_source": "5Y",
+    "supertrend_active": false,
+    "last_checked": "2026-11-05"
   }
 ]
