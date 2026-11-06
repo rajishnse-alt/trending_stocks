@@ -3207,7 +3207,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-11-05",
+    "last_checked": "2026-11-06",
     "stoploss_source": "trailed_t3",
     "strategy_version": 1,
     "tranches": [
@@ -7585,7 +7585,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-11-05",
+    "last_checked": "2026-11-06",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7751,7 +7751,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-11-05",
+    "last_checked": "2026-11-06",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7922,7 +7922,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-11-05",
+    "last_checked": "2026-11-06",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11406,7 +11406,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-11-05",
+    "last_checked": "2026-11-06",
     "strategy_version": 1,
     "tranches": [
       {
@@ -16354,7 +16354,119 @@
       {
         "name": "MAX",
         "ratio": 0.66,
-        "price": 2963.1000000000004
+        "price": 2926.139904258841
+      }
+    ],
+    "hit_targets": [],
+    "tranches": [
+      {
+        "name": "T1",
+        "qty_pct": 25,
+        "trigger": "T1",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T2",
+        "qty_pct": 25,
+        "trigger": "T2",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T3",
+        "qty_pct": 30,
+        "trigger": "T3",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "TRAIL",
+        "qty_pct": 20,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "status": "open",
+    "fill_date": "2026-11-06",
+    "fill_price": 1762.734882083639,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "atr_14_at_entry": 45.1795283345558,
+    "reward_risk": 4.328953280178173,
+    "score_total": 73.2,
+    "score_vol": 14.8,
+    "score_delivery": 0.0,
+    "score_trend": 31.7,
+    "score_rs": 15.5,
+    "score_momentum": 9.8,
+    "score_sector": 1.4,
+    "rs_rank_pct": 74.59677419354838,
+    "peg_at_entry": 25.4,
+    "pegy_at_entry": 20.82,
+    "peg_source": "5Y",
+    "supertrend_active": false,
+    "last_checked": "2026-11-06",
+    "dynamic_sl_source": null
+  },
+  {
+    "symbol": "GLENMARK",
+    "name": "Glenmark Pharmaceuticals Ltd",
+    "side": "BUY",
+    "strategy_version": 2,
+    "suggested_on": "2026-11-06",
+    "suggested_close": 2590.0,
+    "entry": 2539.85,
+    "fill_trigger": 2562.3563575507474,
+    "qty": 7,
+    "position_value": 17936.49,
+    "actual_risk_pct": 0.735,
+    "position_pct": 12.198,
+    "risk_pct": 0.75,
+    "stop_pct": 6.148,
+    "stoploss": 2404.8118546955156,
+    "original_stoploss": 2404.8118546955156,
+    "stoploss_source": "dynamic_atr",
+    "strict_stoploss": 2537.6,
+    "swing_low": 1275.5,
+    "swing_high": 2537.6,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 1.0,
+        "price": 2719.900860405979
+      },
+      {
+        "name": "T2",
+        "ratio": 2.0,
+        "price": 2877.445363261211
+      },
+      {
+        "name": "T3",
+        "ratio": 3.0,
+        "price": 3034.9898661164425
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 3317.5778
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 4299.400000000001
       }
     ],
     "hit_targets": [],
@@ -16404,20 +16516,247 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "atr_14_at_entry": 45.1795283345558,
-    "reward_risk": 4.328953280178173,
-    "score_total": 73.2,
+    "atr_14_at_entry": 90.02543020298954,
+    "reward_risk": 3.848396049758575,
+    "score_total": 78.3,
     "score_vol": 14.8,
     "score_delivery": 0.0,
     "score_trend": 31.7,
-    "score_rs": 15.5,
+    "score_rs": 20.6,
     "score_momentum": 9.8,
     "score_sector": 1.4,
-    "rs_rank_pct": 74.59677419354838,
-    "peg_at_entry": 25.4,
-    "pegy_at_entry": 20.82,
+    "rs_rank_pct": 90.7258064516129,
+    "peg_at_entry": 1.89,
+    "pegy_at_entry": 1.88,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-11-05"
+    "last_checked": "2026-11-06"
+  },
+  {
+    "symbol": "TITAN",
+    "name": "Titan Company Ltd",
+    "side": "BUY",
+    "strategy_version": 2,
+    "suggested_on": "2026-11-06",
+    "suggested_close": 5000.0,
+    "entry": 4870.125,
+    "fill_trigger": 4900.7269964981915,
+    "qty": 5,
+    "position_value": 24503.63,
+    "actual_risk_pct": 0.714,
+    "position_pct": 17.158,
+    "risk_pct": 0.75,
+    "stop_pct": 4.371,
+    "stoploss": 4686.51302101085,
+    "original_stoploss": 4686.51302101085,
+    "stoploss_source": "dynamic_atr",
+    "strict_stoploss": 4783.6096,
+    "swing_low": 3303.1,
+    "swing_high": 5186.7,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 1.0,
+        "price": 5114.940971985533
+      },
+      {
+        "name": "T2",
+        "ratio": 2.0,
+        "price": 5329.1549474728745
+      },
+      {
+        "name": "T3",
+        "ratio": 3.0,
+        "price": 5543.368922960216
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 6350.7648
+      },
+      {
+        "name": "T5",
+        "ratio": 2.618,
+        "price": 8234.3648
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 8300.0
+      }
+    ],
+    "hit_targets": [],
+    "tranches": [
+      {
+        "name": "T1",
+        "qty_pct": 25,
+        "trigger": "T1",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T2",
+        "qty_pct": 25,
+        "trigger": "T2",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T3",
+        "qty_pct": 30,
+        "trigger": "T3",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "TRAIL",
+        "qty_pct": 20,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "atr_14_at_entry": 122.40798599276671,
+    "reward_risk": 5.731526156071741,
+    "score_total": 78.3,
+    "score_vol": 14.8,
+    "score_delivery": 0.0,
+    "score_trend": 31.7,
+    "score_rs": 20.6,
+    "score_momentum": 9.8,
+    "score_sector": 1.4,
+    "rs_rank_pct": 92.54032258064517,
+    "peg_at_entry": 1.56,
+    "pegy_at_entry": 1.55,
+    "peg_source": "5Y",
+    "supertrend_active": false,
+    "last_checked": "2026-11-06"
+  },
+  {
+    "symbol": "SAILIFE",
+    "name": "Sai Life Sciences Ltd",
+    "side": "BUY",
+    "strategy_version": 2,
+    "suggested_on": "2026-11-06",
+    "suggested_close": 1785.1,
+    "entry": 1724.9,
+    "fill_trigger": 1740.7761225017373,
+    "qty": 10,
+    "position_value": 17407.76,
+    "actual_risk_pct": 0.741,
+    "position_pct": 11.748,
+    "risk_pct": 0.75,
+    "stop_pct": 6.384,
+    "stoploss": 1629.6432649895762,
+    "original_stoploss": 1629.6432649895762,
+    "stoploss_source": "dynamic_atr",
+    "strict_stoploss": 1629.6616000000001,
+    "swing_low": 949.3,
+    "swing_high": 1814.9,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 1.0,
+        "price": 1851.9089800138984
+      },
+      {
+        "name": "T2",
+        "ratio": 2.0,
+        "price": 1963.0418375260595
+      },
+      {
+        "name": "T3",
+        "ratio": 3.0,
+        "price": 2074.1746950382203
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 2349.8408
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 2963.266
+      }
+    ],
+    "hit_targets": [],
+    "tranches": [
+      {
+        "name": "T1",
+        "qty_pct": 25,
+        "trigger": "T1",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T2",
+        "qty_pct": 25,
+        "trigger": "T2",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T3",
+        "qty_pct": 30,
+        "trigger": "T3",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "TRAIL",
+        "qty_pct": 20,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "atr_14_at_entry": 63.5044900069492,
+    "reward_risk": 4.561422146846091,
+    "score_total": 73.4,
+    "score_vol": 14.8,
+    "score_delivery": 0.0,
+    "score_trend": 31.7,
+    "score_rs": 20.6,
+    "score_momentum": 4.9,
+    "score_sector": 1.4,
+    "rs_rank_pct": 92.74193548387096,
+    "peg_at_entry": 2.36,
+    "pegy_at_entry": 2.36,
+    "peg_source": "5Y",
+    "supertrend_active": false,
+    "last_checked": "2026-11-06"
   }
 ]

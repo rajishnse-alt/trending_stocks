@@ -3,84 +3,182 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-11-05 19:30 IST
+NSE bhavcopy analysis — generated 2026-11-06 19:30 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 22
-Recommendations: 1 BUY  +  3 SELL
+Pure_on_Volume hits (BUY): 11
+Recommendations: 3 BUY  +  6 SELL
 
-Top 1 BUY candidates:
+Top 3 BUY candidates:
 ------------------------------------------------------------
-  • AUROPHARMA      (Aurobindo Pharma Ltd          )  close ₹1785.00  +4.69%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +8)
+  • TITAN           (Titan Company Ltd             )  close ₹5000.00  +3.42%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +6)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹1751.44
-          - Strict stop-loss:      ₹1740.00
-          - Best stop-loss:        ₹1583.78
-          - Target-3 (150%):       ₹2105.00
-          - Target-4 (161.8%):     ₹2191.14
-          - Target-5 (261.8%):     ₹2921.14
-          - Swing anchor:          low ₹1010.00  ↔  high ₹1740.00
+          - Entry zone (probable): above ₹4870.12
+          - Strict stop-loss:      ₹4783.61
+          - Best stop-loss:        ₹4670.59
+          - Target-3 (150%):       ₹6128.50
+          - Target-4 (161.8%):     ₹6350.76
+          - Target-5 (261.8%):     ₹8234.36
+          - Swing anchor:          low ₹3303.10  ↔  high ₹5186.70
         PROS (signals):
-          - Trading near 52-week high (98% of range)
+          - Trading near 52-week high (88% of range)
+          - Trading above the 200-day SMA
+          - 7-day winning streak
+          - Volume highest in 3 months (HVQ)
+          - Closed near the day's high (CLV +0.91) — buyers absorbed the volume
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹397.8cr daily turnover)
+        CONS (signals):
+          - Delivery % falling — recent 46% vs 30d 55% (-9pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 4,44,173 Cr. | P/E 62.5 | ROCE 20.5 % | ROE 37.7 % | DivYield 0.30 % | BookVal ₹ 206 | PEG 1.56 (5Y) | PEGY 1.55
+        PROS (screener.in):
+          - Company is expected to give good quarter
+          - Company has a good return on equity (ROE) track record: 3 Years ROE 34.4%
+          - Company has been maintaining a healthy dividend payout of 27.9%
+          - Company's median sales growth is 22.1% of last 10 years
+        CONS (screener.in):
+          - Stock is trading at 24.3 times its book value
+          - Company might be capitalizing the interest cost
+        https://www.screener.in/company/TITAN/consolidated/
+
+  • SAILIFE         (Sai Life Sciences Ltd         )  close ₹1785.10  +11.95%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +7)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹1724.90
+          - Strict stop-loss:      ₹1629.66
+          - Best stop-loss:        ₹1577.73
+          - Target-3 (150%):       ₹2247.70
+          - Target-4 (161.8%):     ₹2349.84
+          - Target-5 (261.8%):     ₹3215.44
+          - Swing anchor:          low ₹949.30  ↔  high ₹1814.90
+        PROS (signals):
+          - Trading near 52-week high (97% of range)
+          - +99% over the year
+          - Trading above the 200-day SMA
+          - Volume surge — 5d avg is 3.4× the 30d avg
+          - Volume highest in 1 year (HVY)
+          - Closed near the day's high (CLV +0.70) — buyers absorbed the volume
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹151.3cr daily turnover)
+        CONS (signals):
+          - Delivery % falling — recent 46% vs 30d 52% (-5pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 37,888 Cr. | P/E 99.1 | ROCE 19.6 % | ROE 15.4 % | DivYield 0.00 % | BookVal ₹ 127 | PEG 2.36 (5Y) | PEGY 2.36
+        PROS (screener.in):
+          - Company has delivered good profit growth of 42.2% CAGR over last 5 years
+        CONS (screener.in):
+          - Stock is trading at 14.1 times its book value
+          - Though the company is reporting repeated profits, it is not paying out dividend
+          - Company has a low return on equity of 12.7% over last 3 years.
+          - Working capital days have increased from 49.2 days to 69.8 days
+        https://www.screener.in/company/SAILIFE/consolidated/
+
+  • GLENMARK        (Glenmark Pharmaceuticals Ltd  )  close ₹2590.00  +4.36%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +5)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹2539.85
+          - Strict stop-loss:      ₹2537.60
+          - Best stop-loss:        ₹2267.51
+          - Target-3 (150%):       ₹3168.65
+          - Target-4 (161.8%):     ₹3317.58
+          - Target-5 (261.8%):     ₹4579.68
+          - Swing anchor:          low ₹1275.50  ↔  high ₹2537.60
+        PROS (signals):
+          - Trading near 52-week high (90% of range)
+          - Trading above the 200-day SMA
+          - Volume surge — 5d avg is 2.2× the 30d avg
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹178.5cr daily turnover)
+        CONS (signals):
+          - Delivery % falling — recent 41% vs 30d 50% (-9pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 72,987 Cr. | P/E 36.0 | ROCE 39.8 % | ROE 23.6 % | DivYield 0.19 % | BookVal ₹ 397 | PEG 1.89 (5Y) | PEGY 1.88
+        PROS (screener.in):
+          - Company has reduced debt.
+          - Company has delivered good profit growth of 19.4% CAGR over last 5 years
+        CONS (screener.in):
+          - The company has delivered a poor sales growth of 9.19% over past five years.
+          - Company has a low return on equity of -3.28% over last 3 years.
+          - Debtor days have increased from 85.2 to 107 days.
+          - Working capital days have increased from 41.2 days to 80.5 days
+        https://www.screener.in/company/GLENMARK/consolidated/
+
+Top 6 SELL candidates (high-volume distribution):
+------------------------------------------------------------
+  • CPPLUS          (Aditya Infotech Ltd           )  close ₹4131.40  -0.94%  bias STRONG_SELL
+        → HOLD / MIXED (tech=STRONG_SELL, signal net 3)
+        PROS (signals):
+          - Trading near 52-week high (85% of range)
+          - +197% over the year
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹133.2cr daily turnover)
+        CONS (signals):
+          - Closed near the day's low (CLV -0.70) — sellers dumped into the volume
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 50,640 Cr. | P/E 82.0 | ROCE 28.6 % | ROE 25.4 % | DivYield 0.04 % | BookVal ₹ 299 | PEG 1.24 (5Y) | PEGY 1.24
+        PROS (screener.in):
+          - Company is expected to give good quarter
+          - Company has delivered good profit growth of 65.8% CAGR over last 5 years
+        CONS (screener.in):
+          - Stock is trading at 13.8 times its book value
+          - Promoter holding has decreased over last quarter: -2.91%
+          - Working capital days have increased from 40.8 days to 73.9 days
+        https://www.screener.in/company/CPPLUS/consolidated/
+
+  • APARINDS        (Apar Industries Ltd           )  close ₹14106.00  -9.65%  bias STRONG_SELL
+        → HOLD / MIXED (tech=STRONG_SELL, signal net 3)
+        PROS (signals):
+          - +107% off 52-week low (turnaround)
           - +62% over the year
           - Trading above the 200-day SMA
-          - 9-day winning streak
           - Volume highest in 3 months (HVQ)
-          - Closed near the day's high (CLV +0.77) — buyers absorbed the volume
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹162.5cr daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ 1,02,940 Cr. | P/E 25.4 | ROCE 12.9 % | ROE 10.1 % | DivYield 0.22 % | BookVal ₹ 685 | PEG 25.40 (5Y) | PEGY 20.82
-        CONS (screener.in):
-          - Stock is trading at 2.61 times its book value
-          - The company has delivered a poor sales growth of 6.32% over past five years.
-          - Company has a low return on equity of 10.8% over last 3 years.
-          - Company might be capitalizing the interest cost
-        https://www.screener.in/company/AUROPHARMA/consolidated/
-
-Top 3 SELL candidates (high-volume distribution):
-------------------------------------------------------------
-  • PIIND           (P I Industries Ltd            )  close ₹1770.00  -19.07%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -6)
-        PROS (signals):
-          - Volume surge — 5d avg is 3.9× the 30d avg
-          - Volume highest in 4 years (HVE) — strongest possible breakout signal
-          - Healthy liquidity (~₹86.9cr daily turnover)
+          - Healthy liquidity (~₹219.4cr daily turnover)
         CONS (signals):
-          - Trading near 52-week low (1% of range)
-          - 54% off 52-week high
-          - -21% over the last month
-          - -36% over the last 3 months
-          - -50% over the year
-          - Bearish SMA stack (close < 20 < 50 < 200)
-          - High volatility (74% annualised)
-          - Closed near the day's low (CLV -0.88) — sellers dumped into the volume
+          - -22% over the last month
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 26,857 Cr. | P/E 33.9 | ROCE 15.0 % | ROE 11.2 % | DivYield 0.85 % | BookVal ₹ 755 | PEG 3.39 (5Y) | PEGY 3.12
+        FUNDAMENTALS (screener.in): MCap ₹ 59,066 Cr. | P/E 42.2 | ROCE 31.8 % | ROE 20.3 % | DivYield 0.43 % | BookVal ₹ 2,035 | PEG 0.96 (5Y) | PEGY 0.95
         PROS (screener.in):
-          - Company is almost debt free.
+          - Company has been maintaining a healthy dividend payout of 24.8%
         CONS (screener.in):
-          - The company has delivered a poor sales growth of 7.96% over past five years.
-          - Debtor days have increased from 65.4 to 87.6 days.
-          - Working capital days have increased from 78.5 days to 120 days
-        https://www.screener.in/company/PIIND/consolidated/
+          - Promoter holding has decreased over last quarter: -2.34%
+          - Company's cost of borrowing seems high
+        https://www.screener.in/company/APARINDS/consolidated/
 
-  • APTUS           (Aptus Value Housing Finance In)  close ₹179.93  -12.77%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -5)
+  • THERMAX         (Thermax Ltd                   )  close ₹2746.30  -17.27%  bias STRONG_SELL
+        → STRONG SELL (tech=STRONG_SELL, signal net -3)
         PROS (signals):
-          - Volume surge — 5d avg is 2.3× the 30d avg
+          - Volume surge — 5d avg is 2.8× the 30d avg
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹38.4cr daily turnover)
+          - Healthy liquidity (~₹58.5cr daily turnover)
+        CONS (signals):
+          - Trading near 52-week low (3% of range)
+          - 48% off 52-week high
+          - -32% over the last 3 months
+          - Bearish SMA stack (close < 20 < 50 < 200)
+          - High volatility (69% annualised)
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 32,696 Cr. | P/E 60.0 | ROCE 13.9 % | ROE 10.6 % | DivYield 0.51 % | BookVal ₹ 460 | PEG 3.33 (5Y) | PEGY 3.24
+        CONS (screener.in):
+          - Company has a low return on equity of 11.5% over last 3 years.
+          - Earnings include an other income of Rs.328 Cr.
+        https://www.screener.in/company/THERMAX/consolidated/
+
+  • APTUS           (Aptus Value Housing Finance In)  close ₹174.88  -2.81%  bias SELL
+        → STRONG SELL (tech=SELL, signal net -4)
+        PROS (signals):
+          - Volume surge — 5d avg is 3.2× the 30d avg
+          - Volume highest in 1 year (HVY)
+          - Healthy liquidity (~₹45.5cr daily turnover)
         CONS (signals):
           - Trading near 52-week low (2% of range)
-          - 44% off 52-week high
+          - 46% off 52-week high
           - -20% over the last month
-          - -31% over the last 3 months
-          - -42% over the year
+          - -34% over the last 3 months
+          - -45% over the year
           - Bearish SMA stack (close < 20 < 50 < 200)
-          - Closed near the day's low (CLV -0.82) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 9,008 Cr. | P/E 8.78 | ROCE 15.4 % | ROE 20.1 % | DivYield 2.50 % | BookVal ₹ 109 | PEG 0.30 (5Y) | PEGY 0.28
+        FUNDAMENTALS (screener.in): MCap ₹ 8,745 Cr. | P/E 8.53 | ROCE 15.4 % | ROE 20.1 % | DivYield 2.57 % | BookVal ₹ 109 | PEG 0.29 (5Y) | PEGY 0.27
         PROS (screener.in):
           - Company has delivered good profit growth of 28.7% CAGR over last 5 years
           - Company has been maintaining a healthy dividend payout of 30.2%
@@ -89,30 +187,50 @@ Top 3 SELL candidates (high-volume distribution):
           - Promoter holding has decreased over last 3 years: -38.3%
         https://www.screener.in/company/APTUS/consolidated/
 
-  • CUMMINSIND      (Cummins India Ltd             )  close ₹4058.90  -14.11%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -5)
+  • TDPOWERSYS      (TD Power Systems Ltd          )  close ₹576.50  -13.85%  bias SELL
+        → STRONG SELL (tech=SELL, signal net -5)
         PROS (signals):
-          - Volume surge — 5d avg is 2.4× the 30d avg
-          - Volume highest in 1 year (HVY)
-          - Healthy liquidity (~₹228.0cr daily turnover)
+          - Volume highest in 4 years (HVE) — strongest possible breakout signal
+          - Healthy liquidity (~₹193.2cr daily turnover)
         CONS (signals):
-          - Trading near 52-week low (8% of range)
-          - 33% off 52-week high
-          - -17% over the last month
-          - -27% over the last 3 months
+          - Trading near 52-week low (2% of range)
+          - 64% off 52-week high
+          - -30% over the last month
+          - -52% over the last 3 months
           - Bearish SMA stack (close < 20 < 50 < 200)
-          - Delivery % falling — recent 53% vs 30d 60% (-6pp distribution)
-          - Closed near the day's low (CLV -0.78) — sellers dumped into the volume
+          - High volatility (75% annualised)
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 1,11,954 Cr. | P/E 48.2 | ROCE 39.5 % | ROE 30.2 % | DivYield 1.63 % | BookVal ₹ 299 | PEG 1.55 (5Y) | PEGY 1.48
+        FUNDAMENTALS (screener.in): MCap ₹ 18,536 Cr. | P/E 67.4 | ROCE 34.0 % | ROE 24.7 % | DivYield 0.18 % | BookVal ₹ 34.3 | PEG 1.57 (5Y) | PEGY 1.56
         PROS (screener.in):
           - Company is almost debt free.
-          - Company has delivered good profit growth of 30.8% CAGR over last 5 years
-          - Company has a good return on equity (ROE) track record: 3 Years ROE 28.8%
-          - Company has been maintaining a healthy dividend payout of 70.0%
+          - Company is expected to give good quarter
+          - Company has delivered good profit growth of 43.4% CAGR over last 5 years
         CONS (screener.in):
-          - Stock is trading at 13.6 times its book value
-        https://www.screener.in/company/CUMMINSIND/consolidated/
+          - Stock is trading at 16.8 times its book value
+          - Promoter holding has decreased over last quarter: -0.36%
+        https://www.screener.in/company/TDPOWERSYS/consolidated/
+
+  • INDUSINDBK      (IndusInd Bank Ltd             )  close ₹910.25  -0.13%  bias SELL
+        → HOLD / MIXED (tech=SELL, signal net 0)
+        PROS (signals):
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹219.4cr daily turnover)
+        CONS (signals):
+          - Trading below the 200-day SMA
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 70,957 Cr. | P/E 23.6 | ROCE 5.68 % | ROE 1.36 % | DivYield 0.16 % | BookVal ₹ 870 | PEG 0.05 (TTM) | PEGY 0.05
+        PROS (screener.in):
+          - Stock is trading at 1.05 times its book value
+        CONS (screener.in):
+          - Company has low interest coverage ratio.
+          - The company has delivered a poor sales growth of 9.79% over past five years.
+          - Promoter holding is low: 15.8%
+          - Company has a low return on equity of 6.60% over last 3 years.
+          - Contingent liabilities of Rs.12,08,438 Cr.
+          - Company might be capitalizing the interest cost
+          - Promoters have pledged 42.8% of their holding.
+          - Dividend payout has been low at 9.15% of profits over last 3 years
+        https://www.screener.in/company/INDUSINDBK/consolidated/
 
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).
