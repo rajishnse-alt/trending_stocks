@@ -3207,7 +3207,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-11-06",
+    "last_checked": "2026-11-09",
     "stoploss_source": "trailed_t3",
     "strategy_version": 1,
     "tranches": [
@@ -7585,7 +7585,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-11-06",
+    "last_checked": "2026-11-09",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7751,7 +7751,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-11-06",
+    "last_checked": "2026-11-09",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7922,7 +7922,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-11-06",
+    "last_checked": "2026-11-09",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11406,7 +11406,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-11-06",
+    "last_checked": "2026-11-09",
     "strategy_version": 1,
     "tranches": [
       {
@@ -16319,9 +16319,9 @@
     "position_pct": 16.721,
     "risk_pct": 0.75,
     "stop_pct": 4.485,
-    "stoploss": 1683.6707074981664,
+    "stoploss": 1841.7990566691115,
     "original_stoploss": 1683.6707074981664,
-    "stoploss_source": "dynamic_atr",
+    "stoploss_source": "trailed_t1",
     "strict_stoploss": 1740.0,
     "swing_low": 1010.0,
     "swing_high": 1740.0,
@@ -16357,16 +16357,18 @@
         "price": 2926.139904258841
       }
     ],
-    "hit_targets": [],
+    "hit_targets": [
+      "T1"
+    ],
     "tranches": [
       {
         "name": "T1",
         "qty_pct": 25,
         "trigger": "T1",
-        "status": "open",
-        "exit_price": null,
-        "exit_reason": null,
-        "exit_date": null
+        "status": "exited",
+        "exit_price": 1841.7990566691115,
+        "exit_reason": "target_t1",
+        "exit_date": "2026-11-09"
       },
       {
         "name": "T2",
@@ -16403,7 +16405,7 @@
     "exit_price": null,
     "exit_reason": null,
     "days_held": null,
-    "pnl_pct": null,
+    "pnl_pct": 4.485,
     "atr_14_at_entry": 45.1795283345558,
     "reward_risk": 4.328953280178173,
     "score_total": 73.2,
@@ -16418,7 +16420,7 @@
     "pegy_at_entry": 20.82,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-11-06",
+    "last_checked": "2026-11-09",
     "dynamic_sl_source": null
   },
   {
@@ -16466,7 +16468,7 @@
       {
         "name": "MAX",
         "ratio": 0.66,
-        "price": 4299.400000000001
+        "price": 4253.511553534241
       }
     ],
     "hit_targets": [],
@@ -16508,9 +16510,9 @@
         "exit_date": null
       }
     ],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-11-09",
+    "fill_price": 2562.3563575507474,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
@@ -16530,7 +16532,8 @@
     "pegy_at_entry": 1.88,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-11-06"
+    "last_checked": "2026-11-09",
+    "dynamic_sl_source": null
   },
   {
     "symbol": "TITAN",
@@ -16575,14 +16578,9 @@
         "price": 6350.7648
       },
       {
-        "name": "T5",
-        "ratio": 2.618,
-        "price": 8234.3648
-      },
-      {
         "name": "MAX",
         "ratio": 0.66,
-        "price": 8300.0
+        "price": 8135.206814186999
       }
     ],
     "hit_targets": [],
@@ -16624,9 +16622,9 @@
         "exit_date": null
       }
     ],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-11-09",
+    "fill_price": 4900.7269964981915,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
@@ -16646,7 +16644,8 @@
     "pegy_at_entry": 1.55,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-11-06"
+    "last_checked": "2026-11-09",
+    "dynamic_sl_source": null
   },
   {
     "symbol": "SAILIFE",
@@ -16693,7 +16692,7 @@
       {
         "name": "MAX",
         "ratio": 0.66,
-        "price": 2963.266
+        "price": 2889.688363352884
       }
     ],
     "hit_targets": [],
@@ -16735,9 +16734,9 @@
         "exit_date": null
       }
     ],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-11-09",
+    "fill_price": 1740.7761225017373,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
@@ -16757,6 +16756,7 @@
     "pegy_at_entry": 2.36,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-11-06"
+    "last_checked": "2026-11-09",
+    "dynamic_sl_source": null
   }
 ]
