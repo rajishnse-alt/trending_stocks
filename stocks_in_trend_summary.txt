@@ -3,7 +3,7 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-11-09 19:30 IST
+NSE bhavcopy analysis — generated 2026-11-10 19:30 IST
 ============================================================
 
 Pure_on_Volume hits (BUY): 4
@@ -21,7 +21,7 @@ Top 1 SELL candidates (high-volume distribution):
           - Delivery % falling — recent 38% vs 30d 47% (-8pp distribution)
           - Closed near the day's low (CLV -0.89) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 2,31,610 Cr. | P/E 19.5 | ROCE 12.5 % | ROE 11.7 % | DivYield 2.16 % | BookVal ₹ 83.1 | PEG 2.44 (5Y) | PEGY 1.92
+        FUNDAMENTALS (screener.in): MCap ₹ 2,30,758 Cr. | P/E 19.4 | ROCE 12.5 % | ROE 11.7 % | DivYield 2.16 % | BookVal ₹ 83.1 | PEG 2.42 (5Y) | PEGY 1.91
         PROS (screener.in):
           - Company has been maintaining a healthy dividend payout of 25.4%
         CONS (screener.in):
