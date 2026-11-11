@@ -3,32 +3,122 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-11-10 19:30 IST
+NSE bhavcopy analysis — generated 2026-11-11 19:30 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 4
-Recommendations: 0 BUY  +  1 SELL
+Pure_on_Volume hits (BUY): 14
+Recommendations: 3 BUY  +  1 SELL
+
+Top 3 BUY candidates:
+------------------------------------------------------------
+  • NAVINFLUOR      (Navin Fluorine International L)  close ₹9659.00  +5.97%  bias STRONG_BUY
+        → STRONG BUY (tech=STRONG_BUY, signal net +9)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹9412.42
+          - Strict stop-loss:      ₹9049.68
+          - Best stop-loss:        ₹8876.88
+          - Target-3 (150%):       ₹11106.00
+          - Target-4 (161.8%):     ₹11445.84
+          - Target-5 (261.8%):     ₹14325.84
+          - Swing anchor:          low ₹6786.00  ↔  high ₹9666.00
+        PROS (signals):
+          - Trading near 52-week high (100% of range)
+          - +16% over the last month
+          - +93% over the year
+          - Trading above the 200-day SMA
+          - 6-day winning streak
+          - Volume highest in 3 months (HVQ)
+          - Closed near the day's high (CLV +0.98) — buyers absorbed the volume
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹148.6cr daily turnover)
+        FUNDAMENTALS (screener.in): MCap ₹ 49,646 Cr. | P/E 54.2 | ROCE 21.0 % | ROE 19.8 % | DivYield 0.16 % | BookVal ₹ 870 | PEG 2.46 (5Y) | PEGY 2.45
+        PROS (screener.in):
+          - Company is expected to give good quarter
+          - Company has delivered good profit growth of 21.6% CAGR over last 5 years
+        CONS (screener.in):
+          - Stock is trading at 11.1 times its book value
+        https://www.screener.in/company/NAVINFLUOR/consolidated/
+
+  • KALYANKJIL      (Kalyan Jewellers India Ltd    )  close ₹663.75  +8.63%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +8)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹657.95
+          - Strict stop-loss:      ₹648.95
+          - Best stop-loss:        ₹580.06
+          - Target-3 (150%):       ₹809.90
+          - Target-4 (161.8%):     ₹847.88
+          - Target-5 (261.8%):     ₹1169.78
+          - Swing anchor:          low ₹327.05  ↔  high ₹648.95
+        PROS (signals):
+          - Trading near 52-week high (93% of range)
+          - +20% over the last month
+          - Trading above the 200-day SMA
+          - Volume surge — 5d avg is 2.6× the 30d avg
+          - 7-day winning streak
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹544.6cr daily turnover)
+        FUNDAMENTALS (screener.in): MCap ₹ 68,549 Cr. | P/E 43.6 | ROCE 21.2 % | ROE 24.8 % | DivYield 0.38 % | BookVal ₹ 64.3 | PEG 0.22 (5Y) | PEGY 0.22
+        PROS (screener.in):
+          - Company is expected to give good quarter
+          - Company has delivered good profit growth of 195% CAGR over last 5 years
+          - Company has been maintaining a healthy dividend payout of 20.5%
+        CONS (screener.in):
+          - Stock is trading at 10.3 times its book value
+        https://www.screener.in/company/KALYANKJIL/consolidated/
+
+  • IIFL            (IIFL Finance Ltd              )  close ₹666.25  +6.26%  bias BUY
+        → STRONG BUY (tech=BUY, signal net +5)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹667.67
+          - Strict stop-loss:      ₹641.68
+          - Best stop-loss:        ₹623.92
+          - Target-3 (150%):       ₹852.95
+          - Target-4 (161.8%):     ₹887.87
+          - Target-5 (261.8%):     ₹1183.77
+          - Swing anchor:          low ₹409.10  ↔  high ₹705.00
+        PROS (signals):
+          - Trading near 52-week high (87% of range)
+          - Trading above the 200-day SMA
+          - Volume surge — 5d avg is 2.8× the 30d avg
+          - 5-day winning streak
+          - Volume highest in 3 months (HVQ)
+          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
+          - Healthy liquidity (~₹193.4cr daily turnover)
+        CONS (signals):
+          - High volatility (61% annualised)
+          - Delivery % falling — recent 39% vs 30d 48% (-9pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 28,465 Cr. | P/E 11.4 | ROCE 10.9 % | ROE 12.6 % | DivYield 0.60 % | BookVal ₹ 362 | PEG 0.67 (5Y) | PEGY 0.65
+        PROS (screener.in):
+          - Company is expected to give good quarter
+        CONS (screener.in):
+          - Company has low interest coverage ratio.
+          - Company has a low return on equity of 11.5% over last 3 years.
+          - Dividend payout has been low at 6.30% of profits over last 3 years
+        https://www.screener.in/company/IIFL/consolidated/
 
 Top 1 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
-  • TATASTEEL       (Tata Steel Ltd                )  close ₹184.85  -2.81%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -2)
+  • COCHINSHIP      (Cochin Shipyard Ltd           )  close ₹1202.00  -6.82%  bias SELL
+        → STRONG SELL (tech=SELL, signal net -3)
         PROS (signals):
+          - Volume surge — 5d avg is 2.2× the 30d avg
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹480.6cr daily turnover)
+          - Healthy liquidity (~₹135.7cr daily turnover)
         CONS (signals):
+          - Trading near 52-week low (14% of range)
+          - 35% off 52-week high
+          - -34% over the year
           - Trading below the 200-day SMA
-          - Delivery % falling — recent 38% vs 30d 47% (-8pp distribution)
-          - Closed near the day's low (CLV -0.89) — sellers dumped into the volume
+          - Delivery % falling — recent 32% vs 30d 38% (-6pp distribution)
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 2,30,758 Cr. | P/E 19.4 | ROCE 12.5 % | ROE 11.7 % | DivYield 2.16 % | BookVal ₹ 83.1 | PEG 2.42 (5Y) | PEGY 1.91
+        FUNDAMENTALS (screener.in): MCap ₹ 31,647 Cr. | P/E 50.5 | ROCE 16.2 % | ROE 12.5 % | DivYield 0.75 % | BookVal ₹ 231 | PEG 12.62 (5Y) | PEGY 10.63
         PROS (screener.in):
-          - Company has been maintaining a healthy dividend payout of 25.4%
+          - Company has been maintaining a healthy dividend payout of 32.3%
         CONS (screener.in):
-          - The company has delivered a poor sales growth of 8.21% over past five years.
-          - Company has a low return on equity of 7.44% over last 3 years.
-          - Company might be capitalizing the interest cost
-        https://www.screener.in/company/TATASTEEL/consolidated/
+          - Promoter holding has decreased over last quarter: -4.58%
+          - Earnings include an other income of Rs.378 Cr.
+        https://www.screener.in/company/COCHINSHIP/consolidated/
 
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).
