@@ -3,86 +3,79 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-11-12 19:30 IST
+NSE bhavcopy analysis — generated 2026-11-13 19:30 IST
 ============================================================
 
 Pure_on_Volume hits (BUY): 6
-Recommendations: 0 BUY  +  4 SELL
+Recommendations: 1 BUY  +  2 SELL
 
-Top 4 SELL candidates (high-volume distribution):
+Top 1 BUY candidates:
 ------------------------------------------------------------
-  • PAGEIND         (Page Industries Ltd           )  close ₹31850.00  -12.91%  bias STRONG_SELL
-        → SELL-LEAN (tech=STRONG_SELL, signal net -1)
+  • PETRONET        (Petronet LNG Ltd              )  close ₹324.05  -3.27%  bias STRONG_SELL
+        → HOLD / MIXED (tech=STRONG_SELL, signal net 3)
+        TRADE PLAN (BUY):
+          - Entry zone (probable): above ₹328.42
+          - Strict stop-loss:      ₹314.70
+          - Best stop-loss:        ₹308.64
+          - Target-3 (150%):       ₹386.77
+          - Target-4 (161.8%):     ₹398.69
+          - Target-5 (261.8%):     ₹499.64
+          - Swing anchor:          low ₹235.35  ↔  high ₹336.30
         PROS (signals):
-          - Volume surge — 5d avg is 2.4× the 30d avg
-          - Volume highest in 1 year (HVY)
-          - Healthy liquidity (~₹76.5cr daily turnover)
+          - Trading near 52-week high (88% of range)
+          - Bullish SMA stack (close > 20 > 50 > 200)
+          - Delivery % rising — recent 69% vs 30d 61% (+7pp accumulation)
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹81.7cr daily turnover)
         CONS (signals):
-          - Trading near 52-week low (15% of range)
-          - Bearish SMA stack (close < 20 < 50 < 200)
-          - Closed near the day's low (CLV -0.96) — sellers dumped into the volume
+          - Closed near the day's low (CLV -1.00) — sellers dumped into the volume
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 48,608 Cr. | P/E 10.5 | ROCE 22.6 % | ROE 18.4 % | DivYield 3.09 % | BookVal ₹ 162 | PEG 1.75 (5Y) | PEGY 1.16
+        PROS (screener.in):
+          - Company has reduced debt.
+          - Company is almost debt free.
+          - Company has been maintaining a healthy dividend payout of 39.0%
+        CONS (screener.in):
+          - The company has delivered a poor sales growth of 10.8% over past five years.
+        https://www.screener.in/company/PETRONET/consolidated/
+
+Top 2 SELL candidates (high-volume distribution):
+------------------------------------------------------------
+  • GILLETTE        (Gillette India Ltd            )  close ₹7247.00  -2.99%  bias STRONG_SELL
+        → STRONG SELL (tech=STRONG_SELL, signal net -2)
+        PROS (signals):
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹14.4cr daily turnover)
+        CONS (signals):
+          - Trading near 52-week low (14% of range)
+          - Trading below the 200-day SMA
+          - Closed near the day's low (CLV -0.79) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
         FUNDAMENTALS (screener.in): MCap ₹ Cr. | ROCE % | ROE % | DivYield % | BookVal ₹
-        https://www.screener.in/company/PAGEIND/consolidated/
+        https://www.screener.in/company/GILLETTE/consolidated/
 
-  • TATAPOWER       (Tata Power Company Ltd        )  close ₹357.00  -0.83%  bias STRONG_SELL
-        → SELL-LEAN (tech=STRONG_SELL, signal net -1)
+  • MANAPPURAM      (Manappuram Finance Ltd        )  close ₹308.00  -3.73%  bias STRONG_SELL
+        → STRONG SELL (tech=STRONG_SELL, signal net -2)
         PROS (signals):
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹174.4cr daily turnover)
-        CONS (signals):
-          - Lower third of 52-week range (18%)
-          - Trading below the 200-day SMA
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 1,13,773 Cr. | P/E 26.5 | ROCE 10.5 % | ROE 10.2 % | DivYield 0.70 % | BookVal ₹ 130 | PEG 0.98 (5Y) | PEGY 0.96
-        PROS (screener.in):
-          - Company has been maintaining a healthy dividend payout of 18.9%
-          - Debtor days have improved from 33.9 to 25.9 days.
-        CONS (screener.in):
-          - Stock is trading at 2.75 times its book value
-          - Company has a low return on equity of 11.0% over last 3 years.
-          - Earnings include an other income of Rs.4,644 Cr.
-        https://www.screener.in/company/TATAPOWER/consolidated/
-
-  • ALKEM           (Alkem Laboratories Ltd        )  close ₹5302.00  -2.68%  bias SELL
-        → SELL-LEAN (tech=SELL, signal net -1)
-        PROS (signals):
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹82.7cr daily turnover)
+          - Volume surge — 5d avg is 2.1× the 30d avg
+          - Volume highest in 1 year (HVY)
+          - Healthy liquidity (~₹154.1cr daily turnover)
         CONS (signals):
           - Trading below the 200-day SMA
-          - Delivery % falling — recent 35% vs 30d 52% (-17pp distribution)
+          - Delivery % falling — recent 33% vs 30d 39% (-5pp distribution)
+          - 5-day losing streak
+          - Closed near the day's low (CLV -0.70) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 63,604 Cr. | P/E 29.4 | ROCE 21.2 % | ROE 18.9 % | DivYield 1.00 % | BookVal ₹ 1,243 | PEG 3.27 (5Y) | PEGY 2.94
+        FUNDAMENTALS (screener.in): MCap ₹ 28,904 Cr. | P/E 15.0 | ROCE 8.25 % | ROE 6.97 % | DivYield 0.65 % | BookVal ₹ 184 | PEG 0.05 (TTM) | PEGY 0.05
         PROS (screener.in):
-          - Company has been maintaining a healthy dividend payout of 26.3%
+          - Company is expected to give good quarter
+          - Company has been maintaining a healthy dividend payout of 19.8%
         CONS (screener.in):
-          - The company has delivered a poor sales growth of 10.7% over past five years.
-          - Promoter holding has decreased over last 3 years: -7.04%
-        https://www.screener.in/company/ALKEM/consolidated/
-
-  • TRITURBINE      (Triveni Turbine Ltd           )  close ₹507.30  -1.37%  bias SELL
-        → STRONG SELL (tech=SELL, signal net -3)
-        PROS (signals):
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹28.9cr daily turnover)
-        CONS (signals):
-          - Lower third of 52-week range (22%)
-          - 36% off 52-week high
-          - Trading below the 200-day SMA
-          - Delivery % falling — recent 41% vs 30d 50% (-8pp distribution)
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 16,126 Cr. | P/E 52.1 | ROCE 34.1 % | ROE 25.2 % | DivYield 0.84 % | BookVal ₹ 47.1 | PEG 2.08 (5Y) | PEGY 2.02
-        PROS (screener.in):
-          - Company is almost debt free.
-          - Company has delivered good profit growth of 25.1% CAGR over last 5 years
-          - Company has a good return on equity (ROE) track record: 3 Years ROE 27.3%
-          - Company has been maintaining a healthy dividend payout of 38.9%
-        CONS (screener.in):
-          - Stock is trading at 10.8 times its book value
-          - Debtor days have increased from 70.8 to 107 days.
-          - Working capital days have increased from 26.3 days to 71.2 days
-        https://www.screener.in/company/TRITURBINE/consolidated/
+          - Company has low interest coverage ratio.
+          - The company has delivered a poor sales growth of 8.48% over past five years.
+          - Company has a low return on equity of 11.9% over last 3 years.
+          - Company might be capitalizing the interest cost
+        https://www.screener.in/company/MANAPPURAM/consolidated/
 
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).
