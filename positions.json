@@ -7585,7 +7585,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-11-16",
+    "last_checked": "2026-11-17",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7751,7 +7751,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-11-16",
+    "last_checked": "2026-11-17",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7922,7 +7922,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-11-16",
+    "last_checked": "2026-11-17",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11406,7 +11406,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-11-16",
+    "last_checked": "2026-11-17",
     "strategy_version": 1,
     "tranches": [
       {
@@ -16532,7 +16532,7 @@
     "pegy_at_entry": 1.88,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-11-16",
+    "last_checked": "2026-11-17",
     "dynamic_sl_source": null
   },
   {
@@ -16930,7 +16930,7 @@
       {
         "name": "MAX",
         "ratio": 0.66,
-        "price": 537.9230000000001
+        "price": 548.6053527070077
       }
     ],
     "hit_targets": [],
@@ -16972,9 +16972,9 @@
         "exit_date": null
       }
     ],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-11-17",
+    "fill_price": 330.4851522331371,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
@@ -16994,7 +16994,7 @@
     "pegy_at_entry": 1.16,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-11-16",
+    "last_checked": "2026-11-17",
     "dynamic_sl_source": null
   },
   {
@@ -17047,7 +17047,7 @@
       {
         "name": "MAX",
         "ratio": 0.66,
-        "price": 12614.340000000002
+        "price": 12967.271759534851
       }
     ],
     "hit_targets": [],
@@ -17089,9 +17089,9 @@
         "exit_date": null
       }
     ],
-    "status": "pending",
-    "fill_date": null,
-    "fill_price": null,
+    "status": "open",
+    "fill_date": "2026-11-17",
+    "fill_price": 7811.609493695693,
     "exit_date": null,
     "exit_price": null,
     "exit_reason": null,
@@ -17111,6 +17111,7 @@
     "pegy_at_entry": 1.01,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-11-16"
+    "last_checked": "2026-11-17",
+    "dynamic_sl_source": null
   }
 ]

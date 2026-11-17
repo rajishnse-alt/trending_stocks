@@ -3,127 +3,39 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-11-16 19:30 IST
+NSE bhavcopy analysis — generated 2026-11-17 19:30 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 4
-Recommendations: 1 BUY  +  4 SELL
+Pure_on_Volume hits (BUY): 5
+Recommendations: 0 BUY  +  1 SELL
 
-Top 1 BUY candidates:
+Top 1 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
-  • EICHERMOT       (Eicher Motors Ltd             )  close ₹7599.00  -0.67%  bias STRONG_SELL
-        → HOLD / MIXED (tech=STRONG_SELL, signal net 2)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹7761.15
-          - Strict stop-loss:      ₹7692.90
-          - Best stop-loss:        ₹7506.81
-          - Target-3 (150%):       ₹9026.50
-          - Target-4 (161.8%):     ₹9229.81
-          - Target-5 (261.8%):     ₹10952.81
-          - Swing anchor:          low ₹6442.00  ↔  high ₹8165.00
+  • CONCORDBIO      (Concord Biotech Ltd           )  close ₹554.80  -4.51%  bias STRONG_SELL
+        → STRONG SELL (tech=STRONG_SELL, signal net -6)
         PROS (signals):
-          - Trading above the 200-day SMA
+          - Delivery % rising — recent 54% vs 30d 45% (+9pp accumulation)
           - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹349.0cr daily turnover)
+          - Healthy liquidity (~₹10.1cr daily turnover)
         CONS (signals):
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 2,07,939 Cr. | P/E 34.5 | ROCE 30.5 % | ROE 24.0 % | DivYield 1.08 % | BookVal ₹ 945 | PEG 1.05 (5Y) | PEGY 1.01
-        PROS (screener.in):
-          - Company is almost debt free.
-          - Company has delivered good profit growth of 32.8% CAGR over last 5 years
-          - Company has been maintaining a healthy dividend payout of 38.7%
-        CONS (screener.in):
-          - Stock is trading at 8.04 times its book value
-          - Earnings include an other income of Rs.2,292 Cr.
-        https://www.screener.in/company/EICHERMOT/consolidated/
-
-Top 4 SELL candidates (high-volume distribution):
-------------------------------------------------------------
-  • TMPV            (Tata Motors Passenger Vehicles)  close ₹262.40  -8.70%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -3)
-        PROS (signals):
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹262.9cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (2% of range)
-          - 37% off 52-week high
-          - -36% over the year
-          - Bearish SMA stack (close < 20 < 50 < 200)
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 96,776 Cr. | P/E 20.4 | ROCE 2.73 % | ROE 75.7 % | DivYield 1.14 % | BookVal ₹ 285 | PEG 0.20 (5Y) | PEGY 0.20
-        PROS (screener.in):
-          - Stock is trading at 0.92 times its book value
-          - Company has a good return on equity (ROE) track record: 3 Years ROE 52.4%
-        CONS (screener.in):
-          - The company has delivered a poor sales growth of 6.08% over past five years.
-          - Tax rate seems low
-          - Company might be capitalizing the interest cost
-          - Promoter holding has decreased over last 3 years: -3.88%
-        https://www.screener.in/company/TMPV/consolidated/
-
-  • ABB             (ABB India Ltd                 )  close ₹6895.00  -2.26%  bias SELL
-        → HOLD / MIXED (tech=SELL, signal net 2)
-        PROS (signals):
-          - Trading above the 200-day SMA
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹182.6cr daily turnover)
-        CONS (signals):
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 1,46,308 Cr. | P/E 93.1 | ROCE 29.9 % | ROE 22.4 % | DivYield 0.57 % | BookVal ₹ 441
-        PROS (screener.in):
-          - Company is almost debt free.
-        CONS (screener.in):
-          - Stock is trading at 15.6 times its book value
-          - Earnings include an other income of Rs.1,796 Cr.
-        https://www.screener.in/company/ABB/consolidated/
-
-  • INOXWIND        (Inox Wind Ltd                 )  close ₹59.50  -7.68%  bias SELL
-        → STRONG SELL (tech=SELL, signal net -4)
-        PROS (signals):
-          - Volume highest in 1 year (HVY)
-          - Healthy liquidity (~₹81.7cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (4% of range)
-          - 62% off 52-week high
+          - Trading near 52-week low (0% of range)
+          - 66% off 52-week high
+          - -59% over the last month
+          - -62% over the last 3 months
           - -62% over the year
-          - Bearish SMA stack (close < 20 < 50 < 200)
-          - High volatility (61% annualised)
+          - Trading below the 200-day SMA
+          - High volatility (169% annualised)
+          - Closed near the day's low (CLV -0.92) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 10,262 Cr. | P/E 33.0 | ROCE 10.6 % | ROE 7.50 % | DivYield 0.00 % | BookVal ₹ 39.3 | PEG 1.22 (5Y) | PEGY 1.22
+        FUNDAMENTALS (screener.in): MCap ₹ 11,638 Cr. | P/E 40.8 | ROCE 17.1 % | ROE 12.9 % | DivYield 0.68 % | BookVal ₹ 99.2 | PEG 40.80 (5Y) | PEGY 24.29
         PROS (screener.in):
-          - Company has delivered good profit growth of 26.8% CAGR over last 5 years
+          - Company has reduced debt.
+          - Company is almost debt free.
+          - Company has been maintaining a healthy dividend payout of 28.2%
         CONS (screener.in):
-          - Though the company is reporting repeated profits, it is not paying out dividend
-          - Company has a low return on equity of 7.43% over last 3 years.
-          - Company has high debtors of 353 days.
-          - Promoter holding has decreased over last 3 years: -20.5%
-          - Working capital days have increased from 158 days to 267 days
-        https://www.screener.in/company/INOXWIND/consolidated/
-
-  • KAYNES          (Kaynes Technology India Ltd   )  close ₹2980.00  -13.12%  bias SELL
-        → STRONG SELL (tech=SELL, signal net -3)
-        PROS (signals):
-          - Volume surge — 5d avg is 2.5× the 30d avg
-          - Volume highest in 3 months (HVQ)
-          - Healthy liquidity (~₹303.9cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (6% of range)
-          - 57% off 52-week high
-          - -56% over the year
-          - Bearish SMA stack (close < 20 < 50 < 200)
-          - High volatility (62% annualised)
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 20,085 Cr. | P/E 75.5 | ROCE 12.7 % | ROE 9.07 % | DivYield 0.00 % | BookVal ₹ 734 | PEG 0.71 (5Y) | PEGY 0.71
-        PROS (screener.in):
-          - Company has delivered good profit growth of 106% CAGR over last 5 years
-        CONS (screener.in):
-          - Stock is trading at 4.06 times its book value
-          - Though the company is reporting repeated profits, it is not paying out dividend
-          - Company has a low return on equity of 9.92% over last 3 years.
-          - Company has high debtors of 154 days.
-          - Promoter holding has decreased over last 3 years: -10.3%
-          - Working capital days have increased from 63.6 days to 133 days
-        https://www.screener.in/company/KAYNES/consolidated/
+          - The company has delivered a poor sales growth of 11.3% over past five years.
+          - Company has high debtors of 159 days.
+        https://www.screener.in/company/CONCORDBIO/consolidated/
 
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).
