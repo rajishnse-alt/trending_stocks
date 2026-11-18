@@ -7585,7 +7585,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-11-17",
+    "last_checked": "2026-11-18",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7751,7 +7751,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-11-17",
+    "last_checked": "2026-11-18",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7922,7 +7922,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-11-17",
+    "last_checked": "2026-11-18",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11406,7 +11406,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-11-17",
+    "last_checked": "2026-11-18",
     "strategy_version": 1,
     "tranches": [
       {
@@ -16532,7 +16532,7 @@
     "pegy_at_entry": 1.88,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-11-17",
+    "last_checked": "2026-11-18",
     "dynamic_sl_source": null
   },
   {
@@ -16895,9 +16895,9 @@
     "position_pct": 17.167,
     "risk_pct": 0.75,
     "stop_pct": 4.369,
-    "stoploss": 316.0465866011774,
+    "stoploss": 319.2456608100535,
     "original_stoploss": 316.0465866011774,
-    "stoploss_source": "dynamic_atr",
+    "stoploss_source": "atr_trail_backfill",
     "strict_stoploss": 314.6967,
     "swing_low": 235.35,
     "swing_high": 336.3,
@@ -16994,7 +16994,7 @@
     "pegy_at_entry": 1.16,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-11-17",
+    "last_checked": "2026-11-18",
     "dynamic_sl_source": null
   },
   {
@@ -17012,9 +17012,9 @@
     "position_pct": 16.587,
     "risk_pct": 0.75,
     "stop_pct": 4.522,
-    "stoploss": 7458.393037825837,
+    "stoploss": 7540.18996369542,
     "original_stoploss": 7458.393037825837,
-    "stoploss_source": "dynamic_atr",
+    "stoploss_source": "atr_trail_backfill",
     "strict_stoploss": 7692.898,
     "swing_low": 6442.0,
     "swing_high": 8165.0,
@@ -17111,7 +17111,118 @@
     "pegy_at_entry": 1.01,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-11-17",
+    "last_checked": "2026-11-18",
     "dynamic_sl_source": null
+  },
+  {
+    "symbol": "IIFL",
+    "name": "IIFL Finance Ltd",
+    "side": "BUY",
+    "strategy_version": 2,
+    "suggested_on": "2026-11-18",
+    "suggested_close": 661.95,
+    "entry": 667.735,
+    "fill_trigger": 675.5564564878991,
+    "qty": 20,
+    "position_value": 13511.13,
+    "actual_risk_pct": 0.73,
+    "position_pct": 9.254,
+    "risk_pct": 0.75,
+    "stop_pct": 8.104,
+    "stoploss": 620.806261072605,
+    "original_stoploss": 620.806261072605,
+    "stoploss_source": "dynamic_atr",
+    "strict_stoploss": 641.6774,
+    "swing_low": 409.1,
+    "swing_high": 705.0,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 1.0,
+        "price": 730.3066519031933
+      },
+      {
+        "name": "T2",
+        "ratio": 2.0,
+        "price": 785.0568473184874
+      },
+      {
+        "name": "T3",
+        "ratio": 3.0,
+        "price": 839.8070427337815
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 887.8661999999999
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 1098.8370000000002
+      }
+    ],
+    "hit_targets": [],
+    "tranches": [
+      {
+        "name": "T1",
+        "qty_pct": 25,
+        "trigger": "T1",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T2",
+        "qty_pct": 25,
+        "trigger": "T2",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T3",
+        "qty_pct": 30,
+        "trigger": "T3",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "TRAIL",
+        "qty_pct": 20,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "status": "pending",
+    "fill_date": null,
+    "fill_price": null,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "atr_14_at_entry": 31.285825951596678,
+    "reward_risk": 3.2400531571901414,
+    "score_total": 73.2,
+    "score_vol": 14.8,
+    "score_delivery": 0.0,
+    "score_trend": 31.7,
+    "score_rs": 15.5,
+    "score_momentum": 9.8,
+    "score_sector": 1.4,
+    "rs_rank_pct": 73.58870967741935,
+    "peg_at_entry": 0.67,
+    "pegy_at_entry": 0.65,
+    "peg_source": "5Y",
+    "supertrend_active": false,
+    "last_checked": "2026-11-18"
   }
 ]
