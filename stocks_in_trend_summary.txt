@@ -3,65 +3,41 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-11-18 19:30 IST
+NSE bhavcopy analysis — generated 2026-11-19 19:30 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 3
-Recommendations: 1 BUY  +  1 SELL
+Pure_on_Volume hits (BUY): 7
+Recommendations: 1 BUY  +  0 SELL
 
 Top 1 BUY candidates:
 ------------------------------------------------------------
-  • IIFL            (IIFL Finance Ltd              )  close ₹661.95  +4.01%  bias BUY
-        → STRONG BUY (tech=BUY, signal net +4)
+  • PAYTM           (One 97 Communications Ltd     )  close ₹1725.90  -8.68%  bias SELL
+        → BUY-LEAN (tech=SELL, signal net +3)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹667.74
-          - Strict stop-loss:      ₹641.68
-          - Best stop-loss:        ₹623.92
-          - Target-3 (150%):       ₹852.95
-          - Target-4 (161.8%):     ₹887.87
-          - Target-5 (261.8%):     ₹1183.77
-          - Swing anchor:          low ₹409.10  ↔  high ₹705.00
+          - Entry zone (probable): above ₹1743.83
+          - Strict stop-loss:      ₹1700.80
+          - Best stop-loss:        ₹1598.63
+          - Target-3 (150%):       ₹2433.00
+          - Target-4 (161.8%):     ₹2544.63
+          - Target-5 (261.8%):     ₹3490.63
+          - Swing anchor:          low ₹1014.00  ↔  high ₹1960.00
         PROS (signals):
-          - Trading near 52-week high (85% of range)
+          - Upper third of 52-week range (77%)
           - Trading above the 200-day SMA
-          - Volume surge — 5d avg is 2.4× the 30d avg
-          - Volume highest in 1 year (HVY)
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹246.4cr daily turnover)
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹752.7cr daily turnover)
         CONS (signals):
-          - High volatility (63% annualised)
-          - Delivery % falling — recent 41% vs 30d 47% (-6pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 28,281 Cr. | P/E 11.4 | ROCE 10.9 % | ROE 12.6 % | DivYield 0.60 % | BookVal ₹ 362 | PEG 0.67 (5Y) | PEGY 0.65
-        PROS (screener.in):
-          - Company is expected to give good quarter
-        CONS (screener.in):
-          - Company has low interest coverage ratio.
-          - Company has a low return on equity of 11.5% over last 3 years.
-          - Dividend payout has been low at 6.30% of profits over last 3 years
-        https://www.screener.in/company/IIFL/consolidated/
-
-Top 1 SELL candidates (high-volume distribution):
-------------------------------------------------------------
-  • AZAD            (Azad Engineering Ltd          )  close ₹2318.90  -1.94%  bias SELL
-        → HOLD / MIXED (tech=SELL, signal net 1)
-        PROS (signals):
-          - Trading above the 200-day SMA
-          - Delivery % rising — recent 46% vs 30d 37% (+9pp accumulation)
-          - Volume highest in 1 year (HVY)
-          - Healthy liquidity (~₹192.4cr daily turnover)
-        CONS (signals):
-          - -15% over the last month
-          - 5-day losing streak
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 14,983 Cr. | P/E 109 | ROCE 11.9 % | ROE 9.09 % | DivYield 0.00 % | BookVal ₹ 247 | PEG 1.73 (5Y) | PEGY 1.73
+        FUNDAMENTALS (screener.in): MCap ₹ 1,10,968 Cr. | P/E 132 | ROCE 4.96 % | ROE 4.64 % | DivYield 0.00 % | BookVal ₹ 259 | PEG 6.95 (5Y) | PEGY 6.95
         PROS (screener.in):
-          - Company has delivered good profit growth of 63.1% CAGR over last 5 years
+          - Company is almost debt free.
+          - Company has delivered good profit growth of 19.4% CAGR over last 5 years
+          - Company's median sales growth is 22.3% of last 10 years
         CONS (screener.in):
-          - Stock is trading at 9.38 times its book value
-          - Though the company is reporting repeated profits, it is not paying out dividend
-          - Company has a low return on equity of 9.49% over last 3 years.
-          - Company has high debtors of 189 days.
-        https://www.screener.in/company/AZAD/consolidated/
+          - Stock is trading at 6.67 times its book value
+          - Company has a low return on equity of -4.60% over last 3 years.
+          - Earnings include an other income of Rs.771 Cr.
+        https://www.screener.in/company/PAYTM/consolidated/
 
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).
