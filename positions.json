@@ -7585,7 +7585,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-11-19",
+    "last_checked": "2026-11-20",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7751,7 +7751,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-11-19",
+    "last_checked": "2026-11-20",
     "strategy_version": 1,
     "tranches": [
       {
@@ -7922,7 +7922,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-11-19",
+    "last_checked": "2026-11-20",
     "strategy_version": 1,
     "tranches": [
       {
@@ -11406,7 +11406,7 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "last_checked": "2026-11-19",
+    "last_checked": "2026-11-20",
     "strategy_version": 1,
     "tranches": [
       {
@@ -16532,7 +16532,7 @@
     "pegy_at_entry": 1.88,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-11-19",
+    "last_checked": "2026-11-20",
     "dynamic_sl_source": null
   },
   {
@@ -16994,7 +16994,7 @@
     "pegy_at_entry": 1.16,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-11-19",
+    "last_checked": "2026-11-20",
     "dynamic_sl_source": null
   },
   {
@@ -17223,7 +17223,7 @@
     "pegy_at_entry": 0.65,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-11-19",
+    "last_checked": "2026-11-20",
     "dynamic_sl_source": null
   },
   {
@@ -17271,7 +17271,119 @@
       {
         "name": "MAX",
         "ratio": 0.66,
-        "price": 2864.9940000000006
+        "price": 2926.0272138311607
+      }
+    ],
+    "hit_targets": [],
+    "tranches": [
+      {
+        "name": "T1",
+        "qty_pct": 25,
+        "trigger": "T1",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T2",
+        "qty_pct": 25,
+        "trigger": "T2",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "T3",
+        "qty_pct": 30,
+        "trigger": "T3",
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      },
+      {
+        "name": "TRAIL",
+        "qty_pct": 20,
+        "trigger": null,
+        "status": "open",
+        "exit_price": null,
+        "exit_reason": null,
+        "exit_date": null
+      }
+    ],
+    "status": "open",
+    "fill_date": "2026-11-20",
+    "fill_price": 1762.6669962838316,
+    "exit_date": null,
+    "exit_price": null,
+    "exit_reason": null,
+    "days_held": null,
+    "pnl_pct": null,
+    "atr_14_at_entry": 75.34798513532644,
+    "reward_risk": 5.083711661393365,
+    "score_total": 52.8,
+    "score_vol": 14.8,
+    "score_delivery": 0.0,
+    "score_trend": 31.7,
+    "score_rs": 0.0,
+    "score_momentum": 4.9,
+    "score_sector": 1.4,
+    "rs_rank_pct": 46.975806451612904,
+    "peg_at_entry": 6.95,
+    "pegy_at_entry": 6.95,
+    "peg_source": "5Y",
+    "supertrend_active": false,
+    "last_checked": "2026-11-20",
+    "dynamic_sl_source": null
+  },
+  {
+    "symbol": "PRESTIGE",
+    "name": "Prestige Estates Projects Ltd",
+    "side": "BUY",
+    "strategy_version": 2,
+    "suggested_on": "2026-11-20",
+    "suggested_close": 1680.0,
+    "entry": 1662.92,
+    "fill_trigger": 1676.1239624836344,
+    "qty": 12,
+    "position_value": 20113.49,
+    "actual_risk_pct": 0.739,
+    "position_pct": 13.601,
+    "risk_pct": 0.75,
+    "stop_pct": 5.514,
+    "stoploss": 1583.6962250981937,
+    "original_stoploss": 1583.6962250981937,
+    "stoploss_source": "dynamic_atr",
+    "strict_stoploss": 1602.0790000000002,
+    "swing_low": 1090.0,
+    "swing_high": 1741.5,
+    "targets": [
+      {
+        "name": "T1",
+        "ratio": 1.0,
+        "price": 1768.551699869075
+      },
+      {
+        "name": "T2",
+        "ratio": 2.0,
+        "price": 1860.9794372545157
+      },
+      {
+        "name": "T3",
+        "ratio": 3.0,
+        "price": 1953.4071746399563
+      },
+      {
+        "name": "T4",
+        "ratio": 1.618,
+        "price": 2144.1270000000004
+      },
+      {
+        "name": "MAX",
+        "ratio": 0.66,
+        "price": 2788.8
       }
     ],
     "hit_targets": [],
@@ -17321,20 +17433,20 @@
     "exit_reason": null,
     "days_held": null,
     "pnl_pct": null,
-    "atr_14_at_entry": 75.34798513532644,
-    "reward_risk": 5.083711661393365,
-    "score_total": 52.8,
+    "atr_14_at_entry": 52.81584993453755,
+    "reward_risk": 4.231695469134965,
+    "score_total": 93.5,
     "score_vol": 14.8,
-    "score_delivery": 0.0,
+    "score_delivery": 20.3,
     "score_trend": 31.7,
-    "score_rs": 0.0,
-    "score_momentum": 4.9,
+    "score_rs": 15.5,
+    "score_momentum": 9.8,
     "score_sector": 1.4,
-    "rs_rank_pct": 46.975806451612904,
-    "peg_at_entry": 6.95,
-    "pegy_at_entry": 6.95,
+    "rs_rank_pct": 84.2741935483871,
+    "peg_at_entry": 3.69,
+    "pegy_at_entry": 3.67,
     "peg_source": "5Y",
     "supertrend_active": false,
-    "last_checked": "2026-11-19"
+    "last_checked": "2026-11-20"
   }
 ]
