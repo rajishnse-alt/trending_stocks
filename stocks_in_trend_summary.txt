@@ -3,7 +3,7 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-11-23 19:30 IST
+NSE bhavcopy analysis — generated 2026-11-24 19:30 IST
 ============================================================
 
 Pure_on_Volume hits (BUY): 4
@@ -29,7 +29,7 @@ Top 1 BUY candidates:
           - Volume highest in 3 months (HVQ)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
           - Healthy liquidity (~₹94.6cr daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ 72,868 Cr. | P/E 78.1 | ROCE 10.4 % | ROE 7.53 % | DivYield 0.12 % | BookVal ₹ 386 | PEG 3.72 (5Y) | PEGY 3.70
+        FUNDAMENTALS (screener.in): MCap ₹ 72,664 Cr. | P/E 77.9 | ROCE 10.4 % | ROE 7.53 % | DivYield 0.12 % | BookVal ₹ 386 | PEG 3.71 (5Y) | PEGY 3.69
         PROS (screener.in):
           - Company is expected to give good quarter
           - Company has delivered good profit growth of 20.8% CAGR over last 5 years
@@ -58,7 +58,7 @@ Top 2 SELL candidates (high-volume distribution):
           - 6-day losing streak
           - Closed near the day's low (CLV -0.89) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 46,357 Cr. | P/E 35.4 | ROCE 31.8 % | ROE 25.4 % | DivYield 0.51 % | BookVal ₹ 207 | PEG 1.31 (5Y) | PEGY 1.29
+        FUNDAMENTALS (screener.in): MCap ₹ 46,369 Cr. | P/E 35.4 | ROCE 31.8 % | ROE 25.4 % | DivYield 0.51 % | BookVal ₹ 207 | PEG 1.31 (5Y) | PEGY 1.29
         PROS (screener.in):
           - Company has delivered good profit growth of 27.4% CAGR over last 5 years
           - Company has been maintaining a healthy dividend payout of 20.5%
@@ -75,7 +75,7 @@ Top 2 SELL candidates (high-volume distribution):
           - Trading near 52-week low (5% of range)
           - Bearish SMA stack (close < 20 < 50 < 200)
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 2,03,768 Cr. | P/E 17.2 | ROCE 12.5 % | ROE 11.7 % | DivYield 2.45 % | BookVal ₹ 83.1 | PEG 2.15 (5Y) | PEGY 1.65
+        FUNDAMENTALS (screener.in): MCap ₹ 2,03,481 Cr. | P/E 17.1 | ROCE 12.5 % | ROE 11.7 % | DivYield 2.45 % | BookVal ₹ 83.1 | PEG 2.14 (5Y) | PEGY 1.64
         PROS (screener.in):
           - Company has been maintaining a healthy dividend payout of 25.4%
         CONS (screener.in):
