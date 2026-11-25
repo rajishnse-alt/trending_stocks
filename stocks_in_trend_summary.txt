@@ -3,85 +3,109 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-11-24 19:30 IST
+NSE bhavcopy analysis — generated 2026-11-25 19:30 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 4
-Recommendations: 1 BUY  +  2 SELL
+Pure_on_Volume hits (BUY): 7
+Recommendations: 1 BUY  +  3 SELL
 
 Top 1 BUY candidates:
 ------------------------------------------------------------
-  • PRESTIGE        (Prestige Estates Projects Ltd )  close ₹1687.00  +0.42%  bias BUY
+  • VIJAYA          (Vijaya Diagnostic Centre Ltd  )  close ₹1627.70  +3.50%  bias BUY
         → STRONG BUY (tech=BUY, signal net +7)
         TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹1681.03
-          - Strict stop-loss:      ₹1602.08
-          - Best stop-loss:        ₹1562.99
-          - Target-3 (150%):       ₹2067.25
-          - Target-4 (161.8%):     ₹2144.13
-          - Target-5 (261.8%):     ₹2795.63
-          - Swing anchor:          low ₹1090.00  ↔  high ₹1741.50
+          - Entry zone (probable): above ₹1604.43
+          - Strict stop-loss:      ₹1593.60
+          - Best stop-loss:        ₹1434.04
+          - Target-3 (150%):       ₹1966.40
+          - Target-4 (161.8%):     ₹2054.38
+          - Target-5 (261.8%):     ₹2799.98
+          - Swing anchor:          low ₹848.00  ↔  high ₹1593.60
         PROS (signals):
-          - Trading near 52-week high (86% of range)
-          - +18% over the last month
+          - Trading near 52-week high (96% of range)
+          - +17% over the last month
+          - +60% over the year
           - Bullish SMA stack (close > 20 > 50 > 200)
-          - Delivery % rising — recent 54% vs 30d 49% (+5pp accumulation)
+          - Volume surge — 5d avg is 2.3× the 30d avg
           - Volume highest in 3 months (HVQ)
           - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹94.6cr daily turnover)
-        FUNDAMENTALS (screener.in): MCap ₹ 72,664 Cr. | P/E 77.9 | ROCE 10.4 % | ROE 7.53 % | DivYield 0.12 % | BookVal ₹ 386 | PEG 3.71 (5Y) | PEGY 3.69
+          - Healthy liquidity (~₹29.4cr daily turnover)
+        CONS (signals):
+          - Delivery % falling — recent 24% vs 30d 45% (-21pp distribution)
+        FUNDAMENTALS (screener.in): MCap ₹ 16,776 Cr. | P/E 82.4 | ROCE 20.5 % | ROE 18.9 % | DivYield 0.12 % | BookVal ₹ 103 | PEG 5.49 (5Y) | PEGY 5.45
+        CONS (screener.in):
+          - Stock is trading at 15.9 times its book value
+        https://www.screener.in/company/VIJAYA/consolidated/
+
+Top 3 SELL candidates (high-volume distribution):
+------------------------------------------------------------
+  • LLOYDSME        (Lloyds Metals & Energy Ltd    )  close ₹1606.00  -5.53%  bias STRONG_SELL
+        → STRONG SELL (tech=STRONG_SELL, signal net -2)
+        PROS (signals):
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹63.1cr daily turnover)
+        CONS (signals):
+          - Trading below the 200-day SMA
+          - 8-day losing streak
+          - Closed near the day's low (CLV -0.83) — sellers dumped into the volume
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 90,615 Cr. | P/E 17.3 | ROCE 27.3 % | ROE 36.6 % | DivYield 0.06 % | BookVal ₹ 288 | PEG 0.03 (5Y) | PEGY 0.03
         PROS (screener.in):
           - Company is expected to give good quarter
-          - Company has delivered good profit growth of 20.8% CAGR over last 5 years
-          - Company's working capital requirements have reduced from 162 days to 107 days
+          - Company has delivered good profit growth of 679% CAGR over last 5 years
+          - Company has a good return on equity (ROE) track record: 3 Years ROE 37.7%
         CONS (screener.in):
-          - Stock is trading at 4.37 times its book value
-          - Company has low interest coverage ratio.
-          - Company has a low return on equity of 6.20% over last 3 years.
-          - Promoter holding has decreased over last 3 years: -4.53%
-        https://www.screener.in/company/PRESTIGE/consolidated/
+          - Company might be capitalizing the interest cost
+          - Promoter holding has decreased over last 3 years: -4.14%
+        https://www.screener.in/company/LLOYDSME/consolidated/
 
-Top 2 SELL candidates (high-volume distribution):
-------------------------------------------------------------
-  • APLAPOLLO       (APL Apollo Tubes Ltd          )  close ₹1670.00  -21.29%  bias STRONG_SELL
-        → STRONG SELL (tech=STRONG_SELL, signal net -5)
+  • STLTECH         (Sterlite Technologies Ltd     )  close ₹579.90  -1.84%  bias SELL
+        → HOLD / MIXED (tech=SELL, signal net 1)
         PROS (signals):
-          - Volume surge — 5d avg is 3.8× the 30d avg
-          - Volume highest in 4 years (HVE) — strongest possible breakout signal
-          - Healthy liquidity (~₹199.9cr daily turnover)
+          - +585% off 52-week low (turnaround)
+          - +411% over the year
+          - Trading above the 200-day SMA
+          - Volume highest in 3 months (HVQ)
+          - Healthy liquidity (~₹133.9cr daily turnover)
         CONS (signals):
-          - Trading near 52-week low (3% of range)
-          - -19% over the last month
-          - Trading below the 200-day SMA
-          - High volatility (81% annualised)
-          - Delivery % falling — recent 44% vs 30d 49% (-5pp distribution)
-          - 6-day losing streak
-          - Closed near the day's low (CLV -0.89) — sellers dumped into the volume
+          - 45% off 52-week high
+          - -30% over the last month
+          - High volatility (67% annualised)
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 46,369 Cr. | P/E 35.4 | ROCE 31.8 % | ROE 25.4 % | DivYield 0.51 % | BookVal ₹ 207 | PEG 1.31 (5Y) | PEGY 1.29
+        FUNDAMENTALS (screener.in): MCap ₹ 29,789 Cr. | P/E 39.8 | ROCE 7.65 % | ROE 1.24 % | DivYield 0.00 % | BookVal ₹ 88.4 | PEG 0.00 (TTM) | PEGY 0.00
+        PROS (screener.in):
+          - Company has reduced debt.
+          - Company is expected to give good quarter
+        CONS (screener.in):
+          - Stock is trading at 6.56 times its book value
+          - The company has delivered a poor sales growth of -0.33% over past five years.
+          - Company has a low return on equity of -2.74% over last 3 years.
+          - Promoter holding has decreased over last 3 years: -11.7%
+        https://www.screener.in/company/STLTECH/consolidated/
+
+  • APLAPOLLO       (APL Apollo Tubes Ltd          )  close ₹1476.00  -11.62%  bias SELL
+        → STRONG SELL (tech=SELL, signal net -6)
+        PROS (signals):
+          - Volume surge — 5d avg is 4.8× the 30d avg
+          - Volume highest in 4 years (HVE) — strongest possible breakout signal
+          - Healthy liquidity (~₹309.0cr daily turnover)
+        CONS (signals):
+          - Trading near 52-week low (14% of range)
+          - 36% off 52-week high
+          - -27% over the last month
+          - -31% over the last 3 months
+          - Trading below the 200-day SMA
+          - High volatility (89% annualised)
+          - Delivery % falling — recent 40% vs 30d 48% (-8pp distribution)
+          - 7-day losing streak
+          - High-volume distribution — HV breakout on a down day
+        FUNDAMENTALS (screener.in): MCap ₹ 41,028 Cr. | P/E 31.3 | ROCE 31.8 % | ROE 25.4 % | DivYield 0.58 % | BookVal ₹ 207 | PEG 1.16 (5Y) | PEGY 1.13
         PROS (screener.in):
           - Company has delivered good profit growth of 27.4% CAGR over last 5 years
           - Company has been maintaining a healthy dividend payout of 20.5%
         CONS (screener.in):
-          - Stock is trading at 8.08 times its book value
+          - Stock is trading at 7.14 times its book value
         https://www.screener.in/company/APLAPOLLO/consolidated/
-
-  • TATASTEEL       (Tata Steel Ltd                )  close ₹163.00  -8.43%  bias STRONG_SELL
-        → SELL-LEAN (tech=STRONG_SELL, signal net -1)
-        PROS (signals):
-          - Volume highest in 4 years (HVE) — strongest possible breakout signal
-          - Healthy liquidity (~₹449.3cr daily turnover)
-        CONS (signals):
-          - Trading near 52-week low (5% of range)
-          - Bearish SMA stack (close < 20 < 50 < 200)
-          - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ 2,03,481 Cr. | P/E 17.1 | ROCE 12.5 % | ROE 11.7 % | DivYield 2.45 % | BookVal ₹ 83.1 | PEG 2.14 (5Y) | PEGY 1.64
-        PROS (screener.in):
-          - Company has been maintaining a healthy dividend payout of 25.4%
-        CONS (screener.in):
-          - The company has delivered a poor sales growth of 8.21% over past five years.
-          - Company has a low return on equity of 7.44% over last 3 years.
-        https://www.screener.in/company/TATASTEEL/consolidated/
 
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).
