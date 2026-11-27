@@ -3,65 +3,31 @@ For educational and fundamental analysis only !
 Caution while investing !
 Nothing in this report is investment advice. Do your own research, consult a SEBI-registered advisor, and trade at your own risk.
 
-NSE bhavcopy analysis — generated 2026-11-26 19:30 IST
+NSE bhavcopy analysis — generated 2026-11-27 19:30 IST
 ============================================================
 
-Pure_on_Volume hits (BUY): 8
-Recommendations: 2 BUY  +  0 SELL
+Pure_on_Volume hits (BUY): 3
+Recommendations: 0 BUY  +  1 SELL
 
-Top 2 BUY candidates:
+Top 1 SELL candidates (high-volume distribution):
 ------------------------------------------------------------
-  • ACE             (Action Construction Equipment )  close ₹1295.00  +8.79%  bias STRONG_BUY
-        → STRONG BUY (tech=STRONG_BUY, signal net +6)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹1245.45
-          - Strict stop-loss:      ₹1156.10
-          - Best stop-loss:        ₹1124.73
-          - Target-3 (150%):       ₹1529.45
-          - Target-4 (161.8%):     ₹1591.15
-          - Target-5 (261.8%):     ₹2114.05
-          - Swing anchor:          low ₹745.10  ↔  high ₹1268.00
+  • SHRIRAMFIN      (Shriram Finance Ltd           )  close ₹923.50  -3.99%  bias STRONG_SELL
+        → SELL-LEAN (tech=STRONG_SELL, signal net -1)
         PROS (signals):
-          - Trading near 52-week high (99% of range)
-          - +28% over the last month
-          - Trading above the 200-day SMA
           - Volume highest in 3 months (HVQ)
-          - Closed near the day's high (CLV +0.93) — buyers absorbed the volume
-          - Passes the  Pure_on_Volume screen (HV + liquidity + price up)
-          - Healthy liquidity (~₹50.9cr daily turnover)
+          - Healthy liquidity (~₹548.5cr daily turnover)
         CONS (signals):
-          - Delivery % falling — recent 36% vs 30d 44% (-8pp distribution)
-        FUNDAMENTALS (screener.in): MCap ₹ 15,375 Cr. | P/E 32.5 | ROCE 31.6 % | ROE 22.8 % | DivYield 0.15 % | BookVal ₹ 191 | PEG 0.81 (5Y) | PEGY 0.81
-        PROS (screener.in):
-          - Company is almost debt free.
-          - Company has delivered good profit growth of 40.4% CAGR over last 5 years
-          - Company has a good return on equity (ROE) track record: 3 Years ROE 26.6%
-          - Company has been maintaining a healthy dividend payout of 94.2%
-        CONS (screener.in):
-          - Earnings include an other income of Rs.180 Cr.
-        https://www.screener.in/company/ACE/consolidated/
-
-  • LGEINDIA        (LG Electronics India Ltd      )  close ₹1758.10  -3.32%  bias SELL
-        → STRONG BUY (tech=SELL, signal net +5)
-        TRADE PLAN (BUY):
-          - Entry zone (probable): above ₹1769.09
-          - Strict stop-loss:      ₹1722.17
-          - Best stop-loss:        ₹1690.26
-          - Target-3 (150%):       ₹2101.95
-          - Target-4 (161.8%):     ₹2164.71
-          - Target-5 (261.8%):     ₹2696.61
-          - Swing anchor:          low ₹1304.10  ↔  high ₹1836.00
-        PROS (signals):
-          - Trading near 52-week high (85% of range)
-          - Bullish SMA stack (close > 20 > 50 > 200)
-          - Volume surge — 5d avg is 3.9× the 30d avg
-          - Delivery % rising — recent 70% vs 30d 57% (+13pp accumulation)
-          - Volume highest in 1 year (HVY)
-          - Healthy liquidity (~₹169.7cr daily turnover)
-        CONS (signals):
+          - Bearish SMA stack (close < 20 < 50 < 200)
+          - Closed near the day's low (CLV -0.77) — sellers dumped into the volume
           - High-volume distribution — HV breakout on a down day
-        FUNDAMENTALS (screener.in): MCap ₹ Cr. | ROCE % | ROE % | DivYield % | BookVal ₹
-        https://www.screener.in/company/LGEINDIA/consolidated/
+        FUNDAMENTALS (screener.in): MCap ₹ 2,17,053 Cr. | P/E 17.1 | ROCE 11.5 % | ROE 16.4 % | DivYield 1.17 % | BookVal ₹ 474 | PEG 0.53 (5Y) | PEGY 0.52
+        PROS (screener.in):
+          - Company has delivered good profit growth of 32.0% CAGR over last 5 years
+          - Company has been maintaining a healthy dividend payout of 20.9%
+        CONS (screener.in):
+          - Company has low interest coverage ratio.
+          - Promoter holding has decreased over last 3 years: -5.15%
+        https://www.screener.in/company/SHRIRAMFIN/consolidated/
 
 
 — BUY = the active entry gate in strategy_config.json, ranked by score and capped per day. SELL = a high-volume distribution day (HV breakout that closed down).
